@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "text": "Pracownik, wobec którego był stosowany mobbing może dochodzić:",
+    "text": "Pracownik, wobec którego był stosowany mobbing może dochodzić",
     "options": {
       "a": "Tylko odszkodowania w wysokości minimalnego wynagrodzenia za pracę",
       "b": "Zadośćuczynienia",
       "c": "Tylko wynagrodzenia w wysokości jednomiesięcznego minimalnego wynagrodzenia za pracę",
-      "d": "Odszkodowania (w wysokości nie niższej niż minimalne wynagrodzenie za pracę"
+      "d": "Odszkodowania"
     },
     "correct_answers": [
       "b",
@@ -15,7 +15,7 @@
   },
   {
     "id": 2,
-    "text": "Pracownikiem nie jest osoba zatrudniona na podstawie:",
+    "text": "Pracownikiem nie jest osoba zatrudniona na podstawie",
     "options": {
       "a": "Wyboru",
       "b": "Umowy zlecenia",
@@ -29,7 +29,7 @@
   },
   {
     "id": 3,
-    "text": "Źródłem prawa pracy jest:",
+    "text": "Źródłem prawa pracy jest",
     "options": {
       "a": "Polityka antymobbingowa",
       "b": "Zarządzenie pracodawcy",
@@ -41,7 +41,7 @@
   },
   {
     "id": 4,
-    "text": "Pracodawcą jest:",
+    "text": "Pracodawcą jest",
     "options": {
       "a": "Przedsiębiorstwo państwowe",
       "b": "Spółka z ograniczoną odpowiedzialnością",
@@ -57,7 +57,7 @@
   },
   {
     "id": 5,
-    "text": "Urlop bezpłatny jest udzielany:",
+    "text": "Urlop bezpłatny jest udzielany",
     "options": {
       "a": "Na pisemne polecenie pracodawcy",
       "b": "Na pisemny wniosek pracodawcy",
@@ -93,7 +93,7 @@
   },
   {
     "id": 8,
-    "text": "Pracownik nie może się zrzec:",
+    "text": "Pracownik nie może się zrzec",
     "options": {
       "a": "Wynagrodzenia za pracę",
       "b": "Urlopu wypoczynkowego"
@@ -105,7 +105,7 @@
   },
   {
     "id": 9,
-    "text": "Umowa o pracę na okres próbny może być powtarzana:",
+    "text": "Umowa o pracę na okres próbny może być powtarzana",
     "options": {
       "a": "Wiele razy, jeśli pracownik za każdym razem będzie zatrudniony na innym stanowisku pracy",
       "b": "Dwa razy, jeśli pracownik ma być zatrudniony na innym stanowisku pracy",
@@ -120,11 +120,11 @@
   },
   {
     "id": 10,
-    "text": "Odprawę z tytułu zwolnień z przyczyn niedotyczących pracowników musi wypłacać pracownikom:",
+    "text": "Odprawę z tytułu zwolnień z przyczyn niedotyczących pracowników musi wypłacać pracownikom",
     "options": {
       "a": "Pracodawca zatrudniający 50 pracowników",
       "b": "Pracodawca zatrudniający co najmniej 10 pracowników",
-      "c": "Pracodawca zatrudniający co najmniej 20 pracowników",
+      "c": "Pracodawca zatrudniający co najmniej 20 pracowników rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników",
       "d": "Każdy pracodawca"
     },
     "correct_answers": [
@@ -134,7 +134,7 @@
   },
   {
     "id": 11,
-    "text": "Premia ma charakter:",
+    "text": "Premia ma charakter",
     "options": {
       "a": "Nieroszczeniowa",
       "b": "Roszczeniowy",
@@ -147,13 +147,13 @@
   },
   {
     "id": 12,
-    "text": "Pracownikowi, który stawił się do pracy, ale nie mógł jej wykonywać z przyczyn leżących po stronie pracodawcy przysługuje:",
+    "text": "Pracownikowi, który stawił się do pracy, ale nie mógł jej wykonywać z przyczyn leżących po stronie pracodawcy przysługuje",
     "options": {
       "a": "Wynagrodzenie wynikające z jego osobistego zaszeregowania, określonego stawką godzinową lub miesięczną, a jeżeli taki składnik wynagrodzenia nie został wyodrębniony przy określaniu warunków wynagradzania",
       "b": "Nie przysługuje wynagrodzenie w ogóle",
       "c": "Zwrot kosztów dojazdu do pracy",
       "d": "Połowa normalnego wynagrodzenia za pracę",
-      "e": "Wynagrodzenie przestojowe  Wynagrodzenie za przestój"
+      "e": "Wynagrodzenie przestojowe"
     },
     "correct_answers": [
       "a",
@@ -162,7 +162,7 @@
   },
   {
     "id": 13,
-    "text": "Pracodawca może zobowiązać pracownika do wykorzystania urlopu wypoczynkowego w następujących sytuacjach:",
+    "text": "Pracodawca może zobowiązać pracownika do wykorzystania urlopu wypoczynkowego w następujących sytuacjach",
     "options": {
       "a": "W przypadku wystąpienia przyczyn organizacyjnych",
       "b": "W przypadku przestoju produkcyjnego",
@@ -186,7 +186,7 @@
   },
   {
     "id": 15,
-    "text": "Forma pisemna pod rygorem nieważności obowiązuje dla zawarcia i skuteczności:",
+    "text": "Forma pisemna pod rygorem nieważności obowiązuje dla zawarcia i skuteczności",
     "options": {
       "a": "Umowy o zakazie konkurencji po ustaniu stosunku pracy",
       "b": "Umowy o zakazie konkurencji w trakcie trwania stosunku pracy",
@@ -199,14 +199,13 @@
   },
   {
     "id": 16,
-    "text": "Zmiana regulaminu wynagradzania:",
+    "text": "Zmiana regulaminu wynagradzania",
     "options": {
       "a": "W zależności od sytuacji wymaga lub nie wymaga zmiany umowy o pracę",
       "b": "Co do zasady nie wymaga zmiany umowy o pracę",
       "c": "Jeśli jest na niekorzyść pracowników, to wymaga zmiany umowy o pracę"
     },
     "correct_answers": [
-      "a",
       "c"
     ]
   },
@@ -216,9 +215,7 @@
     "options": {
       "a": "Pracownikom zatrudnionym na podstawie umowy o pracę na okres próbny",
       "b": "Pracownikom zatrudnionym w oparciu o tzw. pozaumowne stosunki pracy",
-      "c": "Pracownikom zatrudnionym na podstawie umów o pracę na czas nieokreślony",
-      "d": "Wszystkim pracownikom",
-      "e": "Pracownikom zatrudnionym w oparciu o umowy o pracę na czas określony"
+      "c": "Pracownikom zatrudnionym na podstawie umów o pracę na czas nieokreślony"
     },
     "correct_answers": [
       "b"
@@ -226,7 +223,16 @@
   },
   {
     "id": 18,
-    "text": "Reprezentatywną zakładową organizacją związkową jest zakładowa organizacja związkowa: Ustawy o związkach zawodowych)",
+    "text": "",
+    "options": {
+      "d": "Wszystkim pracownikom",
+      "e": "Pracownikom zatrudnionym w oparciu o umowy o pracę na czas określony"
+    },
+    "correct_answers": []
+  },
+  {
+    "id": 19,
+    "text": "Reprezentatywną zakładową organizacją związkową jest zakładowa organizacja związkowa",
     "options": {
       "a": "Będąca jednostką organizacyjną albo organizacją członkowską ponadzakładowej organizacji związkowej uznanej za reprezentatywną w rozumieniu ustawy o Radzie Dialogu Społecznego, zrzeszająca co najmniej 8% osób wykonujących pracę zarobkową zatrudnionych u pracodawcy",
       "b": "Zrzeszająca co najmniej 5% osób wykonujących pracę zarobkową zatrudnionych u pracodawcy",
@@ -239,8 +245,8 @@
     ]
   },
   {
-    "id": 19,
-    "text": "Odprawa pieniężna przysługuje pracownikowi w związku z rozwiązaniem stosunku pracy w ramach grupowego zwolnienia w wysokości:",
+    "id": 20,
+    "text": "Odprawa pieniężna przysługuje pracownikowi w związku z rozwiązaniem stosunku pracy w ramach grupowego zwolnienia w wysokości",
     "options": {
       "a": "Dwumiesięcznego wynagrodzenia, jeżeli pracownik był zatrudniony u danego pracodawcy krócej niż 2 lata",
       "b": "Jednomiesięcznego wynagrodzenia, jeżeli pracownik był zatrudniony u danego pracodawcy krócej niż 2 lata",
@@ -252,8 +258,8 @@
     ]
   },
   {
-    "id": 20,
-    "text": "Porozumienie zmieniające nie może być zawarte:",
+    "id": 21,
+    "text": "Porozumienie zmieniające nie może być zawarte",
     "options": {
       "a": "Z inicjatywy pracodawcy",
       "b": "Na skutek nakazu Państwowej Inspekcji Pracy",
@@ -266,8 +272,8 @@
     ]
   },
   {
-    "id": 21,
-    "text": "Żądanie uznania za bezskuteczne wypowiedzenie umowy o pracę pracownik powinien wnieść w pozwie do sądu pracy:",
+    "id": 1,
+    "text": "Żądanie uznania za bezskuteczne wypowiedzenie umowy o pracę pracownik powinien wnieść w pozwie do sądu pracy",
     "options": {
       "a": "W terminie 7 dni od doręczenia mu pisma wypowiadającego umowę o pracę",
       "b": "W terminie 14 dni od doręczenia mu pisma wypowiadającego umowę o pracę",
@@ -279,11 +285,18 @@
     ]
   },
   {
-    "id": 22,
-    "text": "Okres wypowiedzenia umowy o pracę zawartej na czas określony jest uzależniony od okresu zatrudnienia u danego pracodawcy i wynosi:",
+    "id": 2,
+    "text": "Okres wypowiedzenia umowy o pracę zawartej na czas określony jest uzależniony od okresu zatrudnienia u danego pracodawcy i wynosi",
     "options": {
       "a": "3 tygodnie, jeżeli pracownik był zatrudniony krócej niż 6 miesięcy",
-      "b": "3 miesiące, jeżeli pracownik był zatrudniony co najmniej 6 miesięcy",
+      "b": "3 miesiące, jeżeli pracownik był zatrudniony co najmniej 6 miesięcy"
+    },
+    "correct_answers": []
+  },
+  {
+    "id": 3,
+    "text": "",
+    "options": {
       "c": "1 miesiąc, jeżeli pracownik był zatrudniony 2 lata",
       "d": "Jest tak samo liczony jak w przypadku umowy o pracę na czas nieokreślony"
     },
@@ -292,8 +305,8 @@
     ]
   },
   {
-    "id": 23,
-    "text": "Umowę o pracę na okres próbny można powtarzać u tego samego pracodawcy:",
+    "id": 3,
+    "text": "Umowę o pracę na okres próbny można powtarzać u tego samego pracodawcy",
     "options": {
       "a": "Wiele razy niezależnie od przyczyny",
       "b": "Trzy razy na tym samym stanowisku",
@@ -305,8 +318,8 @@
     ]
   },
   {
-    "id": 24,
-    "text": "Pracownikowi, któremu brakuje nie więcej niż 4 lata do osiągnięcia wieku emerytalnego, jeżeli okres zatrudnienia umożliwia mu uzyskanie prawa do emerytury z osiągnięciem tego wieku:",
+    "id": 4,
+    "text": "Pracownikowi, któremu brakuje nie więcej niż 4 lata do osiągnięcia wieku emerytalnego, jeżeli okres zatrudnienia umożliwia mu uzyskanie prawa do emerytury z osiągnięciem tego wieku",
     "options": {
       "a": "Pracodawca nie może wypowiedzieć umowy o pracę",
       "b": "Pracodawca może wypowiedzieć umowę o pracę",
@@ -317,8 +330,8 @@
     ]
   },
   {
-    "id": 25,
-    "text": "Jeżeli okres zatrudnienia na podstawie zwykłej umowy o pracę na czas określony jest dłuższy niż 33 miesiące, lub jeżeli liczba zawartych umów jest większa niż 4, uważa się, że pracownik, odpowiednio od dnia następującego po upływie tego okresu, lub od dnia zawarcia czwartej umowy o pracę na czas określony:",
+    "id": 5,
+    "text": "Jeżeli okres zatrudnienia na podstawie zwykłej umowy o pracę na czas określony jest dłuższy niż 33 miesiące, lub jeżeli liczba zawartych umów jest większa niż 4, uważa się, że pracownik, odpowiednio od dnia następującego po upływie tego okresu, lub od dnia zawarcia czwartej umowy o pracę na czas określony",
     "options": {
       "a": "Jest zatrudniony na podstawie umowy o pracę na czas nieokreślony",
       "b": "Jest zatrudniony na podstawie umowy o pracę na czas określony",
@@ -329,8 +342,8 @@
     ]
   },
   {
-    "id": 26,
-    "text": "Źródłem prawa pracy jest:",
+    "id": 6,
+    "text": "Źródłem prawa pracy jest",
     "options": {
       "a": "Statut Uczelni",
       "b": "Układ zbiorowy pracy",
@@ -344,8 +357,8 @@
     ]
   },
   {
-    "id": 27,
-    "text": "W razie ustalenia, że wypowiedzenie umowy o pracę zawartej na czas nieokreślony jest nieuzasadnione lub narusza przepisy o wypowiadaniu umów o pracę, sąd pracy:",
+    "id": 7,
+    "text": "W razie ustalenia, że wypowiedzenie umowy o pracę zawartej na czas nieokreślony jest nieuzasadnione lub narusza przepisy o wypowiadaniu umów o pracę, sąd pracy",
     "options": {
       "a": "Może orzec o odszkodowaniu wbrew żądaniu pracownika",
       "b": "Zawsze orzeka o odszkodowaniu",
@@ -356,8 +369,8 @@
     ]
   },
   {
-    "id": 28,
-    "text": "Pracodawca żąda od osoby ubiegającej się o zatrudnienie podania danych osobowych obejmujących:",
+    "id": 8,
+    "text": "Pracodawca żąda od osoby ubiegającej się o zatrudnienie podania danych osobowych obejmujących",
     "options": {
       "a": "Imię i nazwisko",
       "b": "Datę urodzenia",
@@ -378,8 +391,8 @@
     ]
   },
   {
-    "id": 29,
-    "text": "Pracownikowi podnoszącemu kwalifikacje zawodowe za zgodą pracodawcy przysługują:",
+    "id": 9,
+    "text": "Pracownikowi podnoszącemu kwalifikacje zawodowe za zgodą pracodawcy przysługują",
     "options": {
       "a": "Urlop szkoleniowy",
       "b": "Zwolnienie z całości lub części dnia pracy, na czas niezbędny, by punktualnie przybyć na obowiązkowe zajęcia oraz na czas ich trwania"
@@ -390,11 +403,11 @@
     ]
   },
   {
-    "id": 30,
-    "text": "Uprawnienia zakładowej organizacji związkowej przysługują organizacji zrzeszającej co najmniej 10 członków będących:",
+    "id": 10,
+    "text": "Uprawnienia zakładowej organizacji związkowej przysługują organizacji zrzeszającej co najmniej 10 członków będących",
     "options": {
-      "a": "Pracownikami u pracodawcy objętego działaniem tej organizacji",
-      "b": "Innymi niż pracownicy osobami wykonującymi pracę zarobkową, które świadczą pracę przez co najmniej 6 miesięcy na rzecz pracodawcy objętego działaniem tej organizacji",
+      "a": "Pracownikami u pracodawcy objętego działaniem tej organizacji zawodowych",
+      "b": "Innymi niż pracownicy osobami wykonującymi pracę zarobkową, które świadczą pracę przez co najmniej 6 miesięcy na rzecz pracodawcy objętego działaniem tej organizacji związkach zawodowych",
       "c": "Innymi niż pracownicy osobami wykonującymi pracę zarobkową, które świadczą pracę przez co najmniej 12 miesięcy na rzecz pracodawcy objętego działaniem tej organizacji"
     },
     "correct_answers": [
@@ -403,8 +416,8 @@
     ]
   },
   {
-    "id": 31,
-    "text": "Obowiązkowymi etapami sporu zbiorowego są:",
+    "id": 11,
+    "text": "Obowiązkowymi etapami sporu zbiorowego są",
     "options": {
       "a": "Mediacja",
       "b": "Arbitraż",
@@ -416,8 +429,8 @@
     ]
   },
   {
-    "id": 32,
-    "text": "Praca w godzinach nadliczbowych jest dopuszczalna w razie:",
+    "id": 12,
+    "text": "Praca w godzinach nadliczbowych jest dopuszczalna w razie",
     "options": {
       "a": "Konieczności prowadzenia akcji ratowniczej w celu ochrony życia lub zdrowia ludzkiego, ochrona mienia lub środowiska albo usunięcia awarii",
       "b": "Szczególnych potrzeb pracodawcy",
@@ -430,8 +443,8 @@
     ]
   },
   {
-    "id": 33,
-    "text": "Obowiązek wprowadzenia regulaminu wynagrodzenia ciąży na:",
+    "id": 13,
+    "text": "Obowiązek wprowadzenia regulaminu wynagrodzenia ciąży na",
     "options": {
       "a": "Wszystkich pracodawcach budżetowych",
       "b": "Pracodawcach zatrudniających powyżej 50 pracowników",
@@ -443,8 +456,8 @@
     ]
   },
   {
-    "id": 34,
-    "text": "Z tytułu ukończenia studiów licencjackich pracownikowi do stażu pracy jest wliczane:",
+    "id": 14,
+    "text": "Z tytułu ukończenia studiów licencjackich pracownikowi do stażu pracy jest wliczane",
     "options": {
       "a": "6 lat pracy",
       "b": "8 lat pracy",
@@ -455,8 +468,8 @@
     ]
   },
   {
-    "id": 35,
-    "text": "Za zobowiązania wynikające ze stosunku pracy, powstałe przed przejściem części zakładu pracy na innego pracodawcę, dotychczasowy i nowy pracodawca odpowiadają:",
+    "id": 15,
+    "text": "Za zobowiązania wynikające ze stosunku pracy, powstałe przed przejściem części zakładu pracy na innego pracodawcę, dotychczasowy i nowy pracodawca odpowiadają",
     "options": {
       "a": "W częściach równych",
       "b": "Solidarnie",
@@ -467,8 +480,8 @@
     ]
   },
   {
-    "id": 36,
-    "text": "Wymiar urlopu wypoczynkowego jest uzależniony od:",
+    "id": 16,
+    "text": "Wymiar urlopu wypoczynkowego jest uzależniony od",
     "options": {
       "a": "Liczby lat pracy u danego pracodawcy",
       "b": "Liczby lat pracy",
@@ -479,22 +492,29 @@
     ]
   },
   {
-    "id": 37,
-    "text": "Ekwiwalent pieniężny za niewykorzystany urlop przysługuje:",
+    "id": 17,
+    "text": "Ekwiwalent pieniężny za niewykorzystany urlop przysługuje",
     "options": {
       "a": "W razie niewykorzystania urlopu z powodu skierowania do pracy za granicą",
-      "b": "Wygaśnięcia stosunku pracy",
-      "c": "W razie niewykorzystania urlopu z powodu przebywania na urlopie macierzyńskim"
+      "b": "Wygaśnięcia stosunku pracy"
     },
     "correct_answers": [
       "b"
     ]
   },
   {
-    "id": 38,
-    "text": "Działalność konkurencyjna wobec pracodawcy może być zakazana pracownikowi na podstawie:",
+    "id": 18,
+    "text": "",
     "options": {
-      "a": "Klauzuli w umowie o pracę",
+      "c": "W razie niewykorzystania urlopu z powodu przebywania na urlopie macierzyńskim"
+    },
+    "correct_answers": []
+  },
+  {
+    "id": 18,
+    "text": "Działalność konkurencyjna wobec pracodawcy może być zakazana pracownikowi na podstawie",
+    "options": {
+      "a": "Klauzuli w umowie o pracę nie tylko umowę ujętą w oddzielnym dokumencie, ale także umowę będącą częścią umowy o pracę",
       "b": "Ustnej umowie między pracownikiem i pracodawcą",
       "c": "Odrębnej i pisemnej umowie między stronami stosunku pracy"
     },
@@ -504,8 +524,8 @@
     ]
   },
   {
-    "id": 39,
-    "text": "Umowa o pracę zwarta na czas określony z kobietą w ciąży, która uległaby rozwiązaniu po upływie 3 miesiąca ciąży:",
+    "id": 19,
+    "text": "Umowa o pracę zwarta na czas określony z kobietą w ciąży, która uległaby rozwiązaniu po upływie 3 miesiąca ciąży",
     "options": {
       "a": "Ulega rozwiązaniu w umownym terminie",
       "b": "Ulega przedłużeniu do dnia porodu",
@@ -516,8 +536,8 @@
     ]
   },
   {
-    "id": 40,
-    "text": "Urlopu wypoczynkowego nie wykorzystanego zgodnie z planem urlopów należy pracownikowi udzielić:",
+    "id": 20,
+    "text": "Urlopu wypoczynkowego nie wykorzystanego zgodnie z planem urlopów należy pracownikowi udzielić",
     "options": {
       "a": "Najpóźniej do 31 stycznia następnego roku kalendarzowego",
       "b": "Najpóźniej do końca trzeciego kwartału następnego roku kalendarzowego",
@@ -528,20 +548,20 @@
     ]
   },
   {
-    "id": 41,
-    "text": "O terminie wykorzystania nowego rodzaju urlopu, tzw. Urlopu udzielanego na krótkie niedyspozycje, pracownik ma zawiadomić pracodawcę:",
+    "id": 21,
+    "text": "O terminie wykorzystania nowego rodzaju urlopu, tzw. Urlopu udzielanego na krótkie niedyspozycje, pracownik ma zawiadomić pracodawcę",
     "options": {
       "a": "Najpóźniej w dniu poprzedzającym dzień swojej nieobecności",
       "b": "Najpóźniej w dniu swojej nieobecności",
-      "c": "Najpóźniej w dniu następującym po dniu, w którym został wykorzystany urlop  Podstawą prawną określającą możliwość urlopu na żądanie jest Kodeks pracy, a dokładniej zawarty w nim przepis"
+      "c": "Najpóźniej w dniu następującym po dniu, w którym został wykorzystany urlop"
     },
     "correct_answers": [
       "b"
     ]
   },
   {
-    "id": 42,
-    "text": "Dni wolne w okresie wypowiedzenia na poszukiwanie pracy:",
+    "id": 22,
+    "text": "Dni wolne w okresie wypowiedzenia na poszukiwanie pracy",
     "options": {
       "a": "Otrzymuje tylko ten pracownik, któremu pracodawca wypowiedział umowę o pracę",
       "b": "Otrzymuje także pracownik, który złoży wypowiedzenie umowy o pracę",
@@ -552,8 +572,8 @@
     ]
   },
   {
-    "id": 43,
-    "text": "Umowa na czas określony może trwać maksymalnie:",
+    "id": 23,
+    "text": "Umowa na czas określony może trwać maksymalnie",
     "options": {
       "a": "33 miesiące",
       "b": "36 miesięcy",
@@ -564,20 +584,20 @@
     ]
   },
   {
-    "id": 44,
-    "text": "Termin na zgłoszenie gotowości do pracy przez pracownika przywróconego przez sąd do pracy wynosi:",
+    "id": 24,
+    "text": "Termin na zgłoszenie gotowości do pracy przez pracownika przywróconego przez sąd do pracy wynosi",
     "options": {
       "a": "14 dni od uprawomocnienia się orzeczenia",
       "b": "7 dni od uprawomocnienia się orzeczenia",
-      "c": "1 miesiąc od uprawomocnienia się orzeczenia  PRAWO PRACY"
+      "c": "1 miesiąc od uprawomocnienia się orzeczenia"
     },
     "correct_answers": [
       "b"
     ]
   },
   {
-    "id": 45,
-    "text": "Umowy o pracę na okres próbny można powtarzać u tego samego pracodawcy:",
+    "id": 3,
+    "text": "Umowy o pracę na okres próbny można powtarzać u tego samego pracodawcy",
     "options": {
       "a": "wiele razy i niezależnie od przyczyny",
       "b": "trzy razy na tym samym stanowisku",
@@ -589,12 +609,12 @@
     ]
   },
   {
-    "id": 46,
-    "text": "Wskaż zdanie fałszywe",
+    "id": 4,
+    "text": "Wskaż zdanie fałszywe – umowa o pracę na okres próbny",
     "options": {
       "a": "Nie może być nigdy wypowiedziana",
       "b": "Może być wypowiedziana z zachowaniem okresu wypowiedzenia, który zależy od jej długości trwania",
-      "c": "Może być rozwiązana z zachowaniem okresu wypowiedzenia  Umowa o pracę na okres próbny może zostać rozwiązana przez jedną ze stron z zachowaniem okresu wypowiedzenia. Zgodnie z"
+      "c": "Może być rozwiązana z zachowaniem okresu wypowiedzenia"
     },
     "correct_answers": [
       "b",
@@ -602,11 +622,11 @@
     ]
   },
   {
-    "id": 47,
-    "text": "Karą porządkową jest:",
+    "id": 40,
+    "text": "Karą porządkową jest",
     "options": {
       "a": "Tylko nagana lub upomnienie",
-      "b": "Kara pieniężna",
+      "b": "Kara pieniężna pracy bez usprawiedliwienia, stawienie się w stanie nietrzeźwości",
       "c": "Potrącenie premii regulaminowej",
       "d": "Kara upomnienia",
       "e": "Negatywna ocena okresowa pracownika",
@@ -622,8 +642,8 @@
     ]
   },
   {
-    "id": 48,
-    "text": "Źródłem prawa pracy jest:",
+    "id": 41,
+    "text": "Źródłem prawa pracy jest",
     "options": {
       "a": "Notatka służbowa w aktach osobowych pracownika",
       "b": "Zarządzenie pracodawcy",
@@ -634,8 +654,8 @@
     ]
   },
   {
-    "id": 49,
-    "text": "Pracownik podejmujący pracę po raz pierwszy:",
+    "id": 42,
+    "text": "Pracownik podejmujący pracę po raz pierwszy",
     "options": {
       "a": "W roku kalendarzowym, w którym podjął pracę, uzyskuje prawo do urlopu z upływem każdego miesiąca pracy, w wymiarze 1/12 wymiaru urlopu przysługującego mu po przepracowaniu roku",
       "b": "W pierwszym roku pracy, uzyskuje prawo do urlopu z upływem każdego miesiąca pracy, w wymiarze 1/12 wymiaru urlopu przysługującego mu po przepracowaniu roku"
@@ -645,8 +665,8 @@
     ]
   },
   {
-    "id": 50,
-    "text": "W czasie urlopu pracownika pracodawca:",
+    "id": 43,
+    "text": "W czasie urlopu pracownika pracodawca",
     "options": {
       "a": "Nie może wypowiedzieć pracownikowi umowy o pracę",
       "b": "Nie może rozwiązać z pracownikiem umowy o pracę z powodu ciężkiego naruszenia podstawowych obowiązków pracowniczych",
@@ -658,20 +678,27 @@
     ]
   },
   {
-    "id": 51,
-    "text": "Umowa o pracę na czas próbny może poprzedzać:",
+    "id": 44,
+    "text": "Umowa o pracę na czas próbny może poprzedzać",
     "options": {
-      "a": "Tylko umowę na czas nieokreślony",
+      "a": "Tylko umowę na czas nieokreślony"
+    },
+    "correct_answers": []
+  },
+  {
+    "id": 45,
+    "text": "",
+    "options": {
       "b": "Każdy pozostały rodzaj umowy o pracę",
-      "c": "Tylko umowy o pracę na czas określony i nieokreślony  Umowa o pracę na okres próbny może poprzedzać umowę na czas nieokreślony, na czas określony, na czas wykonywania określonej pracy lub na zastępstwo."
+      "c": "Tylko umowy o pracę na czas określony i nieokreślony"
     },
     "correct_answers": [
       "b"
     ]
   },
   {
-    "id": 52,
-    "text": "Za pracę w porze nocnej pracownikowi przysługuje dodatek do wynagrodzenia w wysokości:",
+    "id": 45,
+    "text": "Za pracę w porze nocnej pracownikowi przysługuje dodatek do wynagrodzenia w wysokości",
     "options": {
       "a": "W wysokości 100% wynagrodzenia pracownika",
       "b": "W wysokości 50% wynagrodzenia pracownika",
@@ -682,8 +709,8 @@
     ]
   },
   {
-    "id": 53,
-    "text": "Pracownik odpowiada do wysokości trzech miesięcznych pensji:",
+    "id": 46,
+    "text": "Pracownik odpowiada do wysokości trzech miesięcznych pensji",
     "options": {
       "a": "W przypadku nieumyślnego wyrządzenia szkody pracodawcy",
       "b": "W każdym przypadku wyrządzenia szkody pracodawcy",
@@ -695,11 +722,11 @@
     ]
   },
   {
-    "id": 54,
-    "text": "Z tytułu mobbingu pracownik może dochodzić od pracodawcy:",
+    "id": 47,
+    "text": "Z tytułu mobbingu pracownik może dochodzić od pracodawcy",
     "options": {
       "a": "Odszkodowania, jeśli wskutek mobbingu rozwiązał umowę o pracę",
-      "b": "W każdej sytuacji odpowiedniej sumy tytułem zadośćuczynienia pieniężnego za doznaną krzywdę",
+      "b": "W każdej sytuacji odpowiedniej sumy tytułem zadośćuczynienia pieniężnego za doznaną krzywdę (jeśli wywołało to rozstrój zdrowia",
       "c": "Odszkodowania w każdej sytuacji"
     },
     "correct_answers": [
@@ -708,8 +735,8 @@
     ]
   },
   {
-    "id": 55,
-    "text": "Umowa na czas określony dłuższy niż 33 miesiące:",
+    "id": 48,
+    "text": "Umowa na czas określony dłuższy niż 33 miesiące",
     "options": {
       "a": "Ulega przekształceniu w umowę o pracę na czas nieokreślony z datą jej podpisania (od dnia następującego po upływie 33 miesięcy",
       "b": "Jest dopuszczalna i nie ulega przekształceniu w umowę o pracę na czas nieokreślony, jeśli dotyczy pracy na okres kadencji",
@@ -720,8 +747,8 @@
     ]
   },
   {
-    "id": 56,
-    "text": "Pracownik jest zobowiązany wykorzystać urlop wypoczynkowy:",
+    "id": 49,
+    "text": "Pracownik jest zobowiązany wykorzystać urlop wypoczynkowy",
     "options": {
       "a": "Zawsze, jeżeli ma zaległy urlop wypoczynkowy",
       "b": "Jeśli jest na zwolnieniu lekarskim i pracodawca go do tego zobowiąże",
@@ -732,8 +759,8 @@
     ]
   },
   {
-    "id": 57,
-    "text": "Umowa o zakazie konkurencji po ustaniu stosunku pracy powinna dla swej ważności być zawarta:",
+    "id": 50,
+    "text": "Umowa o zakazie konkurencji po ustaniu stosunku pracy powinna dla swej ważności być zawarta",
     "options": {
       "a": "W formie pisemnej",
       "b": "W formie ustnej",
@@ -744,20 +771,20 @@
     ]
   },
   {
-    "id": 58,
-    "text": "Przesunięcie urlopu wypoczynkowego może nastąpić:",
+    "id": 51,
+    "text": "Przesunięcie urlopu wypoczynkowego może nastąpić",
     "options": {
-      "a": "na wniosek pracownika umotywowany mało ważnymi przyczynami (ważnymi, a nie mało ważnymi",
+      "a": "na wniosek pracownika umotywowany mało ważnymi przyczynami (ważnymi, a nie mało ważnymi 164",
       "b": "jest także dopuszczalne z powodu szczególnych potrzeb pracodawcy, jeżeli nieobecność pracownika spowodowałaby poważne zakłócenie toku pracy",
-      "c": "kodeks pracy nie przewiduje możliwości przesunięcia urlopu."
+      "c": ""
     },
     "correct_answers": [
       "b"
     ]
   },
   {
-    "id": 59,
-    "text": "Regulaminy pracy i wynagradzania mają obowiązek wprowadzać pracodawcy zatrudniający:",
+    "id": 52,
+    "text": "Regulaminy pracy i wynagradzania mają obowiązek wprowadzać pracodawcy zatrudniający",
     "options": {
       "a": "co najmniej 20 pracowników",
       "b": "co najmniej 10 pracowników",
@@ -768,13 +795,13 @@
     ]
   },
   {
-    "id": 60,
-    "text": "Pracodawca może rozwiązać umowę o pracę bez wypowiedzenia z winy pracownika w razie:",
+    "id": 10,
+    "text": "Pracodawca może rozwiązać umowę o pracę bez wypowiedzenia z winy pracownika w razie",
     "options": {
       "a": "ciężkiego naruszenia przez pracownika podstawowych obowiązków pracowniczych",
       "b": "popełnienia przez pracownika w czasie trwania umowy o pracę jakiegokolwiek przestępstwa",
       "c": "zawinionej przez pracownika utraty uprawnień koniecznych do wykonywania pracy na zajmowanym stanowisku",
-      "d": "niezawinionej przez pracownika utraty uprawnień koniecznych do wykonywania pracy",
+      "d": "niezawinionej przez pracownika utraty uprawnień koniecznych do wykonywania pracy (zawinionej 52",
       "e": "likwidacji zakładu pracy",
       "f": "utraty przez pracownika z jakiegokolwiek powodu uprawnień koniecznych do wykonywania pracy na zajmowanym stanowisku",
       "g": "popełnienia przez pracownika w czasie trwania umowy o pracę przestępstwa, które uniemożliwia dalsze zatrudnianie go na zajmowanym stanowisku, jeżeli przestępstwo jest oczywiste lub zostało stwierdzone prawomocnym wyrokiem"
@@ -786,22 +813,22 @@
     ]
   },
   {
-    "id": 61,
-    "text": "Zaznacz stosunek pracy:",
+    "id": 11,
+    "text": "Zaznacz stosunek pracy",
     "options": {
       "a": "umowa o telepracę",
       "b": "kontrakt menedżerski",
-      "c": "umowa zlecenia  Umowa o telepracę nie stanowi żadnego odrębnego rodzaju umowy o pracę, lecz sposób wykonywania pracy w ramach umowy o pracę. Kontrakt menedżerski stanowi specyficzną formę „zatrudnienia”, w szczególności członków kadry kierowniczej i zarządzających. Nie stanowi jednak umowy o pracę i nie zabezpiecza ustawowo menedżera w takim samym stopniu jak pracownika."
+      "c": "umowa zlecenia"
     },
     "correct_answers": [
       "a"
     ]
   },
   {
-    "id": 62,
+    "id": 12,
     "text": "Ewidencji czasu pracy nie trzeba prowadzić w stosunku",
     "options": {
-      "a": "pracowników zarządzających w imieniu pracodawcy zakładem pracy",
+      "a": "pracowników zarządzających w imieniu pracodawcy zakładem pracy otrzymujących ryczałt oraz działających w systemie zadaniowym",
       "b": "kierowników działów",
       "c": "pracowników młodocianych"
     },
@@ -810,8 +837,8 @@
     ]
   },
   {
-    "id": 63,
-    "text": "Przy pracach polegających na dozorze urządzeń dopuszczalne jest przedłużenie dobowego wymiaru czasu pracy do:",
+    "id": 13,
+    "text": "Przy pracach polegających na dozorze urządzeń dopuszczalne jest przedłużenie dobowego wymiaru czasu pracy do",
     "options": {
       "a": "12 godzin",
       "b": "16 godzin",
@@ -822,8 +849,8 @@
     ]
   },
   {
-    "id": 64,
-    "text": "Za pracę w godzinach nadliczbowych, oprócz normalnego wynagrodzenia, za pracę w niedzielę przysługuje dodatek w wysokości:",
+    "id": 14,
+    "text": "Za pracę w godzinach nadliczbowych, oprócz normalnego wynagrodzenia, za pracę w niedzielę przysługuje dodatek w wysokości",
     "options": {
       "a": "100% wynagrodzenia",
       "b": "50% wynagrodzenia",
@@ -834,7 +861,7 @@
     ]
   },
   {
-    "id": 65,
+    "id": 15,
     "text": "Praca w placówkach handlowych w święta jest",
     "options": {
       "a": "niedozwolona",
@@ -846,10 +873,17 @@
     ]
   },
   {
-    "id": 66,
-    "text": "W przypadku niezgodnego z prawem rozwiązania umowy na czas określony pracownikowi przysługują roszczenia:",
+    "id": 16,
+    "text": "W przypadku niezgodnego z prawem rozwiązania umowy na czas określony pracownikowi przysługują roszczenia",
     "options": {
-      "a": "tylko o odszkodowanie",
+      "a": "tylko o odszkodowanie"
+    },
+    "correct_answers": []
+  },
+  {
+    "id": 17,
+    "text": "",
+    "options": {
       "b": "tylko o przywrócenie do pracy",
       "c": "o odszkodowanie i przywrócenie do pracy."
     },
@@ -858,8 +892,8 @@
     ]
   },
   {
-    "id": 67,
-    "text": "Świadczenia pieniężne z ubezpieczenia społecznego w razie choroby i macierzyństwa to:",
+    "id": 17,
+    "text": "Świadczenia pieniężne z ubezpieczenia społecznego w razie choroby i macierzyństwa to",
     "options": {
       "a": "zasiłek opiekuńczy, zasiłek macierzyński, zasiłek chorobowy",
       "b": "zasiłek rodzinny i pielęgnacyjny",
@@ -870,8 +904,8 @@
     ]
   },
   {
-    "id": 68,
-    "text": "Ubezpieczenia społeczne obejmują:",
+    "id": 18,
+    "text": "Ubezpieczenia społeczne obejmują",
     "options": {
       "a": "ubezpieczenie zdrowotne i Fundusz Pracy",
       "b": "ubezpieczenia emerytalne i ubezpieczenia zdrowotne",
@@ -882,10 +916,10 @@
     ]
   },
   {
-    "id": 69,
-    "text": "Zasiłek opiekuńczy wynosi:",
+    "id": 19,
+    "text": "Zasiłek opiekuńczy wynosi",
     "options": {
-      "a": "80% podstawy wymiaru zasiłku",
+      "a": "80% podstawy wymiaru zasiłku społecznego w razie choroby i macierzyństwa",
       "b": "100% podstawy wymiaru zasiłku",
       "c": "90% podstawy wymiaru zasiłku"
     },
@@ -894,20 +928,20 @@
     ]
   },
   {
-    "id": 70,
-    "text": "Zasiłek chorobowy za okres pobytu w szpitalu wypłacany jest w wysokości:",
+    "id": 20,
+    "text": "Zasiłek chorobowy za okres pobytu w szpitalu wypłacany jest w wysokości",
     "options": {
-      "a": "80% kwot stanowiących podstawę jego wymiaru",
+      "a": "80% kwot stanowiących podstawę jego wymiaru ubezpieczenia społecznego w razie choroby i macierzyństwa",
       "b": "70% kwot stanowiących podstawę jego wymiaru",
-      "c": "60% kwot stanowiących podstawę jego wymiaru  PYTANIA WIELOKROTNEGO WYBORU"
+      "c": "60% kwot stanowiących podstawę jego wymiaru"
     },
     "correct_answers": [
       "a"
     ]
   },
   {
-    "id": 71,
-    "text": "Pracodawca ma prawo żądać od kandydata na pracownika informacji o:",
+    "id": 1,
+    "text": "Pracodawca ma prawo żądać od kandydata na pracownika informacji o",
     "options": {
       "a": "wykształceniu",
       "b": "daty urodzenia dzieci kandydata",
@@ -918,27 +952,35 @@
     ]
   },
   {
-    "id": 72,
-    "text": "Umowa o pracę określa:",
+    "id": 2,
+    "text": "Umowa o pracę określa",
     "options": {
       "a": "rodzaj pracy",
       "b": "stanowisko pracy",
       "c": "miejsce wykonywania pracy",
       "d": "wynagrodzenie za pracę",
-      "e": "wymiar czasu pracy",
-      "f": "dzień rozpoczęcia pracy"
+      "e": "wymiar czasu pracy"
     },
     "correct_answers": [
       "a",
       "c",
       "d",
-      "e",
+      "e"
+    ]
+  },
+  {
+    "id": 3,
+    "text": "",
+    "options": {
+      "f": "dzień rozpoczęcia pracy"
+    },
+    "correct_answers": [
       "f"
     ]
   },
   {
-    "id": 73,
-    "text": "Ograniczenie co do ilości umów na czas określony z opcją przekształcenia w umowę na czas nieokreślony nie dotyczy:",
+    "id": 3,
+    "text": "Ograniczenie co do ilości umów na czas określony z opcją przekształcenia w umowę na czas nieokreślony nie dotyczy",
     "options": {
       "a": "umów o pracę nakładczą",
       "b": "umów w agencji pracy tymczasowej",
@@ -949,20 +991,20 @@
     ]
   },
   {
-    "id": 74,
-    "text": "Przesłankami rozwiązania umowy bez wypowiedzenia są:",
+    "id": 4,
+    "text": "Przesłankami rozwiązania umowy bez wypowiedzenia są",
     "options": {
       "a": "zwykłe naruszenie obowiązków pracowniczych",
       "b": "kara pieniężna nałożona na pracownika",
-      "c": "tymczasowe aresztowanie pracownika"
+      "c": "tymczasowe aresztowanie pracownika które uniemożliwia dalsze zatrudnianie go na zajmowanym stanowisku, jeżeli przestępstwo jest oczywiste lub zostało stwierdzone prawomocnym wyrokiem"
     },
     "correct_answers": [
       "c"
     ]
   },
   {
-    "id": 75,
-    "text": "Pracodawca jest odpowiedzialny za odprowadzanie składek ZUS i zaliczki na podatek dochodowy, dlatego ma status:",
+    "id": 5,
+    "text": "Pracodawca jest odpowiedzialny za odprowadzanie składek ZUS i zaliczki na podatek dochodowy, dlatego ma status",
     "options": {
       "a": "podatnika",
       "b": "płatnika",
@@ -973,8 +1015,8 @@
     ]
   },
   {
-    "id": 76,
-    "text": "Prawo pracownika do wypoczynku gwarantują przepisy:",
+    "id": 6,
+    "text": "Prawo pracownika do wypoczynku gwarantują przepisy",
     "options": {
       "a": "o czasie pracy",
       "b": "o urlopach wypoczynkowych",
@@ -987,8 +1029,8 @@
     ]
   },
   {
-    "id": 77,
-    "text": "Potrącenie bez zgody pracownika może być dokonane na:",
+    "id": 7,
+    "text": "Potrącenie bez zgody pracownika może być dokonane na: - imo żadna nie jest prawidłowa xd – 91",
     "options": {
       "a": "spłatę kredytów zakładu pracy",
       "b": "kary nałożone przez PIP",
@@ -997,8 +1039,8 @@
     "correct_answers": []
   },
   {
-    "id": 78,
-    "text": "Ochrona przedemerytalna dotyczy pracowników zatrudnionych na:",
+    "id": 8,
+    "text": "Ochrona przedemerytalna dotyczy pracowników zatrudnionych na",
     "options": {
       "a": "umowę na czas nieokreślony",
       "b": "umowę na czas określony",
@@ -1010,13 +1052,13 @@
     ]
   },
   {
-    "id": 79,
-    "text": "Do źródeł prawa pracy zaliczamy:",
+    "id": 9,
+    "text": "Do źródeł prawa pracy zaliczamy",
     "options": {
-      "a": "ustawa",
+      "a": "",
       "b": "regulaminy",
       "c": "układy",
-      "d": "Kodeks pracy, inne ustawy i akty wykonawcze, określające prawa i obowiązki pracowników I pracodawców, a także postanowienia układów zbiorowych pracy i innych opartych na ustawie porozumień zbiorowych, regulaminów i statutów określających prawa i obowiązki stron stosunku pracy  PYTANIA JEDNOKROTNEGO WYBORU"
+      "d": "pracodawców, a także postanowienia układów zbiorowych pracy i innych opartych na ustawie porozumień zbiorowych, regulaminów i statutów określających prawa i obowiązki stron stosunku pracy"
     },
     "correct_answers": [
       "a",
@@ -1026,20 +1068,20 @@
     ]
   },
   {
-    "id": 80,
-    "text": "Przy zawieraniu umowy o pracę na czas określony, do 6 miesięcy strony:",
+    "id": 1,
+    "text": "Przy zawieraniu umowy o pracę na czas określony, do 6 miesięcy strony",
     "options": {
       "a": "mogą przewidzieć dopuszczalności wcześniejszego rozwiązania tej umowy za wypowiedzeniem",
       "b": "nie mogą przewidzieć dopuszczalności wcześniejszego rozwiązania tej umowy za wypowiedzeniem",
-      "c": "strony nie muszą niczego ustalać, gdyż prawo do rozwiązania takiej umowy za wypowiedzeniem wynika bezpośrednio z przepisów k.p. Ile zatrudniony  Ile wypowiedzenia Krócej niż 6 miesięcy  2 tyg     Co najmniej 6 miesięcy  1 miesiąc Co najmniej 3 lata  3 miesiące"
+      "c": "strony nie muszą niczego ustalać, gdyż prawo do rozwiązania takiej umowy za wypowiedzeniem wynika bezpośrednio z przepisów k.p. Ile zatrudniony Ile wypowiedzenia Krócej niż 6 miesięcy 2 tyg"
     },
     "correct_answers": [
       "c"
     ]
   },
   {
-    "id": 81,
-    "text": "Podnoszenie kwalifikacji zawodowych to:",
+    "id": 2,
+    "text": "Podnoszenie kwalifikacji zawodowych to",
     "options": {
       "a": "Prawo pracownika",
       "b": "Obowiązek pracownika",
@@ -1051,8 +1093,8 @@
     ]
   },
   {
-    "id": 82,
-    "text": "Wynagrodzenie przestojowe gwarantowane k.p. wynosi:",
+    "id": 3,
+    "text": "Wynagrodzenie przestojowe gwarantowane k.p. wynosi",
     "options": {
       "a": "60%",
       "b": "80%",
@@ -1063,8 +1105,8 @@
     ]
   },
   {
-    "id": 83,
-    "text": "Jeżeli umowa o pracę nie określa dnia rozpoczęcia pracy dniem tym jest:",
+    "id": 4,
+    "text": "Jeżeli umowa o pracę nie określa dnia rozpoczęcia pracy dniem tym jest",
     "options": {
       "a": "dzień ustalony przez strony",
       "b": "dzień podpisania umowy",
@@ -1075,8 +1117,8 @@
     ]
   },
   {
-    "id": 84,
-    "text": "Co do zasady wysokość zmiennych składników wynagrodzenia za czas urlopu pracownika oblicza się na podstawie przeciętnego miesięcznego wynagrodzenia z okresu:",
+    "id": 5,
+    "text": "Co do zasady wysokość zmiennych składników wynagrodzenia za czas urlopu pracownika oblicza się na podstawie przeciętnego miesięcznego wynagrodzenia z okresu",
     "options": {
       "a": "3 miesięcy poprzedzających miesiąc rozpoczęcia urlopu",
       "b": "4 miesięcy poprzedzających miesiąc rozpoczęcia urlopu",
@@ -1087,8 +1129,8 @@
     ]
   },
   {
-    "id": 85,
-    "text": "Rozwiązanie stosunku pracy z pracownikiem zatrudnionym na czas nieokreślony wymaga:",
+    "id": 6,
+    "text": "Rozwiązanie stosunku pracy z pracownikiem zatrudnionym na czas nieokreślony wymaga",
     "options": {
       "a": "pisemnego zawiadomienia organizacji związkowej",
       "b": "pisemnej opinii organizacji związkowej",
@@ -1099,8 +1141,8 @@
     ]
   },
   {
-    "id": 86,
-    "text": "Wypowiedzenie pracownikowi warunków pracy lub płacy w razie powierzenia pracownikowi innej pracy w sytuacjach uzasadnionych potrzebami pracodawcy może nastąpić na:",
+    "id": 7,
+    "text": "Wypowiedzenie pracownikowi warunków pracy lub płacy w razie powierzenia pracownikowi innej pracy w sytuacjach uzasadnionych potrzebami pracodawcy może nastąpić na",
     "options": {
       "a": "1 miesiące",
       "b": "3 miesiące",
@@ -1111,8 +1153,8 @@
     ]
   },
   {
-    "id": 87,
-    "text": "Nawiązanie stosunku pracy oraz ustalenie warunków pracy i płacy wymaga:",
+    "id": 8,
+    "text": "Nawiązanie stosunku pracy oraz ustalenie warunków pracy i płacy wymaga",
     "options": {
       "a": "zawarcia umowy",
       "b": "zgodnego oświadczenia woli",
@@ -1123,12 +1165,12 @@
     ]
   },
   {
-    "id": 88,
-    "text": "Śmierć pracodawcy powoduje wygaśnięcie stosunku pracy:",
+    "id": 9,
+    "text": "Śmierć pracodawcy powoduje wygaśnięcie stosunku pracy",
     "options": {
       "a": "zawsze",
       "b": "w zależności od formy pracodawcy",
-      "c": "nie zawsze § 3) -> np. gdy przechodzi zakład pracy na innego pracodawce",
+      "c": "nie zawsze § 3 -> np. gdy przechodzi zakład pracy na innego pracodawce",
       "d": "nie jest przesłanką wygaśnięcia, tylko rozwiązania bez wypowiedzenia"
     },
     "correct_answers": [
@@ -1136,8 +1178,8 @@
     ]
   },
   {
-    "id": 89,
-    "text": "Pracownik w stosunku, do którego pracodawca naruszył zasadę równego traktowania ma prawo do odszkodowania w minimalnej wysokości:",
+    "id": 10,
+    "text": "Pracownik w stosunku, do którego pracodawca naruszył zasadę równego traktowania ma prawo do odszkodowania w minimalnej wysokości",
     "options": {
       "a": "1 miesięcznego wynagrodzenia",
       "b": "2 miesięcznego wynagrodzenia",
@@ -1148,8 +1190,8 @@
     ]
   },
   {
-    "id": 90,
-    "text": "Konkurs może poprzedzać nawiązanie stosunku pracy z:",
+    "id": 11,
+    "text": "Konkurs może poprzedzać nawiązanie stosunku pracy z",
     "options": {
       "a": "wyboru",
       "b": "powołania",
@@ -1160,22 +1202,92 @@
     ]
   },
   {
-    "id": 91,
-    "text": "Tygodniowy wymiar czasu pracy łącznie z nadgodzinami w przyjętym okresie rozliczeniowym nie może przekroczyć:",
+    "id": 12,
+    "text": "Tygodniowy wymiar czasu pracy łącznie z nadgodzinami w przyjętym okresie rozliczeniowym nie może przekroczyć",
+    "options": {
+      "a": "44 h",
+      "b": "46 h",
+      "c": "48 h"
+    },
+    "correct_answers": [
+      "c"
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Wymiar urlopu na żądanie wynosi",
+    "options": {
+      "a": "2 dni",
+      "b": "3 dni",
+      "c": "4 dni"
+    },
+    "correct_answers": [
+      "c"
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Pracownik pracujący w niedzielę powinien korzystać z niedzieli wolnej od pracy",
+    "options": {
+      "a": "raz na dwa tygodnie",
+      "b": "raz na trzy tygodnie",
+      "c": "raz na cztery tygodnie"
+    },
+    "correct_answers": [
+      "c"
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Praca w święta jest dozwolona",
+    "options": {
+      "a": "w placówkach handlowych",
+      "b": "przy pilnowaniu i ochronie osób",
+      "c": "w księgowości"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Nie trzeba prowadzić ewidencji czasu pracy w stosunku do",
+    "options": {
+      "a": "pracowników objętych zadaniowym czasem pracy",
+      "b": "pracowników objętych weekendowym czasem pracy",
+      "c": "kierowników działów"
+    },
+    "correct_answers": [
+      "a"
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Do pracowników zatrudnionych przy pilnowaniu mienia lub ochronie, przedłużenie dobowego wymiaru czasu pracy do",
+    "options": {
+      "a": "12 godzin",
+      "b": "16 godzin",
+      "c": "24 godzin"
+    },
+    "correct_answers": [
+      "c"
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Umowa o pracę charakteryzuje się",
     "options": {
       "a": "nieodpłatnością",
       "b": "ma charakter przymusowy",
       "c": "obowiązkiem osobistego świadczenia pracy"
     },
     "correct_answers": [
-      "a",
-      "b",
       "c"
     ]
   },
   {
-    "id": 92,
-    "text": "Zasiłek opiekuńczy wypłacany jest przez okres zwolnienia od pracy celem sprawowania opieki nad zdrowym lub chorym dzieckiem:",
+    "id": 13,
+    "text": "Zasiłek opiekuńczy wypłacany jest przez okres zwolnienia od pracy celem sprawowania opieki nad zdrowym lub chorym dzieckiem",
     "options": {
       "a": "nie więcej niż 30 dni w roku kalendarzowym",
       "b": "nie więcej niż 40 dni w roku kalendarzowym",
@@ -1186,7 +1298,7 @@
     ]
   },
   {
-    "id": 93,
+    "id": 14,
     "text": "Kiedy sąd pracy niezależnie od żądania zgłoszonego przez pracownika orzeka o odszkodowaniu?",
     "options": {
       "a": "Sąd może nie uwzględnić żądania pracownika, uznania wypowiedzenia za bezskuteczne czy przywrócenia pracownika do pracy, gdyż żądanie takie okaże się niemożliwe lub niecelowe"
@@ -1196,7 +1308,7 @@
     ]
   },
   {
-    "id": 94,
+    "id": 15,
     "text": "Pracownik którego sąd przywrócił do pracy jest zobowiązany do zachowania 7 dniowego terminu na zgłoszenie gotowości niezwłocznego podjęcia zatrudnienia. Czy musi on w tym terminie przystąpić do pracy czy też zgłosić swoją gotowość do podjęcia?",
     "options": {
       "a": "Pracownik może swoją gotowość zgłosić przez każde zachowanie pracownika objawiające w dostateczny sposób jego zamiar kontynuacji stosunku pracy"
@@ -1206,7 +1318,7 @@
     ]
   },
   {
-    "id": 95,
+    "id": 16,
     "text": "Od jakiego terminu należy liczyć trzymiesięczny okres nieobecności pracownika w pracy z powodu tymczasowego aresztowania skutkujący wygaśnięciem umowy o pracę?",
     "options": {
       "a": "Od dnia zatrzymania pracownika"
@@ -1216,7 +1328,7 @@
     ]
   },
   {
-    "id": 96,
+    "id": 17,
     "text": "Pracownica została zatrudniona na podstawie umowy na zastępstwo do czasu powrotu pani Anny z urlopu macierzyńskiego. Pracownica twierdzi że nie można z nią rozwiązać umowy ponieważ jest to umowa terminowa krótsza niż 6 miesięcy. Czy można umowę o zastępstwo rozwiązać i jaki jest okres jej wypowiedzenia.",
     "options": {
       "a": "Nie można rozwiązać umowy o zastępstwo",
@@ -1228,7 +1340,7 @@
     ]
   },
   {
-    "id": 97,
+    "id": 18,
     "text": "W okresie wypowiedzenia upłynął trzyletni okres zatrudnienia u tego pracodawcy. Czy okres wypowiedzenia nie powinien zostać wydłużony do trzech miesięcy?",
     "options": {
       "a": "Pracodawca powinien rozwiązać stosunek pracy z trzymiesięcznym wypowiedzeniem",
@@ -1240,7 +1352,7 @@
     ]
   },
   {
-    "id": 98,
+    "id": 19,
     "text": "Czy umowa o zastępstwo może być poprzedzona umową na okres próbny?",
     "options": {
       "a": "Tak jeśli umowa o zastępstwo ma być zawarta na co najmniej rok",
@@ -1252,11 +1364,11 @@
     ]
   },
   {
-    "id": 99,
+    "id": 20,
     "text": "Pracownikowi złożono we wtorek oświadczenie o rozwiązanie umowy o pracę za dwutygodniowym wypowiedzeniem, kiedy umowa o pracę ulegnie rozwiązaniu?",
     "options": {
       "a": "Po upływie dwóch tygodni 14 dni, czyli za dwa tygodnie we wtorek",
-      "b": "Po upływie pełnych dwóch tygodni, czyli sobota (14 dni",
+      "b": "Po upływie pełnych dwóch tygodni, czyli sobota",
       "c": "Po upływie pełnych dwóch tygodni w niedziele"
     },
     "correct_answers": [
@@ -1264,8 +1376,8 @@
     ]
   },
   {
-    "id": 100,
-    "text": "Czy oświadczenie o rozwiązaniu za wypowiedzeniem umowy o pracę zawartej na czas określony powinno zawierać uzasadnienie?",
+    "id": 21,
+    "text": "Czy oświadczenie o rozwiązaniu za wypowiedzeniem umowy o pracę zawartej na czas określony powinno zawierać uzasadnienie? - 30",
     "options": {
       "a": "Tak jeśli umowę wypowiada pracodawca",
       "b": "Tak",
@@ -1276,10 +1388,10 @@
     ]
   },
   {
-    "id": 101,
+    "id": 22,
     "text": "Pracodawca na piśmie z 12 marca 2014 złożył pracownikowi oświadczenie o rozwiązaniu umowy o pracę bez wypowiedzenia z dniem 18 marca 2014. Pismo wysłane pocztą doręczono pracownikowi w dniu 1 kwietnia. Kiedy ustał stosunek pracy",
     "options": {
-      "a": "1 kwietnia",
+      "a": "1 kwietnia-oświadczenie o rozwiązaniu umowy bez wypowiedzenia jest skuteczne od momentu doręczenia",
       "b": "12 marca",
       "c": "18 marca"
     },
@@ -1288,7 +1400,7 @@
     ]
   },
   {
-    "id": 102,
+    "id": 23,
     "text": "Czy rozwiązanie przez pracownika za wypowiedzeniem umowy o pracę powinno być uzasadnione?",
     "options": {
       "a": "Tak jeśli umowa była zawarta na czas nieokreślony",
@@ -1300,20 +1412,19 @@
     ]
   },
   {
-    "id": 103,
+    "id": 24,
     "text": "Z Panem X rozwiązano umowę o pracę za wypowiedzeniem jakie roszczenia przysługują pracownikowi?",
     "options": {
       "a": "O przywrócenie do pracy, uznania wypowiedzenia za bezskuteczne i odszkodowanie",
-      "b": "Odszkodowanie i przywrócenie do pracy",
+      "b": "Odszkodowanie i przywrócenie do pracy jeszcze rozwiązaniu, a o przywrócenie gdy już uległa",
       "c": "O przywrócenie do pracy odszkodowanie oraz nałożenie grzywny na pracodawcę"
     },
     "correct_answers": [
-      "a",
-      "b"
+      "a"
     ]
   },
   {
-    "id": 104,
+    "id": 25,
     "text": "W świetle obowiązujących przepisów KP dotyczących równego traktowania w zatrudnieniu",
     "options": {
       "a": "Zróżnicowanie pracowników na stan rodziny jest dyskryminacją",
@@ -1325,8 +1436,8 @@
     ]
   },
   {
-    "id": 105,
-    "text": "Agencja mody chce zatrudnić modelkę do prezentacji bielizny. Na casting zgłosiło się kilku mężczyzn w takiej sytuacji:",
+    "id": 26,
+    "text": "Agencja mody chce zatrudnić modelkę do prezentacji bielizny. Na casting zgłosiło się kilku mężczyzn w takiej sytuacji",
     "options": {
       "a": "Odmowa zatrudnienia tych mężczyzn będzie nosiła znamiona dyskryminacji",
       "b": "Odmowa zatrudnienia nie będzie nosiła znamion dyskryminacji",
@@ -1337,11 +1448,11 @@
     ]
   },
   {
-    "id": 106,
+    "id": 27,
     "text": "1 sierpnia 2000 pracownika ukarano karą nagany. 15 grudnia 2000 karą pieniężną 10 września 2001 karą upomnienia. Kiedy ulegnie zatarciu kara nagany?",
     "options": {
       "a": "1 sierpnia 2001",
-      "b": "15 grudnia 2001",
+      "b": "15 grudnia 2001 w którym nie został ukarany karą porządkową",
       "c": "10 września 2002"
     },
     "correct_answers": [
@@ -1349,7 +1460,7 @@
     ]
   },
   {
-    "id": 107,
+    "id": 28,
     "text": "Ustalając wysokość wynagrodzenia za pracę pracodawca powinien uwzględniać",
     "options": {
       "a": "Kwalifikacje pracownika",
@@ -1363,7 +1474,7 @@
     ]
   },
   {
-    "id": 108,
+    "id": 29,
     "text": "Jan K pracował w przedsiębiorstwie spółka X od 1990 do 1992 w przedsiębiorstwie Y od 1992 do 1997 a od lipca 1997 do dzisiaj pracuje w Z. Ile wynosi w tym przypadku termin wypowiedzenia?",
     "options": {
       "a": "Jeden miesiąc",
@@ -1376,7 +1487,7 @@
     ]
   },
   {
-    "id": 109,
+    "id": 30,
     "text": "Pracownikiem bez żadnych ograniczeń może być",
     "options": {
       "a": "Każdy podmiot prawa",
@@ -1388,8 +1499,8 @@
     ]
   },
   {
-    "id": 110,
-    "text": "Kilku pracowników wyrządziło szkodę i zgodnie z",
+    "id": 31,
+    "text": "Kilku pracowników wyrządziło szkodę i zgodnie z szkody stosownie do przyczynienia się do niej i stopnia winy. Czy granica odszkodowania z dotyczy każdego pracownika osobna czy wszystkich razem?",
     "options": {
       "a": "Granice odszkodowania odnoszą się do całości",
       "b": "Jeśli kilku pracowników ponosi odpowiedzialność za powstałą szkodę to wówczas wszyscy łącznie odpowiadają do wysokości ich średniego trzymiesięcznego wynagrodzenia",
@@ -1400,7 +1511,7 @@
     ]
   },
   {
-    "id": 111,
+    "id": 32,
     "text": "Kiedy pracownicy ponoszą wspólną odpowiedzialność za powierzone mienie?",
     "options": {
       "a": "Jeśli zawarli z pracodawcą na piśmie umowę o współodpowiedzialności materialnej"
@@ -1410,18 +1521,16 @@
     ]
   },
   {
-    "id": 112,
+    "id": 33,
     "text": "Kiedy szkoda wyrządzona przez pracownika pracodawcy została wyrządzona umyślnie?",
     "options": {
-      "a": "Wówczas gdy pracownik ma zamiar bezpośredni -[lub z zamiarem ewentualnym]  Objęcie wyrządzenia szkody umyślnością, czyli wystąpieniem zamiaru bezpośredniego lub ewentualnego, stanowi warunek ponoszenia odpowiedzialności materialnej przez pracownika w pełnej wysokości. O ile rozumienie pojęcia zamiaru bezpośredniego nie powinno budzić wątpliwości, o tyle zjawisko zamiaru ewentualnego wymaga kilku słów wyjaśnienia. Oznacza to, że umyślne wyrządzenie szkody w formie zamiaru ewentualnego jest związane z zachowaniem pracownika, który wprawdzie zmierza do innego celu niż wyrządzenie szkody zakładowi pracy, niemniej jest świadomy, że może jednocześnie doprowadzić do uszczerbku w mieniu pracodawcy i taką ewentualność akceptuje."
+      "a": "Wówczas gdy pracownik ma zamiar bezpośredni"
     },
-    "correct_answers": [
-      "a"
-    ]
+    "correct_answers": []
   },
   {
-    "id": 113,
-    "text": "Czy pracodawca może powierzyć pracownikowi mienie, które nie jest jego własnością?",
+    "id": 35,
+    "text": "Czy pracodawca może powierzyć pracownikowi mienie, które nie jest jego własnością? - 124",
     "options": {
       "a": "Tak",
       "b": "Nie",
@@ -1432,7 +1541,7 @@
     ]
   },
   {
-    "id": 114,
+    "id": 36,
     "text": "Czy pracownik może wyrazić zgodę na potrącenie w przyszłości ewentualnych odszkodowań z tytułu odpowiedzialności materialnej?",
     "options": {
       "a": "Tak, w formie pisemnej"
@@ -1442,11 +1551,11 @@
     ]
   },
   {
-    "id": 115,
+    "id": 37,
     "text": "Pani Joanna jest w trzecim miesiącu ciąży ze względu na szczególne potrzeby pracodawcy konieczne jest, żeby pani Joanna przez miesiąc pracowała w godzinach nadliczbowych w takiej sytuacji",
     "options": {
       "a": "Można ją zatrudnić w godzinach nadliczbowych jeżeli wyrazi na to zgodę",
-      "b": "Nie można jej zatrudnić w godzinach nadliczbowych ani w godzinach nocnych nawet za jej zgodą",
+      "b": "Nie można jej zatrudnić w godzinach nadliczbowych ani w godzinach nocnych nawet za jej zgodą 178",
       "c": "Nie można jej zatrudnić w godzinach nadliczbowych nawet za jej zgodą jeśli upłynął już trzeci miesiąc ciąży"
     },
     "correct_answers": [
@@ -1454,7 +1563,7 @@
     ]
   },
   {
-    "id": 116,
+    "id": 38,
     "text": "Pracownikowi zatrudnionemu ponad 10 lat przysługuje urlop wypoczynkowy w wymiarze",
     "options": {
       "a": "26 dni",
@@ -1466,7 +1575,7 @@
     ]
   },
   {
-    "id": 117,
+    "id": 39,
     "text": "Urlop na żądanie przysługuje w wymiarze",
     "options": {
       "a": "4 dni",
@@ -1478,7 +1587,7 @@
     ]
   },
   {
-    "id": 118,
+    "id": 40,
     "text": "Ile lat należy zaliczyć do stażu pracy od którego zależy wymiar urlopu pracownikowi, który ukończył wyższą szkołę zawodową i uzyskał tytuł zawodowy licencjata?",
     "options": {
       "a": "8 lat",
@@ -1490,7 +1599,7 @@
     ]
   },
   {
-    "id": 119,
+    "id": 41,
     "text": "Czy jedna część urlopu udzielona pracownikowi powinna obejmować kolejne 14 dni kalendarzowych czy też roboczych",
     "options": {
       "a": "Kalendarzowych",
@@ -1501,7 +1610,7 @@
     ]
   },
   {
-    "id": 120,
+    "id": 42,
     "text": "Czy pracownik może odmówić wykorzystanie urlopu wypoczynkowego w okresie wypowiedzenia?",
     "options": {
       "a": "Nie jeśli pracodawca uzgodnił z pracownikiem termin wykorzystania urlopu wypoczynkowego",
@@ -1513,8 +1622,8 @@
     ]
   },
   {
-    "id": 121,
-    "text": "W umowie o pracę znalazły się postanowienia mniej korzystne niż przepisy kodeksu pracy. Czy to oznacza, że umowa jest nieważna?",
+    "id": 43,
+    "text": "W umowie o pracę znalazły się postanowienia mniej korzystne niż przepisy Czy to oznacza, że umowa jest nieważna?",
     "options": {
       "a": "Nieważne są jedynie zawarte w niej mniej korzystne dla pracownika postanowienia"
     },
@@ -1523,7 +1632,7 @@
     ]
   },
   {
-    "id": 122,
+    "id": 44,
     "text": "Jeden z pracowników w dziale płac przedstawił oświadczenie na piśmie, iż zrzeka się wypłaty całości wynagrodzenia na rzecz osoby, z którą pozostaje w stałym związku. Czy takie oświadczenie jest skuteczne?",
     "options": {
       "a": "Nie, gdyż zrzeczenie się wynagrodzenia jest bezwzględnie nieważne"
@@ -1533,7 +1642,7 @@
     ]
   },
   {
-    "id": 123,
+    "id": 45,
     "text": "Pracownik podczas wykonywania prac wyrządził szkodę innemu pracownikowi. Od kogo powinien dochodzić odszkodowania poszkodowany pracownik?",
     "options": {
       "a": "Od pracodawcy"
@@ -1543,7 +1652,7 @@
     ]
   },
   {
-    "id": 124,
+    "id": 46,
     "text": "Czy molestowanie seksualne jest rodzajem dyskryminacji?",
     "options": {
       "a": "Tak"
@@ -1553,17 +1662,17 @@
     ]
   },
   {
-    "id": 125,
-    "text": "Obowiązek ustalania regulaminu wynagrodzenia ciąży na pracodawcy, który:",
+    "id": 47,
+    "text": "Obowiązek ustalania regulaminu wynagrodzenia ciąży na pracodawcy, który",
     "options": {
-      "a": "Zatrudnia co najmniej 20 pracowników nie objętych układem zbiorowym"
+      "a": "Zatrudnia co najmniej 20 pracowników nie objętych układem zbiorowym organizacja związkowa wystąpi z wnioskiem; tak to minimum 50 pracowników"
     },
     "correct_answers": [
       "a"
     ]
   },
   {
-    "id": 126,
+    "id": 48,
     "text": "Czy prawidłowym jest podanie do wiadomości regulaminu wynagrodzenia przez przesłanie go zatrudnionym drogą elektroniczną?",
     "options": {
       "a": "Tak, gdyż pracodawca podaje do wiadomości pracowników regulamin wynagrodzenia w sposób przyjęty w danym zakładzie"
@@ -1573,8 +1682,8 @@
     ]
   },
   {
-    "id": 127,
-    "text": "Jeśli umowa o pracę nie określa dnia rozpoczęcia pracy dniem tym jest: [Data zawarcia umowy o pracę może być zarazem terminem rozpoczęcia pracy, stosunek pracy nawiązuje się w terminie określonym w umowie jako dzień rozpoczęcia pracy, a jeżeli terminu tego nie określono",
+    "id": 53,
+    "text": "Jeśli umowa o pracę nie określa dnia rozpoczęcia pracy dniem tym jest",
     "options": {
       "a": "dzień ustalony przez strony",
       "b": "dzień podpisania umowy",
@@ -1585,8 +1694,8 @@
     ]
   },
   {
-    "id": 128,
-    "text": "Co do zasady wysokości zmiennych składników wynagrodzenia za czas urlopu pracownika oblicza się na podstawie przeciętnego miesięcznego wynagrodzenia z okresu:",
+    "id": 54,
+    "text": "Co do zasady wysokości zmiennych składników wynagrodzenia za czas urlopu pracownika oblicza się na podstawie przeciętnego miesięcznego wynagrodzenia z okresu",
     "options": {
       "a": "3 miesięcy poprzedzających miesiąc rozpoczęcia urlopu",
       "b": "4 miesięcy poprzedzających miesiąc rozpoczęcia urlopu",
@@ -1597,8 +1706,8 @@
     ]
   },
   {
-    "id": 129,
-    "text": "Ograniczenie co do umów na czas określony z opcją przekształcenia w umowę na czas nieokreślony nie dotyczy:",
+    "id": 56,
+    "text": "Ograniczenie co do umów na czas określony z opcją przekształcenia w umowę na czas nieokreślony nie dotyczy",
     "options": {
       "a": "umów o pracę nakładczą",
       "b": "umów w agencji pracy tymczasowej",
@@ -1609,8 +1718,8 @@
     ]
   },
   {
-    "id": 130,
-    "text": "Wypowiedzenie pracownikowi warunków pracy lub płacy nie jest wymagane w razie powierzenia pracownikowi innej pracy w sytuacjach uzasadnionych potrzebami pracodawcy może nastąpić na:",
+    "id": 57,
+    "text": "Wypowiedzenie pracownikowi warunków pracy lub płacy nie jest wymagane w razie powierzenia pracownikowi innej pracy w sytuacjach uzasadnionych potrzebami pracodawcy może nastąpić na",
     "options": {
       "a": "1 miesiąc",
       "b": "3 miesiące",
@@ -1622,10 +1731,10 @@
     ]
   },
   {
-    "id": 131,
-    "text": "Śmierć pracodawcy powoduje wygaśnięcie stosunku pracy:",
+    "id": 58,
+    "text": "Śmierć pracodawcy powoduje wygaśnięcie stosunku pracy",
     "options": {
-      "a": "nie zawsze",
+      "a": "nie zawsze zarządu sukcesyjnego",
       "b": "zawsze",
       "c": "nigdy"
     },
@@ -1634,11 +1743,11 @@
     ]
   },
   {
-    "id": 132,
+    "id": 59,
     "text": "Do źródeł prawa pracy zaliczamy",
     "options": {
       "a": "Ustawy",
-      "b": "Przepisy Kodeksu Pracy, inne ustawy i akty wykonawcze, określające prawa i obowiązki pracowników i pracodawców, a także postanowienia układów zbiorowych pracy i innych opartych na ustawie porozumień zbiorowych, regulaminów i statutów określających prawa i obowiązki stron stosunku pracy"
+      "b": "Przepisy pracodawców, a także postanowienia układów zbiorowych pracy i innych opartych na ustawie porozumień zbiorowych, regulaminów i statutów określających prawa i obowiązki stron stosunku pracy"
     },
     "correct_answers": [
       "a",
@@ -1646,7 +1755,7 @@
     ]
   },
   {
-    "id": 133,
+    "id": 60,
     "text": "W naszym zakładzie obowiązuje regulamin wynagrodzenia w sposób korzystniejszy określający prawa pracowników związane z wypłatą wynagrodzenia chorobowego niż wynika z KP. Wypłata wynosi 100% stawki wynagrodzenia już od pierwszego dnia choroby. Według jakich przepisów należy ustalać wynagrodzenie chorobowe",
     "options": {
       "a": "Według KP tzn. 80% wynagrodzenia",
@@ -1658,7 +1767,7 @@
     ]
   },
   {
-    "id": 134,
+    "id": 61,
     "text": "Czy dla zwrotu należności związanych z podróżą służbową ma znaczenie, że pracownik jest zatrudniony na czas określony w niepełnym wymiarze czasu pracy?",
     "options": {
       "a": "Nie",
@@ -1670,7 +1779,7 @@
     ]
   },
   {
-    "id": 135,
+    "id": 62,
     "text": "Jeden z pracowników przedstawił w dziale płac oświadczenie na piśmie, iż zrzeka się wypłaty całości wynagrodzenia na rzecz osoby, z która pozostaje w stałym związku czy takie oświadczenie jest skuteczne",
     "options": {
       "a": "Tak bo zostało dokonane na rzecz osoby bliskiej",
@@ -1682,7 +1791,7 @@
     ]
   },
   {
-    "id": 136,
+    "id": 63,
     "text": "Związek zawodowy działający w zakładzie pracy wystąpił o przedstawienie imiennych list wynagrodzeń pracowników. Czy związki mogą żądać informacji o wysokości wynagrodzeń konkretnego pracownika.",
     "options": {
       "a": "Tak",
@@ -1694,8 +1803,8 @@
     ]
   },
   {
-    "id": 137,
-    "text": "Po dokonaniu potrąceń komorniczych pracownikowi zgodnie z",
+    "id": 64,
+    "text": "Po dokonaniu potrąceń komorniczych pracownikowi zgodnie z ma zostać kwota minimalnego wynagrodzenia za pracę. Czy chodzi o kwotę brutto czy netto?",
     "options": {
       "a": "Brutto",
       "b": "Netto"
@@ -1705,8 +1814,8 @@
     ]
   },
   {
-    "id": 138,
-    "text": "Czy pracownicy w ciąży nieobecnej w pracy z powodu czasowej niezdolności do pracy spowodowanej chorobą",
+    "id": 65,
+    "text": "Czy pracownicy w ciąży nieobecnej w pracy z powodu czasowej niezdolności do pracy spowodowanej chorobą – przeziębienie należy się 100% wynagrodzenia.",
     "options": {
       "a": "Nie gdyż nie jest to choroba związana z ciążą",
       "b": "Tak jeżeli lekarz stwierdził, że przeziębienie zagraża ciąży",
@@ -1717,8 +1826,8 @@
     ]
   },
   {
-    "id": 139,
-    "text": "Zmarły pracownik był zatrudniony u pracodawców A i B, które z pracodawców jest zobowiązany do wypłacenia odprawy pośmiertnej.",
+    "id": 66,
+    "text": "Zmarły pracownik był zatrudniony u pracodawców A i B , które z pracodawców jest zobowiązany do wypłacenia odprawy pośmiertnej.",
     "options": {
       "a": "Pracodawca A",
       "b": "Pracodawca A i B",
@@ -1729,7 +1838,7 @@
     ]
   },
   {
-    "id": 140,
+    "id": 67,
     "text": "Pracownik zatrudniony u pracodawcy A podejmuje dodatkowe zatrudnienie u pracodawcy B czy okres pracy u pracodawcy A podlega zaliczeniu do stażu pracy od którego zależy wymiar urlopu u pracodawcy B.",
     "options": {
       "a": "Wlicza się okres poprzedniego niezakończonego zatrudnienia w części przypadającej przed nawiązaniem kolejnego stosunku pracy",
@@ -1741,7 +1850,7 @@
     ]
   },
   {
-    "id": 141,
+    "id": 68,
     "text": "Statut spółki akcyjnej zawiera zapis, z którego wynika, że pracodawcą jest spółka akcyjna w filii pracownicy podlegają bezpośrednio kierownikowi, który też załatwia wszystkie sprawy kadrowe. Kto jest pracodawcą pracowników w filii.",
     "options": {
       "a": "Pracodawcą jest filia",
@@ -1753,20 +1862,27 @@
     ]
   },
   {
-    "id": 142,
+    "id": 69,
     "text": "Czy dopuszczalne jest zawieranie umów między pracodawcami, na mocy których zobowiązują się oni do niezatrudniania pracowników kontrahenta w czasie trwania stosunku pracy jak i po ustaniu stosunku pracy",
     "options": {
-      "a": "Wprowadzenie w umowę zawartej między dwoma pracodawcami ograniczeń polegających na zakazie zatrudniania pracowników drugiej strony jest sprzeczne z zasadami współżycia społecznego oraz koliduje z zasadą wolności pracy i tym samym narusza prawo do wyboru miejsca pracy i charakteru zatrudnienia- I guess so",
-      "b": "Wprowadzenie w umowę zawartej między dwoma pracodawcami ograniczeń polegających na zakazie zatrudniania pracowników drugiej strony nie jest sprzeczne z zasadami współżycia społecznego oraz     nie koliduje z zasadą wolności pracy ale narusza prawo do wyboru miejsca pracy i charakteru zatrudnienia",
-      "c": "Wprowadzenie w umowę zawartej między dwoma pracodawcami ograniczeń polegających na zakazie zatrudniania pracowników drugiej strony jest sprzeczne z zasadami współżycia społecznego oraz koliduje z zasadą wolności pracy, ale nie narusza prawa do wyboru miejsca pracy i charakteru zatrudnienia"
+      "a": "Wprowadzenie w umowę zawartej między dwoma pracodawcami ograniczeń polegających na zakazie zatrudniania pracowników drugiej strony jest sprzeczne z zasadami współżycia społecznego oraz koliduje z zasadą wolności pracy i tym samym narusza prawo do wyboru miejsca pracy i charakteru zatrudnienia",
+      "b": "Wprowadzenie w umowę zawartej między dwoma pracodawcami ograniczeń polegających na zakazie zatrudniania pracowników drugiej strony nie jest sprzeczne z zasadami współżycia społecznego oraz"
     },
     "correct_answers": [
       "a"
     ]
   },
   {
-    "id": 143,
-    "text": "Czy pracownik dochodząc odszkodowania z tytułu naruszenia zasady równego traktowania ma obowiązek wykazać, że pracodawca naruszył tę zasadę:",
+    "id": 70,
+    "text": "nie koliduje z zasadą wolności pracy ale narusza prawo do wyboru miejsca pracy i charakteru zatrudnienia",
+    "options": {
+      "c": "Wprowadzenie w umowę zawartej między dwoma pracodawcami ograniczeń polegających na zakazie zatrudniania pracowników drugiej strony jest sprzeczne z zasadami współżycia społecznego oraz koliduje z zasadą wolności pracy, ale nie narusza prawa do wyboru miejsca pracy i charakteru zatrudnienia"
+    },
+    "correct_answers": []
+  },
+  {
+    "id": 70,
+    "text": "Czy pracownik dochodząc odszkodowania z tytułu naruszenia zasady równego traktowania ma obowiązek wykazać, że pracodawca naruszył tę zasadę",
     "options": {
       "a": "Tak bo ciężar dowodu spoczywa na tym kto dochodzi roszczeń",
       "b": "Nie, w tym przypadku na pracodawcy spoczywa ciężar dowodu",
@@ -1777,7 +1893,7 @@
     ]
   },
   {
-    "id": 144,
+    "id": 71,
     "text": "Zakład pracy ma zostać przejęty przez nowego pracodawcę dotychczasowy pracodawca złożył wypowiedzenie umów o pracę niektórym pracownikom termin wypowiedzenia upłynie po dokonaniu zmian. Czy pracownicy ci powinni być poinformowani o przejściu zakładu pracy?",
     "options": {
       "a": "Tak",
@@ -1789,22 +1905,22 @@
     ]
   },
   {
-    "id": 145,
+    "id": 72,
     "text": "Wynagrodzenie za pracę na stanowisku konserwatora zieleni zostało ustalone stawką godzinową dla pracowników zatrudnionych w niepełnym wymiarze czasu pracy stawka wynosi 5, a dla pracowników w pełnym wymiarze czasu pracy 6 czy takie zróżnicowanie stawek godzinowych jest dopuszczalne.",
     "options": {
       "a": "Takie zróżnicowanie jest dopuszczalne jeśli pracodawca posiada na to uzasadnienie",
-      "b": "Takie zróżnicowanie jest sprzeczne z przepisami kodeksu pracy",
-      "c": "Takie zróżnicowanie nie jest sprzeczne z przepisami kodeksu pracy"
+      "b": "Takie zróżnicowanie jest sprzeczne z przepisami",
+      "c": "Takie zróżnicowanie nie jest sprzeczne z przepisami"
     },
     "correct_answers": [
       "b"
     ]
   },
   {
-    "id": 146,
-    "text": "Okres wypowiedzenia umowy o pracę na czas nieokreślony zależy od:",
+    "id": 73,
+    "text": "Okres wypowiedzenia umowy o pracę na czas nieokreślony zależy od",
     "options": {
-      "a": "Stażu pracy",
+      "a": "Stażu pracy poprzedniego albo przy przejściu zakładu pracy na innego pracodawcę",
       "b": "Zajmowanego stanowiska",
       "c": "Stażu pracy u danego pracodawcy"
     },
@@ -1814,8 +1930,8 @@
     ]
   },
   {
-    "id": 147,
-    "text": "Czy umowa o pracę na czas określony może być wypowiedziana skutecznie:",
+    "id": 74,
+    "text": "Czy umowa o pracę na czas określony może być wypowiedziana skutecznie",
     "options": {
       "a": "Tak, jeśli jest to umowa na czas dłuższy niż 6 miesięcy",
       "b": "Zawsze",
@@ -1826,8 +1942,8 @@
     ]
   },
   {
-    "id": 148,
-    "text": "Janina B. zawarła umowę na czas próbny, drugą umowę na czas próbny, a potem umowę na czas określony. Czy jest to zgodne z prawem:",
+    "id": 75,
+    "text": "Janina B. zawarła umowę na czas próbny , drugą umowę na czas próbny , a potem umowę na czas określony. Czy jest to zgodne z prawem",
     "options": {
       "a": "Zgodne z prawem, gdyż umowa na czas próbny nie może przekroczyć 3 miesięcy",
       "b": "Zgodne z prawem, ale druga umowa na czas próbny powinna być traktowana jako umowa na czas określony",
@@ -1838,8 +1954,8 @@
     ]
   },
   {
-    "id": 149,
-    "text": "Pracownikowi, z którym pracodawca rozwiązał umowę na czas określony niezgodnie z prawem, przysługuje roszczenie:",
+    "id": 76,
+    "text": "Pracownikowi, z którym pracodawca rozwiązał umowę na czas określony niezgodnie z prawem, przysługuje roszczenie",
     "options": {
       "a": "Tylko o przywrócenie do pracy",
       "b": "Tylko o odszkodowanie",
@@ -1850,7 +1966,7 @@
     ]
   },
   {
-    "id": 150,
+    "id": 77,
     "text": "Pisemna informacja o warunkach zatrudnienia powinna być sporządzona przez pracodawcę w terminie",
     "options": {
       "a": "W dniu zawarcia umowy o pracę",
@@ -1862,23 +1978,23 @@
     ]
   },
   {
-    "id": 151,
+    "id": 78,
     "text": "Postanowienia tzw. przepisów wewnątrzzakładowych, także umów o pracę",
     "options": {
       "a": "Mogą dowolnie regulować prawa i obowiązki stron stosunku pracy",
       "b": "Mogą przewidywać regulacje mniej korzystne, ale wyłącznie za zgodą pracownika",
-      "c": "Nie mogą być mniej korzystne dla pracowników niż przepisy Kodeksu pracy oraz innych ustaw i aktów wykonawczych"
+      "c": "Nie mogą być mniej korzystne dla pracowników niż przepisy wykonawczych"
     },
     "correct_answers": [
       "c"
     ]
   },
   {
-    "id": 152,
+    "id": 79,
     "text": "Umowa na czas nieokreślony powinna być wypowiedziana przez pracodawcę",
     "options": {
       "a": "W formie ustnej z podaniem przyczyny",
-      "b": "W formie pisemnej, z pouczeniem o prawie odwołania się do sądu",
+      "b": "W formie pisemnej, z pouczeniem o prawie odwołania się do sądu do sądu tylko w przypadku rozwiązania bez wypowiedzenia",
       "c": "W formie pisemnej ze wskazaniem przyczyny uzasadniającej rozwiązanie"
     },
     "correct_answers": [
@@ -1886,8 +2002,8 @@
     ]
   },
   {
-    "id": 153,
-    "text": "Pracownikiem jest:",
+    "id": 80,
+    "text": "Pracownikiem jest",
     "options": {
       "a": "Osoba zatrudniona na podstawie umowy",
       "b": "Osoba zatrudniona na podstawie umowy o pracę",
@@ -1898,8 +2014,8 @@
     ]
   },
   {
-    "id": 154,
-    "text": "Umowa na czas określony może być rozwiązana za wypowiedzeniem:",
+    "id": 88,
+    "text": "Umowa na czas określony może być rozwiązana za wypowiedzeniem",
     "options": {
       "a": "Zawsze",
       "b": "Jeżeli strony przewidziały możliwość wypowiedzenia w umowie",
@@ -1910,8 +2026,8 @@
     ]
   },
   {
-    "id": 155,
-    "text": "W razie urodzenia martwego dziecka lub zgonu dziecka przed upływem 8 tygodni życia, pracownicy:",
+    "id": 89,
+    "text": "W razie urodzenia martwego dziecka lub zgonu dziecka przed upływem 8 tygodni życia, pracownicy",
     "options": {
       "a": "Przysługuje urlop macierzyński w wymiarze 8 tygodni po porodzie, nie krócej jednak niż przez okres 7 dni od dnia zgonu dziecka",
       "b": "Przysługuje urlop macierzyński w wymiarze 12 tygodni po porodzie, nie krócej jednak niż przez okres 7 dni od dnia zgonu dziecka",
@@ -1922,7 +2038,7 @@
     ]
   },
   {
-    "id": 156,
+    "id": 90,
     "text": "Pracownik podejmujący pracę po raz pierwszy, w roku kalendarzowym, w którym podjął pracę nabywa prawo do kolejnych urlopów",
     "options": {
       "a": "W każdym następnym roku kalendarzowym",
@@ -1935,8 +2051,8 @@
     ]
   },
   {
-    "id": 157,
-    "text": "Nie trzeba prowadzić ewidencji czasu pracy w stosunku do:",
+    "id": 91,
+    "text": "Nie trzeba prowadzić ewidencji czasu pracy w stosunku do",
     "options": {
       "a": "Pracowników objętych zadaniowym czasem pracy",
       "b": "Pracowników objętych weekendowym czasem pracy",
@@ -1947,8 +2063,8 @@
     ]
   },
   {
-    "id": 158,
-    "text": "W każdym systemie czasu pracy, jeżeli jest to uzasadnione przyczynami obiektywnymi lubtechnicznymi  lub dotyczącymi organizacji, okres rozliczeniowy może być przedłużony, nie więcej jednak niż do:",
+    "id": 92,
+    "text": "W każdym systemie czasu pracy, jeżeli jest to uzasadnione przyczynami obiektywnymi lubtechnicznymi lub dotyczącymi organizacji, okres rozliczeniowy może być przedłużony, nie więcej jednak niż do",
     "options": {
       "a": "3 miesięcy",
       "b": "6 miesięcy",
@@ -1959,10 +2075,10 @@
     ]
   },
   {
-    "id": 159,
-    "text": "Zgodnie z ustawą Kodeks pracy, rozkład czasu może przewidywać przedział czasu, w którym pracownik decyduje o godzinie rozpoczęcia pracy w dniu, który zgodnie z tym rozkładem jest dla pracownika dniem pracy:",
+    "id": 93,
+    "text": "Zgodnie z ustawą decyduje o godzinie rozpoczęcia pracy w dniu, który zgodnie z tym rozkładem jest dla pracownika dniem pracy",
     "options": {
-      "a": "Ponowne wykonywanie pracy w tej samej dobie nie stanowi pracy w godzinach nadliczbowych",
+      "a": "Ponowne wykonywanie pracy w tej samej dobie nie stanowi pracy w godzinach nadliczbowych 140",
       "b": "Ponowne wykonywanie pracy w tej samej dobie stanowi pracę w godzinach nadliczbowych",
       "c": "Ponowne wykonywanie pracy w tej samej dobie jest niedopuszczalne"
     },
@@ -1971,7 +2087,7 @@
     ]
   },
   {
-    "id": 160,
+    "id": 94,
     "text": "Ponowne zawarcie umowy o pracę na okres próbny z tym samym pracownikiem jest możliwe",
     "options": {
       "a": "po upływie roku od dnia rozwiązania lub wygaśnięcia poprzedniej umowy o pracę",
@@ -1983,8 +2099,8 @@
     ]
   },
   {
-    "id": 161,
-    "text": "Urlopu wypoczynkowego niewykorzystanego zgodnie z planem urlopów należy pracownikowi udzielić:",
+    "id": 95,
+    "text": "Urlopu wypoczynkowego niewykorzystanego zgodnie z planem urlopów należy pracownikowi udzielić",
     "options": {
       "a": "najpóźniej do 31 Stycznia następnego roku kalendarzowego",
       "b": "najpóźniej do końca trzeciego kwartału następnego roku kalendarzowego",
@@ -1997,8 +2113,8 @@
     ]
   },
   {
-    "id": 162,
-    "text": "Umowa o pracę na okres próbny może poprzedzać:",
+    "id": 1,
+    "text": "Umowa o pracę na okres próbny może poprzedzać",
     "options": {
       "a": "Tylko umowę o pracę na czas nieokreślony",
       "b": "Każdy pozostały rodzaj umowy o pracę",
@@ -2010,12 +2126,12 @@
     ]
   },
   {
-    "id": 163,
-    "text": "Umowa na czas określony dłuższy niż 33 miesięcy:",
+    "id": 2,
+    "text": "Umowa na czas określony dłuższy niż 33 miesięcy",
     "options": {
-      "a": "Ulega przekształceniu w umowę o pracę na czas nieokreślony z datą jej podpisania",
+      "a": "Ulega przekształceniu w umowę o pracę na czas nieokreślony z datą jej podpisania upłynięcia okresu 33 miesięcy",
       "b": "Jest dopuszczalna i nie ulega przekształceniu w umowę o pracę na czas nieokreślony, jeśli dotyczy pracy na okres kadencji",
-      "c": "Jest niedopuszczalna  TESTY Z ZESZŁYCH LAT ZE ZDJĘĆ"
+      "c": "Jest niedopuszczalna"
     },
     "correct_answers": [
       "a",
@@ -2023,8 +2139,8 @@
     ]
   },
   {
-    "id": 164,
-    "text": "Zakreśl zdarzenia, które pomniejszają proporcjonalnie pracownikowi urlop wypoczynkowy:",
+    "id": 1,
+    "text": "Zakreśl zdarzenia, które pomniejszają proporcjonalnie pracownikowi urlop wypoczynkowy",
     "options": {
       "a": "powrót do pracy po urlopie wypoczynkowym, trwającym dłużej niż 1 miesiąc",
       "b": "powrót do pracy po urlopie bezpłatnym, trwającym dłużej niż 1 miesiąc",
@@ -2045,8 +2161,8 @@
     ]
   },
   {
-    "id": 165,
-    "text": "Zaznacz przypadki rozwiązania umowy o pracę:",
+    "id": 2,
+    "text": "Zaznacz przypadki rozwiązania umowy o pracę",
     "options": {
       "a": "porozumienie stron",
       "b": "upływ czasu",
@@ -2059,8 +2175,8 @@
     ]
   },
   {
-    "id": 166,
-    "text": "Elementami nieobligatoryjnymi w umowie o pracę:",
+    "id": 3,
+    "text": "Elementami nieobligatoryjnymi w umowie o pracę",
     "options": {
       "a": "rodzaj pracy",
       "b": "wypowiedzenie",
@@ -2072,8 +2188,8 @@
     ]
   },
   {
-    "id": 167,
-    "text": "Zgodnie z ustawą Kodeks pracy, w razie egzekucji świadczeń alimentacyjnych, potrącenia te mogą być dokonywane w następujących granicach:",
+    "id": 4,
+    "text": "Zgodnie z ustawą dokonywane w następujących granicach",
     "options": {
       "a": "do wysokości połowy wynagrodzenia",
       "b": "do wysokości trzech piątych wynagrodzenia",
@@ -2084,44 +2200,44 @@
     ]
   },
   {
-    "id": 168,
-    "text": "Postanowienia układów zbiorowych pracy i porozumień zbiorowych oraz regulaminów i statutów:",
+    "id": 5,
+    "text": "Postanowienia układów zbiorowych pracy i porozumień zbiorowych oraz regulaminów i statutów",
     "options": {
-      "a": "mogą być mniej korzystne dla pracowników niż przepisy Kodeksu pracy",
-      "b": "nie mogą być mniej korzystne dla pracowników i pracodawców niż przepisy Kodeksu Pracy",
-      "c": "nie mogą być mniej korzystne dla pracowników niż przepisy Kodeksu pracy oraz innych ustaw i aktów wykonawczych"
+      "a": "mogą być mniej korzystne dla pracowników niż przepisy",
+      "b": "nie mogą być mniej korzystne dla pracowników i pracodawców niż przepisy",
+      "c": "nie mogą być mniej korzystne dla pracowników niż przepisy wykonawczych"
     },
     "correct_answers": [
       "c"
     ]
   },
   {
-    "id": 169,
-    "text": "Czy pracodawca może nie posiadać osobowości prawnej:",
+    "id": 6,
+    "text": "Czy pracodawca może nie posiadać osobowości prawnej",
     "options": {
       "a": "tak",
       "b": "nie",
-      "c": "tak, ale z pewnymi wyjątkami wymienionymi w ustawie Kodeksu pracy"
+      "c": "tak, ale z pewnymi wyjątkami wymienionymi w ustawie"
     },
     "correct_answers": [
       "a"
     ]
   },
   {
-    "id": 170,
-    "text": "Wypowiedzenie dotychczasowych warunków pracy lub płacy nie jest wymagane w razie powierzenia pracownikowi, w przypadkach uzasadnionych potrzebami pracodawcy:",
+    "id": 7,
+    "text": "Wypowiedzenie dotychczasowych warunków pracy lub płacy nie jest wymagane w razie powierzenia pracownikowi, w przypadkach uzasadnionych potrzebami pracodawcy",
     "options": {
       "a": "dodatkowej pracy na okres nieprzekraczający 3 miesięcy",
       "b": "innej pracy na okres nieprzekraczający 3 miesięcy, jeżeli nie powoduje to obniżenia wynagrodzenia i odpowiada kwalifikacjom pracownika",
-      "c": "innej pracy niż określona w umowie o pracę na okres nieprzekraczający 3 miesięcy w roku kalendarzowym, jeżeli nie powoduje to obniżenia wynagrodzenia i odpowiada kwalifikacjom pracownika -art. 42 par. 4"
+      "c": "innej pracy niż określona w umowie o pracę na okres nieprzekraczający 3 miesięcy w roku kalendarzowym, jeżeli nie powoduje to obniżenia wynagrodzenia i odpowiada kwalifikacjom pracownika"
     },
     "correct_answers": [
       "c"
     ]
   },
   {
-    "id": 171,
-    "text": "Jeżeli okres zatrudnienia na podstawie umowy o pracę na czas określony jest dłuższy niż 33 miesiące lub jeżeli liczba zawartych umów jest większa niż trzy, uważa się, że pracownik:",
+    "id": 8,
+    "text": "Jeżeli okres zatrudnienia na podstawie umowy o pracę na czas określony jest dłuższy niż 33 miesiące lub jeżeli liczba zawartych umów jest większa niż trzy, uważa się, że pracownik",
     "options": {
       "a": "od dnia następującego po upływie 33 miesięcy lub od dnia zawarcia czwartej umowy o pracę na czas określony, jest zatrudniony na podstawie umowy o pracę na czas nieokreślony",
       "b": "od miesiąca następującego po upływie 33 miesięcy lub od dnia zawarcia czwartej umowy o pracę na czas określony, jest zatrudniony na podstawie umowy o pracę na czas nieokreślony",
@@ -2132,8 +2248,8 @@
     ]
   },
   {
-    "id": 172,
-    "text": "Tygodniowy czas pracy łącznie z godzinami nadliczbowymi nie może przekraczać:",
+    "id": 9,
+    "text": "Tygodniowy czas pracy łącznie z godzinami nadliczbowymi nie może przekraczać",
     "options": {
       "a": "48 h w przyjętym okresie rozliczeniowym",
       "b": "przeciętnie 48 h w przyjętym okresie rozliczeniowym",
@@ -2144,8 +2260,8 @@
     ]
   },
   {
-    "id": 173,
-    "text": "Pracownika opiekującego się dzieckiem do ukończenia przez nie 8 roku życia nie wolno bez jego zgody zatrudniać w godzinach:",
+    "id": 10,
+    "text": "Pracownika opiekującego się dzieckiem do ukończenia przez nie 8 roku życia nie wolno bez jego zgody zatrudniać w godzinach",
     "options": {
       "a": "nadliczbowych w porze nocnej",
       "b": "nadliczbowych w porze nocnej, w systemie przerywanego czasu pracy, jak również delegować poza stałe miejsce pracy",
@@ -2156,8 +2272,8 @@
     ]
   },
   {
-    "id": 174,
-    "text": "Roszczenia ze stosunku pracy ulegają przedawnieniu z upływem:",
+    "id": 11,
+    "text": "Roszczenia ze stosunku pracy ulegają przedawnieniu z upływem",
     "options": {
       "a": "2 lat od dnia, w którym roszczenie stał się wymagalne",
       "b": "3 lat od dnia, w którym roszczenie stał się wymagalne",
@@ -2168,8 +2284,8 @@
     ]
   },
   {
-    "id": 175,
-    "text": "Udzielenie pracownikowi urlopu w dniu pracy w wymiarze godzinowym odpowiadającym części dobowego wymiaru czasu pracy jest dopuszczalne jedynie w przypadku:",
+    "id": 12,
+    "text": "Udzielenie pracownikowi urlopu w dniu pracy w wymiarze godzinowym odpowiadającym części dobowego wymiaru czasu pracy jest dopuszczalne jedynie w przypadku",
     "options": {
       "a": "na prośbę pracownika",
       "b": "gdy część urlopu pozostała do wykorzystania jest niższa niż pełny dobowy wymiar czasu pracy pracownika w dniu, na który ma być udzielony urlop",
@@ -2180,8 +2296,8 @@
     ]
   },
   {
-    "id": 176,
-    "text": "Jeżeli pracownik nie może rozpocząć urlopu w ustalonym terminie z przyczyn nie usprawiedliwiających nieobecność w pracy, a w szczególności z powodu: czasowej niezdolności do pracy wskutek choroby, odosobnienia w związku z chorobą zakaźną, powołania na ćwiczenia wojskowe lub na przeszkolenie wojskowe albo stawienia się do pełnienia terytorialnej służby rotacyjnie, na czas do 3 miesięcy, urlopu macierzyńskiego:",
+    "id": 13,
+    "text": "Jeżeli pracownik nie może rozpocząć urlopu w ustalonym terminie z przyczyn nie usprawiedliwiających nieobecność w pracy, a w szczególności z powodu: czasowej niezdolności do pracy wskutek choroby, odosobnienia w związku z chorobą zakaźną, powołania na ćwiczenia wojskowe lub na przeszkolenie wojskowe albo stawienia się do pełnienia terytorialnej służby rotacyjnie, na czas do 3 miesięcy, urlopu macierzyńskiego",
     "options": {
       "a": "pracodawca może przesunąć urlop na termin późniejszy",
       "b": "pracodawca jest obowiązany przesunąć urlop na termin późniejszy",
@@ -2192,7 +2308,7 @@
     ]
   },
   {
-    "id": 177,
+    "id": 14,
     "text": "Ekwiwalent pieniężny za niewykorzystany urlop wypoczynkowy przysługuje w przypadku",
     "options": {
       "a": "zmiany pracodawcy w trakcie roku kalendarzowego",
@@ -2204,8 +2320,8 @@
     ]
   },
   {
-    "id": 178,
-    "text": "Jeżeli jest to uzasadnione rodzajem pracy lub jej organizacją, może być stosowany system równoważonego czasu pracy, w którym jest dopuszczalne przedłużenie dobowego wymiaru czasu pracy przedłużony dobowy wymiar czasu pracy jest równoważony:",
+    "id": 15,
+    "text": "Jeżeli jest to uzasadnione rodzajem pracy lub jej organizacją, może być stosowany system równoważonego czasu pracy, w którym jest dopuszczalne przedłużenie dobowego wymiaru czasu pracy przedłużony dobowy wymiar czasu pracy jest równoważony",
     "options": {
       "a": "wynagrodzeniem albo dniami wolnymi od pracy",
       "b": "dobowym wymiarem czasu pracy w niektórych dniach",
@@ -2216,8 +2332,8 @@
     ]
   },
   {
-    "id": 179,
-    "text": "Ponowne zawarcie umowy o pracę na okres próbny z tym samym pracownikiem jest możliwe po upływie co najmniej 3 lat od dnia rozwiązania lub wygaśnięcia poprzedniej umowy o pracę, jeżeli:",
+    "id": 16,
+    "text": "Ponowne zawarcie umowy o pracę na okres próbny z tym samym pracownikiem jest możliwe po upływie co najmniej 3 lat od dnia rozwiązania lub wygaśnięcia poprzedniej umowy o pracę, jeżeli",
     "options": {
       "a": "pracownik ma być zatrudniony w celu wykonywania tego samego rodzaju pracy, w tym przypadku dopuszczalne jest jednokrotne ponowne zawarcie umowy na okres próbny",
       "b": "pracownik ma być zatrudniony w celu wykonywania innego rodzaju pracy",
@@ -2228,8 +2344,8 @@
     ]
   },
   {
-    "id": 180,
-    "text": "Okres zatrudnienia na podstawie umowy o pracę na czas określony, a także łączny okres zatrudnienia na podstawie umów o pracę na czas określony zawieranych między tymi samymi stronami stosunku pracy, nie może przekraczać:",
+    "id": 17,
+    "text": "Okres zatrudnienia na podstawie umowy o pracę na czas określony, a także łączny okres zatrudnienia na podstawie umów o pracę na czas określony zawieranych między tymi samymi stronami stosunku pracy, nie może przekraczać",
     "options": {
       "a": "24 miesięcy, a łączna liczba tych umów nie może przekraczać czterech",
       "b": "33 miesięcy, a łączna liczba tych umów nie może przekraczać czterech",
@@ -2240,10 +2356,17 @@
     ]
   },
   {
-    "id": 181,
-    "text": "Rozwiązanie umowy o pracę bez wypowiedzenia z winy pracownika nie może nastąpić:",
+    "id": 18,
+    "text": "Rozwiązanie umowy o pracę bez wypowiedzenia z winy pracownika nie może nastąpić",
     "options": {
-      "a": "w okresie usprawiedliwionej nieobecności pracownika w pracy",
+      "a": "w okresie usprawiedliwionej nieobecności pracownika w pracy"
+    },
+    "correct_answers": []
+  },
+  {
+    "id": 19,
+    "text": "",
+    "options": {
       "b": "po upływie 1 miesiąca od uzyskania przez pracodawcę wiadomości o okoliczności uzasadniającej rozwiązanie umowy",
       "c": "po upływie 3 miesięcy od uzyskania przez pracodawcę wiadomości o okoliczności uzasadniającej rozwiązanie umowy"
     },
@@ -2252,18 +2375,18 @@
     ]
   },
   {
-    "id": 182,
-    "text": "Elementami nieobligatoryjnymi w umowie o pracę jest:",
+    "id": 19,
+    "text": "Elementami nieobligatoryjnymi w umowie o pracę jest",
     "options": {
       "a": "rodzaj umowy o pracę",
       "b": "wynagrodzenie",
-      "c": "wymiar czasu pracy To elementy obligatoryjne w umowie o pracę + strony umowy, rodzaj pracy, miejsce pracy, termin rozpoczęcia [art. 29]"
+      "c": "wymiar czasu pracy"
     },
     "correct_answers": []
   },
   {
-    "id": 183,
-    "text": "Postanowienia umów o pracę oraz innych aktów, na których podstawie powstaje stosunek pracy, mniej korzystne dla pracownika niż przepisy prawa pracy:",
+    "id": 20,
+    "text": "Postanowienia umów o pracę oraz innych aktów, na których podstawie powstaje stosunek pracy, mniej korzystne dla pracownika niż przepisy prawa pracy",
     "options": {
       "a": "są nieważne",
       "b": "są nieważne, zamiast nich stosuje się odpowiednie przepisy prawa pracy",
@@ -2274,8 +2397,8 @@
     ]
   },
   {
-    "id": 184,
-    "text": "Zgodnie z ustawą Kodeks pracy, w razie egzekucji innych należności niż świadczenia alimentacyjne lub potrącania zaliczek pieniężnych, potrącenia te mogą być dokonywane w następujących granicach:",
+    "id": 21,
+    "text": "Zgodnie z ustawą potrącania zaliczek pieniężnych, potrącenia te mogą być dokonywane w następujących granicach",
     "options": {
       "a": "do wysokości połowy wynagrodzenia",
       "b": "do wysokości trzech piątych wynagrodzenia",
@@ -2286,8 +2409,8 @@
     ]
   },
   {
-    "id": 185,
-    "text": "Zgodnie z ustawą Kodeks pracy, pracownik, który ukończył 50 rok życia, zachowuje prawo do wynagrodzenia za czas niezdolności do pracy wskutek: choroby lub odosobnienia w związku z chorobą zakaźną trwającej łącznie w ciągu roku kalendarzowego do:",
+    "id": 22,
+    "text": "Zgodnie z ustawą wynagrodzenia za czas niezdolności do pracy wskutek: choroby lub odosobnienia w związku z chorobą zakaźną trwającej łącznie w ciągu roku kalendarzowego do",
     "options": {
       "a": "14 DNI MA BYĆ 80% WYNAGRODZENIA"
     },
@@ -2296,8 +2419,8 @@
     ]
   },
   {
-    "id": 186,
-    "text": "Regulamin pracy i wynagrodzenia mają obowiązek wprowadzać pracodawcy zatrudniający:",
+    "id": 1,
+    "text": "Regulamin pracy i wynagrodzenia mają obowiązek wprowadzać pracodawcy zatrudniający",
     "options": {
       "a": "co najmniej 20 pracowników",
       "b": "co najmniej 10 pracowników",
@@ -2308,20 +2431,20 @@
     ]
   },
   {
-    "id": 187,
-    "text": "Pracownik w stosunku do którego pracodawca naruszył zasadę równego traktowania ma prawo do odszkodowania w minimalnej wysokości:",
+    "id": 2,
+    "text": "Pracownik w stosunku do którego pracodawca naruszył zasadę równego traktowania ma prawo do odszkodowania w minimalnej wysokości",
     "options": {
       "a": "miesięcznego wynagrodzenia",
       "b": "dwumiesięcznego wynagrodzenia",
-      "c": "trzymiesięcznego wynagrodzenia"
+      "c": "trzymiesięcznego wynagrodzenia odszkodowania w wysokości nie niższej niż minimalne wynagrodzenie za pracę, ustalane na podstawie odrębnych przepisów."
     },
     "correct_answers": [
       "a"
     ]
   },
   {
-    "id": 188,
-    "text": "Pracownik nie może zrec się:",
+    "id": 3,
+    "text": "Pracownik nie może zrec się",
     "options": {
       "a": "urlopu wypoczynkowego",
       "b": "wynagrodzenia za pracę"
@@ -2332,20 +2455,28 @@
     ]
   },
   {
-    "id": 189,
-    "text": "Zmiana regulaminu wynagradzania:",
+    "id": 4,
+    "text": "Zmiana regulaminu wynagradzania",
     "options": {
-      "a": "co do zasady nie wymaga zmiany umowy o pracę [jeśli są korzystne to wchodzą z mocy prawa]",
-      "b": "jeśli jest na niekorzyść pracowników, to wymaga zmiany umowy o pracę",
+      "a": "co do zasady nie wymaga zmiany umowy o pracę",
+      "b": "jeśli jest na niekorzyść pracowników, to wymaga zmiany umowy o pracę"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 5,
+    "text": "",
+    "options": {
       "c": "w zależności od sytuacji wymaga lub nie wymaga zmiany umowy o pracę"
     },
     "correct_answers": [
-      "b",
       "c"
     ]
   },
   {
-    "id": 190,
+    "id": 5,
     "text": "Pracownikiem nie jest zatrudniona osoba na podstawie: umów cywilnoprawnych",
     "options": {
       "a": "wyboru",
@@ -2358,8 +2489,8 @@
     ]
   },
   {
-    "id": 191,
-    "text": "Żądanie uznania za bezskuteczne wypowiedzenia umowy o pracę pracownik powinien wnieść w pozwie do sądu pracy:",
+    "id": 6,
+    "text": "Żądanie uznania za bezskuteczne wypowiedzenia umowy o pracę pracownik powinien wnieść w pozwie do sądu pracy",
     "options": {
       "a": "w terminie 7 dni od doręczenia mu pisma wypowiadającego umowę o pracę",
       "b": "w terminie 14 dni od doręczenia mu pisma wypowiadającego umowę o pracę",
@@ -2371,8 +2502,8 @@
     ]
   },
   {
-    "id": 192,
-    "text": "Pracownik, wobec którego stosowany jest mobbing może dochodzić:",
+    "id": 7,
+    "text": "Pracownik, wobec którego stosowany jest mobbing może dochodzić",
     "options": {
       "a": "Tylko odszkodowania w wysokości minimalnego wynagrodzenia za pracę",
       "b": "Zadośćuczynienia",
@@ -2380,13 +2511,12 @@
       "d": "Odszkodowania"
     },
     "correct_answers": [
-      "b",
       "d"
     ]
   },
   {
-    "id": 193,
-    "text": "Za pracę w godzinach nadliczbowych oprócz minimalnego wynagrodzenia za pracę w niedzielę przysługuje dodatek w wysokości:",
+    "id": 8,
+    "text": "Za pracę w godzinach nadliczbowych oprócz minimalnego wynagrodzenia za pracę w niedzielę przysługuje dodatek w wysokości",
     "options": {
       "a": "100 % wynagrodzenia",
       "b": "50 % wynagrodzenia",
@@ -2397,7 +2527,7 @@
     ]
   },
   {
-    "id": 194,
+    "id": 9,
     "text": "Podwyżka wynagrodzenia wymaga akceptacji pracownika",
     "options": {
       "a": "Prawda",
@@ -2408,8 +2538,8 @@
     ]
   },
   {
-    "id": 195,
-    "text": "Ekwiwalent pieniężny za niewykorzystanie urlopu przysługuje:",
+    "id": 10,
+    "text": "Ekwiwalent pieniężny za niewykorzystanie urlopu przysługuje",
     "options": {
       "a": "w razie niewykorzystania urlopu z powodu skierowania do pracy za granicą",
       "b": "w razie wygaśnięcia stosunku pracy",
@@ -2422,8 +2552,8 @@
     ]
   },
   {
-    "id": 196,
-    "text": "Świadczenie rehabilitacyjne przysługuje ubezpieczonemu przez okres niezbędny do przywrócenia zdolności do pracy, nie dłużej niż przez:",
+    "id": 11,
+    "text": "Świadczenie rehabilitacyjne przysługuje ubezpieczonemu przez okres niezbędny do przywrócenia zdolności do pracy, nie dłużej niż przez",
     "options": {
       "a": "4 miesiące",
       "b": "6 miesięcy",
@@ -2434,20 +2564,27 @@
     ]
   },
   {
-    "id": 197,
-    "text": "Ochrona przedemerytalna przed wypowiedzeniem stosunku pracy w przypadku stosunku pracy na podstawie umowy o pracę przysługuje co do zasady:",
+    "id": 12,
+    "text": "Ochrona przedemerytalna przed wypowiedzeniem stosunku pracy w przypadku stosunku pracy na podstawie umowy o pracę przysługuje co do zasady",
     "options": {
-      "a": "pracownikowi któremu brakuje nie więcej niż 4 lata do osiągnięcia wieku emerytalnego, jeżeli okres zatrudnienia umożliwia mu uzyskanie prawa do emerytury z osiągnięciem tego wieku.",
-      "b": "pracownikowi któremu brakuje nie więcej niż 2 lata do osiągnięcia wieku emerytalnego, jeżeli okres zatrudnienia umożliwia mu uzyskanie prawa do emerytury z osiągnięciem tego wieku.",
-      "c": "pracownikowi któremu brakuje nie więcej niż 5 lata do osiągnięcia wieku emerytalnego, jeżeli okres zatrudnienia umożliwia mu uzyskanie prawa do emerytury z osiągnięciem tego wieku."
+      "a": "pracownikowi któremu brakuje nie więcej niż 4 lata do osiągnięcia wieku emerytalnego, jeżeli okres zatrudnienia umożliwia mu uzyskanie prawa do emerytury z osiągnięciem tego wieku."
     },
     "correct_answers": [
       "a"
     ]
   },
   {
-    "id": 198,
-    "text": "Sąd skreśla związek zawodowy z rejestru, gdy:",
+    "id": 13,
+    "text": "",
+    "options": {
+      "b": "pracownikowi któremu brakuje nie więcej niż 2 lata do osiągnięcia wieku emerytalnego, jeżeli okres zatrudnienia umożliwia mu uzyskanie prawa do emerytury z osiągnięciem tego wieku.",
+      "c": "pracownikowi któremu brakuje nie więcej niż 5 lata do osiągnięcia wieku emerytalnego, jeżeli okres zatrudnienia umożliwia mu uzyskanie prawa do emerytury z osiągnięciem tego wieku."
+    },
+    "correct_answers": []
+  },
+  {
+    "id": 13,
+    "text": "Sąd skreśla związek zawodowy z rejestru, gdy",
     "options": {
       "a": "wskazany w statucie organ podjął uchwałę o rozwiązaniu związku",
       "b": "pracodawca, u którego dotychczas działał związek zawodowy został wykreślony z właściwego rejestru z powodu jego likwidacji lub upadłości albo jego przekształcenia organizacyjno-prawnego, uniemożliwiającego kontynuowanie działalności tego związku",
@@ -2460,8 +2597,8 @@
     ]
   },
   {
-    "id": 199,
-    "text": "Okres wypowiedzenia umowy o pracę zawartej na czas nieokreślony dla pracownika",
+    "id": 14,
+    "text": "Okres wypowiedzenia umowy o pracę zawartej na czas nieokreślony dla pracownika - wskaż odpowiedzi tylko prawdziwe",
     "options": {
       "a": "wynosi 2 tyg jeżeli pracownik był zatrudniony krócej niż 6 msc u danego pracodawcy",
       "b": "trzy msc jeśli pracownik był zatrudniony co najmniej 6 msc",
@@ -2475,8 +2612,8 @@
     ]
   },
   {
-    "id": 200,
-    "text": "Umowę o pracę na okres próbny można co do zasady zawrzeć na maksymalny okres:",
+    "id": 15,
+    "text": "Umowę o pracę na okres próbny można co do zasady zawrzeć na maksymalny okres",
     "options": {
       "a": "3 miesiące",
       "b": "36 miesiące",
@@ -2487,8 +2624,8 @@
     ]
   },
   {
-    "id": 201,
-    "text": "Pracodawca może żądać od osoby ubiegającej się o zatrudnienie podania danych osobowych obejmujących:",
+    "id": 16,
+    "text": "Pracodawca może żądać od osoby ubiegającej się o zatrudnienie podania danych osobowych obejmujących",
     "options": {
       "a": "imię i nazwisko",
       "b": "datę urodzenia",
@@ -2502,8 +2639,8 @@
     ]
   },
   {
-    "id": 202,
-    "text": "Z tytułu ukończenia studiów niestacjonarnych pracownikowi do stażu pracy na potrzeby obliczania urlopu wypoczynkowego jest wliczone:",
+    "id": 17,
+    "text": "Z tytułu ukończenia studiów niestacjonarnych pracownikowi do stażu pracy na potrzeby obliczania urlopu wypoczynkowego jest wliczone",
     "options": {
       "a": "6 lat pracy",
       "b": "8 lat pracy",
@@ -2514,8 +2651,8 @@
     ]
   },
   {
-    "id": 203,
-    "text": "Z chwilą śmierci pracownika:",
+    "id": 18,
+    "text": "Z chwilą śmierci pracownika",
     "options": {
       "a": "stosunek pracy może wygasnąć",
       "b": "stosunek pracy może przejść na następców prawnych",
@@ -2526,13 +2663,13 @@
     ]
   },
   {
-    "id": 204,
-    "text": "Urlop na żądanie może zostać zgłoszony przez pracownika:",
+    "id": 19,
+    "text": "Urlop na żądanie może zostać zgłoszony przez pracownika",
     "options": {
-      "a": "na piśmie [w dowolnej formie]",
+      "a": "na piśmie",
       "b": "do końca dniówki roboczej",
       "c": "sms",
-      "d": "maksymalnie w wymiarze 2 dni w ciągu roku kalendarzowego [przysługuje nie więcej niż 4]"
+      "d": "maksymalnie w wymiarze 2 dni w ciągu roku kalendarzowego"
     },
     "correct_answers": [
       "a",
@@ -2540,19 +2677,17 @@
     ]
   },
   {
-    "id": 205,
-    "text": "W przypadku urlopu macierzyńskiego:",
+    "id": 20,
+    "text": "W przypadku urlopu macierzyńskiego",
     "options": {
       "a": "pracownica nabywa prawo do urlopu wypoczynkowego przez cały okres",
       "b": "urlop wypoczynkowy ulega proporcjonalnemu pomniejszeniu o okres urlopu macierzyńskiego"
     },
-    "correct_answers": [
-      "a"
-    ]
+    "correct_answers": []
   },
   {
-    "id": 206,
-    "text": "Jeżeli okres zatrudnienia, na podstawie zwykłej umowy o pracę na czas określony jest dłuższy niż 33 msc. lub jeżeli liczba zawartych umów jest większa niż 4, uważa się, że pracownik odpowiednio od dnia następującego po upływie tego okresu, lub od dnia zawarcia czwartej umowy o pracę na czas określony:",
+    "id": 21,
+    "text": "Jeżeli okres zatrudnienia, na podstawie zwykłej umowy o pracę na czas określony jest dłuższy niż 33 msc. lub jeżeli liczba zawartych umów jest większa niż 4, uważa się, że pracownik odpowiednio od dnia następującego po upływie tego okresu, lub od dnia zawarcia czwartej umowy o pracę na czas określony",
     "options": {
       "a": "jest zatrudniony na podstawie umowy o pracę na czas nieokreślony",
       "b": "jest zatrudniony na podstawie umowy o pracę na czas określony",
@@ -2563,8 +2698,8 @@
     ]
   },
   {
-    "id": 207,
-    "text": "Umowa o dzieło:",
+    "id": 22,
+    "text": "Umowa o dzieło",
     "options": {
       "a": "jest stosunkiem pracy",
       "b": "jest umową cywilnoprawną",
@@ -2575,22 +2710,20 @@
     ]
   },
   {
-    "id": 208,
+    "id": 23,
     "text": "Czy w trakcie zwolnienia chorobowego można korzystać z zaplanowanego urlopu wypoczynkowego?",
     "options": {
       "a": "tak",
       "b": "nie"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": []
   },
   {
-    "id": 209,
-    "text": "Wypowiedzenie umowy o pracę przez pracodawcę w formie sms pracownikowi:",
+    "id": 24,
+    "text": "Wypowiedzenie umowy o pracę przez pracodawcę w formie sms pracownikowi",
     "options": {
       "a": "jest nieważne z mocy prawa",
-      "b": "jest wadliwe [ale skuteczne]",
+      "b": "jest wadliwe",
       "c": "nie wywołuje żadnych skutków prawnych nawet jeśli dotarło do adresata"
     },
     "correct_answers": [
@@ -2598,10 +2731,10 @@
     ]
   },
   {
-    "id": 210,
-    "text": "W przypadku przejścia części lub całości zakładu pracy na innego pracodawcę pracownik może:",
+    "id": 25,
+    "text": "W przypadku przejścia części lub całości zakładu pracy na innego pracodawcę pracownik może",
     "options": {
-      "a": "w terminie 2 msc od przejścia zakładu pracy lub jego części na innego pracodawcę, bez wypowiedzenia, za siedmiodniowym uprzedzeniem, rozwiązać stosunek pracy [art.23 par. 4]",
+      "a": "w terminie 2 msc od przejścia zakładu pracy lub jego części na innego pracodawcę, bez wypowiedzenia, za siedmiodniowym uprzedzeniem, rozwiązać stosunek pracy",
       "b": "w terminie 7 dni od przejścia zakładu pracy lub jego części na innego pracodawcę, bez wypowiedzenia, za siedmiodniowym uprzedzeniem, rozwiązać stosunek pracy",
       "c": "w terminie 1 msc od przejścia zakładu pracy lub jego części na innego pracodawcę, za wypowiedzeniem skróconym do 7 dni, rozwiązać stosunek pracy"
     },
@@ -2610,8 +2743,8 @@
     ]
   },
   {
-    "id": 211,
-    "text": "Dobowy odpoczynek w pracy pracownika powinien wynosić co do zasady:",
+    "id": 26,
+    "text": "Dobowy odpoczynek w pracy pracownika powinien wynosić co do zasady",
     "options": {
       "a": "8 h",
       "b": "11 h",
@@ -2622,12 +2755,12 @@
     ]
   },
   {
-    "id": 212,
-    "text": "W zamian za czas przepracowany w godzinach nadliczbowych pracodawca może:",
+    "id": 27,
+    "text": "W zamian za czas przepracowany w godzinach nadliczbowych pracodawca może",
     "options": {
       "a": "zapłacić pracownikowi normalne wynagrodzenie za pracę za przepracowane godziny pracy",
       "b": "zapłacić pracownikowi normalne wynagrodzenie za pracę za przepracowane godziny pracy oraz dodatek za pracę w godzinach nadliczbowych",
-      "c": "na pisemny wniosek pracownika, może udzielić mu w tym samym wymiarze czasu wolnego od pracy"
+      "c": "na pisemny wniosek pracownika, może udzielić mu w tym samym wymiarze czasu wolnego od pracy 151"
     },
     "correct_answers": [
       "b",
