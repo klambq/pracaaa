@@ -1,1887 +1,1102 @@
 [
   {
-    "id": 1,
-    "text": "Wobec osób wykazujących przejawy demoralizacji przepisy ustawy stosuje się do ukończenia przez nie:",
+    "id": 151,
+    "text": "W którym momencie postępowania nieletni musi zostać pouczony o przysługujących mu prawach, takich jak prawo do odmowy składania wyjaśnień? [cite: 309]",
     "options": {
-      "a": "17 roku życia",
-      "b": "18 roku życia (pełnoletniości)",
-      "c": "21 roku życia",
-      "d": "25 roku życia"
+      "a": "Niezwłocznie po zatrzymaniu przez Policję",
+      "b": "Nie później niż przed pierwszym przesłuchaniem lub wysłuchaniem [cite: 309]",
+      "c": "Dopiero po wydaniu postanowienia o wszczęciu postępowania przez sąd",
+      "d": "W trakcie pierwszej rozprawy przed sądem rodzinnym"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 2,
-    "text": "Dolna granica wieku, od której stosuje się przepisy o demoralizacji, to:",
+    "id": 152,
+    "text": "Jakie są konsekwencje braku pouczenia lub mylnego pouczenia nieletniego o jego uprawnieniach procesowych? [cite: 310]",
     "options": {
-      "a": "10 lat",
-      "b": "13 lat",
-      "c": "15 lat",
-      "d": "17 lat"
+      "a": "Czynność procesowa staje się automatycznie nieważna",
+      "b": "Brak pouczenia nie może wywoływać dla nieletniego ujemnych konsekwencji [cite: 310]",
+      "c": "Sąd ma obowiązek umorzyć postępowanie z urzędu",
+      "d": "Policja musi powtórzyć czynność w obecności biegłego"
     },
-    "correct_answers": [
-      "a"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 3,
-    "text": "Nieletnim sprawcą czynu karalnego jest osoba, która dopuściła się go między:",
+    "id": 153,
+    "text": "Która z wymienionych przesłanek obliguje sąd do wyznaczenia nieletniemu obrońcy z urzędu z uwagi na stan zdrowia? [cite: 300]",
     "options": {
-      "a": "10 a 18 rokiem życia",
-      "b": "13 a 17 rokiem życia",
-      "c": "15 a 21 rokiem życia",
-      "d": "13 a 18 rokiem życia"
+      "a": "Każda stwierdzona niepełnosprawność ruchowa",
+      "b": "Uzasadniona wątpliwość, czy stan zdrowia psychicznego pozwala na samodzielną i rozsądną obronę [cite: 300]",
+      "c": "Konieczność przebywania nieletniego w szpitalu ogólnym",
+      "d": "Stwierdzona u nieletniego dysleksja lub dysgrafia"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 4,
-    "text": "Do jakiego wieku można wykonywać orzeczone środki wychowawcze?",
+    "id": 154,
+    "text": "Zgodnie z Art. 38 ust. 2 pkt 4 ustawy, obrona jest obligatoryjna, gdy nieletniemu zarzucono czyn zabroniony będący: [cite: 300]",
     "options": {
-      "a": "Do 18 lat",
-      "b": "Do 21 lat",
-      "c": "Do 24 lat",
-      "d": "Bez limitu wieku"
+      "a": "Wykroczeniem skarbowym o znacznej wartości",
+      "b": "Zbrodnią lub konkretnym czynem karalnym, jak np. art. 280 § 1 KK [cite: 300]",
+      "c": "Każdym przestępstwem przeciwko mieniu",
+      "d": "Występkiem zagrożonym karą powyżej 5 lat pozbawienia wolności"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 5,
-    "text": "Co z wymienionych stanowi czyn karalny w rozumieniu ustawy?",
+    "id": 155,
+    "text": "Na jaki maksymalny okres może zostać wyznaczony mediator do przeprowadzenia postępowania mediacyjnego? [cite: 186]",
     "options": {
-      "a": "Wykroczenie skarbowe",
-      "b": "Każde wykroczenie porządkowe",
-      "c": "Nieposłuszeństwo wobec rodziców",
-      "d": " Wagary"
+      "a": "Do 14 dni od dnia doręczenia postanowienia",
+      "b": "Do 6 tygodni [cite: 186]",
+      "c": "Do 3 miesięcy, bez możliwości przedłużenia",
+      "d": "Na czas określony przez strony w ugodzie"
     },
-    "correct_answers": [
-      "a"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 6,
-    "text": "Czyn zabroniony to zachowanie o znamionach określonych w:",
+    "id": 156,
+    "text": "Kiedy pokrzywdzony może złożyć zażalenie do innego składu sądu pierwszej instancji (tzw. instancja pozioma)? [cite: 326]",
     "options": {
-      "a": "Statucie szkoły",
-      "b": "Ustawie karnej",
-      "c": "Regulaminie ośrodka",
-      "d": "Konstytucji"
+      "a": "Na postanowienie o umorzeniu postępowania",
+      "b": "Na brak zgody na przeglądanie akt sprawy i sporządzanie odpisów [cite: 326]",
+      "c": "Na postanowienie o niewszczęciu postępowania",
+      "d": "Na zastosowanie wobec nieletniego nadzoru kuratora"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 7,
-    "text": "Które zachowanie jest wprost wymienione jako przejaw demoralizacji?",
+    "id": 157,
+    "text": "W jakim przypadku obrońca z urzędu ma obowiązek podejmowania czynności procesowych po wydaniu wyroku? [cite: 300]",
     "options": {
-      "a": "Używanie alkoholu",
-      "b": "Późne powroty do domu",
-      "c": "Kłótnie z rodzeństwem",
-      "d": "Brak kieszonkowego"
+      "a": "Tylko do czasu wniesienia apelacji",
+      "b": "Do prawomocnego zakończenia postępowania wykonawczego [cite: 300]",
+      "c": "Tylko jeśli nieletni przebywa w schronisku",
+      "d": "Obowiązek ten wygasa z chwilą ogłoszenia orzeczenia"
     },
-    "correct_answers": [
-      "a"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 8,
-    "text": "Systematyczne uchylanie się od obowiązku szkolnego to:",
+    "id": 158,
+    "text": "Zgodnie z Art. 29 ustawy, posiedzenie przygotowawcze w sprawach nieletnich: [cite: 454]",
     "options": {
-      "a": "Czyn karalny",
-      "b": "Przejaw demoralizacji",
-      "c": "Wykroczenie",
-      "d": "Przestępstwo skarbowe"
+      "a": "Jest obligatoryjne w każdej sprawie o czyn karalny",
+      "b": "Co do zasady nie przeprowadza się go, chyba że usprawni to rozpoznanie sprawy [cite: 454]",
+      "c": "Jest jawne dla mediów w celu prewencji ogólnej",
+      "d": "Odbywa się zawsze w obecności mediatora"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 9,
-    "text": "Włóczęgostwo jest w ustawie traktowane jako:",
+    "id": 159,
+    "text": "Która z osób najbliższych pokrzywdzonemu może wykonywać jego prawa po jego śmierci? [cite: 344]",
     "options": {
-      "a": "Przestępstwo",
-      "b": "Przejaw demoralizacji",
-      "c": "Wykroczenie skarbowe",
-      "d": "Zachowanie neutralne"
+      "a": "Wyłącznie małżonek pokrzywdzonego",
+      "b": "Osoby najbliższe wymienione w art. 115 § 11 KK lub spadkobiercy [cite: 344]",
+      "c": "Tylko pełnoletnie dzieci pokrzywdzonego",
+      "d": "Wyłącznie prokurator działający z urzędu"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 10,
-    "text": "Najmniej dotkliwym środkiem wychowawczym jest:",
+    "id": 160,
+    "text": "W jakiej sytuacji za pokrzywdzonego uważa się zakład ubezpieczeń? [cite: 337]",
     "options": {
-      "a": "Nadzór kuratora",
-      "b": "Upomnienie",
-      "c": "Ośrodek kuratorski",
-      "d": "Nadzór organizacji"
+      "a": "W każdej sprawie, w której sprawcą jest nieletni",
+      "b": "W zakresie, w jakim pokrył szkodę lub jest obowiązany do jej pokrycia [cite: 337]",
+      "c": "Tylko gdy nieletni posiada własną polisę OC",
+      "d": "Gdy szkoda w mieniu przekracza 50 000 zł"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 11,
-    "text": "Nadzór odpowiedzialny rodziców polega na tym, że:",
+    "id": 161,
+    "text": "Jaki jest charakter prawny prokuratora w postępowaniu przed sądem rodzinnym? [cite: 285, 286]",
     "options": {
-      "a": "Rodzice płacą grzywnę za dziecko",
-      "b": "Są zobligowani do składania sprawozdań sądowi",
-      "c": "Dziecko idzie do poprawczaka",
-      "d": "Policja pilnuje domu"
+      "a": "Oskarżyciel publiczny dążący do skazania",
+      "b": "Rzecznik interesu społecznego [cite: 286]",
+      "c": "Organ nadrzędny nad sędzią rodzinnym",
+      "d": "Pełnomocnik pokrzywdzonego z urzędu"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 12,
-    "text": "Kto najczęściej sprawuje nadzór orzekany przez sąd?",
+    "id": 162,
+    "text": "Który środek wychowawczy jest określany w doktrynie jako 'ultima ratio' i wymaga opinii biegłych? [cite: 158]",
     "options": {
-      "a": "Dyrektor szkoły",
-      "b": "Kurator sądowy",
-      "c": "Policjant dzielnicowy",
-      "d": "Proboszcz"
+      "a": "Nadzór kuratora sądowego",
+      "b": "Umieszczenie w młodzieżowym ośrodku wychowawczym [cite: 158]",
+      "c": "Upomnienie na rozprawie",
+      "d": "Zobowiązanie do prac społecznych"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 13,
-    "text": "Skierowanie do ośrodka kuratorskiego to środek:",
+    "id": 163,
+    "text": "W jakim terminie należy złożyć zażalenie na postanowienie o zastosowaniu środka tymczasowego? [cite: 494]",
     "options": {
-      "a": "Leczniczy",
-      "b": "Wychowawczy",
-      "c": "Poprawczy",
-      "d": "Karny"
+      "a": "W terminie 14 dni, a sąd rozpoznaje je niezwłocznie [cite: 494]",
+      "b": "W terminie 3 dni od ogłoszenia",
+      "c": "W terminie 7 dni od doręczenia uzasadnienia",
+      "d": "W dowolnym momencie trwania środka"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["a"]
   },
   {
-    "id": 14,
-    "text": "Zakaz prowadzenia pojazdów można orzec wobec nieletniego jako środek:",
+    "id": 164,
+    "text": "Czy wniesienie zażalenia na postanowienie o orzeczeniu obserwacji w zakładzie leczniczym wstrzymuje jego wykonanie? [cite: 496]",
     "options": {
-      "a": "Tymczasowy",
-      "b": "Wychowawczy",
-      "c": "Poprawczy",
-      "d": "Leczniczy"
+      "a": "Tak, do czasu prawomocnego rozpoznania zażalenia",
+      "b": "Nie wstrzymuje wykonania postanowienia [cite: 496]",
+      "c": "Wstrzymuje, ale tylko na wniosek obrońcy",
+      "d": "Zależy od zgody sędziego wizytatora"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 15,
-    "text": "Młodzieżowy Ośrodek Wychowawczy (MOW) stosuje się maksymalnie do:",
+    "id": 165,
+    "text": "Na jakiej podstawie sąd rodzinny ustala właściwość miejscową, gdy nie można ustalić zamieszkania ani pobytu nieletniego? [cite: 399]",
     "options": {
-      "a": "18 roku życia",
-      "b": "21 roku życia",
-      "c": "25 roku życia",
-      "d": "Dożywotnio"
+      "a": "Według miejsca zamieszkania rodziców",
+      "b": "Według miejsca pierwszego czynu karalnego lub demoralizacji [cite: 399]",
+      "c": "Zawsze właściwy jest sąd w Warszawie",
+      "d": "Według miejsca zatrzymania przez Policję"
     },
-    "correct_answers": [
-      "a"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 16,
-    "text": "Środek leczniczy polega na umieszczeniu nieletniego w:",
+    "id": 166,
+    "text": "Który z wymienionych czynów karalnych uniemożliwia przekazanie sprawy szkole nieletniego? [cite: 145, 402, 403]",
     "options": {
-      "a": "Zakładzie poprawczym",
-      "b": "Zakładzie leczniczym (np. psychiatrycznym)",
-      "c": "Sanatorium",
-      "d": "Schronisku dla nieletnich"
+      "a": "Każde wykroczenie skarbowe",
+      "b": "Czyn będący zbrodnią [cite: 407, 408]",
+      "c": "Kradzież mienia o niskiej wartości",
+      "d": "Uchylanie się od obowiązku szkolnego"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 17,
-    "text": "Zakład poprawczy jest stosowany, gdy inne środki zawiodły, a stopień demoralizacji jest:",
+    "id": 167,
+    "text": "Kiedy dyrektor placówki może odmówić nieletniemu posiadania przedmiotów do łączności? [cite: 559]",
     "options": {
-      "a": "Niski",
-      "b": "Wysoki",
-      "c": "Przeciętny",
-      "d": "Nieistotny"
+      "a": "Zawsze, bo ustawa tego zakazuje",
+      "b": "Gdy nieletni nie uzyskał zgody dyrektora [cite: 559]",
+      "c": "Tylko jeśli nieletni ma złe oceny",
+      "d": "Wyłącznie na wniosek sędziego"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 18,
-    "text": "Kto wydał definicję: 'Decyzja o zakładzie poprawczym zapada, gdy środki wychowawcze zawiodły'?",
+    "id": 168,
+    "text": "Jaki jest maksymalny wiek nieletniego, wobec którego można wykonywać środki w młodzieżowym ośrodku wychowawczym? [cite: 158]",
     "options": {
-      "a": "V. Konarska-Wrzosek",
-      "b": "A. Jaworska",
-      "c": "A. Grześkowiak",
-      "d": "P. Balcer-Czarnecka"
+      "a": "17 lat",
+      "b": "18 lat [cite: 158]",
+      "c": "21 lat",
+      "d": "Bez ograniczeń wiekowych"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 19,
-    "text": "Model sprawiedliwościowy (karnistyczny) opiera się na:",
+    "id": 169,
+    "text": "Co oznacza zasada 'indywidualizacji' w procesie resocjalizacji nieletniego? [cite: 127]",
     "options": {
-      "a": "Wychowaniu",
-      "b": "Winie i karze",
-      "c": "Braku gwarancji procesowych",
-      "d": "Pomocy ekspertów"
+      "a": "Stosowanie tych samych środków wobec wszystkich nieletnich",
+      "b": "Dostosowanie środków do osobowości, wieku i warunków wychowania nieletniego [cite: 127]",
+      "c": "Prowadzenie zajęć wyłącznie w trybie indywidualnym",
+      "d": "Odrębne traktowanie każdego czynu karalnego"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 20,
-    "text": "Model opiekuńczy uznaje, że przestępczość wynika z:",
+    "id": 170,
+    "text": "W jakiej formie sąd rodzinny orzeka o przekazaniu sprawy prokuratorowi? [cite: 409]",
     "options": {
-      "a": "Wolnej woli nieletniego",
-      "b": "Czynników środowiskowych",
-      "c": "Złego wyboru nieletniego",
-      "d": "Genetyki"
+      "a": "W formie wyroku ogłoszonego publicznie",
+      "b": "W formie postanowienia, które może zapaść na posiedzeniu niejawnym [cite: 409]",
+      "c": "W formie notatki urzędowej przesłanej do prokuratury",
+      "d": "Sąd nie wydaje w tej sprawie formalnej decyzji"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 21,
-    "text": "Systemy jednotorowe w postępowaniu z nieletnimi to:",
+    "id": 171,
+    "text": "Zgodnie z Art. 108 pkt 14, nieletni umieszczony w placówce ma obowiązek poddania się: [cite: 545]",
     "options": {
-      "a": "Oddzielne prawo dla demoralizacji i przestępstw",
-      "b": "Wspólne uregulowanie demoralizacji i czynów karalnych",
-      "c": "Tylko jedna instancja sądowa",
-      "d": "Brak możliwości odwołania"
+      "a": "Przymusowej pracy zarobkowej na rzecz gminy",
+      "b": "Kontroli pobieżnej lub kontroli osobistej [cite: 545]",
+      "c": "Cotygodniowym przesłuchaniom przez Policję",
+      "d": "Publicznemu odczytaniu jego akt osobowych"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 22,
-    "text": "Zasada dobra dziecka jest uznawana za:",
+    "id": 172,
+    "text": "Co grozi rodzicom za uporczywe uchylanie się od nałożonego środka współpracy ze szkołą? [cite: 487]",
     "options": {
-      "a": "Klauzulę generalną i zasadę nadrzędną",
-      "b": "Zasadę drugorzędną",
-      "c": "Zasadę dotyczącą tylko dorosłych",
-      "d": "Zasadę martwą"
+      "a": "Kara ograniczenia wolności do 6 miesięcy",
+      "b": "Kara pieniężna wymierzona przez sąd rodzinny [cite: 487]",
+      "c": "Automatyczne odebranie władzy rodzicielskiej",
+      "d": "Obowiązek zapłaty odszkodowania szkole"
     },
-    "correct_answers": [
-      "a"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 23,
-    "text": "Zasada indywidualizacji nakazuje brać pod uwagę m.in.:",
+    "id": 173,
+    "text": "Kto wydaje zgodę na czasowe opuszczenie schroniska dla nieletnich przez wychowanka? [cite: 542]",
     "options": {
-      "a": "Zasobność portfela rodziców",
-      "b": "Stopień rozwoju psychicznego i fizycznego nieletniego",
-      "c": "Wyłącznie rodzaj czynu",
-      "d": "Liczbę lajków w social mediach"
+      "a": "Sąd rodzinny po konsultacji z kuratorem",
+      "b": "Dyrektor schroniska [cite: 542]",
+      "c": "Policja na wniosek rodziców",
+      "d": "Minister Sprawiedliwości"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 24,
-    "text": "Kto ma społeczny obowiązek zawiadomienia o demoralizacji nieletniego?",
+    "id": 174,
+    "text": "Jaką funkcję pełni 'wysłuchanie nieletniego' na rozprawie w odróżnieniu od dowodu z wyjaśnień? [cite: 458]",
     "options": {
-      "a": "Tylko Policja",
-      "b": "Każdy, kto stwierdzi taką okoliczność",
-      "c": "Tylko rodzice",
-      "d": "Tylko dyrektor szkoły"
+      "a": "Jest głównym dowodem winy",
+      "b": "Służy ustaleniu stanowiska nieletniego i uzyskaniu informacji o jego potrzebach [cite: 458]",
+      "c": "Zastępuje zeznania pokrzywdzonego",
+      "d": "Nie ma żadnego znaczenia procesowego"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 25,
-    "text": "Instytucje państwowe mają obowiązek zawiadomić o czynie karalnym ściganym:",
+    "id": 175,
+    "text": "Która ze stron ma prawo do zaskarżenia postanowienia o przekazaniu sprawy szkole? [cite: 485]",
     "options": {
-      "a": "Na wniosek",
-      "b": "Z urzędu",
-      "c": "Prywatnie",
-      "d": "Nigdy"
+      "a": "Tylko dyrektor szkoły",
+      "b": "Strony postępowania (nieletni, rodzice, prokurator) [cite: 485]",
+      "c": "Wyłącznie pokrzywdzony",
+      "d": "Kurator sądowy"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 26,
-    "text": "Wskaźnik mediacji w sprawach nieletnich w Polsce wynosi około:",
+    "id": 176,
+    "text": "W jakim przypadku sąd rodzinny może odstąpić od doręczenia pokrzywdzonemu postanowienia o wszczęciu? [cite: 316, 434]",
     "options": {
-      "a": "2%",
-      "b": "20%",
-      "c": "50%",
-      "d": "90%"
+      "a": "Gdy pokrzywdzony nie jest osobą fizyczną",
+      "b": "Ustawa nie przewiduje odstąpienia od doręczenia pokrzywdzonemu tego postanowienia [cite: 316, 434]",
+      "c": "Gdy sprawa dotyczy demoralizacji, a nie czynu karalnego",
+      "d": "Gdy pokrzywdzony wybaczył nieletniemu"
     },
-    "correct_answers": [
-      "a"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 27,
-    "text": "Sąd rodzinny kieruje sprawę do mediacji za zgodą:",
+    "id": 177,
+    "text": "Jaki jest cel orzekania środka poprawczego według nauki i doświadczeń pedagogicznych? [cite: 560]",
     "options": {
-      "a": "Tylko nieletniego",
-      "b": "Pokrzywdzonego i nieletniego",
-      "c": "Tylko rodziców",
-      "d": "Policji"
+      "a": "Odwet społeczny za popełnione zło",
+      "b": "Wychowanie na świadomego swych obowiązków członka społeczeństwa [cite: 560]",
+      "c": "Zapewnienie bezpieczeństwa poprzez izolację bezterminową",
+      "d": "Zastraszenie innych nieletnich przed popełnianiem czynów"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 28,
-    "text": "Mediacja powinna zmierzać do wzbudzenia w nieletnim:",
+    "id": 178,
+    "text": "Który organ jest uprawniony do zbadania legalności zatrzymania nieletniego? [cite: 501, 502]",
     "options": {
-      "a": "Strachu przed więzieniem",
-      "b": "Poczucia odpowiedzialności za skutki czynu",
-      "c": "Chęci ucieczki",
-      "d": "Nienawiści do pokrzywdzonego"
+      "a": "Sąd okręgowy w wydziale karnym",
+      "b": "Właściwy sąd rodzinny [cite: 502]",
+      "c": "Prokurator okręgowy",
+      "d": "Rzecznik Praw Obywatelskich"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 29,
-    "text": "Ugoda w mediacji wymaga zgody przedstawiciela ustawowego, gdy nieletni zobowiązuje się do:",
+    "id": 179,
+    "text": "Czy nieletni umieszczony w placówce ma prawo do odwiedzin osób bliskich? [cite: 526]",
     "options": {
-      "a": "Przeprosin",
-      "b": "Naprawienia szkody lub zadośćuczynienia",
-      "c": "Pójścia do szkoły",
-      "d": "Sprzątania pokoju"
+      "a": "Nie, jest to całkowicie zabronione",
+      "b": "Tak, w ramach prawa do więzi rodzinnych [cite: 526]",
+      "c": "Tylko raz w roku za zgodą prokuratora",
+      "d": "Tylko jeśli otrzymał nagrodę od dyrektora"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 30,
-    "text": "Mediator nie może udostępnić akt dotyczących:",
+    "id": 180,
+    "text": "Jak definiowana jest demoralizacja w orzecznictwie przyjmowanym przez ustawę? [cite: 46]",
     "options": {
-      "a": "Danych o karalności i stanu zdrowia",
-      "b": "Nazwiska nieletniego",
-      "c": "Adresu szkoły",
-      "d": "Daty czynu"
+      "a": "Każde jednorazowe nieposłuszeństwo",
+      "b": "Utrwalone przejawy zachowań naruszających normy (trwałość i powtarzalność) [cite: 46]",
+      "c": "Wyłącznie popełnienie zbrodni",
+      "d": "Brak wiary w system wartości chrześcijańskich"
     },
-    "correct_answers": [
-      "a"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 31,
-    "text": "Minimalny wiek mediatora w sprawach nieletnich to:",
+    "id": 181,
+    "text": "Kto podejmuje decyzję o przedłużeniu pobytu nieletniego w schronisku powyżej roku? [cite: 411]",
     "options": {
-      "a": "21 lat",
-      "b": "26 lat",
-      "c": "30 lat",
-      "d": "35 lat"
+      "a": "Dyrektor schroniska",
+      "b": "Sąd rodzinny w szczególnie uzasadnionych przypadkach [cite: 411]",
+      "c": "Policja z urzędu",
+      "d": "Sąd Najwyższy"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 32,
-    "text": "Mediatorem nie może być:",
+    "id": 182,
+    "text": "Co jest celem mediacji w zakresie naprawienia szkody? [cite: 183]",
     "options": {
-      "a": "Sędzia w stanie spoczynku",
-      "b": "Czynny zawodowo sędzia",
-      "c": "Pedagog",
-      "d": "Psycholog"
+      "a": "Zmuszenie nieletniego do zapłaty gotówki",
+      "b": "Zawarcie ugody w przedmiocie naprawienia szkody lub zadośćuczynienia [cite: 183]",
+      "c": "Ustalenie winy cywilnej rodziców",
+      "d": "Wykazanie braku odpowiedzialności finansowej nieletniego"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 33,
-    "text": "Czas trwania mediacji wyznaczony przez sąd to maksymalnie:",
+    "id": 183,
+    "text": "W jaki sposób sędzia wizytator kontroluje schroniska dla nieletnich? [cite: 525]",
     "options": {
-      "a": "2 tygodnie",
-      "b": "6 tygodni",
-      "c": "3 miesiące",
-      "d": "Pół roku"
+      "a": "Przez nadzór nad wykonywaniem orzeczeń i warunków pobytu [cite: 525, 527]",
+      "b": "Tylko poprzez analizę dokumentów finansowych",
+      "c": "Poprzez udział w zajęciach edukacyjnych",
+      "d": "Sprawuje on bezpośrednią władzę nad dyrektorem"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["a"]
   },
   {
-    "id": 34,
-    "text": "Sprawozdanie z mediacji zawiera informację o:",
+    "id": 184,
+    "text": "Jakie uprawnienie przysługuje nieletniemu w związku z kontrolą korespondencji? [cite: 526]",
     "options": {
-      "a": "Tym, kto kogo bardziej obraził",
-      "b": "Wyniku mediacji (zawarciu ugody lub jej braku)",
-      "c": "Prywatnych poglądach mediatora",
-      "d": "Szczegółach zeznań świadków"
+      "a": "Brak uprawnień, korespondencja jest zawsze jawna",
+      "b": "Prawo do tajemnicy korespondencji (z ustawową możliwością kontroli) [cite: 526]",
+      "c": "Prawo do wysyłania listów wyłącznie do obrońcy",
+      "d": "Prawo do niszczenia listów bez ich czytania"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 35,
-    "text": "Kto jest stroną w postępowaniu według Art. 35 ustawy?",
+    "id": 185,
+    "text": "Zgodnie z preambułą, Rzeczpospolita Polska otacza rodzinę ochroną respektując: [cite: 77]",
     "options": {
-      "a": "Pokrzywdzony",
-      "b": "Prokurator",
-      "c": "Dyrektor szkoły",
-      "d": "Świadek"
+      "a": "Systemy totalitarne",
+      "b": "Chrześcijański system wartości [cite: 77]",
+      "c": "Wyłącznie zasady ateizmu",
+      "d": "Poglądy polityczne aktualnego rządu"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 36,
-    "text": "Rodzice są stronami, jeśli mają:",
+    "id": 186,
+    "text": "W jakiej sytuacji sąd może wymierzyć karę pieniężną rodzicom nieletniego? [cite: 487]",
     "options": {
-      "a": "Władzę rodzicielską (pełną lub ograniczoną)",
-      "b": "Samą tylko więź biologiczną",
-      "c": "Zasądzone alimenty",
-      "d": "Zgodę nieletniego"
+      "a": "Gdy nieletni nie odrabia prac domowych",
+      "b": "Gdy uchylają się od wykonywania nałożonego na nich środka [cite: 487]",
+      "c": "Gdy nieletni ucieknie ze schroniska",
+      "d": "Sąd nigdy nie nakłada kar finansowych na rodziców"
     },
-    "correct_answers": [
-      "a"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 37,
-    "text": "Obrona nieletniego jest obligatoryjna, gdy:",
+    "id": 187,
+    "text": "Która zasada gwarantuje, że nieletni jest traktowany jako podmiot, a nie przedmiot postępowania? [cite: 126]",
     "options": {
-      "a": "Ma dobre oceny",
-      "b": "Wobec nieletniego zastosowano środek tymczasowy",
-      "c": "Nie przyznaje się do winy",
-      "d": "Rodzic jest adwokatem"
+      "a": "Zasada odwetu",
+      "b": "Zasada podmiotowości dziecka (dobro dziecka) [cite: 126]",
+      "c": "Zasada dominacji państwa",
+      "d": "Zasada jawności absolutnej"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 38,
-    "text": "Gdy interesy nieletniego i rodziców są sprzeczne, sąd wyznacza obrońcę:",
+    "id": 188,
+    "text": "W jakim wieku nieletni traci możliwość bycia umieszczonym w okręgowym ośrodku wychowawczym? [cite: 23]",
     "options": {
-      "a": "Z wyboru",
-      "b": "Z urzędu",
-      "c": "Tylko na prośbę rodziców",
-      "d": "Tylko po 17 roku życia"
+      "a": "Po ukończeniu 18 lat",
+      "b": "Po ukończeniu 21 lat [cite: 23]",
+      "c": "Po ukończeniu 17 lat",
+      "d": "Wiek nie ma znaczenia"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 39,
-    "text": "Nieletni musi zostać pouczony o prawach najpóźniej przed pierwszym:",
+    "id": 189,
+    "text": "Co oznacza 'bezzasadność' zatrzymania nieletniego w zażaleniu? [cite: 504]",
     "options": {
-      "a": "Wywiadem środowiskowym",
-      "b": "Przesłuchaniem lub wysłuchaniem",
-      "c": "Spotkaniem z kuratorem",
-      "d": "Powrotem do domu"
+      "a": "Brak fizycznej możliwości zatrzymania",
+      "b": "Brak merytorycznych podstaw do pozbawienia wolności [cite: 504]",
+      "c": "Brak podpisu rodzica na protokole",
+      "d": "Złe samopoczucie nieletniego podczas czynności"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 40,
-    "text": "Czy nieletni ma prawo do odmowy składania wyjaśnień?",
+    "id": 190,
+    "text": "Które z poniższych zachowań jest zabronione nieletniemu w schronisku? [cite: 556]",
     "options": {
-      "a": "Nie, ma obowiązek mówić prawdę",
-      "b": "Tak",
-      "c": "Tylko za zgodą rodziców",
-      "d": "Tylko w obecności prokuratora"
+      "a": "Rozmawianie z kolegami",
+      "b": "Posługiwanie się gwarą przestępczą [cite: 556]",
+      "c": "Pisanie do rodziców",
+      "d": "Uczestnictwo w zajęciach sportowych"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 41,
-    "text": "Pokrzywdzony może być na rozprawie, jeżeli nie jest to sprzeczne z:",
+    "id": 191,
+    "text": "Jakie są skutki wniesienia zażalenia na postanowienie o przedłużeniu obserwacji w zakładzie? [cite: 496]",
     "options": {
-      "a": "Harmonogramem sądu",
-      "b": "Dobrem nieletniego lub względami wychowawczymi",
-      "c": "Wolą rodziców nieletniego",
-      "d": "Zasadą tajności śledztwa"
+      "a": "Obserwacja zostaje przerwana",
+      "b": "Wniesienie zażalenia nie wstrzymuje wykonania postanowienia [cite: 496]",
+      "c": "Sąd musi zwolnić nieletniego do domu",
+      "d": "Zażalenie jest rozpatrywane po zakończeniu obserwacji"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 42,
-    "text": "Pokrzywdzonemu przysługuje zażalenie na postanowienie o:",
+    "id": 192,
+    "text": "Zgodnie z Art. 83 ust. 2, na jakie postanowienie przysługuje zażalenie do innego składu tego samego sądu? [cite: 485]",
     "options": {
-      "a": "Wyznaczeniu obrońcy",
-      "b": "Umorzeniu postępowania",
-      "c": "Nadzorze kuratora",
-      "d": "Przeprowadzeniu dowodu"
+      "a": "Na niewszczęcie postępowania",
+      "b": "Na polecenie zatrzymania i umieszczenia w policyjnej izbie dziecka [cite: 485]",
+      "c": "Na orzeczenie o nadzorze kuratora",
+      "d": "Na umieszczenie w zakładzie poprawczym"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 43,
-    "text": "Pełnomocnika pokrzywdzonego może wyznaczyć:",
+    "id": 193,
+    "text": "Czy sędzia rodzinny może uchylić nałożoną na rodziców karę pieniężną? [cite: 488]",
     "options": {
-      "a": "Tylko prokurator",
-      "b": "Pokrzywdzony (osoba fizyczna lub prawna)",
-      "c": "Nieletni",
-      "d": "Sąd z urzędu zawsze"
+      "a": "Nie, kara jest ostateczna",
+      "b": "Tak, może odmówić jej uchylenia lub ją uchylić [cite: 488]",
+      "c": "Tylko jeśli rodzice spłacą długi nieletniego",
+      "d": "Tylko na wniosek prokuratora"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 44,
-    "text": "Za pokrzywdzonego, który nie jest osobą fizyczną, czynności dokonuje:",
+    "id": 194,
+    "text": "Jaki jest zakres czasowy kontroli postępów nieletniego, któremu przekazano sprawę szkole? [cite: 405]",
     "options": {
-      "a": "Najstarszy pracownik",
-      "b": "Organ uprawniony do działania w jego imieniu",
-      "c": "Ochroniarz",
-      "d": "Kurator"
+      "a": "Szkoła informuje sąd co tydzień",
+      "b": "Nie rzadziej niż co 6 miesięcy [cite: 405]",
+      "c": "Tylko raz na koniec roku szkolnego",
+      "d": "Szkoła nie ma obowiązku informowania sądu"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 45,
-    "text": "Sąd może nałożyć na rodziców karę pieniężną w wysokości do:",
+    "id": 195,
+    "text": "Co rozumie się przez 'czyn niecierpiący zwłoki' w działaniach sądu rodzinnego? [cite: 401]",
     "options": {
-      "a": "1000 zł",
-      "b": "3000 zł",
-      "c": "5000 zł",
-      "d": "10000 zł"
+      "a": "Każdą sprawę o demoralizację",
+      "b": "Sytuację wymagającą natychmiastowego wydania postanowienia mimo braku właściwości [cite: 401]",
+      "c": "Zwykłe doręczenie wezwania",
+      "d": "Wyznaczenie terminu rozprawy"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 46,
-    "text": "Koszty postępowania w sprawach nieletnich obciążają zazwyczaj:",
+    "id": 196,
+    "text": "Na jakich zasadach nieletni może wykonywać prace porządkowe na rzecz placówki? [cite: 547]",
     "options": {
-      "a": "Skarb Państwa",
-      "b": "Rodziców nieletniego",
-      "c": "Pokrzywdzonego",
-      "d": "Szkołę"
+      "a": "Są to prace przymusowe i bezpłatne",
+      "b": "Na zasadach określonych w niniejszej ustawie [cite: 547]",
+      "c": "Tylko za zgodą rodziców i za wynagrodzeniem",
+      "d": "Ustawa zabrania nieletnim jakiejkolwiek pracy"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 47,
-    "text": "Środki tymczasowe stosuje się, aby:",
-    "options": {
-      "a": "Ukarać nieletniego przed rozprawą",
-      "b": "Zapewnić prawidłowy tok postępowania",
-      "c": "Zaspokoić roszczenia pokrzywdzonego",
-      "d": "Zastąpić wyrok"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 48,
-    "text": "Przykładem środka tymczasowego jest:",
+    "id": 197,
+    "text": "Który z wymienionych środków jest środkiem zapobiegawczym w KPK, ale środkiem tymczasowym w ustawie o nieletnich? [cite: 375, 386]",
     "options": {
       "a": "Grzywna",
-      "b": "Tymczasowy nadzór kuratora",
-      "c": "Ograniczenie wolności",
-      "d": "Wydalenie ze szkoły"
+      "b": "Umieszczenie w schronisku (odpowiednik tymczasowego aresztowania) [cite: 375, 386]",
+      "c": "Nagana",
+      "d": "Prace społeczne"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 49,
-    "text": "Schronisko dla nieletnich można orzec, gdy zachodzi obawa:",
+    "id": 198,
+    "text": "Czy nieletni ma obowiązek poddania się badaniom na obecność substancji psychoaktywnych? [cite: 544]",
     "options": {
-      "a": "Złych ocen",
-      "b": "Ucieczki lub ukrycia się",
-      "c": "Złego wpływu rodzeństwa",
-      "d": "Kłótni z rodzicami"
+      "a": "Tylko jeśli sam się zgłosi",
+      "b": "Tak, w przypadkach określonych w ustawie [cite: 544]",
+      "c": "Tylko w obecności prokuratora",
+      "d": "Nie, ma prawo odmówić takich badań"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 50,
-    "text": "Właściwość miejscową sądu ustala się według miejsca:",
+    "id": 199,
+    "text": "Jaki jest status prawny ugody zawartej w wyniku mediacji? [cite: 183, 189]",
     "options": {
-      "a": "Popełnienia czynu",
-      "b": "Zamieszkania nieletniego",
-      "c": "Urodzenia nieletniego",
-      "d": "Siedziby Policji"
+      "a": "Jest ostatecznym wyrokiem sądu",
+      "b": "Wymaga zatwierdzenia przez sąd i uwzględnienia przy doborze środków [cite: 191, 238]",
+      "c": "Nie ma żadnego znaczenia dla sądu",
+      "d": "Jest tylko prywatnym porozumieniem stron"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 51,
-    "text": "Jeżeli nie można ustalić miejsca zamieszkania, właściwy jest sąd miejsca:",
+    "id": 200,
+    "text": "W jakiej sytuacji sąd rodzinny może nie wysłuchać nieletniego na rozprawie? [cite: 455, 461]",
     "options": {
-      "a": "Zatrzymania",
-      "b": "Pobytu nieletniego",
-      "c": "Szkoły",
-      "d": "Pracy rodziców"
+      "a": "Gdy nieletni nie ma obrońcy",
+      "b": "Gdy stan dojrzałości nieletniego na to nie pozwala [cite: 455]",
+      "c": "Gdy pokrzywdzony się nie zgadza",
+      "d": "Sąd musi wysłuchać nieletniego w każdej sytuacji"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 52,
-    "text": "Sąd przekazuje sprawę szkole, jeżeli uzna, że środki szkoły są:",
+    "id": 201,
+    "text": "Kto sprawuje nadzór nad funkcjonowaniem okręgowych ośrodków wychowawczych? [cite: 525]",
     "options": {
-      "a": "Bardzo surowe",
-      "b": "Wystarczające",
-      "c": "Nieskuteczne",
-      "d": "Nowoczesne"
+      "a": "Dyrektor placówki samodzielnie",
+      "b": "Sędzia sądu rodzinnego (nadzór nad wykonywaniem orzeczeń) [cite: 525]",
+      "c": "Wyłącznie Policja",
+      "d": "Ministerstwo Edukacji Narodowej"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 53,
-    "text": "Przekazanie sprawy szkole wymaga zgody:",
+    "id": 202,
+    "text": "W jakim terminie mediator musi przekazać sądowi sprawozdanie z mediacji? [cite: 223, 231]",
     "options": {
-      "a": "Tylko dyrektora",
-      "b": "Nieletniego",
-      "c": "Tylko pokrzywdzonego",
-      "d": "Nauczyciela wychowawcy"
+      "a": "W ciągu 7 dni od zakończenia",
+      "b": "Niezwłocznie po zakończeniu postępowania mediacyjnego [cite: 231]",
+      "c": "Tylko jeśli zawarto ugodę",
+      "d": "Na koniec każdego miesiąca kalendarzowego"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 54,
-    "text": "Sąd rodzinny przekazuje sprawę prokuratorowi, gdy nieletni ma odpowiadać na zasadach:",
+    "id": 203,
+    "text": "Jaki jest wymóg wiekowy dla kandydata na mediatora? [cite: 198]",
     "options": {
-      "a": "Kodeksu wykroczeń",
-      "b": "Art. 10 par. 2 lub 2a Kodeksu karnego",
-      "c": "Prawa oświatowego",
-      "d": "Prawa pracy"
+      "a": "Ukończone 18 lat",
+      "b": "Ukończone 26 lat [cite: 198]",
+      "c": "Ukończone 35 lat",
+      "d": "Ukończone 40 lat"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 55,
-    "text": "Wszczęcie postępowania następuje z urzędu, a w sprawach o czyn ścigany na wniosek:",
+    "id": 204,
+    "text": "Czy osoba prawomocnie skazana za umyślne przestępstwo może być mediatorem? [cite: 200]",
     "options": {
-      "a": "Tylko z urzędu",
-      "b": "Po uprzednim złożeniu wniosku",
-      "c": "Tylko za zgodą prokuratora",
-      "d": "Po zebraniu 10 podpisów"
+      "a": "Tak, jeśli kara została już odbyta",
+      "b": "Nie, ustawa tego zakazuje [cite: 200]",
+      "c": "Tylko za zgodą sędziego rodzinnego",
+      "d": "Tak, jeśli czyn nie był skierowany przeciwko nieletniemu"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 56,
-    "text": "Postanowienie o wszczęciu postępowania jest:",
+    "id": 205,
+    "text": "Która ze stron mediacji nie musi wyrażać zgody na jej przeprowadzenie? [cite: 180]",
     "options": {
-      "a": "Zaskarżalne zażaleniem",
-      "b": "Niezaskarżalne",
-      "c": "Zaskarżalne apelacją",
-      "d": "Jawne dla mediów"
+      "a": "Nieletni",
+      "b": "Dyrektor szkoły nieletniego [cite: 180, 184]",
+      "c": "Pokrzywdzony",
+      "d": "Mediator (poprzez przyjęcie funkcji)"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 57,
-    "text": "Posiedzenia sądu rodzinnego odbywają się zazwyczaj:",
+    "id": 206,
+    "text": "Zgodnie z Art. 88 ust. 1, wykonywanie środków ma na celu: [cite: 560]",
     "options": {
-      "a": "Publicznie",
-      "b": "Przy drzwiach zamkniętych",
-      "c": "W obecności dziennikarzy",
-      "d": "W sali gimnastycznej"
+      "a": "Skuteczną izolację od wpływów kolegów",
+      "b": "Wychowanie na świadomego swych obowiązków członka społeczeństwa [cite: 560]",
+      "c": "Umożliwienie zarobkowania na rzecz Skarbu Państwa",
+      "d": "Zmuszenie nieletniego do przyznania się do winy"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 58,
-    "text": "Wysłuchanie nieletniego przez sędziego to:",
+    "id": 207,
+    "text": "Kiedy nieletniemu umieszczonemu w placówce wolno stosować przemoc? [cite: 551]",
     "options": {
-      "a": "Przesłuchanie świadka",
-      "b": "Czynność służąca ustaleniu stanowiska nieletniego",
-      "c": "Egzamin z wiedzy o prawie",
-      "d": "Wywiad lekarski"
+      "a": "W samoobronie",
+      "b": "Kategorycznie nie wolno stosować przemocy [cite: 551]",
+      "c": "Gdy inny wychowanek go obrazi",
+      "d": "W celu wymuszenia posłuszeństwa"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 59,
-    "text": "Podczas wysłuchania nieletniego może być obecny dodatkowo:",
+    "id": 208,
+    "text": "Co oznacza zasada 'poufności' w mediacji? [cite: 251]",
     "options": {
-      "a": "Tylko psycholog",
-      "b": "Tylko pokrzywdzony",
-      "c": "Cała klasa",
-      "d": "Tylko Policja"
+      "a": "Obowiązek nieujawniania informacji uzyskanych w toku mediacji [cite: 251]",
+      "b": "Zakaz mówienia o mediacji sędziemu",
+      "c": "Obowiązek szeptania podczas rozmów",
+      "d": "Zakaz udziału rodziców w spotkaniu"
     },
-    "correct_answers": [
-      "a"
-    ]
+    "correct_answers": ["a"]
   },
   {
-    "id": 60,
-    "text": "Apelację wnosi się od rozstrzygnięć:",
+    "id": 209,
+    "text": "Kto decyduje o wyborze konkretnego mediatora z listy? [cite: 213]",
     "options": {
-      "a": "Porządkowych",
-      "b": "Merytorycznych (co do istoty sprawy)",
-      "c": "Tylko o kosztach",
-      "d": "O przesłuchaniu świadka"
+      "a": "Nieletni i pokrzywdzony wspólnie",
+      "b": "Sąd rodzinny [cite: 213, 216]",
+      "c": "Policja na etapie zatrzymania",
+      "d": "Prezes Sądu Okręgowego"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 61,
-    "text": "Środek odwoławczy wniesiony osobiście przez nieletniego jest:",
+    "id": 210,
+    "text": "Jaką funkcję pełni lista stałych mediatorów prowadząna przez prezesa sądu? [cite: 200]",
     "options": {
-      "a": " Bardzo sformalizowany",
-      "b": "Odformalizowany",
-      "c": "Nieważny bez podpisu adwokata",
-      "d": "Zawsze płatny"
+      "a": "Informacyjną dla rodziców",
+      "b": "Z tej listy sąd wyznacza mediatora do sprawy nieletniego [cite: 200]",
+      "c": "Jest to lista płac dla pracowników sądu",
+      "d": "Służy do ewidencji osób skazanych"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 62,
-    "text": "Zażalenie na zatrzymanie nieletniego rozpoznaje:",
+    "id": 211,
+    "text": "Zgodnie z Art. 79 ust. 2, środek odwoławczy rodziców uważa się za zwrócony przeciwko: [cite: 515]",
     "options": {
-      "a": "Sąd Okręgowy",
-      "b": "Właściwy sąd rodzinny",
-      "c": "Ministerstwo Sprawiedliwości",
-      "d": "Komendant Policji"
+      "a": "Tylko punktom dotyczącym winy",
+      "b": "Całości orzeczenia (chyba że dotyczy tylko kosztów) [cite: 515]",
+      "c": "Tylko karze pieniężnej",
+      "d": "Tylko uzasadnieniu orzeczenia"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 63,
-    "text": "Nadzór nad wykonywaniem orzeczeń sprawuje:",
+    "id": 212,
+    "text": "Czy nieletni ma obowiązek utrzymywania czystości w placówce? [cite: 539]",
     "options": {
-      "a": "Prokurator",
-      "b": "Sędzia sądu rodzinnego",
-      "c": "Policja",
-      "d": "Dyrektor szkoły"
+      "a": "Nie, od tego jest personel sprzątający",
+      "b": "Tak, w pomieszczeniach, w których przebywa [cite: 539]",
+      "c": "Tylko w weekendy",
+      "d": "Tylko jeśli otrzymał za to nagrodę"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 64,
-    "text": "Nieletni w placówce ma prawo do kontaktu ze światem zewnętrznym, w tym do:",
+    "id": 213,
+    "text": "Co grozi nieletniemu za pomaganie innym w ucieczce z placówki? [cite: 552]",
     "options": {
-      "a": "Picia alkoholu",
-      "b": "Posługi religijnej",
-      "c": "Ucieczek",
-      "d": "Niszczenia sprzętu"
+      "a": "Nagroda od kolegów",
+      "b": "Jest to zachowanie zabronione ustawą [cite: 552]",
+      "c": "Przymusowe przeniesienie do szkoły",
+      "d": "Grzywna wymierzona przez dyrektora"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 65,
-    "text": "W placówce nieletniemu nie wolno wykonywać:",
+    "id": 214,
+    "text": "Jaką rolę pełni 'chrześcijański system wartości' w ustawie? [cite: 77]",
     "options": {
-      "a": "Notatek",
-      "b": "Tatuaży i innych uszkodzeń ciała",
-      "c": "Zadań domowych",
-      "d": "Rysunków"
+      "a": "Jest podstawą każdego wyroku skazującego",
+      "b": "Jest punktem odniesienia dla ochrony rodziny przez państwo [cite: 77]",
+      "c": "Zobowiązuje nieletnich do praktyk religijnych",
+      "d": "Nie występuje w tekście ustawy"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 66,
-    "text": "Poufność to zasada obowiązująca w procesie:",
+    "id": 215,
+    "text": "W jakiej sytuacji mediator może ujawnić treść rozmów mediacyjnych sądowi? [cite: 221, 247]",
     "options": {
-      "a": "Przesłuchania jawnego",
-      "b": "Mediacji",
-      "c": "Wywiadu z mediami",
-      "d": "Aresztu domowego"
+      "a": "Gdy pokrzywdzony zapłaci mediatorowi",
+      "b": "Mediator nie może ujawniać szczegółów rozmów (tylko ugodę/jej brak) [cite: 221, 247]",
+      "c": "Zawsze na żądanie prokuratora",
+      "d": "Gdy nieletni kłamie podczas mediacji"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 67,
-    "text": "Okręgowy ośrodek wychowawczy to środek wprowadzony ustawą z roku:",
+    "id": 216,
+    "text": "Zasada 'bezstronności' mediatora polega na: [cite: 250]",
     "options": {
-      "a": "1982",
-      "b": "2022",
-      "c": "2000",
-      "d": "1997"
+      "a": "Wspieraniu słabszej strony konfliktu",
+      "b": "Jednakowym traktowaniu wszystkich uczestników mediacji [cite: 250]",
+      "c": "Przekazywaniu racji wyłącznie pokrzywdzonemu",
+      "d": "Braku kontaktu ze stronami przed spotkaniem"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 68,
-    "text": "Głównym celem postępowania z nieletnimi jest ich:",
+    "id": 217,
+    "text": "Co oznacza 'odformalizowanie' środków odwoławczych nieletniego? [cite: 508, 511]",
     "options": {
-      "a": "Wykluczenie",
-      "b": "Wspieranie i resocjalizacja",
-      "c": "Uwięzienie",
-      "d": "Ośmieszenie"
+      "a": "Możliwość złożenia apelacji w formie ustnej bez protokołu",
+      "b": "Niestosowanie rygorów KPC (Art. 368) i zakaz odrzucenia z braku tych rygorów [cite: 508, 511]",
+      "c": "Brak konieczności zachowania jakichkolwiek terminów",
+      "d": "Prawo do wniesienia apelacji po 10 latach"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 69,
-    "text": "Nieletni musi dbać o higienę osobistą – jest to jego:",
+    "id": 218,
+    "text": "Kto może sprawować nadzór nad nieletnim jako 'pracodawca'? [cite: 50, 152]",
     "options": {
-      "a": "Wybór",
-      "b": "Obowiązek ustawowy w placówce",
-      "c": "Zakaz",
-      "d": "Przywilej"
+      "a": "Dowolna firma, która go zatrudni",
+      "b": "Pracodawca, który udzielił poręczenia za nieletniego [cite: 50, 152]",
+      "c": "Tylko urząd gminy",
+      "d": "Wyłącznie dyrektor zakładu poprawczego"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 70,
-    "text": "Używanie wulgaryzmów w placówce jest dla nieletniego:",
+    "id": 219,
+    "text": "Jakie są główne zasady etyki mediatora wspomniane w karcie pracy? [cite: 232]",
     "options": {
-      "a": "Dozwolone",
-      "b": "Zabronione",
-      "c": "Wskazane",
-      "d": "Nagradzane"
+      "a": "Szybkość działania i surowość",
+      "b": "Dobrowolność, bezstronność, neutralność, poufność [cite: 218, 232]",
+      "c": "Publiczne ujawnianie ugodzonych spraw",
+      "d": "Pobieranie prowizji od zawartych ugód"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 71,
-    "text": "Czyn karalny to m.in. przestępstwo skarbowe popełnione po ukończeniu:",
+    "id": 220,
+    "text": "Który organ jest uprawniony do 'zmiany stosowanego środka tymczasowego'? [cite: 485]",
     "options": {
-      "a": "10 lat",
-      "b": "13 lat",
-      "c": "15 lat",
-      "d": "17 lat"
+      "a": "Policja po uzyskaniu nowych dowodów",
+      "b": "Sąd rodzinny [cite: 485]",
+      "c": "Dyrektor schroniska samodzielnie",
+      "d": "Kurator zawodowy"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 72,
-    "text": "Rodzice nieletniego mają obowiązek współpracy m.in. z:",
+    "id": 221,
+    "text": "Co nieletni musi zrobić z dokumentami tożsamości w placówce? [cite: 541]",
     "options": {
-      "a": "Sąsiadami",
-      "b": "Szkołą i poradnią psychologiczno-pedagogiczną",
-      "c": "Biurem podróży",
-      "d": "Sklepem spożywczym"
+      "a": "Nosić je zawsze przy sobie",
+      "b": "Przekazać do depozytu placówki [cite: 541]",
+      "c": "Odesłać pocztą do sądu",
+      "d": "Zniszczyć w obecności wychowawcy"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 73,
-    "text": "W mediacji biorą udział rodzice pod których:",
+    "id": 222,
+    "text": "Czy nieletni ma obowiązek uczestniczyć w procesie resocjalizacji? [cite: 534]",
     "options": {
-      "a": "Adresem dziecko nie mieszka",
-      "b": "Stałą pieczą nieletni faktycznie pozostaje",
-      "c": "Opieką dziecko było 5 lat temu",
-      "d": "Nazwiskiem dziecko nie widnieje"
+      "a": "Nie, udział jest dobrowolny",
+      "b": "Tak, jest to jego ustawowy obowiązek [cite: 534]",
+      "c": "Tylko jeśli skończył 15 lat",
+      "d": "Tylko w placówkach leczniczych"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 74,
-    "text": "Mediator musi znać język:",
+    "id": 223,
+    "text": "Co oznacza zasada 'subsydiarności' wspomniana w preambule? [cite: 77]",
     "options": {
-      "a": "Angielski",
-      "b": "Polski",
-      "c": "Migowy zawsze",
-      "d": "Łacinę"
+      "a": "Państwo wyręcza rodziców w każdej sytuacji",
+      "b": "Państwo wspiera rodzinę w wychowaniu, respektując jej autonomię [cite: 77]",
+      "c": "Nieletni jest ważniejszy niż rodzina",
+      "d": "Oznacza ona bezwzględną karę więzienia"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 75,
-    "text": "Prawomocne orzeczenie o zakładzie poprawczym kończy etap:",
+    "id": 224,
+    "text": "Kto może sprawować nadzór jako 'organizacja pozarządowa'? [cite: 50, 152]",
     "options": {
-      "a": "Wykonawczy",
-      "b": "Rozpoznawczy",
-      "c": "Mediacji",
-      "d": "Zatrzymania"
+      "a": "Dowolna fundacja bez względu na statut",
+      "b": "Organizacja, której celem statutowym jest praca z nieletnimi [cite: 50, 152]",
+      "c": "Wyłącznie partia polityczna",
+      "d": "Tylko zagraniczne organizacje pomocowe"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 76,
-    "text": "Właściwość miejscowa sądu miejsca pierwszego czynu jest:",
+    "id": 225,
+    "text": "Co dzieje się z nieletnim, gdy ustanie przyczyna zatrzymania? [cite: 363]",
     "options": {
-      "a": "Pierwszorzędna",
-      "b": "Subsydiarna (w razie braku innych podstaw)",
-      "c": "Zabroniona",
-      "d": "Zależna od woli nieletniego"
+      "a": "Zostaje przewieziony do zakładu poprawczego",
+      "b": "Zostaje zwolniony i przekazany rodzicom lub opiekunom [cite: 363]",
+      "c": "Musi pozostać na komisariacie do rana",
+      "d": "Zostaje wypuszczony na wolność bez opieki"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 77,
-    "text": "Umorzenie postępowania następuje, gdy brak jest podstaw do:",
+    "id": 226,
+    "text": "Zgodnie z Art. 79 ust. 1, orzeczenie można zaskarżyć: [cite: 514]",
     "options": {
-      "a": "Dalszego nauczania",
-      "b": "Stosowania środków",
-      "c": "Płacenia alimentów",
-      "d": "Wyjazdu na wakacje"
+      "a": "Tylko w całości",
+      "b": "W całości albo w części [cite: 514]",
+      "c": "Tylko w części dotyczącej winy",
+      "d": "Tylko przez obrońcę"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 78,
-    "text": "Nagrywanie dźwięku podczas wysłuchania nieletniego jest:",
+    "id": 227,
+    "text": "Jaki jest termin na wniesienie zażalenia na zatrzymanie? [cite: 500, 502]",
     "options": {
-      "a": "Zabronione",
-      "b": "Zalecane (w miarę możliwości)",
-      "c": "Obowiązkowe tylko dla rodziców",
-      "d": "Tylko za opłatą"
+      "a": "7 dni",
+      "b": "Niezwłocznie (rozpoznawane jest niezwłocznie) [cite: 502]",
+      "c": "24 godziny",
+      "d": "14 dni"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 79,
-    "text": "Przeciwko całości orzeczenia uznaje się apelację wniesioną przez:",
+    "id": 228,
+    "text": "Które województwo statystycznie miało najwięcej prawomocnych orzeczeń w 2018 r.? [cite: 106, 112, 113]",
     "options": {
-      "a": "Sąsiada",
-      "b": "Nieletniego lub rodziców",
-      "c": "Tylko prokuratora",
-      "d": "Dyrektora szkoły"
+      "a": "Podlaskie",
+      "b": "Mazowieckie (liczba osób > 2310) [cite: 106, 112]",
+      "c": "Opolskie",
+      "d": "Śląskie"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 80,
-    "text": "Sędzia wizytujący kontroluje warunki w:",
+    "id": 229,
+    "text": "Co oznacza 'lex specialis' w kontekście posiedzeń sądu rodzinnego? [cite: 444]",
     "options": {
-      "a": "Domach prywatnych",
-      "b": "Zakładach poprawczych i schroniskach",
-      "c": "Restauracjach",
-      "d": "Kinach"
+      "a": "Prawo specjalne dla sędziów",
+      "b": "Przepis Art. 29 wyłączający stosowanie ogólnych zasad KPC [cite: 444]",
+      "c": "Zasada jawności rozpraw",
+      "d": "Możliwość karania rodziców"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 81,
-    "text": "Resocjalizacja to teoretyczne i praktyczne oddziaływania wobec osób:",
+    "id": 230,
+    "text": "Czy nieletni ma obowiązek poddania się badaniom na obecność substancji psychoaktywnej? [cite: 544]",
     "options": {
-      "a": "W pełni dostosowanych",
-      "b": "Niedostosowanych społecznie",
-      "c": "Tylko pełnoletnich",
-      "d": "Wybitnie uzdolnionych"
+      "a": "Tylko przed sądem",
+      "b": "Tak, w przypadkach określonych w ustawie [cite: 544]",
+      "c": "Nie, to narusza jego godność",
+      "d": "Tylko za zgodą rodziców"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 82,
-    "text": "Poczucie odpowiedzialności rodzin za dzieci jest dobrem:",
+    "id": 231,
+    "text": "Jakie dane osobowe mediatora muszą znaleźć się w sprawozdaniu? [cite: 233]",
     "options": {
-      "a": "Prywatnym",
-      "b": "Wspólnym całego społeczeństwa",
-      "c": "Tylko matki",
-      "d": "Nieistotnym prawnie"
+      "a": "Adres zamieszkania i PESEL",
+      "b": "Imię i nazwisko mediatora [cite: 233]",
+      "c": "Numer konta bankowego",
+      "d": "Wykształcenie i staż pracy"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 83,
-    "text": "Dział I ustawy o wspieraniu i resocjalizacji zawiera:",
+    "id": 232,
+    "text": "Kto może uczestniczyć w mediacji po stronie pokrzywdzonego? [cite: 184]",
     "options": {
-      "a": "Przepisy końcowe",
-      "b": "Przepisy ogólne",
-      "c": "Wzory pism",
-      "d": "Mapy statystyczne"
+      "a": "Wyłącznie on sam",
+      "b": "Pokrzywdzony i jego przedstawiciel ustawowy [cite: 184]",
+      "c": "Sąsiad jako świadek",
+      "d": "Każda osoba zaufania bez ograniczeń"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 84,
-    "text": "Prawomocne orzeczenie wydaje sąd w instancji:",
+    "id": 233,
+    "text": "Jakie cechy musi mieć zachowanie nieletniego, by uznać je za 'uprawianie nierządu'? [cite: 45, 130]",
     "options": {
-      "a": "Tylko pierwszej",
-      "b": "Po wyczerpaniu drogi odwoławczej (lub braku zaskarżenia)",
-      "c": "Zawsze po 5 latach",
-      "d": "Na prośbę Policji"
+      "a": "Każdy kontakt seksualny",
+      "b": "Utrwalone i naruszające normy współżycia społecznego [cite: 130, 259]",
+      "c": "Czyn popełniony wyłącznie w szkole",
+      "d": "Zawsze musi wiązać się z korzyścią majątkową"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 85,
-    "text": "Kurator składa sprawozdania z nadzoru z częstotliwością określoną przez:",
+    "id": 234,
+    "text": "Jaki jest cel 'nadzoru kuratora sądowego' według ustawy? [cite: 153]",
     "options": {
-      "a": "Nieletniego",
-      "b": "Sąd rodzinny",
-      "c": "Rodziców",
-      "d": "Szkołę"
+      "a": "Inwigilacja rodziny nieletniego",
+      "b": "Oddziaływanie wychowawcze i kontrola postępów [cite: 153]",
+      "c": "Zastąpienie rodziców w wychowaniu",
+      "d": "Dostarczanie nieletniemu środków finansowych"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 86,
-    "text": "Opinia o nieletnim powinna być wydana po uzyskaniu opinii:",
+    "id": 235,
+    "text": "W jakiej formie przekazywana jest sprawa szkole? [cite: 485]",
     "options": {
-      "a": "Kolegów",
-      "b": "Biegłych (psychologa, pedagoga)",
-      "c": "Sprzedawcy w sklepie",
-      "d": "Rodzeństwa"
+      "a": "W formie postanowienia zaskarżalnego zażaleniem [cite: 485]",
+      "b": "W formie ustnej prośby sędziego",
+      "c": "W formie wyroku ogłoszonego publicznie",
+      "d": "Szkoła nie musi otrzymywać formalnej decyzji"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["a"]
   },
   {
-    "id": 87,
-    "text": "Przesłuchanie nieletniego w charakterze świadka przez sąd to:",
+    "id": 236,
+    "text": "Czy nieletni umieszczony w placówce musi prosić o zgodę na umycie się? [cite: 537]",
     "options": {
-      "a": "Standardowa procedura w każdej sprawie",
-      "b": "Czynność, której należy unikać (lepiej wysłuchać)",
-      "c": "Obowiązek po 10 roku życia",
-      "d": "Zabronione prawem"
+      "a": "Tak, każda czynność wymaga zgody",
+      "b": "Nie, dbanie o higienę to jego obowiązek [cite: 537]",
+      "c": "Tylko w soboty",
+      "d": "Zależy od regulaminu schroniska"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 88,
-    "text": "Dobrowolność mediacji oznacza możliwość wycofania zgody:",
+    "id": 237,
+    "text": "Które z działań jest kategorycznie zakazane nieletniemu w placówce? [cite: 555]",
     "options": {
-      "a": "Tylko w pierwszym dniu",
-      "b": "Aż do zakończenia postępowania mediacyjnego",
-      "c": "Tylko za karą finansową",
-      "d": "Nigdy"
+      "a": "Czytanie gazet",
+      "b": "Wykonywanie tatuaży [cite: 555]",
+      "c": "Uczenie się języków obcych",
+      "d": "Rozmawianie z wychowawcami"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 89,
-    "text": "Ugodę zawartą przed mediatorem bierze pod uwagę:",
+    "id": 238,
+    "text": "Co oznacza zasada 'poufności' wspomniana w terminologii mediacji? [cite: 251]",
     "options": {
-      "a": "Tylko szkoła",
-      "b": "Sąd rodzinny przy orzekaniu",
-      "c": "Wyłącznie pokrzywdzony",
-      "d": "Urząd skarbowy"
+      "a": "Zakaz mówienia o sprawie komukolwiek",
+      "b": "Obowiązek mediatora i stron do nieujawniania informacji z toku mediacji [cite: 251]",
+      "c": "Prowadzenie mediacji w całkowitej ciemności",
+      "d": "Zakaz podpisywania jakichkolwiek ugód"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 90,
-    "text": "Aplikant może być obrońcą nieletniego po upływie:",
+    "id": 239,
+    "text": "Jaki jest cel postępowania w sprawie nieletniego zgodnie z Art. 56? [cite: 422]",
     "options": {
-      "a": "1 miesiąca",
-      "b": "6 miesięcy aplikacji",
-      "c": "2 lat aplikacji",
-      "d": "Dopiero po egzaminie zawodowym"
+      "a": "Zawsze ukaranie nieletniego",
+      "b": "Ustalenie czy istnieje demoralizacja lub czyn karalny i potrzeba środków [cite: 422]",
+      "c": "Zaspokojenie ciekawości pokrzywdzonego",
+      "d": "Uzasadnienie wydatków na kuratorów"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 91,
-    "text": "Nieletniemu przysługuje prawo do humanitarnego:",
+    "id": 240,
+    "text": "Kto informuje sąd rodzinny o nieskuteczności środków w szkole? [cite: 405]",
     "options": {
-      "a": "Ubioru",
-      "b": "Traktowania",
-      "c": "Jedzenia tylko słodyczy",
-      "d": "Spędzania czasu tylko przed TV"
+      "a": "Nieletni samodzielnie",
+      "b": "Podmiot, któremu przekazano sprawę (np. szkoła) [cite: 405]",
+      "c": "Policja po kontroli",
+      "d": "Kurator zawodowy z urzędu"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 92,
-    "text": "Poufność mediacji dotyczy m.in.:",
+    "id": 241,
+    "text": "Zgodnie z preambułą, umacnianie odpowiedzialności rodzin to: [cite: 78]",
     "options": {
-      "a": "Tylko mediatora",
-      "b": "Mediatora i wszystkich uczestników",
-      "c": "Tylko sędziego",
-      "d": "Wyłącznie nieletniego"
+      "a": "Prywatna sprawa każdego obywatela",
+      "b": "Wspólne dobro całego społeczeństwa [cite: 78]",
+      "c": "Zagrożenie dla wolności jednostki",
+      "d": "Wyłącznie obowiązek matki"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 93,
-    "text": "Przejawem demoralizacji jest uprawianie:",
+    "id": 242,
+    "text": "W jakim przypadku sąd rodzinny wyznacza obrońcę z urzędu niezwłocznie? [cite: 300]",
     "options": {
-      "a": "Sportu",
-      "b": "Nierządu",
-      "c": "Muzyki",
-      "d": "Ogródka"
+      "a": "Gdy nieletni nie ma butów na rozprawę",
+      "b": "Gdy nieletni jest głuchy, niemy lub niewidomy [cite: 300]",
+      "c": "Gdy nieletni nie lubi sędziego",
+      "d": "Gdy pokrzywdzony ma trzech pełnomocników"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 94,
-    "text": "Środek wychowawczy w postaci prac społecznych służy:",
+    "id": 243,
+    "text": "Czym różni się 'czyn karalny' od 'demoralizacji'? [cite: 21, 22, 26, 44]",
     "options": {
-      "a": "Zarabianiu pieniędzy",
-      "b": "Wychowaniu i naprawie szkody",
-      "c": "Ośmieszeniu nieletniego",
-      "d": "Utrudnieniu nauki"
+      "a": "Niczym, to synonimy",
+      "b": "Czyn karalny to konkretne przestępstwo/wykroczenie, demoralizacja to postawa [cite: 21, 22, 26, 44]",
+      "c": "Demoralizacja dotyczy tylko dorosłych",
+      "d": "Czyn karalny nie podlega ustawie o nieletnich"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 95,
-    "text": "Wspieranie nieletnich polega na ich:",
+    "id": 244,
+    "text": "Zgodnie z Art. 108 pkt 11, nieletni musi uzyskać zgodę dyrektora na: [cite: 542]",
     "options": {
-      "a": "Finansowaniu",
-      "b": "Dopingowaniu do zachowań zgodnych z normami",
-      "c": "Wyręczaniu w obowiązkach",
-      "d": "Ignorowaniu błędów"
+      "a": "Umycie zębów",
+      "b": "Czasowe opuszczenie placówki [cite: 542]",
+      "c": "Napisanie listu do rodziców",
+      "d": "Obejrzenie telewizji"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 96,
-    "text": "Czy Policja może zatrzymać nieletniego w przypadku niecierpiącym zwłoki?",
+    "id": 245,
+    "text": "Kto ma obowiązek zawiadomić o popełnieniu czynu karalnego ściganego z urzędu? [cite: 132]",
     "options": {
-      "a": "Nie, tylko sąd może to zrobić",
-      "b": "Tak",
-      "c": "Tylko za zgodą rodziców",
-      "d": "Tylko jeśli ma ukończone 17 lat"
+      "a": "Tylko świadek naoczny",
+      "b": "Instytucje państwowe i organizacje społeczne [cite: 132]",
+      "c": "Wyłącznie Policja",
+      "d": "Nikt nie ma takiego prawnego obowiązku"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 102,
-    "text": "Zasada jawności posiedzeń dla osób zaufania jest dopuszczalna w celu:",
+    "id": 246,
+    "text": "Jaki dokument przesyła mediator do sądu po zakończeniu mediacji? [cite: 231]",
     "options": {
-      "a": "Nagłośnienia sprawy",
-      "b": "Wsparcia nieletniego",
-      "c": "Oceny pracy sędziego przez publiczność",
-      "d": "Przesłuchania tych osób"
+      "a": "Prywatny pamiętnik",
+      "b": "Sprawozdanie z mediacji [cite: 231, 247]",
+      "c": "Wniosek o ukaranie nieletniego",
+      "d": "Pozew cywilny"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 103,
-    "text": "Status pokrzywdzonego wygasa w przypadku jego:",
+    "id": 247,
+    "text": "Czy nieletni może odmawiać odpowiedzi na poszczególne pytania? [cite: 305]",
     "options": {
-      "a": "Wyjazdu",
-      "b": "Śmierci (prawa przechodzą na osoby najbliższe)",
-      "c": "Rezygnacji z odszkodowania",
-      "d": "Utraty pracy"
+      "a": "Nie, musi odpowiadać na wszystko pod groźbą grzywny",
+      "b": "Tak, ma prawo do odmowy odpowiedzi na poszczególne pytania [cite: 305]",
+      "c": "Tylko jeśli pytanie dotyczy kolegów",
+      "d": "Tylko jeśli rodzice mu na to pozwolą"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 104,
-    "text": "Wykonywanie tatuaży przez nieletniego w placówce jest:",
+    "id": 248,
+    "text": "Jakie są cechy ugody zawartej w mediacji? [cite: 244]",
     "options": {
-      "a": "Nagradzane",
-      "b": "Zabronione",
-      "c": "Obojętne",
-      "d": "Obowiązkowe"
+      "a": "Jest narzucona przez mediatora",
+      "b": "Określa sposób naprawienia szkody lub zadośćuczynienia [cite: 244]",
+      "c": "Jest tajna przed sędzią",
+      "d": "Zawsze musi zawierać karę więzienia"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 105,
-    "text": "Udział w grupach organizowanych bez wiedzy dyrektora placówki jest:",
+    "id": 249,
+    "text": "Co oznacza zasada 'dobrowolności' w mediacji? [cite: 245]",
     "options": {
-      "a": "Zalecany",
-      "b": "Zabroniony",
-      "c": "Dozwolony po lekcjach",
-      "d": "Wymagany do resocjalizacji"
+      "a": "Możliwość zmuszenia stron do zgody",
+      "b": "Udział w mediacji jest swobodny i wolny od nacisków [cite: 245]",
+      "c": "Brak opłat za mediację",
+      "d": "Możliwość wyboru koloru pokoju mediacyjnego"
     },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   },
   {
-    "id": 106,
-    "text": "Dbałość o rzeczy własne i innych to dla nieletniego w placówce:",
+    "id": 250,
+    "text": "Który organ sprawuje nadzór nad funkcjonowaniem zakładów poprawczych? [cite: 525]",
     "options": {
-      "a": "Opcja",
-      "b": "Obowiązek",
-      "c": "Zakaz",
-      "d": "Kara"
+      "a": "Policja",
+      "b": "Sędzia sądu rodzinnego [cite: 525]",
+      "c": "Wójt gminy",
+      "d": "Dyrektor szkoły nieletniego"
     },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 107,
-    "text": "Prace porządkowe na rzecz ośrodka nieletni wykonuje:",
-    "options": {
-      "a": "Tylko w weekendy",
-      "b": "Na zasadach określonych w ustawie",
-      "c": "Zamiast nauki",
-      "d": "Tylko za karę"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 108,
-    "text": "Powiadamianie o zagrożeniach dla bezpieczeństwa to dla nieletniego:",
-    "options": {
-      "a": "Skarżenie",
-      "b": "Obowiązek ustawowy",
-      "c": "Wybór",
-      "d": "Zakaz"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 109,
-    "text": "Przestrzeganie terminu powrotu z pobytu poza placówką to:",
-    "options": {
-      "a": "Przywilej",
-      "b": "Obowiązek",
-      "c": "Dobrowolna decyzja",
-      "d": "Niemożliwe do wyegzekwowania"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 110,
-    "text": "Wniesienie zażalenia na środek tymczasowy (np. schronisko) następuje:",
-    "options": {
-      "a": "Po miesiącu",
-      "b": "Niezwłocznie (rozpoznanie)",
-      "c": "Tylko przez prokuratora",
-      "d": "Na koniec roku szkolnego"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 111,
-    "text": "Zażalenie do innego składu sądu I instancji przysługuje na:",
-    "options": {
-      "a": "Wyrok końcowy",
-      "b": "Cofnięcie wyznaczenia obrońcy z urzędu",
-      "c": "Umorzenie sprawy",
-      "d": "Powołanie świadka"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 112,
-    "text": "Czy nieletni ma prawo do wyrażania własnego zdania w postępowaniu?",
-    "options": {
-      "a": "Nie, dzieci i ryby głosu nie mają",
-      "b": "Tak",
-      "c": "Tylko w wieku 17 lat",
-      "d": "Tylko jeśli sędzia pozwoli"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 113,
-    "text": "Interes społeczny w postępowaniu z nieletnimi musi być:",
-    "options": {
-      "a": "Ignorowany",
-      "b": "Uwzględniany obok dobra dziecka",
-      "c": "Ważniejszy niż dobro dziecka",
-      "d": "Jedynym kryterium"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 114,
-    "text": "Osoba nieporadna ze względu na stan zdrowia jako pokrzywdzony:",
-    "options": {
-      "a": "Traci prawa",
-      "b": "Jej prawa wykonuje osoba, pod której pieczą faktycznie pozostaje",
-      "c": "Musi sama się bronić",
-      "d": "Nie może brać udziału w sprawie"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 115,
-    "text": "Czyn karalny określony w Kodeksie karnym skarbowym to np.:",
-    "options": {
-      "a": "Kradzież jabłka",
-      "b": "Przestępstwo skarbowe",
-      "c": "Bójka",
-      "d": "Obraza nauczyciela"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 116,
-    "text": "Sędzia rodzinny orzeka na posiedzeniu niejawnym o:",
-    "options": {
-      "a": "Wszystkim bez wyjątku",
-      "b": "Przypadkach określonych w ustawie",
-      "c": "Tylko za zgodą Policji",
-      "d": "Nigdy nie może"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 117,
-    "text": "Utrwalanie obrazu podczas wysłuchania nieletniego służy:",
-    "options": {
-      "a": "Rozrywce",
-      "b": "Uniknięciu wielokrotnego przesłuchiwania",
-      "c": "Szantażowi",
-      "d": "Statystykom"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 118,
-    "text": "Czy apelacja wniesiona po terminie zostanie rozpoznana?",
-    "options": {
-      "a": "Tak, zawsze",
-      "b": "Nie, zostanie odrzucona",
-      "c": "Tak, jeśli nieletni ładnie poprosi",
-      "d": "Tylko w poniedziałki"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 119,
-    "text": "Prawa nieletniego w placówce obejmują m.in. prawo do:",
-    "options": {
-      "a": "Samowolki",
-      "b": "Prywatności",
-      "c": "Agresji",
-      "d": "Brak nauki"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 120,
-    "text": "Sąd rodzinny prowadzi postępowanie, chyba że ustawa:",
-    "options": {
-      "a": "Nakaże inaczej",
-      "b": "Stanowi inaczej",
-      "c": "Zabrania sędziemu pracy",
-      "d": "Jest nieczytelna"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 121,
-    "text": "Zakaz przebywania w określonych środowiskach to środek:",
-    "options": {
-      "a": "Karny",
-      "b": "Wychowawczy",
-      "c": "Poprawczy",
-      "d": "Leczniczy"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 122,
-    "text": "Podstawą umieszczenia w schronisku może być brak możliwości ustalenia:",
-    "options": {
-      "a": "Ocen",
-      "b": "Tożsamości nieletniego",
-      "c": "Hobby",
-      "d": "Znajomych"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 123,
-    "text": "Resocjalizacja ma uwzględniać wskazania nauki i doświadczeń:",
-    "options": {
-      "a": "Politycznych",
-      "b": "Pedagogicznych",
-      "c": "Technicznych",
-      "d": "Historycznych"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 124,
-    "text": "Pobyt w schronisku można przedłużać, ale nie dłużej niż na:",
-    "options": {
-      "a": "Miesiąc",
-      "b": "Rok (z wyjątkami szczególnie uzasadnionymi)",
-      "c": "10 lat",
-      "d": "Zawsze tylko na 2 tygodnie"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 125,
-    "text": "Pouczenie nieletniego musi być:",
-    "options": {
-      "a": "Niezrozumiałe",
-      "b": "Zrozumiałe dla nieletniego",
-      "c": "Tylko w formie pisemnej łaciną",
-      "d": "Przekazane szeptem"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 126,
-    "text": "Świadek w sprawie nieletniego ma obowiązek:",
-    "options": {
-      "a": "Kłamać",
-      "b": "Stawić się i złożyć zeznania",
-      "c": "Płacić za wstęp",
-      "d": "Zabrać kolegów"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 127,
-    "text": "Cofnięcie wyznaczenia obrońcy z urzędu następuje, gdy:",
-    "options": {
-      "a": "Nieletni go nie lubi",
-      "b": "Ustały przyczyny jego wyznaczenia",
-      "c": "Adwokat wyjechał na urlop",
-      "d": "Skończyły się pieniądze w sądzie"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 128,
-    "text": "Termin na wniesienie apelacji to zazwyczaj:",
-    "options": {
-      "a": "2 dni",
-      "b": "14 dni od doręczenia wyroku z uzasadnieniem",
-      "c": "Rok",
-      "d": "Dowolny moment"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 129,
-    "text": "Wgląd w akta sprawy dla nieletniego jest:",
-    "options": {
-      "a": "Zabroniony",
-      "b": "Dozwolony (z możliwością ograniczeń przez sąd)",
-      "c": "Tylko za opłatą 1000 zł",
-      "d": "Tylko dla dorosłych"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 130,
-    "text": "Rozprawa apelacyjna odbywa się w sądzie:",
-    "options": {
-      "a": "Rejonowym",
-      "b": "Okręgowym (jako II instancja)",
-      "c": "Najwyższym",
-      "d": "Pokoju sędziego"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 131,
-    "text": "Kurator zawodowy różni się od społecznego tym, że:",
-    "options": {
-      "a": "Pracuje w sądzie zawodowo",
-      "b": "Nie ma studiów",
-      "c": "Pracuje za darmo",
-      "d": "Jest nieletni"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 132,
-    "text": "Resocjalizacja nieletniego powinna być prowadzona w sposób:",
-    "options": {
-      "a": "Przemocowy",
-      "b": "Zindywidualizowany",
-      "c": "Jednakowy dla wszystkich",
-      "d": "Tajny przed nieletnim"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 133,
-    "text": "Umorzenie z powodu 'niskiej szkodliwości' czynu jest:",
-    "options": {
-      "a": "Zabronione",
-      "b": "Możliwe w sprawach nieletnich",
-      "c": "Obowiązkowe zawsze",
-      "d": "Tylko przy morderstwie"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 134,
-    "text": "Obrońca nieletniego podejmuje czynności wyłącznie na:",
-    "options": {
-      "a": "Swoją korzyść",
-      "b": "Korzyść nieletniego",
-      "c": "Korzyść prokuratora",
-      "d": "Złość rodzicom"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 135,
-    "text": "Wniosek o obrońcę z urzędu sąd rozpoznaje:",
-    "options": {
-      "a": "Po roku",
-      "b": "Niezwłocznie",
-      "c": "Tylko w środy",
-      "d": "Nigdy"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 136,
-    "text": "Jeśli nieletni ma 3 obrońców, to jest to:",
-    "options": {
-      "a": "Zabronione",
-      "b": "Maksymalna dopuszczalna liczba",
-      "c": "Za mało",
-      "d": "Możliwe tylko w USA"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 137,
-    "text": "Koszty mediacji pokrywa zazwyczaj:",
-    "options": {
-      "a": "Mediator",
-      "b": "Skarb Państwa",
-      "c": "Nieletni z kieszonkowego",
-      "d": "Pokrzywdzony"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 138,
-    "text": "Sędzia rodzinny to sędzia sądu:",
-    "options": {
-      "a": "Wojskowego",
-      "b": "Rejonowego",
-      "c": "Grodzkiego",
-      "d": "Pracy"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 139,
-    "text": "Czy Policja może przesłuchać nieletniego bez rodzica?",
-    "options": {
-      "a": "Tak, zawsze",
-      "b": "Tylko w obecności innej osoby dorosłej (np. nauczyciela) w wyjątkowych sytuacjach",
-      "c": "Nigdy",
-      "d": "Tylko jeśli nieletni ma 18 lat"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 140,
-    "text": "Wniosek o uzasadnienie wyroku składa się w terminie:",
-    "options": {
-      "a": "7 dni od ogłoszenia",
-      "b": "Miesiąca",
-      "c": "Roku",
-      "d": "Godziny"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 141,
-    "text": "Zasada autonomii rodziny wspomniana w preambule oznacza:",
-    "options": {
-      "a": "Brak kontroli państwa",
-      "b": "Poszanowanie życia rodzinnego przez organy",
-      "c": "Prawo do bicia dzieci",
-      "d": "Brak obowiązku szkolnego"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 142,
-    "text": "Zasada współdziałania ze społeczeństwem to inaczej:",
-    "options": {
-      "a": "Zasada tajności",
-      "b": "Zasada partycypacji społecznej",
-      "c": "Zasada izolacji",
-      "d": "Zasada odwetu"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 143,
-    "text": "Zasada wychowania do życia w społeczeństwie ma na celu:",
-    "options": {
-      "a": "Naukę języków",
-      "b": "Prawidłowe funkcjonowanie w grupie",
-      "c": "Tylko naukę zawodu",
-      "d": "Wysłanie nieletniego za granicę"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 144,
-    "text": "Czy nieletni może zostać ukarany mandatem przez Policję?",
-    "options": {
-      "a": "Tak, zawsze",
-      "b": "Nie, sprawa trafia do sądu rodzinnego",
-      "c": "Tylko za parkowanie",
-      "d": "Tylko powyżej 15 lat"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 145,
-    "text": "Środki orzeczone wobec nieletniego kończą się z mocy prawa po ukończeniu:",
-    "options": {
-      "a": "18 lat",
-      "b": "21 lat (z pewnymi wyjątkami)",
-      "c": "25 lat",
-      "d": "30 lat"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 146,
-    "text": "Przesłuchanie nieletniego 'na odległość' (wideokonferencja) jest:",
-    "options": {
-      "a": "Zabronione",
-      "b": "Możliwe",
-      "c": "Obowiązkowe",
-      "d": "Płatne dodatkowo"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 147,
-    "text": "Kurator społeczny wykonuje swoje zadania:",
-    "options": {
-      "a": "Za wysoką pensję",
-      "b": "Społecznie (honorowo)",
-      "c": "Tylko w nocy",
-      "d": "Przez telefon tylko"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 148,
-    "text": "Ośrodek kuratorski działa zazwyczaj w godzinach:",
-    "options": {
-      "a": "Porannych",
-      "b": "Popołudniowych (po lekcjach)",
-      "c": "Tylko w nocy",
-      "d": "24h na dobę"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 149,
-    "text": "Czy nieletni może zostać zwolniony z zakładu poprawczego przedterminowo?",
-    "options": {
-      "a": "Nigdy",
-      "b": "Tak (warunkowe zwolnienie)",
-      "c": "Tylko na Boże Narodzenie",
-      "d": "Tylko za łapówkę"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 150,
-    "text": "Ostatni dział ustawy o wspieraniu i resocjalizacji dotyczy:",
-    "options": {
-      "a": "Historii prawa",
-      "b": "Przepisów przejściowych i końcowych",
-      "c": "Praw człowieka",
-      "d": "Budżetu sądu"
-    },
-    "correct_answers": [
-      "b"
-    ]
+    "correct_answers": ["b"]
   }
 ]
