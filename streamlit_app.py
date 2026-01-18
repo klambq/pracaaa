@@ -153,7 +153,7 @@ def sidebar_status():
                 st.session_state.screen = 'menu'
                 st.rerun()
         else:
-            st.markdown("Witaj w systemie testowym Prawa Pracy.")
+            st.markdown("Witaj w systemie testowym Postępowanie w sprawach nieletnich.")
             st.markdown("Wybierz tryb quizu z menu głównego.")
 
             incorrect_cnt = len(st.session_state.get('incorrect_ids', set()))
@@ -164,7 +164,7 @@ def show_main_menu(quiz_logic):
     # Kontener główny - Karta
     st.markdown('<div class="stCard">', unsafe_allow_html=True)
     
-    st.title("📚 Prawo Pracy - Quiz Wiedzy")
+    st.title("📚 Postępowanie w sprawach nieletnich - Quiz Wiedzy")
     st.markdown("Wybierz tryb nauki, aby rozpocząć testowanie swojej wiedzy.")
     
     col1, col2 = st.columns(2)
@@ -310,7 +310,7 @@ def show_summary_screen():
 
 
 # --- Main ---
-st.set_page_config(page_title="Prawo Pracy - Quiz", page_icon="🎓", layout="wide")
+st.set_page_config(page_title="Postępowanie w sprawach nieletnich - Quiz", page_icon="🎓", layout="wide")
 
 questions_data, error_message = load_questions_from_local_file(LOCAL_QUESTIONS_FILE)
 

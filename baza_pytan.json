@@ -1,341 +1,64 @@
 [
   {
     "id": 1,
-    "text": "Pracownik, wobec którego był stosowany mobbing może dochodzić",
+    "text": "Wobec osób wykazujących przejawy demoralizacji przepisy ustawy stosuje się do ukończenia przez nie:",
     "options": {
-      "a": "Tylko odszkodowania w wysokości minimalnego wynagrodzenia za pracę",
-      "b": "Zadośćuczynienia",
-      "c": "Tylko wynagrodzenia w wysokości jednomiesięcznego minimalnego wynagrodzenia za pracę",
-      "d": "Odszkodowania"
+      "a": "17 roku życia",
+      "b": "18 roku życia (pełnoletniości)",
+      "c": "21 roku życia",
+      "d": "25 roku życia"
     },
     "correct_answers": [
-      "b",
-      "d"
+      "b"
     ]
   },
   {
     "id": 2,
-    "text": "Pracownikiem nie jest osoba zatrudniona na podstawie",
+    "text": "Dolna granica wieku, od której stosuje się przepisy o demoralizacji, to:",
     "options": {
-      "a": "Wyboru",
-      "b": "Umowy zlecenia",
-      "c": "Mianowania",
-      "d": "Powołania",
-      "e": "Spółdzielczej umowy o pracę"
+      "a": "10 lat",
+      "b": "13 lat",
+      "c": "15 lat",
+      "d": "17 lat"
     },
     "correct_answers": [
-      "b"
+      "a"
     ]
   },
   {
     "id": 3,
-    "text": "Źródłem prawa pracy jest",
+    "text": "Nieletnim sprawcą czynu karalnego jest osoba, która dopuściła się go między:",
     "options": {
-      "a": "Polityka antymobbingowa",
-      "b": "Zarządzenie pracodawcy",
-      "c": "Status uczelni"
+      "a": "10 a 18 rokiem życia",
+      "b": "13 a 17 rokiem życia",
+      "c": "15 a 21 rokiem życia",
+      "d": "13 a 18 rokiem życia"
     },
     "correct_answers": [
-      "c"
+      "b"
     ]
   },
   {
     "id": 4,
-    "text": "Pracodawcą jest",
+    "text": "Do jakiego wieku można wykonywać orzeczone środki wychowawcze?",
     "options": {
-      "a": "Przedsiębiorstwo państwowe",
-      "b": "Spółka z ograniczoną odpowiedzialnością",
-      "c": "Jan Kowalski Sklep spożywczy, wpisany do CEIDG",
-      "d": "Spółka akcyjna"
+      "a": "Do 18 lat",
+      "b": "Do 21 lat",
+      "c": "Do 24 lat",
+      "d": "Bez limitu wieku"
     },
     "correct_answers": [
-      "a",
-      "b",
-      "c",
-      "d"
+      "b"
     ]
   },
   {
     "id": 5,
-    "text": "Urlop bezpłatny jest udzielany",
+    "text": "Co z wymienionych stanowi czyn karalny w rozumieniu ustawy?",
     "options": {
-      "a": "Na pisemne polecenie pracodawcy",
-      "b": "Na pisemny wniosek pracodawcy",
-      "c": "Na pisemny wniosek pracownika",
-      "d": "Na wniosek pracownika w dowolnej formie",
-      "e": "Na wniosek pracodawcy w dowolnej formie"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 6,
-    "text": "Mediacja jest obligatoryjnym etapem rozwiązywania sporów zbiorowych.",
-    "options": {
-      "a": "Prawda",
-      "b": "Fałsz"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 7,
-    "text": "Podwyżka wynagrodzenia wymaga akceptacji pracownika.",
-    "options": {
-      "a": "Prawda",
-      "b": "Fałsz"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 8,
-    "text": "Pracownik nie może się zrzec",
-    "options": {
-      "a": "Wynagrodzenia za pracę",
-      "b": "Urlopu wypoczynkowego"
-    },
-    "correct_answers": [
-      "a",
-      "b"
-    ]
-  },
-  {
-    "id": 9,
-    "text": "Umowa o pracę na okres próbny może być powtarzana",
-    "options": {
-      "a": "Wiele razy, jeśli pracownik za każdym razem będzie zatrudniony na innym stanowisku pracy",
-      "b": "Dwa razy, jeśli pracownik ma być zatrudniony na innym stanowisku pracy",
-      "c": "Dwa razy, jeśli pracownik ma być zatrudniony na tym samym stanowisku pracy",
-      "d": "Jeden raz, jeśli pracownik ma być zatrudniony na tym samym stanowisku pracy"
-    },
-    "correct_answers": [
-      "a",
-      "b",
-      "d"
-    ]
-  },
-  {
-    "id": 10,
-    "text": "Odprawę z tytułu zwolnień z przyczyn niedotyczących pracowników musi wypłacać pracownikom",
-    "options": {
-      "a": "Pracodawca zatrudniający 50 pracowników",
-      "b": "Pracodawca zatrudniający co najmniej 10 pracowników",
-      "c": "Pracodawca zatrudniający co najmniej 20 pracowników rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników",
-      "d": "Każdy pracodawca"
-    },
-    "correct_answers": [
-      "a",
-      "c"
-    ]
-  },
-  {
-    "id": 11,
-    "text": "Premia ma charakter",
-    "options": {
-      "a": "Nieroszczeniowa",
-      "b": "Roszczeniowy",
-      "c": "Uznaniowy",
-      "d": "W każdym przypadku pozaregulaminowy"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 12,
-    "text": "Pracownikowi, który stawił się do pracy, ale nie mógł jej wykonywać z przyczyn leżących po stronie pracodawcy przysługuje",
-    "options": {
-      "a": "Wynagrodzenie wynikające z jego osobistego zaszeregowania, określonego stawką godzinową lub miesięczną, a jeżeli taki składnik wynagrodzenia nie został wyodrębniony przy określaniu warunków wynagradzania",
-      "b": "Nie przysługuje wynagrodzenie w ogóle",
-      "c": "Zwrot kosztów dojazdu do pracy",
-      "d": "Połowa normalnego wynagrodzenia za pracę",
-      "e": "Wynagrodzenie przestojowe"
-    },
-    "correct_answers": [
-      "a",
-      "e"
-    ]
-  },
-  {
-    "id": 13,
-    "text": "Pracodawca może zobowiązać pracownika do wykorzystania urlopu wypoczynkowego w następujących sytuacjach",
-    "options": {
-      "a": "W przypadku wystąpienia przyczyn organizacyjnych",
-      "b": "W przypadku przestoju produkcyjnego",
-      "c": "W okresie wypowiedzenia",
-      "d": "W okresie wakacyjnym"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 14,
-    "text": "Przejście zakładu pracy na innego pracodawcę nie może odbyć się wbrew woli pracowników.",
-    "options": {
-      "a": "Prawda",
-      "b": "Fałsz"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 15,
-    "text": "Forma pisemna pod rygorem nieważności obowiązuje dla zawarcia i skuteczności",
-    "options": {
-      "a": "Umowy o zakazie konkurencji po ustaniu stosunku pracy",
-      "b": "Umowy o zakazie konkurencji w trakcie trwania stosunku pracy",
-      "c": "Umowy o pracę"
-    },
-    "correct_answers": [
-      "a",
-      "b"
-    ]
-  },
-  {
-    "id": 16,
-    "text": "Zmiana regulaminu wynagradzania",
-    "options": {
-      "a": "W zależności od sytuacji wymaga lub nie wymaga zmiany umowy o pracę",
-      "b": "Co do zasady nie wymaga zmiany umowy o pracę",
-      "c": "Jeśli jest na niekorzyść pracowników, to wymaga zmiany umowy o pracę"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 17,
-    "text": "Pracodawca, z dniem przejęcia zakładu pracy lub jego części, jest obowiązany zaproponować nowe warunki pracy i płacy",
-    "options": {
-      "a": "Pracownikom zatrudnionym na podstawie umowy o pracę na okres próbny",
-      "b": "Pracownikom zatrudnionym w oparciu o tzw. pozaumowne stosunki pracy",
-      "c": "Pracownikom zatrudnionym na podstawie umów o pracę na czas nieokreślony"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 18,
-    "text": "",
-    "options": {
-      "d": "Wszystkim pracownikom",
-      "e": "Pracownikom zatrudnionym w oparciu o umowy o pracę na czas określony"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": 19,
-    "text": "Reprezentatywną zakładową organizacją związkową jest zakładowa organizacja związkowa",
-    "options": {
-      "a": "Będąca jednostką organizacyjną albo organizacją członkowską ponadzakładowej organizacji związkowej uznanej za reprezentatywną w rozumieniu ustawy o Radzie Dialogu Społecznego, zrzeszająca co najmniej 8% osób wykonujących pracę zarobkową zatrudnionych u pracodawcy",
-      "b": "Zrzeszająca co najmniej 5% osób wykonujących pracę zarobkową zatrudnionych u pracodawcy",
-      "c": "Zrzeszająca co najmniej 15% osób wykonujących pracę zarobkową zatrudnionych u pracodawcy",
-      "d": "Zrzeszającą co najmniej 30% osób wykonujących pracę zarobkową zatrudnionych u pracodawcy"
-    },
-    "correct_answers": [
-      "a",
-      "c"
-    ]
-  },
-  {
-    "id": 20,
-    "text": "Odprawa pieniężna przysługuje pracownikowi w związku z rozwiązaniem stosunku pracy w ramach grupowego zwolnienia w wysokości",
-    "options": {
-      "a": "Dwumiesięcznego wynagrodzenia, jeżeli pracownik był zatrudniony u danego pracodawcy krócej niż 2 lata",
-      "b": "Jednomiesięcznego wynagrodzenia, jeżeli pracownik był zatrudniony u danego pracodawcy krócej niż 2 lata",
-      "c": "Dwumiesięcznego wynagrodzenia, jeżeli pracownik był zatrudniony u danego pracodawcy 5 lat"
-    },
-    "correct_answers": [
-      "b",
-      "c"
-    ]
-  },
-  {
-    "id": 21,
-    "text": "Porozumienie zmieniające nie może być zawarte",
-    "options": {
-      "a": "Z inicjatywy pracodawcy",
-      "b": "Na skutek nakazu Państwowej Inspekcji Pracy",
-      "c": "Z inicjatywy pracownika",
-      "d": "W formie pisemnej"
-    },
-    "correct_answers": [
-      "b",
-      "c"
-    ]
-  },
-  {
-    "id": 1,
-    "text": "Żądanie uznania za bezskuteczne wypowiedzenie umowy o pracę pracownik powinien wnieść w pozwie do sądu pracy",
-    "options": {
-      "a": "W terminie 7 dni od doręczenia mu pisma wypowiadającego umowę o pracę",
-      "b": "W terminie 14 dni od doręczenia mu pisma wypowiadającego umowę o pracę",
-      "c": "W dowolnym terminie",
-      "d": "W terminie 21 dni od doręczenia pisma wypowiadającego umowę o pracę"
-    },
-    "correct_answers": [
-      "d"
-    ]
-  },
-  {
-    "id": 2,
-    "text": "Okres wypowiedzenia umowy o pracę zawartej na czas określony jest uzależniony od okresu zatrudnienia u danego pracodawcy i wynosi",
-    "options": {
-      "a": "3 tygodnie, jeżeli pracownik był zatrudniony krócej niż 6 miesięcy",
-      "b": "3 miesiące, jeżeli pracownik był zatrudniony co najmniej 6 miesięcy"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": 3,
-    "text": "",
-    "options": {
-      "c": "1 miesiąc, jeżeli pracownik był zatrudniony 2 lata",
-      "d": "Jest tak samo liczony jak w przypadku umowy o pracę na czas nieokreślony"
-    },
-    "correct_answers": [
-      "d"
-    ]
-  },
-  {
-    "id": 3,
-    "text": "Umowę o pracę na okres próbny można powtarzać u tego samego pracodawcy",
-    "options": {
-      "a": "Wiele razy niezależnie od przyczyny",
-      "b": "Trzy razy na tym samym stanowisku",
-      "c": "Wiele razy na różnych stanowiskach",
-      "d": "Dwa razy na tym samym stanowisku"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 4,
-    "text": "Pracownikowi, któremu brakuje nie więcej niż 4 lata do osiągnięcia wieku emerytalnego, jeżeli okres zatrudnienia umożliwia mu uzyskanie prawa do emerytury z osiągnięciem tego wieku",
-    "options": {
-      "a": "Pracodawca nie może wypowiedzieć umowy o pracę",
-      "b": "Pracodawca może wypowiedzieć umowę o pracę",
-      "c": "Pracodawca nie może rozwiązać bez wypowiedzenia umowy o pracę"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 5,
-    "text": "Jeżeli okres zatrudnienia na podstawie zwykłej umowy o pracę na czas określony jest dłuższy niż 33 miesiące, lub jeżeli liczba zawartych umów jest większa niż 4, uważa się, że pracownik, odpowiednio od dnia następującego po upływie tego okresu, lub od dnia zawarcia czwartej umowy o pracę na czas określony",
-    "options": {
-      "a": "Jest zatrudniony na podstawie umowy o pracę na czas nieokreślony",
-      "b": "Jest zatrudniony na podstawie umowy o pracę na czas określony",
-      "c": "Nie jest zatrudniony na podstawie umowy o pracę"
+      "a": "Wykroczenie skarbowe",
+      "b": "Każde wykroczenie porządkowe",
+      "c": "Nieposłuszeństwo wobec rodziców",
+      "d": " Wagary"
     },
     "correct_answers": [
       "a"
@@ -343,26 +66,25 @@
   },
   {
     "id": 6,
-    "text": "Źródłem prawa pracy jest",
+    "text": "Czyn zabroniony to zachowanie o znamionach określonych w:",
     "options": {
-      "a": "Statut Uczelni",
-      "b": "Układ zbiorowy pracy",
-      "c": "Polityka antymobbingowa",
-      "d": "Konstytucja RP"
+      "a": "Statucie szkoły",
+      "b": "Ustawie karnej",
+      "c": "Regulaminie ośrodka",
+      "d": "Konstytucji"
     },
     "correct_answers": [
-      "a",
-      "b",
-      "d"
+      "b"
     ]
   },
   {
     "id": 7,
-    "text": "W razie ustalenia, że wypowiedzenie umowy o pracę zawartej na czas nieokreślony jest nieuzasadnione lub narusza przepisy o wypowiadaniu umów o pracę, sąd pracy",
+    "text": "Które zachowanie jest wprost wymienione jako przejaw demoralizacji?",
     "options": {
-      "a": "Może orzec o odszkodowaniu wbrew żądaniu pracownika",
-      "b": "Zawsze orzeka o odszkodowaniu",
-      "c": "Może orzec o przywróceniu do pracy wbrew żądaniu pracownika"
+      "a": "Używanie alkoholu",
+      "b": "Późne powroty do domu",
+      "c": "Kłótnie z rodzeństwem",
+      "d": "Brak kieszonkowego"
     },
     "correct_answers": [
       "a"
@@ -370,98 +92,90 @@
   },
   {
     "id": 8,
-    "text": "Pracodawca żąda od osoby ubiegającej się o zatrudnienie podania danych osobowych obejmujących",
+    "text": "Systematyczne uchylanie się od obowiązku szkolnego to:",
     "options": {
-      "a": "Imię i nazwisko",
-      "b": "Datę urodzenia",
-      "c": "Dane kontaktowe wskazane przez taką osobę",
-      "d": "Imiona rodziców",
-      "e": "Nr PESEL",
-      "f": "Wykształcenie",
-      "g": "Kwalifikacje zawodowe",
-      "h": "Przebieg dotychczasowego zatrudnienia, z wyłączeniem informacji o wynagrodzeniu w obecnym stosunku pracy oraz w poprzednich stosunkach pracy"
+      "a": "Czyn karalny",
+      "b": "Przejaw demoralizacji",
+      "c": "Wykroczenie",
+      "d": "Przestępstwo skarbowe"
     },
     "correct_answers": [
-      "a",
-      "b",
-      "c",
-      "f",
-      "g",
-      "h"
+      "b"
     ]
   },
   {
     "id": 9,
-    "text": "Pracownikowi podnoszącemu kwalifikacje zawodowe za zgodą pracodawcy przysługują",
+    "text": "Włóczęgostwo jest w ustawie traktowane jako:",
     "options": {
-      "a": "Urlop szkoleniowy",
-      "b": "Zwolnienie z całości lub części dnia pracy, na czas niezbędny, by punktualnie przybyć na obowiązkowe zajęcia oraz na czas ich trwania"
+      "a": "Przestępstwo",
+      "b": "Przejaw demoralizacji",
+      "c": "Wykroczenie skarbowe",
+      "d": "Zachowanie neutralne"
     },
     "correct_answers": [
-      "a",
       "b"
     ]
   },
   {
     "id": 10,
-    "text": "Uprawnienia zakładowej organizacji związkowej przysługują organizacji zrzeszającej co najmniej 10 członków będących",
+    "text": "Najmniej dotkliwym środkiem wychowawczym jest:",
     "options": {
-      "a": "Pracownikami u pracodawcy objętego działaniem tej organizacji zawodowych",
-      "b": "Innymi niż pracownicy osobami wykonującymi pracę zarobkową, które świadczą pracę przez co najmniej 6 miesięcy na rzecz pracodawcy objętego działaniem tej organizacji związkach zawodowych",
-      "c": "Innymi niż pracownicy osobami wykonującymi pracę zarobkową, które świadczą pracę przez co najmniej 12 miesięcy na rzecz pracodawcy objętego działaniem tej organizacji"
+      "a": "Nadzór kuratora",
+      "b": "Upomnienie",
+      "c": "Ośrodek kuratorski",
+      "d": "Nadzór organizacji"
     },
     "correct_answers": [
-      "a",
       "b"
     ]
   },
   {
     "id": 11,
-    "text": "Obowiązkowymi etapami sporu zbiorowego są",
+    "text": "Nadzór odpowiedzialny rodziców polega na tym, że:",
     "options": {
-      "a": "Mediacja",
-      "b": "Arbitraż",
-      "c": "Rokowania"
+      "a": "Rodzice płacą grzywnę za dziecko",
+      "b": "Są zobligowani do składania sprawozdań sądowi",
+      "c": "Dziecko idzie do poprawczaka",
+      "d": "Policja pilnuje domu"
     },
     "correct_answers": [
-      "a",
-      "c"
+      "b"
     ]
   },
   {
     "id": 12,
-    "text": "Praca w godzinach nadliczbowych jest dopuszczalna w razie",
+    "text": "Kto najczęściej sprawuje nadzór orzekany przez sąd?",
     "options": {
-      "a": "Konieczności prowadzenia akcji ratowniczej w celu ochrony życia lub zdrowia ludzkiego, ochrona mienia lub środowiska albo usunięcia awarii",
-      "b": "Szczególnych potrzeb pracodawcy",
-      "c": "Złożenia wniosku przez pracownika w tym zakresie",
-      "d": "Szczególnych potrzeb pracownika"
+      "a": "Dyrektor szkoły",
+      "b": "Kurator sądowy",
+      "c": "Policjant dzielnicowy",
+      "d": "Proboszcz"
     },
     "correct_answers": [
-      "a",
       "b"
     ]
   },
   {
     "id": 13,
-    "text": "Obowiązek wprowadzenia regulaminu wynagrodzenia ciąży na",
+    "text": "Skierowanie do ośrodka kuratorskiego to środek:",
     "options": {
-      "a": "Wszystkich pracodawcach budżetowych",
-      "b": "Pracodawcach zatrudniających powyżej 50 pracowników",
-      "c": "Pracodawca zatrudniający co najmniej 20 i mniej niż 50 pracowników, nieobjętym zakładowym układem zbiorowym pracy ani ponadzakładowym układem zbiorowym pracy, jeżeli zakładowa organizacja związkowa wystąpi z wnioskiem o jego ustalenie"
+      "a": "Leczniczy",
+      "b": "Wychowawczy",
+      "c": "Poprawczy",
+      "d": "Karny"
     },
     "correct_answers": [
-      "b",
-      "c"
+      "b"
     ]
   },
   {
     "id": 14,
-    "text": "Z tytułu ukończenia studiów licencjackich pracownikowi do stażu pracy jest wliczane",
+    "text": "Zakaz prowadzenia pojazdów można orzec wobec nieletniego jako środek:",
     "options": {
-      "a": "6 lat pracy",
-      "b": "8 lat pracy",
-      "c": "10 lat pracy"
+      "a": "Tymczasowy",
+      "b": "Wychowawczy",
+      "c": "Poprawczy",
+      "d": "Leczniczy"
     },
     "correct_answers": [
       "b"
@@ -469,23 +183,25 @@
   },
   {
     "id": 15,
-    "text": "Za zobowiązania wynikające ze stosunku pracy, powstałe przed przejściem części zakładu pracy na innego pracodawcę, dotychczasowy i nowy pracodawca odpowiadają",
+    "text": "Młodzieżowy Ośrodek Wychowawczy (MOW) stosuje się maksymalnie do:",
     "options": {
-      "a": "W częściach równych",
-      "b": "Solidarnie",
-      "c": "Subsydiarnie odpowiada nowy pracodawca"
+      "a": "18 roku życia",
+      "b": "21 roku życia",
+      "c": "25 roku życia",
+      "d": "Dożywotnio"
     },
     "correct_answers": [
-      "b"
+      "a"
     ]
   },
   {
     "id": 16,
-    "text": "Wymiar urlopu wypoczynkowego jest uzależniony od",
+    "text": "Środek leczniczy polega na umieszczeniu nieletniego w:",
     "options": {
-      "a": "Liczby lat pracy u danego pracodawcy",
-      "b": "Liczby lat pracy",
-      "c": "Liczby lat pracy u obecnego i poprzedniego pracodawcy"
+      "a": "Zakładzie poprawczym",
+      "b": "Zakładzie leczniczym (np. psychiatrycznym)",
+      "c": "Sanatorium",
+      "d": "Schronisku dla nieletnich"
     },
     "correct_answers": [
       "b"
@@ -493,10 +209,12 @@
   },
   {
     "id": 17,
-    "text": "Ekwiwalent pieniężny za niewykorzystany urlop przysługuje",
+    "text": "Zakład poprawczy jest stosowany, gdy inne środki zawiodły, a stopień demoralizacji jest:",
     "options": {
-      "a": "W razie niewykorzystania urlopu z powodu skierowania do pracy za granicą",
-      "b": "Wygaśnięcia stosunku pracy"
+      "a": "Niski",
+      "b": "Wysoki",
+      "c": "Przeciętny",
+      "d": "Nieistotny"
     },
     "correct_answers": [
       "b"
@@ -504,32 +222,25 @@
   },
   {
     "id": 18,
-    "text": "",
+    "text": "Kto wydał definicję: 'Decyzja o zakładzie poprawczym zapada, gdy środki wychowawcze zawiodły'?",
     "options": {
-      "c": "W razie niewykorzystania urlopu z powodu przebywania na urlopie macierzyńskim"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": 18,
-    "text": "Działalność konkurencyjna wobec pracodawcy może być zakazana pracownikowi na podstawie",
-    "options": {
-      "a": "Klauzuli w umowie o pracę nie tylko umowę ujętą w oddzielnym dokumencie, ale także umowę będącą częścią umowy o pracę",
-      "b": "Ustnej umowie między pracownikiem i pracodawcą",
-      "c": "Odrębnej i pisemnej umowie między stronami stosunku pracy"
+      "a": "V. Konarska-Wrzosek",
+      "b": "A. Jaworska",
+      "c": "A. Grześkowiak",
+      "d": "P. Balcer-Czarnecka"
     },
     "correct_answers": [
-      "a",
-      "c"
+      "b"
     ]
   },
   {
     "id": 19,
-    "text": "Umowa o pracę zwarta na czas określony z kobietą w ciąży, która uległaby rozwiązaniu po upływie 3 miesiąca ciąży",
+    "text": "Model sprawiedliwościowy (karnistyczny) opiera się na:",
     "options": {
-      "a": "Ulega rozwiązaniu w umownym terminie",
-      "b": "Ulega przedłużeniu do dnia porodu",
-      "c": "Ulega przekształceniu w umowę na czas nie określony"
+      "a": "Wychowaniu",
+      "b": "Winie i karze",
+      "c": "Braku gwarancji procesowych",
+      "d": "Pomocy ekspertów"
     },
     "correct_answers": [
       "b"
@@ -537,11 +248,12 @@
   },
   {
     "id": 20,
-    "text": "Urlopu wypoczynkowego nie wykorzystanego zgodnie z planem urlopów należy pracownikowi udzielić",
+    "text": "Model opiekuńczy uznaje, że przestępczość wynika z:",
     "options": {
-      "a": "Najpóźniej do 31 stycznia następnego roku kalendarzowego",
-      "b": "Najpóźniej do końca trzeciego kwartału następnego roku kalendarzowego",
-      "c": "Najpóźniej do końca pierwszego półrocza następnego roku kalendarzowego"
+      "a": "Wolnej woli nieletniego",
+      "b": "Czynników środowiskowych",
+      "c": "Złego wyboru nieletniego",
+      "d": "Genetyki"
     },
     "correct_answers": [
       "b"
@@ -549,11 +261,12 @@
   },
   {
     "id": 21,
-    "text": "O terminie wykorzystania nowego rodzaju urlopu, tzw. Urlopu udzielanego na krótkie niedyspozycje, pracownik ma zawiadomić pracodawcę",
+    "text": "Systemy jednotorowe w postępowaniu z nieletnimi to:",
     "options": {
-      "a": "Najpóźniej w dniu poprzedzającym dzień swojej nieobecności",
-      "b": "Najpóźniej w dniu swojej nieobecności",
-      "c": "Najpóźniej w dniu następującym po dniu, w którym został wykorzystany urlop"
+      "a": "Oddzielne prawo dla demoralizacji i przestępstw",
+      "b": "Wspólne uregulowanie demoralizacji i czynów karalnych",
+      "c": "Tylko jedna instancja sądowa",
+      "d": "Brak możliwości odwołania"
     },
     "correct_answers": [
       "b"
@@ -561,11 +274,12 @@
   },
   {
     "id": 22,
-    "text": "Dni wolne w okresie wypowiedzenia na poszukiwanie pracy",
+    "text": "Zasada dobra dziecka jest uznawana za:",
     "options": {
-      "a": "Otrzymuje tylko ten pracownik, któremu pracodawca wypowiedział umowę o pracę",
-      "b": "Otrzymuje także pracownik, który złoży wypowiedzenie umowy o pracę",
-      "c": "Przysługuje zawsze każdemu pracownikowi w okresie wypowiedzenia umowy o pracę"
+      "a": "Klauzulę generalną i zasadę nadrzędną",
+      "b": "Zasadę drugorzędną",
+      "c": "Zasadę dotyczącą tylko dorosłych",
+      "d": "Zasadę martwą"
     },
     "correct_answers": [
       "a"
@@ -573,887 +287,64 @@
   },
   {
     "id": 23,
-    "text": "Umowa na czas określony może trwać maksymalnie",
+    "text": "Zasada indywidualizacji nakazuje brać pod uwagę m.in.:",
     "options": {
-      "a": "33 miesiące",
-      "b": "36 miesięcy",
-      "c": "5 lat"
+      "a": "Zasobność portfela rodziców",
+      "b": "Stopień rozwoju psychicznego i fizycznego nieletniego",
+      "c": "Wyłącznie rodzaj czynu",
+      "d": "Liczbę lajków w social mediach"
     },
     "correct_answers": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 24,
-    "text": "Termin na zgłoszenie gotowości do pracy przez pracownika przywróconego przez sąd do pracy wynosi",
+    "text": "Kto ma społeczny obowiązek zawiadomienia o demoralizacji nieletniego?",
     "options": {
-      "a": "14 dni od uprawomocnienia się orzeczenia",
-      "b": "7 dni od uprawomocnienia się orzeczenia",
-      "c": "1 miesiąc od uprawomocnienia się orzeczenia"
+      "a": "Tylko Policja",
+      "b": "Każdy, kto stwierdzi taką okoliczność",
+      "c": "Tylko rodzice",
+      "d": "Tylko dyrektor szkoły"
     },
     "correct_answers": [
       "b"
-    ]
-  },
-  {
-    "id": 3,
-    "text": "Umowy o pracę na okres próbny można powtarzać u tego samego pracodawcy",
-    "options": {
-      "a": "wiele razy i niezależnie od przyczyny",
-      "b": "trzy razy na tym samym stanowisku",
-      "c": "wiele razy na różnych stanowiskach",
-      "d": "dwa razy na tym samym stanowisku"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 4,
-    "text": "Wskaż zdanie fałszywe – umowa o pracę na okres próbny",
-    "options": {
-      "a": "Nie może być nigdy wypowiedziana",
-      "b": "Może być wypowiedziana z zachowaniem okresu wypowiedzenia, który zależy od jej długości trwania",
-      "c": "Może być rozwiązana z zachowaniem okresu wypowiedzenia"
-    },
-    "correct_answers": [
-      "b",
-      "c"
-    ]
-  },
-  {
-    "id": 40,
-    "text": "Karą porządkową jest",
-    "options": {
-      "a": "Tylko nagana lub upomnienie",
-      "b": "Kara pieniężna pracy bez usprawiedliwienia, stawienie się w stanie nietrzeźwości",
-      "c": "Potrącenie premii regulaminowej",
-      "d": "Kara upomnienia",
-      "e": "Negatywna ocena okresowa pracownika",
-      "f": "Pozbawienie pracownika premii",
-      "g": "Nieprzyznanie nagrody pracownikowi",
-      "h": "Nagana",
-      "i": "Notatka służbowa"
-    },
-    "correct_answers": [
-      "b",
-      "d",
-      "h"
-    ]
-  },
-  {
-    "id": 41,
-    "text": "Źródłem prawa pracy jest",
-    "options": {
-      "a": "Notatka służbowa w aktach osobowych pracownika",
-      "b": "Zarządzenie pracodawcy",
-      "c": "Ponadzakładowy układ zbiorowy pracy"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 42,
-    "text": "Pracownik podejmujący pracę po raz pierwszy",
-    "options": {
-      "a": "W roku kalendarzowym, w którym podjął pracę, uzyskuje prawo do urlopu z upływem każdego miesiąca pracy, w wymiarze 1/12 wymiaru urlopu przysługującego mu po przepracowaniu roku",
-      "b": "W pierwszym roku pracy, uzyskuje prawo do urlopu z upływem każdego miesiąca pracy, w wymiarze 1/12 wymiaru urlopu przysługującego mu po przepracowaniu roku"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 43,
-    "text": "W czasie urlopu pracownika pracodawca",
-    "options": {
-      "a": "Nie może wypowiedzieć pracownikowi umowy o pracę",
-      "b": "Nie może rozwiązać z pracownikiem umowy o pracę z powodu ciężkiego naruszenia podstawowych obowiązków pracowniczych",
-      "c": "Może wypowiedzieć pracownikowi umowę o pracę",
-      "d": "Nie może rozwiązać umowy o pracę z pracownikiem bez zachowania okresu wypowiedzenia z powodu długotrwałej choroby"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 44,
-    "text": "Umowa o pracę na czas próbny może poprzedzać",
-    "options": {
-      "a": "Tylko umowę na czas nieokreślony"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": 45,
-    "text": "",
-    "options": {
-      "b": "Każdy pozostały rodzaj umowy o pracę",
-      "c": "Tylko umowy o pracę na czas określony i nieokreślony"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 45,
-    "text": "Za pracę w porze nocnej pracownikowi przysługuje dodatek do wynagrodzenia w wysokości",
-    "options": {
-      "a": "W wysokości 100% wynagrodzenia pracownika",
-      "b": "W wysokości 50% wynagrodzenia pracownika",
-      "c": "W wysokości 20% stawki godzinowej wynikającej z minimalnego wynagrodzenia za pracę"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 46,
-    "text": "Pracownik odpowiada do wysokości trzech miesięcznych pensji",
-    "options": {
-      "a": "W przypadku nieumyślnego wyrządzenia szkody pracodawcy",
-      "b": "W każdym przypadku wyrządzenia szkody pracodawcy",
-      "c": "W przypadku, gdy powierzono mu mienie z obowiązkiem zwrotu lub wyliczenia się",
-      "d": "W przypadku umyślnego wyrządzenia szkody pracodawcy"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 47,
-    "text": "Z tytułu mobbingu pracownik może dochodzić od pracodawcy",
-    "options": {
-      "a": "Odszkodowania, jeśli wskutek mobbingu rozwiązał umowę o pracę",
-      "b": "W każdej sytuacji odpowiedniej sumy tytułem zadośćuczynienia pieniężnego za doznaną krzywdę (jeśli wywołało to rozstrój zdrowia",
-      "c": "Odszkodowania w każdej sytuacji"
-    },
-    "correct_answers": [
-      "a",
-      "c"
-    ]
-  },
-  {
-    "id": 48,
-    "text": "Umowa na czas określony dłuższy niż 33 miesiące",
-    "options": {
-      "a": "Ulega przekształceniu w umowę o pracę na czas nieokreślony z datą jej podpisania (od dnia następującego po upływie 33 miesięcy",
-      "b": "Jest dopuszczalna i nie ulega przekształceniu w umowę o pracę na czas nieokreślony, jeśli dotyczy pracy na okres kadencji",
-      "c": "Jest niedopuszczalna"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 49,
-    "text": "Pracownik jest zobowiązany wykorzystać urlop wypoczynkowy",
-    "options": {
-      "a": "Zawsze, jeżeli ma zaległy urlop wypoczynkowy",
-      "b": "Jeśli jest na zwolnieniu lekarskim i pracodawca go do tego zobowiąże",
-      "c": "Jeśli jest w okresie wypowiedzenia i pracodawca go do tego zobowiąże"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 50,
-    "text": "Umowa o zakazie konkurencji po ustaniu stosunku pracy powinna dla swej ważności być zawarta",
-    "options": {
-      "a": "W formie pisemnej",
-      "b": "W formie ustnej",
-      "c": "W formie pisemnej z podpisem notarialnie poświadczonym"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 51,
-    "text": "Przesunięcie urlopu wypoczynkowego może nastąpić",
-    "options": {
-      "a": "na wniosek pracownika umotywowany mało ważnymi przyczynami (ważnymi, a nie mało ważnymi 164",
-      "b": "jest także dopuszczalne z powodu szczególnych potrzeb pracodawcy, jeżeli nieobecność pracownika spowodowałaby poważne zakłócenie toku pracy",
-      "c": ""
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 52,
-    "text": "Regulaminy pracy i wynagradzania mają obowiązek wprowadzać pracodawcy zatrudniający",
-    "options": {
-      "a": "co najmniej 20 pracowników",
-      "b": "co najmniej 10 pracowników",
-      "c": "co najmniej 50 pracowników"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 10,
-    "text": "Pracodawca może rozwiązać umowę o pracę bez wypowiedzenia z winy pracownika w razie",
-    "options": {
-      "a": "ciężkiego naruszenia przez pracownika podstawowych obowiązków pracowniczych",
-      "b": "popełnienia przez pracownika w czasie trwania umowy o pracę jakiegokolwiek przestępstwa",
-      "c": "zawinionej przez pracownika utraty uprawnień koniecznych do wykonywania pracy na zajmowanym stanowisku",
-      "d": "niezawinionej przez pracownika utraty uprawnień koniecznych do wykonywania pracy (zawinionej 52",
-      "e": "likwidacji zakładu pracy",
-      "f": "utraty przez pracownika z jakiegokolwiek powodu uprawnień koniecznych do wykonywania pracy na zajmowanym stanowisku",
-      "g": "popełnienia przez pracownika w czasie trwania umowy o pracę przestępstwa, które uniemożliwia dalsze zatrudnianie go na zajmowanym stanowisku, jeżeli przestępstwo jest oczywiste lub zostało stwierdzone prawomocnym wyrokiem"
-    },
-    "correct_answers": [
-      "a",
-      "c",
-      "g"
-    ]
-  },
-  {
-    "id": 11,
-    "text": "Zaznacz stosunek pracy",
-    "options": {
-      "a": "umowa o telepracę",
-      "b": "kontrakt menedżerski",
-      "c": "umowa zlecenia"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 12,
-    "text": "Ewidencji czasu pracy nie trzeba prowadzić w stosunku",
-    "options": {
-      "a": "pracowników zarządzających w imieniu pracodawcy zakładem pracy otrzymujących ryczałt oraz działających w systemie zadaniowym",
-      "b": "kierowników działów",
-      "c": "pracowników młodocianych"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 13,
-    "text": "Przy pracach polegających na dozorze urządzeń dopuszczalne jest przedłużenie dobowego wymiaru czasu pracy do",
-    "options": {
-      "a": "12 godzin",
-      "b": "16 godzin",
-      "c": "24 godzin"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 14,
-    "text": "Za pracę w godzinach nadliczbowych, oprócz normalnego wynagrodzenia, za pracę w niedzielę przysługuje dodatek w wysokości",
-    "options": {
-      "a": "100% wynagrodzenia",
-      "b": "50% wynagrodzenia",
-      "c": "75% wynagrodzenia"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 15,
-    "text": "Praca w placówkach handlowych w święta jest",
-    "options": {
-      "a": "niedozwolona",
-      "b": "dozwolona pod pewnymi warunkami",
-      "c": "w pełni dozwolona"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 16,
-    "text": "W przypadku niezgodnego z prawem rozwiązania umowy na czas określony pracownikowi przysługują roszczenia",
-    "options": {
-      "a": "tylko o odszkodowanie"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": 17,
-    "text": "",
-    "options": {
-      "b": "tylko o przywrócenie do pracy",
-      "c": "o odszkodowanie i przywrócenie do pracy."
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 17,
-    "text": "Świadczenia pieniężne z ubezpieczenia społecznego w razie choroby i macierzyństwa to",
-    "options": {
-      "a": "zasiłek opiekuńczy, zasiłek macierzyński, zasiłek chorobowy",
-      "b": "zasiłek rodzinny i pielęgnacyjny",
-      "c": "dodatek kombatancki"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 18,
-    "text": "Ubezpieczenia społeczne obejmują",
-    "options": {
-      "a": "ubezpieczenie zdrowotne i Fundusz Pracy",
-      "b": "ubezpieczenia emerytalne i ubezpieczenia zdrowotne",
-      "c": "ubezpieczenia emerytalne, rentowe, chorobowe i wypadkowe"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 19,
-    "text": "Zasiłek opiekuńczy wynosi",
-    "options": {
-      "a": "80% podstawy wymiaru zasiłku społecznego w razie choroby i macierzyństwa",
-      "b": "100% podstawy wymiaru zasiłku",
-      "c": "90% podstawy wymiaru zasiłku"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 20,
-    "text": "Zasiłek chorobowy za okres pobytu w szpitalu wypłacany jest w wysokości",
-    "options": {
-      "a": "80% kwot stanowiących podstawę jego wymiaru ubezpieczenia społecznego w razie choroby i macierzyństwa",
-      "b": "70% kwot stanowiących podstawę jego wymiaru",
-      "c": "60% kwot stanowiących podstawę jego wymiaru"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 1,
-    "text": "Pracodawca ma prawo żądać od kandydata na pracownika informacji o",
-    "options": {
-      "a": "wykształceniu",
-      "b": "daty urodzenia dzieci kandydata",
-      "c": "adres zamieszkania"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 2,
-    "text": "Umowa o pracę określa",
-    "options": {
-      "a": "rodzaj pracy",
-      "b": "stanowisko pracy",
-      "c": "miejsce wykonywania pracy",
-      "d": "wynagrodzenie za pracę",
-      "e": "wymiar czasu pracy"
-    },
-    "correct_answers": [
-      "a",
-      "c",
-      "d",
-      "e"
-    ]
-  },
-  {
-    "id": 3,
-    "text": "",
-    "options": {
-      "f": "dzień rozpoczęcia pracy"
-    },
-    "correct_answers": [
-      "f"
-    ]
-  },
-  {
-    "id": 3,
-    "text": "Ograniczenie co do ilości umów na czas określony z opcją przekształcenia w umowę na czas nieokreślony nie dotyczy",
-    "options": {
-      "a": "umów o pracę nakładczą",
-      "b": "umów w agencji pracy tymczasowej",
-      "c": "umów w zastępstwie"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 4,
-    "text": "Przesłankami rozwiązania umowy bez wypowiedzenia są",
-    "options": {
-      "a": "zwykłe naruszenie obowiązków pracowniczych",
-      "b": "kara pieniężna nałożona na pracownika",
-      "c": "tymczasowe aresztowanie pracownika które uniemożliwia dalsze zatrudnianie go na zajmowanym stanowisku, jeżeli przestępstwo jest oczywiste lub zostało stwierdzone prawomocnym wyrokiem"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 5,
-    "text": "Pracodawca jest odpowiedzialny za odprowadzanie składek ZUS i zaliczki na podatek dochodowy, dlatego ma status",
-    "options": {
-      "a": "podatnika",
-      "b": "płatnika",
-      "c": "inkasenta"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 6,
-    "text": "Prawo pracownika do wypoczynku gwarantują przepisy",
-    "options": {
-      "a": "o czasie pracy",
-      "b": "o urlopach wypoczynkowych",
-      "c": "o dniach wolnych od pracy"
-    },
-    "correct_answers": [
-      "a",
-      "b",
-      "c"
-    ]
-  },
-  {
-    "id": 7,
-    "text": "Potrącenie bez zgody pracownika może być dokonane na: - imo żadna nie jest prawidłowa xd – 91",
-    "options": {
-      "a": "spłatę kredytów zakładu pracy",
-      "b": "kary nałożone przez PIP",
-      "c": "niezapłacone przez pracownika prowadzącego jednocześnie dział. gosp. podatki"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": 8,
-    "text": "Ochrona przedemerytalna dotyczy pracowników zatrudnionych na",
-    "options": {
-      "a": "umowę na czas nieokreślony",
-      "b": "umowę na czas określony",
-      "c": "umowę na czas wykonywania określonej pracy"
-    },
-    "correct_answers": [
-      "a",
-      "b"
-    ]
-  },
-  {
-    "id": 9,
-    "text": "Do źródeł prawa pracy zaliczamy",
-    "options": {
-      "a": "",
-      "b": "regulaminy",
-      "c": "układy",
-      "d": "pracodawców, a także postanowienia układów zbiorowych pracy i innych opartych na ustawie porozumień zbiorowych, regulaminów i statutów określających prawa i obowiązki stron stosunku pracy"
-    },
-    "correct_answers": [
-      "a",
-      "b",
-      "c",
-      "d"
-    ]
-  },
-  {
-    "id": 1,
-    "text": "Przy zawieraniu umowy o pracę na czas określony, do 6 miesięcy strony",
-    "options": {
-      "a": "mogą przewidzieć dopuszczalności wcześniejszego rozwiązania tej umowy za wypowiedzeniem",
-      "b": "nie mogą przewidzieć dopuszczalności wcześniejszego rozwiązania tej umowy za wypowiedzeniem",
-      "c": "strony nie muszą niczego ustalać, gdyż prawo do rozwiązania takiej umowy za wypowiedzeniem wynika bezpośrednio z przepisów k.p. Ile zatrudniony Ile wypowiedzenia Krócej niż 6 miesięcy 2 tyg"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 2,
-    "text": "Podnoszenie kwalifikacji zawodowych to",
-    "options": {
-      "a": "Prawo pracownika",
-      "b": "Obowiązek pracownika",
-      "c": "Uprawnienie pracownika"
-    },
-    "correct_answers": [
-      "a",
-      "c"
-    ]
-  },
-  {
-    "id": 3,
-    "text": "Wynagrodzenie przestojowe gwarantowane k.p. wynosi",
-    "options": {
-      "a": "60%",
-      "b": "80%",
-      "c": "100%"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 4,
-    "text": "Jeżeli umowa o pracę nie określa dnia rozpoczęcia pracy dniem tym jest",
-    "options": {
-      "a": "dzień ustalony przez strony",
-      "b": "dzień podpisania umowy",
-      "c": "pierwszy dzień w którym pracownik stawił się do pracy"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 5,
-    "text": "Co do zasady wysokość zmiennych składników wynagrodzenia za czas urlopu pracownika oblicza się na podstawie przeciętnego miesięcznego wynagrodzenia z okresu",
-    "options": {
-      "a": "3 miesięcy poprzedzających miesiąc rozpoczęcia urlopu",
-      "b": "4 miesięcy poprzedzających miesiąc rozpoczęcia urlopu",
-      "c": "6 miesięcy poprzedzających miesiąc rozpoczęcia urlopu"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 6,
-    "text": "Rozwiązanie stosunku pracy z pracownikiem zatrudnionym na czas nieokreślony wymaga",
-    "options": {
-      "a": "pisemnego zawiadomienia organizacji związkowej",
-      "b": "pisemnej opinii organizacji związkowej",
-      "c": "pisemnego stanowiska organizacji związkowej"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 7,
-    "text": "Wypowiedzenie pracownikowi warunków pracy lub płacy w razie powierzenia pracownikowi innej pracy w sytuacjach uzasadnionych potrzebami pracodawcy może nastąpić na",
-    "options": {
-      "a": "1 miesiące",
-      "b": "3 miesiące",
-      "c": "6 miesięcy"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 8,
-    "text": "Nawiązanie stosunku pracy oraz ustalenie warunków pracy i płacy wymaga",
-    "options": {
-      "a": "zawarcia umowy",
-      "b": "zgodnego oświadczenia woli",
-      "c": "akceptacji stron tego stosunku i zatwierdzenia przez organ zwierzchni"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 9,
-    "text": "Śmierć pracodawcy powoduje wygaśnięcie stosunku pracy",
-    "options": {
-      "a": "zawsze",
-      "b": "w zależności od formy pracodawcy",
-      "c": "nie zawsze § 3 -> np. gdy przechodzi zakład pracy na innego pracodawce",
-      "d": "nie jest przesłanką wygaśnięcia, tylko rozwiązania bez wypowiedzenia"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 10,
-    "text": "Pracownik w stosunku, do którego pracodawca naruszył zasadę równego traktowania ma prawo do odszkodowania w minimalnej wysokości",
-    "options": {
-      "a": "1 miesięcznego wynagrodzenia",
-      "b": "2 miesięcznego wynagrodzenia",
-      "c": "3 miesięcznego wynagrodzenia"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 11,
-    "text": "Konkurs może poprzedzać nawiązanie stosunku pracy z",
-    "options": {
-      "a": "wyboru",
-      "b": "powołania",
-      "c": "mianowania"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 12,
-    "text": "Tygodniowy wymiar czasu pracy łącznie z nadgodzinami w przyjętym okresie rozliczeniowym nie może przekroczyć",
-    "options": {
-      "a": "44 h",
-      "b": "46 h",
-      "c": "48 h"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 13,
-    "text": "Wymiar urlopu na żądanie wynosi",
-    "options": {
-      "a": "2 dni",
-      "b": "3 dni",
-      "c": "4 dni"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 14,
-    "text": "Pracownik pracujący w niedzielę powinien korzystać z niedzieli wolnej od pracy",
-    "options": {
-      "a": "raz na dwa tygodnie",
-      "b": "raz na trzy tygodnie",
-      "c": "raz na cztery tygodnie"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 15,
-    "text": "Praca w święta jest dozwolona",
-    "options": {
-      "a": "w placówkach handlowych",
-      "b": "przy pilnowaniu i ochronie osób",
-      "c": "w księgowości"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 16,
-    "text": "Nie trzeba prowadzić ewidencji czasu pracy w stosunku do",
-    "options": {
-      "a": "pracowników objętych zadaniowym czasem pracy",
-      "b": "pracowników objętych weekendowym czasem pracy",
-      "c": "kierowników działów"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 17,
-    "text": "Do pracowników zatrudnionych przy pilnowaniu mienia lub ochronie, przedłużenie dobowego wymiaru czasu pracy do",
-    "options": {
-      "a": "12 godzin",
-      "b": "16 godzin",
-      "c": "24 godzin"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 18,
-    "text": "Umowa o pracę charakteryzuje się",
-    "options": {
-      "a": "nieodpłatnością",
-      "b": "ma charakter przymusowy",
-      "c": "obowiązkiem osobistego świadczenia pracy"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 13,
-    "text": "Zasiłek opiekuńczy wypłacany jest przez okres zwolnienia od pracy celem sprawowania opieki nad zdrowym lub chorym dzieckiem",
-    "options": {
-      "a": "nie więcej niż 30 dni w roku kalendarzowym",
-      "b": "nie więcej niż 40 dni w roku kalendarzowym",
-      "c": "nie więcej niż 60 dni w roku kalendarzowym"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 14,
-    "text": "Kiedy sąd pracy niezależnie od żądania zgłoszonego przez pracownika orzeka o odszkodowaniu?",
-    "options": {
-      "a": "Sąd może nie uwzględnić żądania pracownika, uznania wypowiedzenia za bezskuteczne czy przywrócenia pracownika do pracy, gdyż żądanie takie okaże się niemożliwe lub niecelowe"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 15,
-    "text": "Pracownik którego sąd przywrócił do pracy jest zobowiązany do zachowania 7 dniowego terminu na zgłoszenie gotowości niezwłocznego podjęcia zatrudnienia. Czy musi on w tym terminie przystąpić do pracy czy też zgłosić swoją gotowość do podjęcia?",
-    "options": {
-      "a": "Pracownik może swoją gotowość zgłosić przez każde zachowanie pracownika objawiające w dostateczny sposób jego zamiar kontynuacji stosunku pracy"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 16,
-    "text": "Od jakiego terminu należy liczyć trzymiesięczny okres nieobecności pracownika w pracy z powodu tymczasowego aresztowania skutkujący wygaśnięciem umowy o pracę?",
-    "options": {
-      "a": "Od dnia zatrzymania pracownika"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 17,
-    "text": "Pracownica została zatrudniona na podstawie umowy na zastępstwo do czasu powrotu pani Anny z urlopu macierzyńskiego. Pracownica twierdzi że nie można z nią rozwiązać umowy ponieważ jest to umowa terminowa krótsza niż 6 miesięcy. Czy można umowę o zastępstwo rozwiązać i jaki jest okres jej wypowiedzenia.",
-    "options": {
-      "a": "Nie można rozwiązać umowy o zastępstwo",
-      "b": "Można rozwiązać umowę o zastępstwo i okres wypowiedzenia wynosi dwa tygodnie",
-      "c": "Można rozwiązać umowę o zastępstwo i okres wypowiedzenia wynosi 3 dni"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 18,
-    "text": "W okresie wypowiedzenia upłynął trzyletni okres zatrudnienia u tego pracodawcy. Czy okres wypowiedzenia nie powinien zostać wydłużony do trzech miesięcy?",
-    "options": {
-      "a": "Pracodawca powinien rozwiązać stosunek pracy z trzymiesięcznym wypowiedzeniem",
-      "b": "Pracodawca powinien rozwiązać stosunek pracy za jednomiesięcznym wypowiedzeniem",
-      "c": "Upływ trzyletniego okresu zatrudnienia w trakcie wypowiedzenia nie ma wpływu na długość wypowiedzenia"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 19,
-    "text": "Czy umowa o zastępstwo może być poprzedzona umową na okres próbny?",
-    "options": {
-      "a": "Tak jeśli umowa o zastępstwo ma być zawarta na co najmniej rok",
-      "b": "Nie",
-      "c": "Tak"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 20,
-    "text": "Pracownikowi złożono we wtorek oświadczenie o rozwiązanie umowy o pracę za dwutygodniowym wypowiedzeniem, kiedy umowa o pracę ulegnie rozwiązaniu?",
-    "options": {
-      "a": "Po upływie dwóch tygodni 14 dni, czyli za dwa tygodnie we wtorek",
-      "b": "Po upływie pełnych dwóch tygodni, czyli sobota",
-      "c": "Po upływie pełnych dwóch tygodni w niedziele"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 21,
-    "text": "Czy oświadczenie o rozwiązaniu za wypowiedzeniem umowy o pracę zawartej na czas określony powinno zawierać uzasadnienie? - 30",
-    "options": {
-      "a": "Tak jeśli umowę wypowiada pracodawca",
-      "b": "Tak",
-      "c": "Nie"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 22,
-    "text": "Pracodawca na piśmie z 12 marca 2014 złożył pracownikowi oświadczenie o rozwiązaniu umowy o pracę bez wypowiedzenia z dniem 18 marca 2014. Pismo wysłane pocztą doręczono pracownikowi w dniu 1 kwietnia. Kiedy ustał stosunek pracy",
-    "options": {
-      "a": "1 kwietnia-oświadczenie o rozwiązaniu umowy bez wypowiedzenia jest skuteczne od momentu doręczenia",
-      "b": "12 marca",
-      "c": "18 marca"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 23,
-    "text": "Czy rozwiązanie przez pracownika za wypowiedzeniem umowy o pracę powinno być uzasadnione?",
-    "options": {
-      "a": "Tak jeśli umowa była zawarta na czas nieokreślony",
-      "b": "Tak",
-      "c": "Nie"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 24,
-    "text": "Z Panem X rozwiązano umowę o pracę za wypowiedzeniem jakie roszczenia przysługują pracownikowi?",
-    "options": {
-      "a": "O przywrócenie do pracy, uznania wypowiedzenia za bezskuteczne i odszkodowanie",
-      "b": "Odszkodowanie i przywrócenie do pracy jeszcze rozwiązaniu, a o przywrócenie gdy już uległa",
-      "c": "O przywrócenie do pracy odszkodowanie oraz nałożenie grzywny na pracodawcę"
-    },
-    "correct_answers": [
-      "a"
     ]
   },
   {
     "id": 25,
-    "text": "W świetle obowiązujących przepisów KP dotyczących równego traktowania w zatrudnieniu",
+    "text": "Instytucje państwowe mają obowiązek zawiadomić o czynie karalnym ściganym:",
     "options": {
-      "a": "Zróżnicowanie pracowników na stan rodziny jest dyskryminacją",
-      "b": "Zróżnicowanie pracowników ze względu na stan rodziny nie jest dyskryminacją",
-      "c": "Zróżnicowanie pracowników ze względu na stan rodziny jest dyskryminacją, jeśli dotyczy wynagrodzenia"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 26,
-    "text": "Agencja mody chce zatrudnić modelkę do prezentacji bielizny. Na casting zgłosiło się kilku mężczyzn w takiej sytuacji",
-    "options": {
-      "a": "Odmowa zatrudnienia tych mężczyzn będzie nosiła znamiona dyskryminacji",
-      "b": "Odmowa zatrudnienia nie będzie nosiła znamion dyskryminacji",
-      "c": "Odmowa zatrudnienia tych mężczyzn będzie nosiła znamiona dyskryminacji, jeśli pracodawca nie dopuści ich do prezentacji na castingu"
+      "a": "Na wniosek",
+      "b": "Z urzędu",
+      "c": "Prywatnie",
+      "d": "Nigdy"
     },
     "correct_answers": [
       "b"
     ]
   },
   {
-    "id": 27,
-    "text": "1 sierpnia 2000 pracownika ukarano karą nagany. 15 grudnia 2000 karą pieniężną 10 września 2001 karą upomnienia. Kiedy ulegnie zatarciu kara nagany?",
+    "id": 26,
+    "text": "Wskaźnik mediacji w sprawach nieletnich w Polsce wynosi około:",
     "options": {
-      "a": "1 sierpnia 2001",
-      "b": "15 grudnia 2001 w którym nie został ukarany karą porządkową",
-      "c": "10 września 2002"
+      "a": "2%",
+      "b": "20%",
+      "c": "50%",
+      "d": "90%"
+    },
+    "correct_answers": [
+      "a"
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Sąd rodzinny kieruje sprawę do mediacji za zgodą:",
+    "options": {
+      "a": "Tylko nieletniego",
+      "b": "Pokrzywdzonego i nieletniego",
+      "c": "Tylko rodziców",
+      "d": "Policji"
     },
     "correct_answers": [
       "b"
@@ -1461,90 +352,116 @@
   },
   {
     "id": 28,
-    "text": "Ustalając wysokość wynagrodzenia za pracę pracodawca powinien uwzględniać",
+    "text": "Mediacja powinna zmierzać do wzbudzenia w nieletnim:",
     "options": {
-      "a": "Kwalifikacje pracownika",
-      "b": "Kwalifikacje wymagane przy wykonywaniu danej pracy",
-      "c": "Wszelkie kwalifikacje jakie posiada pracownik wykonujący daną pracę",
-      "d": "Rodzaj wykonywanej pracy"
+      "a": "Strachu przed więzieniem",
+      "b": "Poczucia odpowiedzialności za skutki czynu",
+      "c": "Chęci ucieczki",
+      "d": "Nienawiści do pokrzywdzonego"
     },
     "correct_answers": [
-      "b",
-      "d"
+      "b"
     ]
   },
   {
     "id": 29,
-    "text": "Jan K pracował w przedsiębiorstwie spółka X od 1990 do 1992 w przedsiębiorstwie Y od 1992 do 1997 a od lipca 1997 do dzisiaj pracuje w Z. Ile wynosi w tym przypadku termin wypowiedzenia?",
+    "text": "Ugoda w mediacji wymaga zgody przedstawiciela ustawowego, gdy nieletni zobowiązuje się do:",
     "options": {
-      "a": "Jeden miesiąc",
-      "b": "Dwa tygodnie, jeden miesiąc lub trzy miesiące w zależności od przyczyny wypowiedzenia",
-      "c": "Trzy miesiące",
-      "d": "Dwa tygodnie"
+      "a": "Przeprosin",
+      "b": "Naprawienia szkody lub zadośćuczynienia",
+      "c": "Pójścia do szkoły",
+      "d": "Sprzątania pokoju"
     },
     "correct_answers": [
-      "c"
+      "b"
     ]
   },
   {
     "id": 30,
-    "text": "Pracownikiem bez żadnych ograniczeń może być",
+    "text": "Mediator nie może udostępnić akt dotyczących:",
     "options": {
-      "a": "Każdy podmiot prawa",
-      "b": "Każda osoba fizyczna",
-      "c": "Osoba fizyczna, która ukończyła 18 lat"
+      "a": "Danych o karalności i stanu zdrowia",
+      "b": "Nazwiska nieletniego",
+      "c": "Adresu szkoły",
+      "d": "Daty czynu"
     },
     "correct_answers": [
-      "c"
+      "a"
     ]
   },
   {
     "id": 31,
-    "text": "Kilku pracowników wyrządziło szkodę i zgodnie z szkody stosownie do przyczynienia się do niej i stopnia winy. Czy granica odszkodowania z dotyczy każdego pracownika osobna czy wszystkich razem?",
+    "text": "Minimalny wiek mediatora w sprawach nieletnich to:",
     "options": {
-      "a": "Granice odszkodowania odnoszą się do całości",
-      "b": "Jeśli kilku pracowników ponosi odpowiedzialność za powstałą szkodę to wówczas wszyscy łącznie odpowiadają do wysokości ich średniego trzymiesięcznego wynagrodzenia",
-      "c": "Jeśli kilku pracowników ponosi odpowiedzialność za powstałą szkodę to wówczas każdy z nich odpowiada za swoją część do wysokości trzymiesięcznego wynagrodzenia"
+      "a": "21 lat",
+      "b": "26 lat",
+      "c": "30 lat",
+      "d": "35 lat"
     },
     "correct_answers": [
-      "c"
+      "b"
     ]
   },
   {
     "id": 32,
-    "text": "Kiedy pracownicy ponoszą wspólną odpowiedzialność za powierzone mienie?",
+    "text": "Mediatorem nie może być:",
     "options": {
-      "a": "Jeśli zawarli z pracodawcą na piśmie umowę o współodpowiedzialności materialnej"
+      "a": "Sędzia w stanie spoczynku",
+      "b": "Czynny zawodowo sędzia",
+      "c": "Pedagog",
+      "d": "Psycholog"
     },
     "correct_answers": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 33,
-    "text": "Kiedy szkoda wyrządzona przez pracownika pracodawcy została wyrządzona umyślnie?",
+    "text": "Czas trwania mediacji wyznaczony przez sąd to maksymalnie:",
     "options": {
-      "a": "Wówczas gdy pracownik ma zamiar bezpośredni"
+      "a": "2 tygodnie",
+      "b": "6 tygodni",
+      "c": "3 miesiące",
+      "d": "Pół roku"
     },
-    "correct_answers": []
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Sprawozdanie z mediacji zawiera informację o:",
+    "options": {
+      "a": "Tym, kto kogo bardziej obraził",
+      "b": "Wyniku mediacji (zawarciu ugody lub jej braku)",
+      "c": "Prywatnych poglądach mediatora",
+      "d": "Szczegółach zeznań świadków"
+    },
+    "correct_answers": [
+      "b"
+    ]
   },
   {
     "id": 35,
-    "text": "Czy pracodawca może powierzyć pracownikowi mienie, które nie jest jego własnością? - 124",
+    "text": "Kto jest stroną w postępowaniu według Art. 35 ustawy?",
     "options": {
-      "a": "Tak",
-      "b": "Nie",
-      "c": "Nie chyba, że umowa o powierzenie mienie będzie zawarta również z właścicielem mienia"
+      "a": "Pokrzywdzony",
+      "b": "Prokurator",
+      "c": "Dyrektor szkoły",
+      "d": "Świadek"
     },
     "correct_answers": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 36,
-    "text": "Czy pracownik może wyrazić zgodę na potrącenie w przyszłości ewentualnych odszkodowań z tytułu odpowiedzialności materialnej?",
+    "text": "Rodzice są stronami, jeśli mają:",
     "options": {
-      "a": "Tak, w formie pisemnej"
+      "a": "Władzę rodzicielską (pełną lub ograniczoną)",
+      "b": "Samą tylko więź biologiczną",
+      "c": "Zasądzone alimenty",
+      "d": "Zgodę nieletniego"
     },
     "correct_answers": [
       "a"
@@ -1552,11 +469,12 @@
   },
   {
     "id": 37,
-    "text": "Pani Joanna jest w trzecim miesiącu ciąży ze względu na szczególne potrzeby pracodawcy konieczne jest, żeby pani Joanna przez miesiąc pracowała w godzinach nadliczbowych w takiej sytuacji",
+    "text": "Obrona nieletniego jest obligatoryjna, gdy:",
     "options": {
-      "a": "Można ją zatrudnić w godzinach nadliczbowych jeżeli wyrazi na to zgodę",
-      "b": "Nie można jej zatrudnić w godzinach nadliczbowych ani w godzinach nocnych nawet za jej zgodą 178",
-      "c": "Nie można jej zatrudnić w godzinach nadliczbowych nawet za jej zgodą jeśli upłynął już trzeci miesiąc ciąży"
+      "a": "Ma dobre oceny",
+      "b": "Wobec nieletniego zastosowano środek tymczasowy",
+      "c": "Nie przyznaje się do winy",
+      "d": "Rodzic jest adwokatem"
     },
     "correct_answers": [
       "b"
@@ -1564,58 +482,64 @@
   },
   {
     "id": 38,
-    "text": "Pracownikowi zatrudnionemu ponad 10 lat przysługuje urlop wypoczynkowy w wymiarze",
+    "text": "Gdy interesy nieletniego i rodziców są sprzeczne, sąd wyznacza obrońcę:",
     "options": {
-      "a": "26 dni",
-      "b": "20 dni",
-      "c": "18 dni"
+      "a": "Z wyboru",
+      "b": "Z urzędu",
+      "c": "Tylko na prośbę rodziców",
+      "d": "Tylko po 17 roku życia"
     },
     "correct_answers": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 39,
-    "text": "Urlop na żądanie przysługuje w wymiarze",
+    "text": "Nieletni musi zostać pouczony o prawach najpóźniej przed pierwszym:",
     "options": {
-      "a": "4 dni",
-      "b": "2 dni",
-      "c": "2 lub 4 dni w zależności od okresu wypowiedzenia"
+      "a": "Wywiadem środowiskowym",
+      "b": "Przesłuchaniem lub wysłuchaniem",
+      "c": "Spotkaniem z kuratorem",
+      "d": "Powrotem do domu"
     },
     "correct_answers": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 40,
-    "text": "Ile lat należy zaliczyć do stażu pracy od którego zależy wymiar urlopu pracownikowi, który ukończył wyższą szkołę zawodową i uzyskał tytuł zawodowy licencjata?",
+    "text": "Czy nieletni ma prawo do odmowy składania wyjaśnień?",
     "options": {
-      "a": "8 lat",
-      "b": "6 lat",
-      "c": "4 lata"
+      "a": "Nie, ma obowiązek mówić prawdę",
+      "b": "Tak",
+      "c": "Tylko za zgodą rodziców",
+      "d": "Tylko w obecności prokuratora"
     },
     "correct_answers": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 41,
-    "text": "Czy jedna część urlopu udzielona pracownikowi powinna obejmować kolejne 14 dni kalendarzowych czy też roboczych",
+    "text": "Pokrzywdzony może być na rozprawie, jeżeli nie jest to sprzeczne z:",
     "options": {
-      "a": "Kalendarzowych",
-      "b": "Roboczych"
+      "a": "Harmonogramem sądu",
+      "b": "Dobrem nieletniego lub względami wychowawczymi",
+      "c": "Wolą rodziców nieletniego",
+      "d": "Zasadą tajności śledztwa"
     },
     "correct_answers": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 42,
-    "text": "Czy pracownik może odmówić wykorzystanie urlopu wypoczynkowego w okresie wypowiedzenia?",
+    "text": "Pokrzywdzonemu przysługuje zażalenie na postanowienie o:",
     "options": {
-      "a": "Nie jeśli pracodawca uzgodnił z pracownikiem termin wykorzystania urlopu wypoczynkowego",
-      "b": "Pracownik nie może odmówić wykorzystania urlopu wypoczynkowego w okresie wypowiedzenia jest obowiązany",
-      "c": "Może odmówić"
+      "a": "Wyznaczeniu obrońcy",
+      "b": "Umorzeniu postępowania",
+      "c": "Nadzorze kuratora",
+      "d": "Przeprowadzeniu dowodu"
     },
     "correct_answers": [
       "b"
@@ -1623,71 +547,142 @@
   },
   {
     "id": 43,
-    "text": "W umowie o pracę znalazły się postanowienia mniej korzystne niż przepisy Czy to oznacza, że umowa jest nieważna?",
+    "text": "Pełnomocnika pokrzywdzonego może wyznaczyć:",
     "options": {
-      "a": "Nieważne są jedynie zawarte w niej mniej korzystne dla pracownika postanowienia"
+      "a": "Tylko prokurator",
+      "b": "Pokrzywdzony (osoba fizyczna lub prawna)",
+      "c": "Nieletni",
+      "d": "Sąd z urzędu zawsze"
     },
     "correct_answers": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 44,
-    "text": "Jeden z pracowników w dziale płac przedstawił oświadczenie na piśmie, iż zrzeka się wypłaty całości wynagrodzenia na rzecz osoby, z którą pozostaje w stałym związku. Czy takie oświadczenie jest skuteczne?",
+    "text": "Za pokrzywdzonego, który nie jest osobą fizyczną, czynności dokonuje:",
     "options": {
-      "a": "Nie, gdyż zrzeczenie się wynagrodzenia jest bezwzględnie nieważne"
+      "a": "Najstarszy pracownik",
+      "b": "Organ uprawniony do działania w jego imieniu",
+      "c": "Ochroniarz",
+      "d": "Kurator"
     },
     "correct_answers": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 45,
-    "text": "Pracownik podczas wykonywania prac wyrządził szkodę innemu pracownikowi. Od kogo powinien dochodzić odszkodowania poszkodowany pracownik?",
+    "text": "Sąd może nałożyć na rodziców karę pieniężną w wysokości do:",
     "options": {
-      "a": "Od pracodawcy"
+      "a": "1000 zł",
+      "b": "3000 zł",
+      "c": "5000 zł",
+      "d": "10000 zł"
     },
     "correct_answers": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 46,
-    "text": "Czy molestowanie seksualne jest rodzajem dyskryminacji?",
+    "text": "Koszty postępowania w sprawach nieletnich obciążają zazwyczaj:",
     "options": {
-      "a": "Tak"
+      "a": "Skarb Państwa",
+      "b": "Rodziców nieletniego",
+      "c": "Pokrzywdzonego",
+      "d": "Szkołę"
     },
     "correct_answers": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 47,
-    "text": "Obowiązek ustalania regulaminu wynagrodzenia ciąży na pracodawcy, który",
+    "text": "Środki tymczasowe stosuje się, aby:",
     "options": {
-      "a": "Zatrudnia co najmniej 20 pracowników nie objętych układem zbiorowym organizacja związkowa wystąpi z wnioskiem; tak to minimum 50 pracowników"
+      "a": "Ukarać nieletniego przed rozprawą",
+      "b": "Zapewnić prawidłowy tok postępowania",
+      "c": "Zaspokoić roszczenia pokrzywdzonego",
+      "d": "Zastąpić wyrok"
     },
     "correct_answers": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 48,
-    "text": "Czy prawidłowym jest podanie do wiadomości regulaminu wynagrodzenia przez przesłanie go zatrudnionym drogą elektroniczną?",
+    "text": "Przykładem środka tymczasowego jest:",
     "options": {
-      "a": "Tak, gdyż pracodawca podaje do wiadomości pracowników regulamin wynagrodzenia w sposób przyjęty w danym zakładzie"
+      "a": "Grzywna",
+      "b": "Tymczasowy nadzór kuratora",
+      "c": "Ograniczenie wolności",
+      "d": "Wydalenie ze szkoły"
     },
     "correct_answers": [
-      "a"
+      "b"
+    ]
+  },
+  {
+    "id": 49,
+    "text": "Schronisko dla nieletnich można orzec, gdy zachodzi obawa:",
+    "options": {
+      "a": "Złych ocen",
+      "b": "Ucieczki lub ukrycia się",
+      "c": "Złego wpływu rodzeństwa",
+      "d": "Kłótni z rodzicami"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 50,
+    "text": "Właściwość miejscową sądu ustala się według miejsca:",
+    "options": {
+      "a": "Popełnienia czynu",
+      "b": "Zamieszkania nieletniego",
+      "c": "Urodzenia nieletniego",
+      "d": "Siedziby Policji"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 51,
+    "text": "Jeżeli nie można ustalić miejsca zamieszkania, właściwy jest sąd miejsca:",
+    "options": {
+      "a": "Zatrzymania",
+      "b": "Pobytu nieletniego",
+      "c": "Szkoły",
+      "d": "Pracy rodziców"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 52,
+    "text": "Sąd przekazuje sprawę szkole, jeżeli uzna, że środki szkoły są:",
+    "options": {
+      "a": "Bardzo surowe",
+      "b": "Wystarczające",
+      "c": "Nieskuteczne",
+      "d": "Nowoczesne"
+    },
+    "correct_answers": [
+      "b"
     ]
   },
   {
     "id": 53,
-    "text": "Jeśli umowa o pracę nie określa dnia rozpoczęcia pracy dniem tym jest",
+    "text": "Przekazanie sprawy szkole wymaga zgody:",
     "options": {
-      "a": "dzień ustalony przez strony",
-      "b": "dzień podpisania umowy",
-      "c": "pierwszy dzień, w którym pracownik stawił się do pracy"
+      "a": "Tylko dyrektora",
+      "b": "Nieletniego",
+      "c": "Tylko pokrzywdzonego",
+      "d": "Nauczyciela wychowawcy"
     },
     "correct_answers": [
       "b"
@@ -1695,119 +690,142 @@
   },
   {
     "id": 54,
-    "text": "Co do zasady wysokości zmiennych składników wynagrodzenia za czas urlopu pracownika oblicza się na podstawie przeciętnego miesięcznego wynagrodzenia z okresu",
+    "text": "Sąd rodzinny przekazuje sprawę prokuratorowi, gdy nieletni ma odpowiadać na zasadach:",
     "options": {
-      "a": "3 miesięcy poprzedzających miesiąc rozpoczęcia urlopu",
-      "b": "4 miesięcy poprzedzających miesiąc rozpoczęcia urlopu",
-      "c": "6 miesięcy poprzedzających miesiąc rozpoczęcia urlopu"
+      "a": "Kodeksu wykroczeń",
+      "b": "Art. 10 par. 2 lub 2a Kodeksu karnego",
+      "c": "Prawa oświatowego",
+      "d": "Prawa pracy"
     },
     "correct_answers": [
-      "a"
+      "b"
+    ]
+  },
+  {
+    "id": 55,
+    "text": "Wszczęcie postępowania następuje z urzędu, a w sprawach o czyn ścigany na wniosek:",
+    "options": {
+      "a": "Tylko z urzędu",
+      "b": "Po uprzednim złożeniu wniosku",
+      "c": "Tylko za zgodą prokuratora",
+      "d": "Po zebraniu 10 podpisów"
+    },
+    "correct_answers": [
+      "b"
     ]
   },
   {
     "id": 56,
-    "text": "Ograniczenie co do umów na czas określony z opcją przekształcenia w umowę na czas nieokreślony nie dotyczy",
+    "text": "Postanowienie o wszczęciu postępowania jest:",
     "options": {
-      "a": "umów o pracę nakładczą",
-      "b": "umów w agencji pracy tymczasowej",
-      "c": "umów w zastępstwie"
+      "a": "Zaskarżalne zażaleniem",
+      "b": "Niezaskarżalne",
+      "c": "Zaskarżalne apelacją",
+      "d": "Jawne dla mediów"
     },
     "correct_answers": [
-      "c"
+      "b"
     ]
   },
   {
     "id": 57,
-    "text": "Wypowiedzenie pracownikowi warunków pracy lub płacy nie jest wymagane w razie powierzenia pracownikowi innej pracy w sytuacjach uzasadnionych potrzebami pracodawcy może nastąpić na",
+    "text": "Posiedzenia sądu rodzinnego odbywają się zazwyczaj:",
     "options": {
-      "a": "1 miesiąc",
-      "b": "3 miesiące",
-      "c": "6 miesięcy"
+      "a": "Publicznie",
+      "b": "Przy drzwiach zamkniętych",
+      "c": "W obecności dziennikarzy",
+      "d": "W sali gimnastycznej"
     },
     "correct_answers": [
-      "a",
       "b"
     ]
   },
   {
     "id": 58,
-    "text": "Śmierć pracodawcy powoduje wygaśnięcie stosunku pracy",
+    "text": "Wysłuchanie nieletniego przez sędziego to:",
     "options": {
-      "a": "nie zawsze zarządu sukcesyjnego",
-      "b": "zawsze",
-      "c": "nigdy"
+      "a": "Przesłuchanie świadka",
+      "b": "Czynność służąca ustaleniu stanowiska nieletniego",
+      "c": "Egzamin z wiedzy o prawie",
+      "d": "Wywiad lekarski"
     },
     "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 59,
-    "text": "Do źródeł prawa pracy zaliczamy",
-    "options": {
-      "a": "Ustawy",
-      "b": "Przepisy pracodawców, a także postanowienia układów zbiorowych pracy i innych opartych na ustawie porozumień zbiorowych, regulaminów i statutów określających prawa i obowiązki stron stosunku pracy"
-    },
-    "correct_answers": [
-      "a",
       "b"
     ]
   },
   {
-    "id": 60,
-    "text": "W naszym zakładzie obowiązuje regulamin wynagrodzenia w sposób korzystniejszy określający prawa pracowników związane z wypłatą wynagrodzenia chorobowego niż wynika z KP. Wypłata wynosi 100% stawki wynagrodzenia już od pierwszego dnia choroby. Według jakich przepisów należy ustalać wynagrodzenie chorobowe",
+    "id": 59,
+    "text": "Podczas wysłuchania nieletniego może być obecny dodatkowo:",
     "options": {
-      "a": "Według KP tzn. 80% wynagrodzenia",
-      "b": "Według KP tzn. 60% wynagrodzenia",
-      "c": "Według regulaminu tzn. 100% wynagrodzenia"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 61,
-    "text": "Czy dla zwrotu należności związanych z podróżą służbową ma znaczenie, że pracownik jest zatrudniony na czas określony w niepełnym wymiarze czasu pracy?",
-    "options": {
-      "a": "Nie",
-      "b": "Tak gdyż należności za podróż służbową należą się jedynie pracownikom zatrudnionym na czas nieokreślony",
-      "c": "Tak gdyż należności za podróż służbową należą się jedynie pracownikom w pełnym wymiarze czasu"
+      "a": "Tylko psycholog",
+      "b": "Tylko pokrzywdzony",
+      "c": "Cała klasa",
+      "d": "Tylko Policja"
     },
     "correct_answers": [
       "a"
     ]
   },
   {
-    "id": 62,
-    "text": "Jeden z pracowników przedstawił w dziale płac oświadczenie na piśmie, iż zrzeka się wypłaty całości wynagrodzenia na rzecz osoby, z która pozostaje w stałym związku czy takie oświadczenie jest skuteczne",
+    "id": 60,
+    "text": "Apelację wnosi się od rozstrzygnięć:",
     "options": {
-      "a": "Tak bo zostało dokonane na rzecz osoby bliskiej",
-      "b": "Nie gdyż nie może zrzec się wynagrodzenia na rzecz członka rodziny",
-      "c": "Nie gdyż zrzeczenie się wynagrodzenia jest bezwzględnie nieważne"
+      "a": "Porządkowych",
+      "b": "Merytorycznych (co do istoty sprawy)",
+      "c": "Tylko o kosztach",
+      "d": "O przesłuchaniu świadka"
     },
     "correct_answers": [
-      "c"
+      "b"
+    ]
+  },
+  {
+    "id": 61,
+    "text": "Środek odwoławczy wniesiony osobiście przez nieletniego jest:",
+    "options": {
+      "a": " Bardzo sformalizowany",
+      "b": "Odformalizowany",
+      "c": "Nieważny bez podpisu adwokata",
+      "d": "Zawsze płatny"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 62,
+    "text": "Zażalenie na zatrzymanie nieletniego rozpoznaje:",
+    "options": {
+      "a": "Sąd Okręgowy",
+      "b": "Właściwy sąd rodzinny",
+      "c": "Ministerstwo Sprawiedliwości",
+      "d": "Komendant Policji"
+    },
+    "correct_answers": [
+      "b"
     ]
   },
   {
     "id": 63,
-    "text": "Związek zawodowy działający w zakładzie pracy wystąpił o przedstawienie imiennych list wynagrodzeń pracowników. Czy związki mogą żądać informacji o wysokości wynagrodzeń konkretnego pracownika.",
+    "text": "Nadzór nad wykonywaniem orzeczeń sprawuje:",
     "options": {
-      "a": "Tak",
-      "b": "Tak jeśli wykażą w jakim celu potrzebują tych informacji",
-      "c": "Nie"
+      "a": "Prokurator",
+      "b": "Sędzia sądu rodzinnego",
+      "c": "Policja",
+      "d": "Dyrektor szkoły"
     },
     "correct_answers": [
-      "c"
+      "b"
     ]
   },
   {
     "id": 64,
-    "text": "Po dokonaniu potrąceń komorniczych pracownikowi zgodnie z ma zostać kwota minimalnego wynagrodzenia za pracę. Czy chodzi o kwotę brutto czy netto?",
+    "text": "Nieletni w placówce ma prawo do kontaktu ze światem zewnętrznym, w tym do:",
     "options": {
-      "a": "Brutto",
-      "b": "Netto"
+      "a": "Picia alkoholu",
+      "b": "Posługi religijnej",
+      "c": "Ucieczek",
+      "d": "Niszczenia sprzętu"
     },
     "correct_answers": [
       "b"
@@ -1815,23 +833,25 @@
   },
   {
     "id": 65,
-    "text": "Czy pracownicy w ciąży nieobecnej w pracy z powodu czasowej niezdolności do pracy spowodowanej chorobą – przeziębienie należy się 100% wynagrodzenia.",
+    "text": "W placówce nieletniemu nie wolno wykonywać:",
     "options": {
-      "a": "Nie gdyż nie jest to choroba związana z ciążą",
-      "b": "Tak jeżeli lekarz stwierdził, że przeziębienie zagraża ciąży",
-      "c": "Tak"
+      "a": "Notatek",
+      "b": "Tatuaży i innych uszkodzeń ciała",
+      "c": "Zadań domowych",
+      "d": "Rysunków"
     },
     "correct_answers": [
-      "c"
+      "b"
     ]
   },
   {
     "id": 66,
-    "text": "Zmarły pracownik był zatrudniony u pracodawców A i B , które z pracodawców jest zobowiązany do wypłacenia odprawy pośmiertnej.",
+    "text": "Poufność to zasada obowiązująca w procesie:",
     "options": {
-      "a": "Pracodawca A",
-      "b": "Pracodawca A i B",
-      "c": "Pracodawca, do którego rodzina wystąpi z roszczeniem"
+      "a": "Przesłuchania jawnego",
+      "b": "Mediacji",
+      "c": "Wywiadu z mediami",
+      "d": "Aresztu domowego"
     },
     "correct_answers": [
       "b"
@@ -1839,54 +859,51 @@
   },
   {
     "id": 67,
-    "text": "Pracownik zatrudniony u pracodawcy A podejmuje dodatkowe zatrudnienie u pracodawcy B czy okres pracy u pracodawcy A podlega zaliczeniu do stażu pracy od którego zależy wymiar urlopu u pracodawcy B.",
+    "text": "Okręgowy ośrodek wychowawczy to środek wprowadzony ustawą z roku:",
     "options": {
-      "a": "Wlicza się okres poprzedniego niezakończonego zatrudnienia w części przypadającej przed nawiązaniem kolejnego stosunku pracy",
-      "b": "Nie okres pracy u pracodawcy A nie ma żadnego wpływu na staż u pracodawcy B",
-      "c": "Tak, ale w wymiarze połowy okresu przepracowanego u pracodawcy A"
+      "a": "1982",
+      "b": "2022",
+      "c": "2000",
+      "d": "1997"
     },
     "correct_answers": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 68,
-    "text": "Statut spółki akcyjnej zawiera zapis, z którego wynika, że pracodawcą jest spółka akcyjna w filii pracownicy podlegają bezpośrednio kierownikowi, który też załatwia wszystkie sprawy kadrowe. Kto jest pracodawcą pracowników w filii.",
+    "text": "Głównym celem postępowania z nieletnimi jest ich:",
     "options": {
-      "a": "Pracodawcą jest filia",
-      "b": "Pracodawca jest kierownik filii",
-      "c": "Pracodawcą jest spółka akcyjna"
+      "a": "Wykluczenie",
+      "b": "Wspieranie i resocjalizacja",
+      "c": "Uwięzienie",
+      "d": "Ośmieszenie"
     },
     "correct_answers": [
-      "c"
+      "b"
     ]
   },
   {
     "id": 69,
-    "text": "Czy dopuszczalne jest zawieranie umów między pracodawcami, na mocy których zobowiązują się oni do niezatrudniania pracowników kontrahenta w czasie trwania stosunku pracy jak i po ustaniu stosunku pracy",
+    "text": "Nieletni musi dbać o higienę osobistą – jest to jego:",
     "options": {
-      "a": "Wprowadzenie w umowę zawartej między dwoma pracodawcami ograniczeń polegających na zakazie zatrudniania pracowników drugiej strony jest sprzeczne z zasadami współżycia społecznego oraz koliduje z zasadą wolności pracy i tym samym narusza prawo do wyboru miejsca pracy i charakteru zatrudnienia",
-      "b": "Wprowadzenie w umowę zawartej między dwoma pracodawcami ograniczeń polegających na zakazie zatrudniania pracowników drugiej strony nie jest sprzeczne z zasadami współżycia społecznego oraz"
+      "a": "Wybór",
+      "b": "Obowiązek ustawowy w placówce",
+      "c": "Zakaz",
+      "d": "Przywilej"
     },
     "correct_answers": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 70,
-    "text": "nie koliduje z zasadą wolności pracy ale narusza prawo do wyboru miejsca pracy i charakteru zatrudnienia",
+    "text": "Używanie wulgaryzmów w placówce jest dla nieletniego:",
     "options": {
-      "c": "Wprowadzenie w umowę zawartej między dwoma pracodawcami ograniczeń polegających na zakazie zatrudniania pracowników drugiej strony jest sprzeczne z zasadami współżycia społecznego oraz koliduje z zasadą wolności pracy, ale nie narusza prawa do wyboru miejsca pracy i charakteru zatrudnienia"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": 70,
-    "text": "Czy pracownik dochodząc odszkodowania z tytułu naruszenia zasady równego traktowania ma obowiązek wykazać, że pracodawca naruszył tę zasadę",
-    "options": {
-      "a": "Tak bo ciężar dowodu spoczywa na tym kto dochodzi roszczeń",
-      "b": "Nie, w tym przypadku na pracodawcy spoczywa ciężar dowodu",
-      "c": "Tak chyba, że sąd przerzuci ciężar dowodu na pracodawcę"
+      "a": "Dozwolone",
+      "b": "Zabronione",
+      "c": "Wskazane",
+      "d": "Nagradzane"
     },
     "correct_answers": [
       "b"
@@ -1894,23 +911,25 @@
   },
   {
     "id": 71,
-    "text": "Zakład pracy ma zostać przejęty przez nowego pracodawcę dotychczasowy pracodawca złożył wypowiedzenie umów o pracę niektórym pracownikom termin wypowiedzenia upłynie po dokonaniu zmian. Czy pracownicy ci powinni być poinformowani o przejściu zakładu pracy?",
+    "text": "Czyn karalny to m.in. przestępstwo skarbowe popełnione po ukończeniu:",
     "options": {
-      "a": "Tak",
-      "b": "Nie",
-      "c": "Tak, jeżeli związki zawodowe wyraża na to zgodę"
+      "a": "10 lat",
+      "b": "13 lat",
+      "c": "15 lat",
+      "d": "17 lat"
     },
     "correct_answers": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 72,
-    "text": "Wynagrodzenie za pracę na stanowisku konserwatora zieleni zostało ustalone stawką godzinową dla pracowników zatrudnionych w niepełnym wymiarze czasu pracy stawka wynosi 5, a dla pracowników w pełnym wymiarze czasu pracy 6 czy takie zróżnicowanie stawek godzinowych jest dopuszczalne.",
+    "text": "Rodzice nieletniego mają obowiązek współpracy m.in. z:",
     "options": {
-      "a": "Takie zróżnicowanie jest dopuszczalne jeśli pracodawca posiada na to uzasadnienie",
-      "b": "Takie zróżnicowanie jest sprzeczne z przepisami",
-      "c": "Takie zróżnicowanie nie jest sprzeczne z przepisami"
+      "a": "Sąsiadami",
+      "b": "Szkołą i poradnią psychologiczno-pedagogiczną",
+      "c": "Biurem podróży",
+      "d": "Sklepem spożywczym"
     },
     "correct_answers": [
       "b"
@@ -1918,24 +937,25 @@
   },
   {
     "id": 73,
-    "text": "Okres wypowiedzenia umowy o pracę na czas nieokreślony zależy od",
+    "text": "W mediacji biorą udział rodzice pod których:",
     "options": {
-      "a": "Stażu pracy poprzedniego albo przy przejściu zakładu pracy na innego pracodawcę",
-      "b": "Zajmowanego stanowiska",
-      "c": "Stażu pracy u danego pracodawcy"
+      "a": "Adresem dziecko nie mieszka",
+      "b": "Stałą pieczą nieletni faktycznie pozostaje",
+      "c": "Opieką dziecko było 5 lat temu",
+      "d": "Nazwiskiem dziecko nie widnieje"
     },
     "correct_answers": [
-      "a",
-      "c"
+      "b"
     ]
   },
   {
     "id": 74,
-    "text": "Czy umowa o pracę na czas określony może być wypowiedziana skutecznie",
+    "text": "Mediator musi znać język:",
     "options": {
-      "a": "Tak, jeśli jest to umowa na czas dłuższy niż 6 miesięcy",
-      "b": "Zawsze",
-      "c": "Tak, jeśli umowa jest zawarta na dłużej niż 6 miesięcy i istniało takie zastrzeżenie umowne."
+      "a": "Angielski",
+      "b": "Polski",
+      "c": "Migowy zawsze",
+      "d": "Łacinę"
     },
     "correct_answers": [
       "b"
@@ -1943,35 +963,38 @@
   },
   {
     "id": 75,
-    "text": "Janina B. zawarła umowę na czas próbny , drugą umowę na czas próbny , a potem umowę na czas określony. Czy jest to zgodne z prawem",
+    "text": "Prawomocne orzeczenie o zakładzie poprawczym kończy etap:",
     "options": {
-      "a": "Zgodne z prawem, gdyż umowa na czas próbny nie może przekroczyć 3 miesięcy",
-      "b": "Zgodne z prawem, ale druga umowa na czas próbny powinna być traktowana jako umowa na czas określony",
-      "c": "Niezgodne z prawem, gdyż nie można zawrzeć dwóch umów na czas próbny z tym samym pracodawcą"
+      "a": "Wykonawczy",
+      "b": "Rozpoznawczy",
+      "c": "Mediacji",
+      "d": "Zatrzymania"
     },
     "correct_answers": [
-      "c"
+      "b"
     ]
   },
   {
     "id": 76,
-    "text": "Pracownikowi, z którym pracodawca rozwiązał umowę na czas określony niezgodnie z prawem, przysługuje roszczenie",
+    "text": "Właściwość miejscowa sądu miejsca pierwszego czynu jest:",
     "options": {
-      "a": "Tylko o przywrócenie do pracy",
-      "b": "Tylko o odszkodowanie",
-      "c": "Zarówno o przywrócenie do pracy, jak i odszkodowanie"
+      "a": "Pierwszorzędna",
+      "b": "Subsydiarna (w razie braku innych podstaw)",
+      "c": "Zabroniona",
+      "d": "Zależna od woli nieletniego"
     },
     "correct_answers": [
-      "c"
+      "b"
     ]
   },
   {
     "id": 77,
-    "text": "Pisemna informacja o warunkach zatrudnienia powinna być sporządzona przez pracodawcę w terminie",
+    "text": "Umorzenie postępowania następuje, gdy brak jest podstaw do:",
     "options": {
-      "a": "W dniu zawarcia umowy o pracę",
-      "b": "7 dni od dnia zawarcia umowy o pracę",
-      "c": "30 dni od dnia zawarcia umowy o pracę"
+      "a": "Dalszego nauczania",
+      "b": "Stosowania środków",
+      "c": "Płacenia alimentów",
+      "d": "Wyjazdu na wakacje"
     },
     "correct_answers": [
       "b"
@@ -1979,35 +1002,129 @@
   },
   {
     "id": 78,
-    "text": "Postanowienia tzw. przepisów wewnątrzzakładowych, także umów o pracę",
+    "text": "Nagrywanie dźwięku podczas wysłuchania nieletniego jest:",
     "options": {
-      "a": "Mogą dowolnie regulować prawa i obowiązki stron stosunku pracy",
-      "b": "Mogą przewidywać regulacje mniej korzystne, ale wyłącznie za zgodą pracownika",
-      "c": "Nie mogą być mniej korzystne dla pracowników niż przepisy wykonawczych"
+      "a": "Zabronione",
+      "b": "Zalecane (w miarę możliwości)",
+      "c": "Obowiązkowe tylko dla rodziców",
+      "d": "Tylko za opłatą"
     },
     "correct_answers": [
-      "c"
+      "b"
     ]
   },
   {
     "id": 79,
-    "text": "Umowa na czas nieokreślony powinna być wypowiedziana przez pracodawcę",
+    "text": "Przeciwko całości orzeczenia uznaje się apelację wniesioną przez:",
     "options": {
-      "a": "W formie ustnej z podaniem przyczyny",
-      "b": "W formie pisemnej, z pouczeniem o prawie odwołania się do sądu do sądu tylko w przypadku rozwiązania bez wypowiedzenia",
-      "c": "W formie pisemnej ze wskazaniem przyczyny uzasadniającej rozwiązanie"
+      "a": "Sąsiada",
+      "b": "Nieletniego lub rodziców",
+      "c": "Tylko prokuratora",
+      "d": "Dyrektora szkoły"
     },
     "correct_answers": [
-      "c"
+      "b"
     ]
   },
   {
     "id": 80,
-    "text": "Pracownikiem jest",
+    "text": "Sędzia wizytujący kontroluje warunki w:",
     "options": {
-      "a": "Osoba zatrudniona na podstawie umowy",
-      "b": "Osoba zatrudniona na podstawie umowy o pracę",
-      "c": "Każda osoba fizyczna wykonująca jakąś pracę dla innego podmiotu"
+      "a": "Domach prywatnych",
+      "b": "Zakładach poprawczych i schroniskach",
+      "c": "Restauracjach",
+      "d": "Kinach"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 81,
+    "text": "Resocjalizacja to teoretyczne i praktyczne oddziaływania wobec osób:",
+    "options": {
+      "a": "W pełni dostosowanych",
+      "b": "Niedostosowanych społecznie",
+      "c": "Tylko pełnoletnich",
+      "d": "Wybitnie uzdolnionych"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 82,
+    "text": "Poczucie odpowiedzialności rodzin za dzieci jest dobrem:",
+    "options": {
+      "a": "Prywatnym",
+      "b": "Wspólnym całego społeczeństwa",
+      "c": "Tylko matki",
+      "d": "Nieistotnym prawnie"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 83,
+    "text": "Dział I ustawy o wspieraniu i resocjalizacji zawiera:",
+    "options": {
+      "a": "Przepisy końcowe",
+      "b": "Przepisy ogólne",
+      "c": "Wzory pism",
+      "d": "Mapy statystyczne"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 84,
+    "text": "Prawomocne orzeczenie wydaje sąd w instancji:",
+    "options": {
+      "a": "Tylko pierwszej",
+      "b": "Po wyczerpaniu drogi odwoławczej (lub braku zaskarżenia)",
+      "c": "Zawsze po 5 latach",
+      "d": "Na prośbę Policji"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 85,
+    "text": "Kurator składa sprawozdania z nadzoru z częstotliwością określoną przez:",
+    "options": {
+      "a": "Nieletniego",
+      "b": "Sąd rodzinny",
+      "c": "Rodziców",
+      "d": "Szkołę"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 86,
+    "text": "Opinia o nieletnim powinna być wydana po uzyskaniu opinii:",
+    "options": {
+      "a": "Kolegów",
+      "b": "Biegłych (psychologa, pedagoga)",
+      "c": "Sprzedawcy w sklepie",
+      "d": "Rodzeństwa"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 87,
+    "text": "Przesłuchanie nieletniego w charakterze świadka przez sąd to:",
+    "options": {
+      "a": "Standardowa procedura w każdej sprawie",
+      "b": "Czynność, której należy unikać (lepiej wysłuchać)",
+      "c": "Obowiązek po 10 roku życia",
+      "d": "Zabronione prawem"
     },
     "correct_answers": [
       "b"
@@ -2015,84 +1132,90 @@
   },
   {
     "id": 88,
-    "text": "Umowa na czas określony może być rozwiązana za wypowiedzeniem",
+    "text": "Dobrowolność mediacji oznacza możliwość wycofania zgody:",
     "options": {
-      "a": "Zawsze",
-      "b": "Jeżeli strony przewidziały możliwość wypowiedzenia w umowie",
-      "c": "Jeżeli umowa była zawarta na okres dłuższy niż 6 miesięcy i strony przewidziały możliwość wypowiedzenia w umowie"
+      "a": "Tylko w pierwszym dniu",
+      "b": "Aż do zakończenia postępowania mediacyjnego",
+      "c": "Tylko za karą finansową",
+      "d": "Nigdy"
     },
     "correct_answers": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 89,
-    "text": "W razie urodzenia martwego dziecka lub zgonu dziecka przed upływem 8 tygodni życia, pracownicy",
+    "text": "Ugodę zawartą przed mediatorem bierze pod uwagę:",
     "options": {
-      "a": "Przysługuje urlop macierzyński w wymiarze 8 tygodni po porodzie, nie krócej jednak niż przez okres 7 dni od dnia zgonu dziecka",
-      "b": "Przysługuje urlop macierzyński w wymiarze 12 tygodni po porodzie, nie krócej jednak niż przez okres 7 dni od dnia zgonu dziecka",
-      "c": "Przysługuje urlop macierzyński w wymiarze 8 tygodni po porodzie, nie krócej jednak niż przez okres 21 dni od dnia zgonu dziecka"
+      "a": "Tylko szkoła",
+      "b": "Sąd rodzinny przy orzekaniu",
+      "c": "Wyłącznie pokrzywdzony",
+      "d": "Urząd skarbowy"
     },
     "correct_answers": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 90,
-    "text": "Pracownik podejmujący pracę po raz pierwszy, w roku kalendarzowym, w którym podjął pracę nabywa prawo do kolejnych urlopów",
+    "text": "Aplikant może być obrońcą nieletniego po upływie:",
     "options": {
-      "a": "W każdym następnym roku kalendarzowym",
-      "b": "Po przepracowanym roku, licząc od dnia zatrudnienia",
-      "c": "W pierwszym miesiącu kolejnego roku",
-      "d": "Z upływem każdego miesiąca pracy, w wymiarze 1/12 wymiaru urlopu przysługującego mu po przepracowaniu roku"
+      "a": "1 miesiąca",
+      "b": "6 miesięcy aplikacji",
+      "c": "2 lat aplikacji",
+      "d": "Dopiero po egzaminie zawodowym"
     },
     "correct_answers": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 91,
-    "text": "Nie trzeba prowadzić ewidencji czasu pracy w stosunku do",
+    "text": "Nieletniemu przysługuje prawo do humanitarnego:",
     "options": {
-      "a": "Pracowników objętych zadaniowym czasem pracy",
-      "b": "Pracowników objętych weekendowym czasem pracy",
-      "c": "Kierowników działów"
+      "a": "Ubioru",
+      "b": "Traktowania",
+      "c": "Jedzenia tylko słodyczy",
+      "d": "Spędzania czasu tylko przed TV"
     },
     "correct_answers": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 92,
-    "text": "W każdym systemie czasu pracy, jeżeli jest to uzasadnione przyczynami obiektywnymi lubtechnicznymi lub dotyczącymi organizacji, okres rozliczeniowy może być przedłużony, nie więcej jednak niż do",
+    "text": "Poufność mediacji dotyczy m.in.:",
     "options": {
-      "a": "3 miesięcy",
-      "b": "6 miesięcy",
-      "c": "12 miesięcy"
+      "a": "Tylko mediatora",
+      "b": "Mediatora i wszystkich uczestników",
+      "c": "Tylko sędziego",
+      "d": "Wyłącznie nieletniego"
     },
     "correct_answers": [
-      "c"
+      "b"
     ]
   },
   {
     "id": 93,
-    "text": "Zgodnie z ustawą decyduje o godzinie rozpoczęcia pracy w dniu, który zgodnie z tym rozkładem jest dla pracownika dniem pracy",
+    "text": "Przejawem demoralizacji jest uprawianie:",
     "options": {
-      "a": "Ponowne wykonywanie pracy w tej samej dobie nie stanowi pracy w godzinach nadliczbowych 140",
-      "b": "Ponowne wykonywanie pracy w tej samej dobie stanowi pracę w godzinach nadliczbowych",
-      "c": "Ponowne wykonywanie pracy w tej samej dobie jest niedopuszczalne"
+      "a": "Sportu",
+      "b": "Nierządu",
+      "c": "Muzyki",
+      "d": "Ogródka"
     },
     "correct_answers": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 94,
-    "text": "Ponowne zawarcie umowy o pracę na okres próbny z tym samym pracownikiem jest możliwe",
+    "text": "Środek wychowawczy w postaci prac społecznych służy:",
     "options": {
-      "a": "po upływie roku od dnia rozwiązania lub wygaśnięcia poprzedniej umowy o pracę",
-      "b": "jeżeli pracownik ma być zatrudniony w celu wykonywania innego rodzaju pracy",
-      "c": "po upływie 3 miesięcy od dnia rozwiązania lub wygaśnięcia poprzedniej umowy o pracę"
+      "a": "Zarabianiu pieniędzy",
+      "b": "Wychowaniu i naprawie szkody",
+      "c": "Ośmieszeniu nieletniego",
+      "d": "Utrudnieniu nauki"
     },
     "correct_answers": [
       "b"
@@ -2100,669 +1223,665 @@
   },
   {
     "id": 95,
-    "text": "Urlopu wypoczynkowego niewykorzystanego zgodnie z planem urlopów należy pracownikowi udzielić",
+    "text": "Wspieranie nieletnich polega na ich:",
     "options": {
-      "a": "najpóźniej do 31 Stycznia następnego roku kalendarzowego",
-      "b": "najpóźniej do końca trzeciego kwartału następnego roku kalendarzowego",
-      "c": "najpóźniej do końca pierwszego półrocza następnego roku kalendarzowego",
-      "d": "do 30 września następnego roku kalendarzowego"
-    },
-    "correct_answers": [
-      "b",
-      "d"
-    ]
-  },
-  {
-    "id": 1,
-    "text": "Umowa o pracę na okres próbny może poprzedzać",
-    "options": {
-      "a": "Tylko umowę o pracę na czas nieokreślony",
-      "b": "Każdy pozostały rodzaj umowy o pracę",
-      "c": "Tylko umowy o pracę na czas nieokreślony i określony"
+      "a": "Finansowaniu",
+      "b": "Dopingowaniu do zachowań zgodnych z normami",
+      "c": "Wyręczaniu w obowiązkach",
+      "d": "Ignorowaniu błędów"
     },
     "correct_answers": [
       "b"
     ]
   },
   {
-    "id": 2,
-    "text": "Umowa na czas określony dłuższy niż 33 miesięcy",
+    "id": 96,
+    "text": "Czy Policja może zatrzymać nieletniego w przypadku niecierpiącym zwłoki?",
     "options": {
-      "a": "Ulega przekształceniu w umowę o pracę na czas nieokreślony z datą jej podpisania upłynięcia okresu 33 miesięcy",
-      "b": "Jest dopuszczalna i nie ulega przekształceniu w umowę o pracę na czas nieokreślony, jeśli dotyczy pracy na okres kadencji",
-      "c": "Jest niedopuszczalna"
+      "a": "Nie, tylko sąd może to zrobić",
+      "b": "Tak",
+      "c": "Tylko za zgodą rodziców",
+      "d": "Tylko jeśli ma ukończone 17 lat"
     },
     "correct_answers": [
       "b"
     ]
   },
   {
-    "id": 1,
-    "text": "Zakreśl zdarzenia, które pomniejszają proporcjonalnie pracownikowi urlop wypoczynkowy",
+    "id": 102,
+    "text": "Zasada jawności posiedzeń dla osób zaufania jest dopuszczalna w celu:",
     "options": {
-      "a": "powrót do pracy po urlopie wypoczynkowym, trwającym dłużej niż 1 miesiąc",
-      "b": "powrót do pracy po urlopie bezpłatnym, trwającym dłużej niż 1 miesiąc",
-      "c": "powrót do pracy po zwolnieniu chorobowym, trwającym dłużej niż 3 miesiące",
-      "d": "powrót do pracy po urlopie wychowawczym, trwającym dłużej niż 1 miesiąc",
-      "e": "powrót do pracy po pełnieniu zasadniczej służby wojskowej lub tym podobnych, trwającym dłużej niż 1 miesiąc",
-      "f": "powrót do pracy po tymczasowym aresztowaniu, trwającym dłużej niż 1 miesiąc",
-      "g": "powrót do pracy po odbywaniu kary pozbawienia wolności, trwającym dłużej niż 1 miesiąc",
-      "h": "powrót do pracy po nieusprawiedliwionej nieobecności w pracy, trwającym dłużej niż 1 miesiąc"
-    },
-    "correct_answers": [
-      "b",
-      "d",
-      "e",
-      "f",
-      "g",
-      "h"
-    ]
-  },
-  {
-    "id": 2,
-    "text": "Zaznacz przypadki rozwiązania umowy o pracę",
-    "options": {
-      "a": "porozumienie stron",
-      "b": "upływ czasu",
-      "c": "za wypowiedzeniem"
-    },
-    "correct_answers": [
-      "a",
-      "b",
-      "c"
-    ]
-  },
-  {
-    "id": 3,
-    "text": "Elementami nieobligatoryjnymi w umowie o pracę",
-    "options": {
-      "a": "rodzaj pracy",
-      "b": "wypowiedzenie",
-      "c": "wymiar czasu pracy",
-      "d": "rodzaj umowy o pracę"
+      "a": "Nagłośnienia sprawy",
+      "b": "Wsparcia nieletniego",
+      "c": "Oceny pracy sędziego przez publiczność",
+      "d": "Przesłuchania tych osób"
     },
     "correct_answers": [
       "b"
     ]
   },
   {
-    "id": 4,
-    "text": "Zgodnie z ustawą dokonywane w następujących granicach",
+    "id": 103,
+    "text": "Status pokrzywdzonego wygasa w przypadku jego:",
     "options": {
-      "a": "do wysokości połowy wynagrodzenia",
-      "b": "do wysokości trzech piątych wynagrodzenia",
-      "c": "do wysokości trzech czwartych wynagrodzenia"
+      "a": "Wyjazdu",
+      "b": "Śmierci (prawa przechodzą na osoby najbliższe)",
+      "c": "Rezygnacji z odszkodowania",
+      "d": "Utraty pracy"
     },
     "correct_answers": [
       "b"
     ]
   },
   {
-    "id": 5,
-    "text": "Postanowienia układów zbiorowych pracy i porozumień zbiorowych oraz regulaminów i statutów",
+    "id": 104,
+    "text": "Wykonywanie tatuaży przez nieletniego w placówce jest:",
     "options": {
-      "a": "mogą być mniej korzystne dla pracowników niż przepisy",
-      "b": "nie mogą być mniej korzystne dla pracowników i pracodawców niż przepisy",
-      "c": "nie mogą być mniej korzystne dla pracowników niż przepisy wykonawczych"
+      "a": "Nagradzane",
+      "b": "Zabronione",
+      "c": "Obojętne",
+      "d": "Obowiązkowe"
     },
     "correct_answers": [
-      "c"
+      "b"
     ]
   },
   {
-    "id": 6,
-    "text": "Czy pracodawca może nie posiadać osobowości prawnej",
+    "id": 105,
+    "text": "Udział w grupach organizowanych bez wiedzy dyrektora placówki jest:",
     "options": {
-      "a": "tak",
-      "b": "nie",
-      "c": "tak, ale z pewnymi wyjątkami wymienionymi w ustawie"
+      "a": "Zalecany",
+      "b": "Zabroniony",
+      "c": "Dozwolony po lekcjach",
+      "d": "Wymagany do resocjalizacji"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 106,
+    "text": "Dbałość o rzeczy własne i innych to dla nieletniego w placówce:",
+    "options": {
+      "a": "Opcja",
+      "b": "Obowiązek",
+      "c": "Zakaz",
+      "d": "Kara"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 107,
+    "text": "Prace porządkowe na rzecz ośrodka nieletni wykonuje:",
+    "options": {
+      "a": "Tylko w weekendy",
+      "b": "Na zasadach określonych w ustawie",
+      "c": "Zamiast nauki",
+      "d": "Tylko za karę"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 108,
+    "text": "Powiadamianie o zagrożeniach dla bezpieczeństwa to dla nieletniego:",
+    "options": {
+      "a": "Skarżenie",
+      "b": "Obowiązek ustawowy",
+      "c": "Wybór",
+      "d": "Zakaz"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 109,
+    "text": "Przestrzeganie terminu powrotu z pobytu poza placówką to:",
+    "options": {
+      "a": "Przywilej",
+      "b": "Obowiązek",
+      "c": "Dobrowolna decyzja",
+      "d": "Niemożliwe do wyegzekwowania"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 110,
+    "text": "Wniesienie zażalenia na środek tymczasowy (np. schronisko) następuje:",
+    "options": {
+      "a": "Po miesiącu",
+      "b": "Niezwłocznie (rozpoznanie)",
+      "c": "Tylko przez prokuratora",
+      "d": "Na koniec roku szkolnego"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 111,
+    "text": "Zażalenie do innego składu sądu I instancji przysługuje na:",
+    "options": {
+      "a": "Wyrok końcowy",
+      "b": "Cofnięcie wyznaczenia obrońcy z urzędu",
+      "c": "Umorzenie sprawy",
+      "d": "Powołanie świadka"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 112,
+    "text": "Czy nieletni ma prawo do wyrażania własnego zdania w postępowaniu?",
+    "options": {
+      "a": "Nie, dzieci i ryby głosu nie mają",
+      "b": "Tak",
+      "c": "Tylko w wieku 17 lat",
+      "d": "Tylko jeśli sędzia pozwoli"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 113,
+    "text": "Interes społeczny w postępowaniu z nieletnimi musi być:",
+    "options": {
+      "a": "Ignorowany",
+      "b": "Uwzględniany obok dobra dziecka",
+      "c": "Ważniejszy niż dobro dziecka",
+      "d": "Jedynym kryterium"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 114,
+    "text": "Osoba nieporadna ze względu na stan zdrowia jako pokrzywdzony:",
+    "options": {
+      "a": "Traci prawa",
+      "b": "Jej prawa wykonuje osoba, pod której pieczą faktycznie pozostaje",
+      "c": "Musi sama się bronić",
+      "d": "Nie może brać udziału w sprawie"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 115,
+    "text": "Czyn karalny określony w Kodeksie karnym skarbowym to np.:",
+    "options": {
+      "a": "Kradzież jabłka",
+      "b": "Przestępstwo skarbowe",
+      "c": "Bójka",
+      "d": "Obraza nauczyciela"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 116,
+    "text": "Sędzia rodzinny orzeka na posiedzeniu niejawnym o:",
+    "options": {
+      "a": "Wszystkim bez wyjątku",
+      "b": "Przypadkach określonych w ustawie",
+      "c": "Tylko za zgodą Policji",
+      "d": "Nigdy nie może"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 117,
+    "text": "Utrwalanie obrazu podczas wysłuchania nieletniego służy:",
+    "options": {
+      "a": "Rozrywce",
+      "b": "Uniknięciu wielokrotnego przesłuchiwania",
+      "c": "Szantażowi",
+      "d": "Statystykom"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 118,
+    "text": "Czy apelacja wniesiona po terminie zostanie rozpoznana?",
+    "options": {
+      "a": "Tak, zawsze",
+      "b": "Nie, zostanie odrzucona",
+      "c": "Tak, jeśli nieletni ładnie poprosi",
+      "d": "Tylko w poniedziałki"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 119,
+    "text": "Prawa nieletniego w placówce obejmują m.in. prawo do:",
+    "options": {
+      "a": "Samowolki",
+      "b": "Prywatności",
+      "c": "Agresji",
+      "d": "Brak nauki"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 120,
+    "text": "Sąd rodzinny prowadzi postępowanie, chyba że ustawa:",
+    "options": {
+      "a": "Nakaże inaczej",
+      "b": "Stanowi inaczej",
+      "c": "Zabrania sędziemu pracy",
+      "d": "Jest nieczytelna"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 121,
+    "text": "Zakaz przebywania w określonych środowiskach to środek:",
+    "options": {
+      "a": "Karny",
+      "b": "Wychowawczy",
+      "c": "Poprawczy",
+      "d": "Leczniczy"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 122,
+    "text": "Podstawą umieszczenia w schronisku może być brak możliwości ustalenia:",
+    "options": {
+      "a": "Ocen",
+      "b": "Tożsamości nieletniego",
+      "c": "Hobby",
+      "d": "Znajomych"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 123,
+    "text": "Resocjalizacja ma uwzględniać wskazania nauki i doświadczeń:",
+    "options": {
+      "a": "Politycznych",
+      "b": "Pedagogicznych",
+      "c": "Technicznych",
+      "d": "Historycznych"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 124,
+    "text": "Pobyt w schronisku można przedłużać, ale nie dłużej niż na:",
+    "options": {
+      "a": "Miesiąc",
+      "b": "Rok (z wyjątkami szczególnie uzasadnionymi)",
+      "c": "10 lat",
+      "d": "Zawsze tylko na 2 tygodnie"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 125,
+    "text": "Pouczenie nieletniego musi być:",
+    "options": {
+      "a": "Niezrozumiałe",
+      "b": "Zrozumiałe dla nieletniego",
+      "c": "Tylko w formie pisemnej łaciną",
+      "d": "Przekazane szeptem"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 126,
+    "text": "Świadek w sprawie nieletniego ma obowiązek:",
+    "options": {
+      "a": "Kłamać",
+      "b": "Stawić się i złożyć zeznania",
+      "c": "Płacić za wstęp",
+      "d": "Zabrać kolegów"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 127,
+    "text": "Cofnięcie wyznaczenia obrońcy z urzędu następuje, gdy:",
+    "options": {
+      "a": "Nieletni go nie lubi",
+      "b": "Ustały przyczyny jego wyznaczenia",
+      "c": "Adwokat wyjechał na urlop",
+      "d": "Skończyły się pieniądze w sądzie"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 128,
+    "text": "Termin na wniesienie apelacji to zazwyczaj:",
+    "options": {
+      "a": "2 dni",
+      "b": "14 dni od doręczenia wyroku z uzasadnieniem",
+      "c": "Rok",
+      "d": "Dowolny moment"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 129,
+    "text": "Wgląd w akta sprawy dla nieletniego jest:",
+    "options": {
+      "a": "Zabroniony",
+      "b": "Dozwolony (z możliwością ograniczeń przez sąd)",
+      "c": "Tylko za opłatą 1000 zł",
+      "d": "Tylko dla dorosłych"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 130,
+    "text": "Rozprawa apelacyjna odbywa się w sądzie:",
+    "options": {
+      "a": "Rejonowym",
+      "b": "Okręgowym (jako II instancja)",
+      "c": "Najwyższym",
+      "d": "Pokoju sędziego"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 131,
+    "text": "Kurator zawodowy różni się od społecznego tym, że:",
+    "options": {
+      "a": "Pracuje w sądzie zawodowo",
+      "b": "Nie ma studiów",
+      "c": "Pracuje za darmo",
+      "d": "Jest nieletni"
     },
     "correct_answers": [
       "a"
     ]
   },
   {
-    "id": 7,
-    "text": "Wypowiedzenie dotychczasowych warunków pracy lub płacy nie jest wymagane w razie powierzenia pracownikowi, w przypadkach uzasadnionych potrzebami pracodawcy",
+    "id": 132,
+    "text": "Resocjalizacja nieletniego powinna być prowadzona w sposób:",
     "options": {
-      "a": "dodatkowej pracy na okres nieprzekraczający 3 miesięcy",
-      "b": "innej pracy na okres nieprzekraczający 3 miesięcy, jeżeli nie powoduje to obniżenia wynagrodzenia i odpowiada kwalifikacjom pracownika",
-      "c": "innej pracy niż określona w umowie o pracę na okres nieprzekraczający 3 miesięcy w roku kalendarzowym, jeżeli nie powoduje to obniżenia wynagrodzenia i odpowiada kwalifikacjom pracownika"
+      "a": "Przemocowy",
+      "b": "Zindywidualizowany",
+      "c": "Jednakowy dla wszystkich",
+      "d": "Tajny przed nieletnim"
     },
     "correct_answers": [
-      "c"
+      "b"
     ]
   },
   {
-    "id": 8,
-    "text": "Jeżeli okres zatrudnienia na podstawie umowy o pracę na czas określony jest dłuższy niż 33 miesiące lub jeżeli liczba zawartych umów jest większa niż trzy, uważa się, że pracownik",
+    "id": 133,
+    "text": "Umorzenie z powodu 'niskiej szkodliwości' czynu jest:",
     "options": {
-      "a": "od dnia następującego po upływie 33 miesięcy lub od dnia zawarcia czwartej umowy o pracę na czas określony, jest zatrudniony na podstawie umowy o pracę na czas nieokreślony",
-      "b": "od miesiąca następującego po upływie 33 miesięcy lub od dnia zawarcia czwartej umowy o pracę na czas określony, jest zatrudniony na podstawie umowy o pracę na czas nieokreślony",
-      "c": "od miesiąca następującego po upływie 33 miesięcy lub zawarcia czwartej umowy o pracę na czas określony, jest zatrudniony na podstawie umowy o pracę na czas nieokreślony"
+      "a": "Zabronione",
+      "b": "Możliwe w sprawach nieletnich",
+      "c": "Obowiązkowe zawsze",
+      "d": "Tylko przy morderstwie"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 134,
+    "text": "Obrońca nieletniego podejmuje czynności wyłącznie na:",
+    "options": {
+      "a": "Swoją korzyść",
+      "b": "Korzyść nieletniego",
+      "c": "Korzyść prokuratora",
+      "d": "Złość rodzicom"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 135,
+    "text": "Wniosek o obrońcę z urzędu sąd rozpoznaje:",
+    "options": {
+      "a": "Po roku",
+      "b": "Niezwłocznie",
+      "c": "Tylko w środy",
+      "d": "Nigdy"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 136,
+    "text": "Jeśli nieletni ma 3 obrońców, to jest to:",
+    "options": {
+      "a": "Zabronione",
+      "b": "Maksymalna dopuszczalna liczba",
+      "c": "Za mało",
+      "d": "Możliwe tylko w USA"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 137,
+    "text": "Koszty mediacji pokrywa zazwyczaj:",
+    "options": {
+      "a": "Mediator",
+      "b": "Skarb Państwa",
+      "c": "Nieletni z kieszonkowego",
+      "d": "Pokrzywdzony"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 138,
+    "text": "Sędzia rodzinny to sędzia sądu:",
+    "options": {
+      "a": "Wojskowego",
+      "b": "Rejonowego",
+      "c": "Grodzkiego",
+      "d": "Pracy"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 139,
+    "text": "Czy Policja może przesłuchać nieletniego bez rodzica?",
+    "options": {
+      "a": "Tak, zawsze",
+      "b": "Tylko w obecności innej osoby dorosłej (np. nauczyciela) w wyjątkowych sytuacjach",
+      "c": "Nigdy",
+      "d": "Tylko jeśli nieletni ma 18 lat"
+    },
+    "correct_answers": [
+      "b"
+    ]
+  },
+  {
+    "id": 140,
+    "text": "Wniosek o uzasadnienie wyroku składa się w terminie:",
+    "options": {
+      "a": "7 dni od ogłoszenia",
+      "b": "Miesiąca",
+      "c": "Roku",
+      "d": "Godziny"
     },
     "correct_answers": [
       "a"
     ]
   },
   {
-    "id": 9,
-    "text": "Tygodniowy czas pracy łącznie z godzinami nadliczbowymi nie może przekraczać",
+    "id": 141,
+    "text": "Zasada autonomii rodziny wspomniana w preambule oznacza:",
     "options": {
-      "a": "48 h w przyjętym okresie rozliczeniowym",
-      "b": "przeciętnie 48 h w przyjętym okresie rozliczeniowym",
-      "c": "jest uzależniony od przyjętego okresu rozliczeniowego"
+      "a": "Brak kontroli państwa",
+      "b": "Poszanowanie życia rodzinnego przez organy",
+      "c": "Prawo do bicia dzieci",
+      "d": "Brak obowiązku szkolnego"
     },
     "correct_answers": [
       "b"
     ]
   },
   {
-    "id": 10,
-    "text": "Pracownika opiekującego się dzieckiem do ukończenia przez nie 8 roku życia nie wolno bez jego zgody zatrudniać w godzinach",
+    "id": 142,
+    "text": "Zasada współdziałania ze społeczeństwem to inaczej:",
     "options": {
-      "a": "nadliczbowych w porze nocnej",
-      "b": "nadliczbowych w porze nocnej, w systemie przerywanego czasu pracy, jak również delegować poza stałe miejsce pracy",
-      "c": "nadliczbowych w porze nocnej, jak również delegować poza stałe miejsce pracy."
+      "a": "Zasada tajności",
+      "b": "Zasada partycypacji społecznej",
+      "c": "Zasada izolacji",
+      "d": "Zasada odwetu"
     },
     "correct_answers": [
       "b"
     ]
   },
   {
-    "id": 11,
-    "text": "Roszczenia ze stosunku pracy ulegają przedawnieniu z upływem",
+    "id": 143,
+    "text": "Zasada wychowania do życia w społeczeństwie ma na celu:",
     "options": {
-      "a": "2 lat od dnia, w którym roszczenie stał się wymagalne",
-      "b": "3 lat od dnia, w którym roszczenie stał się wymagalne",
-      "c": "4 lat od dnia, w którym roszczenie stał się wymagalne"
+      "a": "Naukę języków",
+      "b": "Prawidłowe funkcjonowanie w grupie",
+      "c": "Tylko naukę zawodu",
+      "d": "Wysłanie nieletniego za granicę"
     },
     "correct_answers": [
       "b"
     ]
   },
   {
-    "id": 12,
-    "text": "Udzielenie pracownikowi urlopu w dniu pracy w wymiarze godzinowym odpowiadającym części dobowego wymiaru czasu pracy jest dopuszczalne jedynie w przypadku",
+    "id": 144,
+    "text": "Czy nieletni może zostać ukarany mandatem przez Policję?",
     "options": {
-      "a": "na prośbę pracownika",
-      "b": "gdy część urlopu pozostała do wykorzystania jest niższa niż pełny dobowy wymiar czasu pracy pracownika w dniu, na który ma być udzielony urlop",
-      "c": "tylko za zgodę pracodawcy"
+      "a": "Tak, zawsze",
+      "b": "Nie, sprawa trafia do sądu rodzinnego",
+      "c": "Tylko za parkowanie",
+      "d": "Tylko powyżej 15 lat"
     },
     "correct_answers": [
       "b"
     ]
   },
   {
-    "id": 13,
-    "text": "Jeżeli pracownik nie może rozpocząć urlopu w ustalonym terminie z przyczyn nie usprawiedliwiających nieobecność w pracy, a w szczególności z powodu: czasowej niezdolności do pracy wskutek choroby, odosobnienia w związku z chorobą zakaźną, powołania na ćwiczenia wojskowe lub na przeszkolenie wojskowe albo stawienia się do pełnienia terytorialnej służby rotacyjnie, na czas do 3 miesięcy, urlopu macierzyńskiego",
+    "id": 145,
+    "text": "Środki orzeczone wobec nieletniego kończą się z mocy prawa po ukończeniu:",
     "options": {
-      "a": "pracodawca może przesunąć urlop na termin późniejszy",
-      "b": "pracodawca jest obowiązany przesunąć urlop na termin późniejszy",
-      "c": "pracodawca nie ma obowiązku przesunięcia urlopu na termin późniejszy"
+      "a": "18 lat",
+      "b": "21 lat (z pewnymi wyjątkami)",
+      "c": "25 lat",
+      "d": "30 lat"
     },
     "correct_answers": [
       "b"
     ]
   },
   {
-    "id": 14,
-    "text": "Ekwiwalent pieniężny za niewykorzystany urlop wypoczynkowy przysługuje w przypadku",
+    "id": 146,
+    "text": "Przesłuchanie nieletniego 'na odległość' (wideokonferencja) jest:",
     "options": {
-      "a": "zmiany pracodawcy w trakcie roku kalendarzowego",
-      "b": "niewykorzystania przysługującego bieżącego urlopu w całości lub części z powodu rozwiązania lub wygaśnięcia umowy o pracę",
-      "c": "niewykorzystania przysługującego urlopu w całości lub części z powodu rozwiązania lub wygaśnięcia stosunku pracy"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 15,
-    "text": "Jeżeli jest to uzasadnione rodzajem pracy lub jej organizacją, może być stosowany system równoważonego czasu pracy, w którym jest dopuszczalne przedłużenie dobowego wymiaru czasu pracy przedłużony dobowy wymiar czasu pracy jest równoważony",
-    "options": {
-      "a": "wynagrodzeniem albo dniami wolnymi od pracy",
-      "b": "dobowym wymiarem czasu pracy w niektórych dniach",
-      "c": "krótszym dobowym wymiarem czasu pracy w niektórych dniach lub dniami wolnymi od pracy"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 16,
-    "text": "Ponowne zawarcie umowy o pracę na okres próbny z tym samym pracownikiem jest możliwe po upływie co najmniej 3 lat od dnia rozwiązania lub wygaśnięcia poprzedniej umowy o pracę, jeżeli",
-    "options": {
-      "a": "pracownik ma być zatrudniony w celu wykonywania tego samego rodzaju pracy, w tym przypadku dopuszczalne jest jednokrotne ponowne zawarcie umowy na okres próbny",
-      "b": "pracownik ma być zatrudniony w celu wykonywania innego rodzaju pracy",
-      "c": "pracownik ma być zatrudniony w celu wykonywania innego rodzaju pracy, w tym przypadku dopuszczalne jest jednokrotne ponowne zawarcie umowy na okres próbny"
+      "a": "Zabronione",
+      "b": "Możliwe",
+      "c": "Obowiązkowe",
+      "d": "Płatne dodatkowo"
     },
     "correct_answers": [
       "b"
     ]
   },
   {
-    "id": 17,
-    "text": "Okres zatrudnienia na podstawie umowy o pracę na czas określony, a także łączny okres zatrudnienia na podstawie umów o pracę na czas określony zawieranych między tymi samymi stronami stosunku pracy, nie może przekraczać",
+    "id": 147,
+    "text": "Kurator społeczny wykonuje swoje zadania:",
     "options": {
-      "a": "24 miesięcy, a łączna liczba tych umów nie może przekraczać czterech",
-      "b": "33 miesięcy, a łączna liczba tych umów nie może przekraczać czterech",
-      "c": "33 miesięcy, a łączna liczba tych umów nie może przekraczać trzech"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 18,
-    "text": "Rozwiązanie umowy o pracę bez wypowiedzenia z winy pracownika nie może nastąpić",
-    "options": {
-      "a": "w okresie usprawiedliwionej nieobecności pracownika w pracy"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": 19,
-    "text": "",
-    "options": {
-      "b": "po upływie 1 miesiąca od uzyskania przez pracodawcę wiadomości o okoliczności uzasadniającej rozwiązanie umowy",
-      "c": "po upływie 3 miesięcy od uzyskania przez pracodawcę wiadomości o okoliczności uzasadniającej rozwiązanie umowy"
+      "a": "Za wysoką pensję",
+      "b": "Społecznie (honorowo)",
+      "c": "Tylko w nocy",
+      "d": "Przez telefon tylko"
     },
     "correct_answers": [
       "b"
     ]
   },
   {
-    "id": 19,
-    "text": "Elementami nieobligatoryjnymi w umowie o pracę jest",
+    "id": 148,
+    "text": "Ośrodek kuratorski działa zazwyczaj w godzinach:",
     "options": {
-      "a": "rodzaj umowy o pracę",
-      "b": "wynagrodzenie",
-      "c": "wymiar czasu pracy"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": 20,
-    "text": "Postanowienia umów o pracę oraz innych aktów, na których podstawie powstaje stosunek pracy, mniej korzystne dla pracownika niż przepisy prawa pracy",
-    "options": {
-      "a": "są nieważne",
-      "b": "są nieważne, zamiast nich stosuje się odpowiednie przepisy prawa pracy",
-      "c": "są ważne"
+      "a": "Porannych",
+      "b": "Popołudniowych (po lekcjach)",
+      "c": "Tylko w nocy",
+      "d": "24h na dobę"
     },
     "correct_answers": [
       "b"
     ]
   },
   {
-    "id": 21,
-    "text": "Zgodnie z ustawą potrącania zaliczek pieniężnych, potrącenia te mogą być dokonywane w następujących granicach",
+    "id": 149,
+    "text": "Czy nieletni może zostać zwolniony z zakładu poprawczego przedterminowo?",
     "options": {
-      "a": "do wysokości połowy wynagrodzenia",
-      "b": "do wysokości trzech piątych wynagrodzenia",
-      "c": "do wysokości trzech czwartych wynagrodzenia"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 22,
-    "text": "Zgodnie z ustawą wynagrodzenia za czas niezdolności do pracy wskutek: choroby lub odosobnienia w związku z chorobą zakaźną trwającej łącznie w ciągu roku kalendarzowego do",
-    "options": {
-      "a": "14 DNI MA BYĆ 80% WYNAGRODZENIA"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 1,
-    "text": "Regulamin pracy i wynagrodzenia mają obowiązek wprowadzać pracodawcy zatrudniający",
-    "options": {
-      "a": "co najmniej 20 pracowników",
-      "b": "co najmniej 10 pracowników",
-      "c": "co najmniej 50 pracowników"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 2,
-    "text": "Pracownik w stosunku do którego pracodawca naruszył zasadę równego traktowania ma prawo do odszkodowania w minimalnej wysokości",
-    "options": {
-      "a": "miesięcznego wynagrodzenia",
-      "b": "dwumiesięcznego wynagrodzenia",
-      "c": "trzymiesięcznego wynagrodzenia odszkodowania w wysokości nie niższej niż minimalne wynagrodzenie za pracę, ustalane na podstawie odrębnych przepisów."
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 3,
-    "text": "Pracownik nie może zrec się",
-    "options": {
-      "a": "urlopu wypoczynkowego",
-      "b": "wynagrodzenia za pracę"
-    },
-    "correct_answers": [
-      "a",
-      "b"
-    ]
-  },
-  {
-    "id": 4,
-    "text": "Zmiana regulaminu wynagradzania",
-    "options": {
-      "a": "co do zasady nie wymaga zmiany umowy o pracę",
-      "b": "jeśli jest na niekorzyść pracowników, to wymaga zmiany umowy o pracę"
+      "a": "Nigdy",
+      "b": "Tak (warunkowe zwolnienie)",
+      "c": "Tylko na Boże Narodzenie",
+      "d": "Tylko za łapówkę"
     },
     "correct_answers": [
       "b"
     ]
   },
   {
-    "id": 5,
-    "text": "",
+    "id": 150,
+    "text": "Ostatni dział ustawy o wspieraniu i resocjalizacji dotyczy:",
     "options": {
-      "c": "w zależności od sytuacji wymaga lub nie wymaga zmiany umowy o pracę"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 5,
-    "text": "Pracownikiem nie jest zatrudniona osoba na podstawie: umów cywilnoprawnych",
-    "options": {
-      "a": "wyboru",
-      "b": "umowy zlecenia",
-      "c": "mianowania",
-      "d": "powołania"
+      "a": "Historii prawa",
+      "b": "Przepisów przejściowych i końcowych",
+      "c": "Praw człowieka",
+      "d": "Budżetu sądu"
     },
     "correct_answers": [
       "b"
-    ]
-  },
-  {
-    "id": 6,
-    "text": "Żądanie uznania za bezskuteczne wypowiedzenia umowy o pracę pracownik powinien wnieść w pozwie do sądu pracy",
-    "options": {
-      "a": "w terminie 7 dni od doręczenia mu pisma wypowiadającego umowę o pracę",
-      "b": "w terminie 14 dni od doręczenia mu pisma wypowiadającego umowę o pracę",
-      "c": "w dowolnym terminie",
-      "d": "w terminie 21 dni od doręczenia pisma wypowiadającego umowę o pracę"
-    },
-    "correct_answers": [
-      "d"
-    ]
-  },
-  {
-    "id": 7,
-    "text": "Pracownik, wobec którego stosowany jest mobbing może dochodzić",
-    "options": {
-      "a": "Tylko odszkodowania w wysokości minimalnego wynagrodzenia za pracę",
-      "b": "Zadośćuczynienia",
-      "c": "Tylko wynagrodzenia w wysokości jednomiesięcznego minimalnego wynagrodzenia za pracę",
-      "d": "Odszkodowania"
-    },
-    "correct_answers": [
-      "d"
-    ]
-  },
-  {
-    "id": 8,
-    "text": "Za pracę w godzinach nadliczbowych oprócz minimalnego wynagrodzenia za pracę w niedzielę przysługuje dodatek w wysokości",
-    "options": {
-      "a": "100 % wynagrodzenia",
-      "b": "50 % wynagrodzenia",
-      "c": "75 % wynagrodzenia"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 9,
-    "text": "Podwyżka wynagrodzenia wymaga akceptacji pracownika",
-    "options": {
-      "a": "Prawda",
-      "b": "Fałsz"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 10,
-    "text": "Ekwiwalent pieniężny za niewykorzystanie urlopu przysługuje",
-    "options": {
-      "a": "w razie niewykorzystania urlopu z powodu skierowania do pracy za granicą",
-      "b": "w razie wygaśnięcia stosunku pracy",
-      "c": "w razie niewykorzystania urlopu z powodu przebywania na urlopie macierzyńskim",
-      "d": "Z powodu rozwiązania stosunku pracy"
-    },
-    "correct_answers": [
-      "b",
-      "d"
-    ]
-  },
-  {
-    "id": 11,
-    "text": "Świadczenie rehabilitacyjne przysługuje ubezpieczonemu przez okres niezbędny do przywrócenia zdolności do pracy, nie dłużej niż przez",
-    "options": {
-      "a": "4 miesiące",
-      "b": "6 miesięcy",
-      "c": "12 miesięcy"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 12,
-    "text": "Ochrona przedemerytalna przed wypowiedzeniem stosunku pracy w przypadku stosunku pracy na podstawie umowy o pracę przysługuje co do zasady",
-    "options": {
-      "a": "pracownikowi któremu brakuje nie więcej niż 4 lata do osiągnięcia wieku emerytalnego, jeżeli okres zatrudnienia umożliwia mu uzyskanie prawa do emerytury z osiągnięciem tego wieku."
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 13,
-    "text": "",
-    "options": {
-      "b": "pracownikowi któremu brakuje nie więcej niż 2 lata do osiągnięcia wieku emerytalnego, jeżeli okres zatrudnienia umożliwia mu uzyskanie prawa do emerytury z osiągnięciem tego wieku.",
-      "c": "pracownikowi któremu brakuje nie więcej niż 5 lata do osiągnięcia wieku emerytalnego, jeżeli okres zatrudnienia umożliwia mu uzyskanie prawa do emerytury z osiągnięciem tego wieku."
-    },
-    "correct_answers": []
-  },
-  {
-    "id": 13,
-    "text": "Sąd skreśla związek zawodowy z rejestru, gdy",
-    "options": {
-      "a": "wskazany w statucie organ podjął uchwałę o rozwiązaniu związku",
-      "b": "pracodawca, u którego dotychczas działał związek zawodowy został wykreślony z właściwego rejestru z powodu jego likwidacji lub upadłości albo jego przekształcenia organizacyjno-prawnego, uniemożliwiającego kontynuowanie działalności tego związku",
-      "c": "liczba członków związku utrzymuje się poniżej 10 przez okres dłuższy niż 3 msc."
-    },
-    "correct_answers": [
-      "a",
-      "b",
-      "c"
-    ]
-  },
-  {
-    "id": 14,
-    "text": "Okres wypowiedzenia umowy o pracę zawartej na czas nieokreślony dla pracownika - wskaż odpowiedzi tylko prawdziwe",
-    "options": {
-      "a": "wynosi 2 tyg jeżeli pracownik był zatrudniony krócej niż 6 msc u danego pracodawcy",
-      "b": "trzy msc jeśli pracownik był zatrudniony co najmniej 6 msc",
-      "c": "trzy msc jeśli pracownik był zatrudniony 3 lata w całej swojej karierze zawodowej",
-      "d": "jeden miesiąc jeżeli pracownik był zatrudniony w całej swojej karierze zawodowej co najmniej 3 msc",
-      "e": "uzależniony od okresu zatrudnienia u danego pracodawcy"
-    },
-    "correct_answers": [
-      "a",
-      "e"
-    ]
-  },
-  {
-    "id": 15,
-    "text": "Umowę o pracę na okres próbny można co do zasady zawrzeć na maksymalny okres",
-    "options": {
-      "a": "3 miesiące",
-      "b": "36 miesiące",
-      "c": "33 miesiące"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 16,
-    "text": "Pracodawca może żądać od osoby ubiegającej się o zatrudnienie podania danych osobowych obejmujących",
-    "options": {
-      "a": "imię i nazwisko",
-      "b": "datę urodzenia",
-      "c": "stan cywilny",
-      "d": "imiona rodziców",
-      "e": "nr PESEL"
-    },
-    "correct_answers": [
-      "a",
-      "b"
-    ]
-  },
-  {
-    "id": 17,
-    "text": "Z tytułu ukończenia studiów niestacjonarnych pracownikowi do stażu pracy na potrzeby obliczania urlopu wypoczynkowego jest wliczone",
-    "options": {
-      "a": "6 lat pracy",
-      "b": "8 lat pracy",
-      "c": "10 lat pracy"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 18,
-    "text": "Z chwilą śmierci pracownika",
-    "options": {
-      "a": "stosunek pracy może wygasnąć",
-      "b": "stosunek pracy może przejść na następców prawnych",
-      "c": "stosunek pracy wygasa z mocy prawa"
-    },
-    "correct_answers": [
-      "c"
-    ]
-  },
-  {
-    "id": 19,
-    "text": "Urlop na żądanie może zostać zgłoszony przez pracownika",
-    "options": {
-      "a": "na piśmie",
-      "b": "do końca dniówki roboczej",
-      "c": "sms",
-      "d": "maksymalnie w wymiarze 2 dni w ciągu roku kalendarzowego"
-    },
-    "correct_answers": [
-      "a",
-      "c"
-    ]
-  },
-  {
-    "id": 20,
-    "text": "W przypadku urlopu macierzyńskiego",
-    "options": {
-      "a": "pracownica nabywa prawo do urlopu wypoczynkowego przez cały okres",
-      "b": "urlop wypoczynkowy ulega proporcjonalnemu pomniejszeniu o okres urlopu macierzyńskiego"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": 21,
-    "text": "Jeżeli okres zatrudnienia, na podstawie zwykłej umowy o pracę na czas określony jest dłuższy niż 33 msc. lub jeżeli liczba zawartych umów jest większa niż 4, uważa się, że pracownik odpowiednio od dnia następującego po upływie tego okresu, lub od dnia zawarcia czwartej umowy o pracę na czas określony",
-    "options": {
-      "a": "jest zatrudniony na podstawie umowy o pracę na czas nieokreślony",
-      "b": "jest zatrudniony na podstawie umowy o pracę na czas określony",
-      "c": "nie jest zatrudniony na podstawie umowy o pracę"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 22,
-    "text": "Umowa o dzieło",
-    "options": {
-      "a": "jest stosunkiem pracy",
-      "b": "jest umową cywilnoprawną",
-      "c": "jest umową o pracę"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 23,
-    "text": "Czy w trakcie zwolnienia chorobowego można korzystać z zaplanowanego urlopu wypoczynkowego?",
-    "options": {
-      "a": "tak",
-      "b": "nie"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": 24,
-    "text": "Wypowiedzenie umowy o pracę przez pracodawcę w formie sms pracownikowi",
-    "options": {
-      "a": "jest nieważne z mocy prawa",
-      "b": "jest wadliwe",
-      "c": "nie wywołuje żadnych skutków prawnych nawet jeśli dotarło do adresata"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 25,
-    "text": "W przypadku przejścia części lub całości zakładu pracy na innego pracodawcę pracownik może",
-    "options": {
-      "a": "w terminie 2 msc od przejścia zakładu pracy lub jego części na innego pracodawcę, bez wypowiedzenia, za siedmiodniowym uprzedzeniem, rozwiązać stosunek pracy",
-      "b": "w terminie 7 dni od przejścia zakładu pracy lub jego części na innego pracodawcę, bez wypowiedzenia, za siedmiodniowym uprzedzeniem, rozwiązać stosunek pracy",
-      "c": "w terminie 1 msc od przejścia zakładu pracy lub jego części na innego pracodawcę, za wypowiedzeniem skróconym do 7 dni, rozwiązać stosunek pracy"
-    },
-    "correct_answers": [
-      "a"
-    ]
-  },
-  {
-    "id": 26,
-    "text": "Dobowy odpoczynek w pracy pracownika powinien wynosić co do zasady",
-    "options": {
-      "a": "8 h",
-      "b": "11 h",
-      "c": "12 h"
-    },
-    "correct_answers": [
-      "b"
-    ]
-  },
-  {
-    "id": 27,
-    "text": "W zamian za czas przepracowany w godzinach nadliczbowych pracodawca może",
-    "options": {
-      "a": "zapłacić pracownikowi normalne wynagrodzenie za pracę za przepracowane godziny pracy",
-      "b": "zapłacić pracownikowi normalne wynagrodzenie za pracę za przepracowane godziny pracy oraz dodatek za pracę w godzinach nadliczbowych",
-      "c": "na pisemny wniosek pracownika, może udzielić mu w tym samym wymiarze czasu wolnego od pracy 151"
-    },
-    "correct_answers": [
-      "b",
-      "c"
     ]
   }
 ]
