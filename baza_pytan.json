@@ -1,1091 +1,2754 @@
 [
   {
     "id": 1,
-    "text": "Który z wymienionych aktów prawnych określa sposób zapewnienia nieletniemu korzystania z pomocy obrońcy z urzędu oraz sposób ustalania listy obrońców?",
+    "text": "Co stanowi podstawę gospodarki finansowej państwa w danym roku budżetowym zgodnie z art. 109 u.f.p.?",
     "options": {
-      "a": "Ustawa o wspieraniu i resocjalizacji nieletnich bezpośrednio w tekście",
-      "b": "Rozporządzenie Ministra Sprawiedliwości",
-      "c": "Regulamin wewnętrzny urzędowania sądów powszechnych",
-      "d": "Uchwała Naczelnej Rady Adwokackiej"
+      "a": "Ustawa o finansach publicznych",
+      "b": "Ustawa budżetowa",
+      "c": "Rozporządzenie Ministra Finansów",
+      "d": "Uchwała Rady Ministrów"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 2,
-    "text": "W jakim przypadku sąd rodzinny może wyznaczyć nieletniemu obrońcę z urzędu na podstawie Art. 38 ust. 3, mimo braku przesłanek obligatoryjnych?",
+    "text": "Z jakich elementów składa się ustawa budżetowa?",
     "options": {
-      "a": "Gdy nieletni ukończył 17 lat i nie pracuje",
-      "b": "Gdy udział obrońcy uzna za potrzebny, a rodzice nie są w stanie ponieść kosztów bez uszczerbku dla utrzymania rodziny",
-      "c": "Zawsze, gdy prokurator bierze udział w posiedzeniu",
-      "d": "Tylko w sprawach, w których pokrzywdzony ma więcej niż dwóch pełnomocników"
+      "a": "Z budżetu państwa i załączników",
+      "b": "Z budżetu państwa, załączników i postanowień wynikających z ustaw",
+      "c": "Wyłącznie z planu wydatków i dochodów",
+      "d": "Z budżetu państwa oraz budżetów jednostek samorządu terytorialnego"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 3,
-    "text": "Zgodnie z Art. 83 ust. 1 pkt 8, zażalenie na przedłużenie pobytu w schronisku dla nieletnich wnosi się do:",
+    "text": "Na jaki okres uchwalana jest ustawa budżetowa?",
     "options": {
-      "a": "Innego składu sądu pierwszej instancji",
-      "b": "Sądu drugiej instancji (Sądu Okręgowego)",
-      "c": "Sądu Najwyższego",
-      "d": "Sędziego wizytatora do spraw wykonywania orzeczeń"
+      "a": "Na okres 2 lat",
+      "b": "Na rok kalendarzowy",
+      "c": "Na okres kadencji Sejmu",
+      "d": "Na dowolny okres wskazany przez Ministra Finansów"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 4,
-    "text": "Kto sprawuje nadzór nad funkcjonowaniem okręgowych ośrodków wychowawczych oraz zakładów poprawczych w zakresie dydaktyki i wychowania?",
+    "text": "Czy ustawa budżetowa może zawierać przepisy zmieniające inne ustawy?",
     "options": {
-      "a": "Sędzia rodzinny wizytator",
-      "b": "Minister właściwy do spraw oświaty i wychowania",
-      "c": "Minister Sprawiedliwości",
-      "d": "Kurator Oświaty właściwy dla siedziby placówki"
+      "a": "Tak, jeśli dotyczy to oszczędności",
+      "b": "Tak, za zgodą Senatu",
+      "c": "Nie, ustawa budżetowa nie może zmieniać innych ustaw",
+      "d": "Tak, ale tylko w zakresie podatków"
     },
     "correct_answers": ["c"]
   },
   {
     "id": 5,
-    "text": "Zgodnie z Art. 84 ust. 2 pkt 2, na postanowienie o odmowie dopuszczenia do udziału w postępowaniu pełnomocnika pokrzywdzonego przysługuje zażalenie do:",
+    "text": "Czym jest budżet jednostki samorządu terytorialnego (JST) według art. 211 u.f.p.?",
     "options": {
-      "a": "Sądu drugiej instancji",
-      "b": "Innego składu sądu pierwszej instancji",
-      "c": "Prezesa Sądu Rejonowego",
-      "d": "Postanowienie to jest niezaskarżalne"
+      "a": "Wieloletnią prognozą finansową",
+      "b": "Rocznym planem dochodów i wydatków oraz przychodów i rozchodów",
+      "c": "Zbiorem wszystkich faktur wystawionych przez urząd",
+      "d": "Dokumentem określającym wysokość podatków lokalnych"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 6,
-    "text": "W jakim terminie sąd rodzinny musi rozpoznać zażalenie na postanowienie o zastosowaniu środka tymczasowego w postaci umieszczenia w zakładzie leczniczym?",
+    "text": "Co jest podstawą gospodarki finansowej JST w danym roku budżetowym?",
     "options": {
-      "a": "7 dni",
-      "b": "Niezwłocznie",
-      "c": "14 dni",
-      "d": "30 dni"
+      "a": "Ustawa budżetowa",
+      "b": "Zarządzenie Burmistrza/Wójta",
+      "c": "Uchwała budżetowa",
+      "d": "Budżet środków europejskich"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c"]
   },
   {
     "id": 7,
-    "text": "Jaki skutek procesowy wywołuje wniesienie zażalenia na wymierzenie kary pieniężnej rodzicom (Art. 83 ust. 6)?",
+    "text": "Z czego składa się uchwała budżetowa JST?",
     "options": {
-      "a": "Zawsze wstrzymuje wykonanie kary",
-      "b": "Nie wstrzymuje wykonania postanowienia",
-      "c": "Wstrzymuje wykonanie tylko, gdy rodzice wykażą trudną sytuację materialną",
-      "d": "Powoduje zawieszenie postępowania głównego"
+      "a": "Z budżetu JST i załączników",
+      "b": "Z planu inwestycyjnego i listy dotacji",
+      "c": "Z budżetu państwa oraz subwencji",
+      "d": "Z dochodów własnych i podatków"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a"]
   },
   {
     "id": 8,
-    "text": "Do którego momentu pokrzywdzony może złożyć wniosek o naprawienie szkody, aby sąd był zobligowany go rozpoznać w toku postępowania rozpoznawczego?",
+    "text": "Czym jest budżet środków europejskich?",
     "options": {
-      "a": "Do czasu wydania postanowienia o wszczęciu postępowania",
-      "b": "Do czasu rozpoczęcia pierwszej rozprawy",
-      "c": "Do czasu zamknięcia przewodu sądowego w pierwszej instancji",
-      "d": "Tylko w fazie czynności wyjaśniających prowadzonych przez Policję"
+      "a": "Planem wydatków Komisji Europejskiej na terenie Polski",
+      "b": "Rocznym planem dochodów i podlegających refundacji wydatków na programy europejskie",
+      "c": "Funduszem celowym na wypadek kryzysu w strefie euro",
+      "d": "Częścią budżetu państwa finansującą wyłącznie administrację rządową"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 9,
-    "text": "Zgodnie z Art. 46, umieszczenie nieletniego w schronisku 'wyjątkowo' może nastąpić, gdy zarzucono mu czyn zabroniony wyczerpujący znamiona:",
+    "text": "Co wyłącza się z budżetu środków europejskich zgodnie z art. 117 u.f.p.?",
     "options": {
-      "a": "Kradzieży z włamaniem",
-      "b": "Zbrodni lub określonych występków (np. art. 163, 173, 197 KK)",
-      "c": "Ustawicznego uchylania się od dozoru kuratora",
-      "d": "Przestępstwa skarbowego o dużej wartości"
+      "a": "Wydatki na drogi krajowe",
+      "b": "Środki na projekty pomocy technicznej",
+      "c": "Dotacje dla rolników",
+      "d": "Koszty obsługi długu publicznego"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 10,
-    "text": "Jeżeli sąd drugiej instancji wydał postanowienie o zawieszeniu postępowania w wyniku rozpoznania zażalenia, to na to postanowienie zażalenie przysługuje do:",
+    "text": "W jaki sposób finansowany jest deficyt budżetu środków europejskich (art. 118 u.f.p.)?",
     "options": {
-      "a": "Sądu Najwyższego",
-      "b": "Innego składu tego sądu (drugiej instancji)",
-      "c": "Postanowienie to nie podlega dalszemu zaskarżeniu",
-      "d": "Sądu pierwszej instancji do ponownego rozpoznania"
+      "a": "Przez pożyczki z budżetu UE",
+      "b": "W ramach potrzeb pożyczkowych budżetu państwa",
+      "c": "Z darowizn obywateli",
+      "d": "Nie może wystąpić deficyt w tym budżecie"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 11,
-    "text": "Który organ jest uprawniony do wystąpienia z wnioskiem o zmianę lub uchylenie środka wychowawczego w fazie wykonawczej?",
+    "text": "Co zalicza się do dochodów budżetu środków europejskich?",
     "options": {
-      "a": "Wyłącznie prokurator",
-      "b": "Nieletni, jego rodzice, kurator lub dyrektor placówki",
-      "c": "Tylko sędzia wizytator",
-      "d": "Wyłącznie dyrektor szkoły, do której nieletni uczęszcza"
+      "a": "Podatki od dochodów osobistych",
+      "b": "Środki pochodzące z funduszy strukturalnych i Funduszu Spójności",
+      "c": "Wpływy z mandatów karnych",
+      "d": "Zysk Narodowego Banku Polskiego"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 12,
-    "text": "Zgodnie z Art. 108 pkt 13, nieletni jest obowiązany poddać się badaniom na obecność substancji psychoaktywnej. Kto pokrywa koszty takiego badania w placówce?",
+    "text": "Która zasada finansów publicznych jest realizowana przez prowadzenie rejestru umów (art. 34a u.f.p.)?",
     "options": {
-      "a": "Rodzice nieletniego",
-      "b": "Skarb Państwa",
-      "c": "Nieletni z własnych środków (depozytu)",
-      "d": "Placówka z budżetu na środki czystości"
+      "a": "Zasada jedności",
+      "b": "Zasada jawności i przejrzystości",
+      "c": "Zasada roczności",
+      "d": "Zasada równowagi"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 13,
-    "text": "W jakiej sytuacji 'wysłuchanie nieletniego' na podstawie Art. 216(1) KPC (stosowanego odpowiednio) musi odbyć się poza siedzibą sądu?",
+    "text": "Kto prowadzi rejestr umów zawartych przez jednostki sektora finansów publicznych?",
     "options": {
-      "a": "Gdy nieletni boi się budynku sądu",
-      "b": "Gdy wymaga tego dobro nieletniego lub stan jego zdrowia",
-      "c": "Zawsze, gdy sprawa dotyczy demoralizacji w szkole",
-      "d": "Tylko na wniosek obrońcy z urzędu"
+      "a": "Prezes NIK",
+      "b": "Minister Finansów",
+      "c": "Marszałek Sejmu",
+      "d": "Prezes Rady Ministrów"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 14,
-    "text": "W przypadku stwierdzenia bezzasadności zatrzymania przez sąd rodzinny, do kogo (oprócz prokuratora) przesyłane jest zawiadomienie (Art. 85 ust. 4)?",
+    "text": "Od jakiej kwoty wartości przedmiotu umowy powstaje obowiązek wpisu do rejestru umów?",
     "options": {
-      "a": "Do Prezesa Sądu Okręgowego",
-      "b": "Do organu przełożonego nad organem, który dokonał zatrzymania",
-      "c": "Do Ministra Sprawiedliwości",
-      "d": "Do Rzecznika Praw Dziecka"
+      "a": "Powyżej 100 zł",
+      "b": "Powyżej 500 zł",
+      "c": "Powyżej 1000 zł",
+      "d": "Od każdej kwoty"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 15,
-    "text": "Co dzieje się z obrońcą z urzędu, jeżeli nieletni po ogłoszeniu wyroku o umieszczeniu w zakładzie poprawczym kończy 21 lat przed rozpoczęciem wykonania środka?",
+    "text": "W jakim terminie należy wprowadzić dane do rejestru umów od dnia zawarcia umowy?",
     "options": {
-      "a": "Obrońca kontynuuje działania w postępowaniu karnym",
-      "b": "Postępowanie wykonawcze nie zostaje wszczęte, a mandat obrońcy wygasa",
-      "c": "Obrońca musi złożyć skargę nadzwyczajną",
-      "d": "Obrońca staje się pełnomocnikiem rodziców"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 16,
-    "text": "Zgodnie z Art. 80, do apelacji wnoszonej osobiście przez nieletniego nie stosuje się Art. 368 KPC. Oznacza to, że nieletni nie musi w piśmie m.in.:",
-    "options": {
-      "a": "Wskazywać na zakres zaskarżenia i wnioski o zmianę wyroku",
-      "b": "Podawać swojej sygnatury akt",
-      "c": "Wskazywać swojego imienia i nazwiska",
-      "d": "Adresować pisma do konkretnego sądu"
+      "a": "Niezwłocznie, nie później niż w 14 dni",
+      "b": "W ciągu 30 dni",
+      "c": "Do końca miesiąca",
+      "d": "W ciągu 7 dni"
     },
     "correct_answers": ["a"]
   },
   {
-    "id": 17,
-    "text": "Która zasada proceduralna (zapożyczona z KPC) ogranicza możliwość powoływania nowych dowodów w apelacji wnoszonej przez prokuratora w sprawie nieletniego?",
+    "id": 16,
+    "text": "Które z poniższych są dochodami publicznymi zgodnie z art. 5 u.f.p.?",
     "options": {
-      "a": "Zasada kontradyktoryjności",
-      "b": "Prekluzja dowodowa (możliwość pominięcia spóźnionych dowodów)",
-      "c": "Zasada prawdy obiektywnej",
-      "d": "Zasada bezpośredniości"
+      "a": "Kredyty i pożyczki",
+      "b": "Daniny publiczne (podatki, składki)",
+      "c": "Wpływy ze sprzedaży obligacji",
+      "d": "Pieniądze z prywatyzacji"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 17,
+    "text": "Czym różni się dochód publiczny od przychodu publicznego?",
+    "options": {
+      "a": "Dochód jest zwrotny, przychód bezzwrotny",
+      "b": "Dochód jest bezzwrotny, przychód jest zwrotny",
+      "c": "Nie ma żadnej różnicy",
+      "d": "Dochód dotyczy tylko państwa, przychód tylko JST"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 18,
-    "text": "W fazie wykonawczej, sędzia rodzinny nadzorujący wykonanie środków ma prawo do (Art. 88):",
+    "text": "Co stanowi przykład przychodów publicznych?",
     "options": {
-      "a": "Wstępu do placówek o każdej porze i przesłuchiwania nieletnich bez personelu",
-      "b": "Zmiany dyrektora placówki bez zgody Ministerstwa",
-      "c": "Nakładania kar dyscyplinarnych na pracowników ośrodka",
-      "d": "Wyznaczania dodatkowych zadań domowych nieletniemu"
+      "a": "Podatek VAT",
+      "b": "Przychody ze sprzedaży papierów wartościowych",
+      "c": "Cło",
+      "d": "Grzywny i mandaty"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["b"]
   },
   {
     "id": 19,
-    "text": "Jeżeli nieletni dopuścił się czynu zabronionego po ukończeniu 15 lat, a sprawa została przekazana prokuratorowi (Art. 10 § 2 KK), to obrońca z urzędu wyznaczony przez sąd rodzinny:",
+    "text": "Do jakiej kategorii należą spłaty udzielonych pożyczek?",
     "options": {
-      "a": "Przestaje pełnić funkcję automatycznie",
-      "b": "Wykonuje obowiązki do czasu wyznaczenia obrońcy w procesie karnym",
-      "c": "Pełni funkcję aż do prawomocnego wyroku sądu karnego",
-      "d": "Musi uzyskać nową zgodę rodziców na działanie"
+      "a": "Dochody publiczne",
+      "b": "Przychody publiczne",
+      "c": "Wydatki publiczne",
+      "d": "Rozchody publiczne"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 20,
-    "text": "Który termin jest nieprzekraczalny dla Policji w zakresie zatrzymania nieletniego i przekazania go do dyspozycji sądu?",
+    "text": "Czym są rozchody publiczne?",
     "options": {
-      "a": "24 godziny",
-      "b": "48 godzin",
-      "c": "72 godziny",
-      "d": "12 godzin"
+      "a": "Zakupem materiałów biurowych",
+      "b": "Spłatami otrzymanych pożyczek i kredytów",
+      "c": "Wypłatą wynagrodzeń dla urzędników",
+      "d": "Wpływami z podatków"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 21,
-    "text": "W przypadku mediacji, jeżeli strony zawarły ugodę, ale nieletni nie wywiązuje się z jej postanowień (np. nie przeprosił), sąd rodzinny:",
+    "text": "Który organ sprawuje nadzór nad rynkiem finansowym?",
     "options": {
-      "a": "Uznaje ugodę za nieważną z mocy prawa",
-      "b": "Bierze ten fakt pod uwagę przy orzekaniu lub zmianie środków",
-      "c": "Nakłada na mediatora karę dyscyplinarną",
-      "d": "Przekazuje sprawę komornikowi w celu egzekucji przeprosin"
+      "a": "Prezes NBP",
+      "b": "Komisja Nadzoru Finansowego",
+      "c": "Minister Sprawiedliwości",
+      "d": "Rada Polityki Pieniężnej"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 22,
-    "text": "Zgodnie z Art. 7, który z nadzorów może być stosowany obok nadzoru kuratora sądowego?",
+    "text": "Jaki charakter ma budżetowanie w jednostce budżetowej?",
     "options": {
-      "a": "Nadzór organizacji społecznej",
-      "b": "Nadzór odpowiedzialny rodziców",
-      "c": "Żaden, nadzory wzajemnie się wykluczają",
-      "d": "Tylko nadzór Policji"
+      "a": "Netto",
+      "b": "Brutto",
+      "c": "Zadaniowe",
+      "d": "Mieszane"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 23,
-    "text": "Czy sędzia rodzinny może orzec umieszczenie w zakładzie poprawczym z warunkowym zawieszeniem wykonania tego środka?",
+    "text": "Na czym polega zasada budżetowania brutto?",
     "options": {
-      "a": "Tak, na okres próby od roku do 3 lat",
-      "b": "Nie, nowa ustawa z 2022 roku zlikwidowała tę instytucję",
-      "c": "Tak, ale tylko w sprawach o kradzież",
-      "d": "Tylko jeśli nieletni przyzna się do winy"
+      "a": "Jednostka zatrzymuje dochody na swoje wydatki",
+      "b": "Dochody są odprowadzane do budżetu, a wydatki pokrywane bezpośrednio z budżetu",
+      "c": "Jednostka płaci podatki od swoich zysków",
+      "d": "Wydatki nie mogą być wyższe niż dochody"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["b"]
   },
   {
     "id": 24,
-    "text": "W jakim przypadku sąd rodzinny może odstąpić od przesłuchania świadków na rozprawie (Art. 71)?",
+    "text": "Czy jednostka budżetowa posiada osobowość prawną?",
     "options": {
-      "a": "Gdy nieletni nie kwestionuje ich zeznań złożonych w toku czynności wyjaśniających",
-      "b": "Gdy świadek jest członkiem rodziny nieletniego",
-      "c": "Gdy prokurator wyrazi na to zgodę",
-      "d": "Tylko w sprawach o demoralizację"
+      "a": "Tak, zawsze",
+      "b": "Nie, nie posiada osobowości prawnej",
+      "c": "Tak, ale tylko jednostki państwowe",
+      "d": "Tylko jeśli wpisze się do KRS"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["b"]
   },
   {
     "id": 25,
-    "text": "Zgodnie z Art. 83 ust. 7, o terminie posiedzenia w przedmiocie przedłużenia pobytu w schronisku sąd zawiadamia:",
+    "text": "Czym charakteryzuje się samorządowy zakład budżetowy?",
     "options": {
-      "a": "Tylko obrońcę nieletniego",
-      "b": "Strony, ich pełnomocników i obrońcę",
-      "c": "Dyrektora placówki, w której nieletni przebywa",
-      "d": "Tylko rodziców i prokuratora"
+      "a": "Rozlicza się metodą brutto",
+      "b": "Odpłatnie wykonuje zadania i pokrywa koszty z przychodów własnych",
+      "c": "Jest spółką akcyjną gminy",
+      "d": "Nie może otrzymywać żadnych dotacji"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 26,
-    "text": "Kto dokonuje wyboru rodziny zastępczej zawodowej do umieszczenia nieletniego jako środka tymczasowego?",
+    "text": "Jaki jest dopuszczalny limit dotacji przedmiotowych dla samorządowego zakładu budżetowego (z wyjątkami)?",
     "options": {
-      "a": "Sąd rodzinny w postanowieniu",
-      "b": "Właściwe powiatowe centrum pomocy rodzinie (PCPR)",
-      "c": "Minister Sprawiedliwości z centralnego rejestru",
-      "d": "Kurator sądowy na podstawie rozeznania w terenie"
+      "a": "30% kosztów działalności",
+      "b": "50% kosztów działalności",
+      "c": "75% kosztów działalności",
+      "d": "Bez limitu"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 27,
-    "text": "Zgodnie z Art. 109, nieletniemu w placówce nie wolno 'uczestniczyć w grupach organizowanych bez zgody dyrektora'. Zakaz ten ma na celu przede wszystkim przeciwdziałanie:",
+    "text": "Kiedy samorządowy zakład budżetowy może otrzymać dotację wyższą niż 50% kosztów?",
     "options": {
-      "a": "Organizowaniu korepetycji",
-      "b": "Strukturom nieformalnym (tzw. drugiemu życiu)",
-      "c": "Samorządowi uczniowskiemu",
-      "d": "Kołom zainteresowań"
+      "a": "Gdy realizuje inwestycje finansowane z udziałem środków UE",
+      "b": "Gdy ma kłopoty finansowe",
+      "c": "Gdy tak zdecyduje Prezydent Miasta bez uzasadnienia",
+      "d": "Nigdy"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a"]
   },
   {
     "id": 28,
-    "text": "Który element sprawozdania mediatora (Art. 221) jest kluczowy dla sądu przy ocenie, czy ugoda nie narusza prawa?",
+    "text": "Czym jest agencja wykonawcza?",
     "options": {
-      "a": "Opis emocji uczestników",
-      "b": "Treść porozumienia (ustalenia stron)",
-      "c": "Czas trwania poszczególnych spotkań",
-      "d": "Miejsce przeprowadzenia mediacji"
+      "a": "Jednostką budżetową bez osobowości prawnej",
+      "b": "Państwową osobą prawną tworzoną na podstawie odrębnej ustawy w celu realizacji zadań państwa",
+      "c": "Prywatną firmą wykonującą zlecenia rządu",
+      "d": "Fundacją powołaną przez Ministra Finansów"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 29,
-    "text": "W jakiej sytuacji nieletni może zostać umieszczony w policyjnej izbie dziecka na czas powyżej 48 godzin?",
+    "text": "Na podstawie czego działa agencja wykonawcza?",
     "options": {
-      "a": "Gdy nie można znaleźć wolnego miejsca w schronisku",
-      "b": "Ustawa kategorycznie zabrania przekraczania tego terminu bez orzeczenia sądu o środku tymczasowym",
-      "c": "Gdy Policja potrzebuje więcej czasu na zabezpieczenie śladów",
-      "d": "Tylko w okresie świąt i dni wolnych od pracy"
+      "a": "Wyłącznie statutu",
+      "b": "Rocznego planu finansowego",
+      "c": "Uchwały zarządu województwa",
+      "d": "Księgi przychodów i rozchodów"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 30,
-    "text": "Jaki jest tryb zaskarżenia postanowienia o odmowie wglądu do akt dla pokrzywdzonego wydanego przez sąd drugiej instancji?",
+    "text": "W jakiej formie tworzona jest instytucja gospodarki budżetowej?",
     "options": {
-      "a": "Kasacja do Sądu Najwyższego",
-      "b": "Zażalenie do innego składu tego samego sądu (drugiej instancji)",
-      "c": "Skarga do Prezesa Sądu Okręgowego",
-      "d": "Postanowienie to jest prawomocne i niezaskarżalne"
+      "a": "Jako wydzielone konto bankowe",
+      "b": "Jako państwowa osoba prawna",
+      "c": "Jako stowarzyszenie",
+      "d": "Jako fundacja"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 31,
-    "text": "Zgodnie z Art. 40 ust. 8, po śmierci pokrzywdzonego prokurator wykonuje jego prawa, jeżeli:",
+    "text": "W którym momencie instytucja gospodarki budżetowej uzyskuje osobowość prawną?",
     "options": {
-      "a": "Osoby najbliższe zrzekły się tych praw",
-      "b": "Brak jest osób najbliższych lub nie zostały one ujawnione",
-      "c": "Sąd uzna, że prokurator lepiej zabezpieczy interes społeczny",
-      "d": "Czyn karalny był zbrodnią przeciwko życiu"
+      "a": "Z chwilą ogłoszenia w Monitorze Polskim",
+      "b": "Z chwilą wpisu do Krajowego Rejestru Sądowego (KRS)",
+      "c": "Z chwilą zatrudnienia dyrektora",
+      "d": "Z dniem 1 stycznia roku następnego"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 32,
-    "text": "W jakim przypadku sąd rodzinny może zobowiązać rodziców do naprawienia szkody wyrządzonej przez nieletniego (Art. 18)?",
+    "text": "Czym jest Państwowy Fundusz Celowy (art. 29 u.f.p.)?",
     "options": {
-      "a": "W każdym przypadku, gdy nieletni nie posiada majątku",
-      "b": "Gdy wynika to z potrzeby poprawy warunków wychowawczych nieletniego lub naprawienia skutków demoralizacji",
-      "c": "Tylko gdy rodzice zostali ukarani karą pieniężną",
-      "d": "Wyłącznie na wniosek zakładu ubezpieczeń"
+      "a": "Osobną agencją rządową",
+      "b": "Wyodrębnionym rachunkiem bankowym, którym dysponuje minister",
+      "c": "Spółką Skarbu Państwa",
+      "d": "Funduszem inwestycyjnym na giełdzie"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 33,
-    "text": "Zgodnie z Art. 216(1) KPC, wysłuchanie nieletniego odbywa się w obecności biegłego psychologa, o ile:",
+    "text": "Czy Państwowy Fundusz Celowy posiada osobowość prawną?",
     "options": {
-      "a": "Nieletni nie ukończył 13 lat",
-      "b": "Sąd uzna to za niezbędne (w sprawach nieletnich jest to standard)",
-      "c": "Rodzice nieletniego złożą taki wniosek",
-      "d": "Sprawa dotyczy przestępstwa na tle seksualnym"
+      "a": "Tak",
+      "b": "Nie",
+      "c": "Tak, o ile tak stanowi ustawa",
+      "d": "Tylko fundusze samorządowe ją mają"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 34,
-    "text": "Co stanowi o 'legalności' zatrzymania nieletniego w rozumieniu Art. 85?",
+    "text": "W jakiej formie działa Samodzielny Publiczny Zakład Opieki Zdrowotnej (SPZOZ)?",
     "options": {
-      "a": "Stosowanie przez funkcjonariuszy uprzejmych zwrotów",
-      "b": "Zgodność z przepisami prawa co do trybu i podstaw zatrzymania",
-      "c": "Dostarczenie nieletniemu jedzenia w ciągu 4 godzin",
-      "d": "Zapewnienie kontaktu telefonicznego z obrońcą w ciągu 15 minut"
+      "a": "Jako jednostka budżetowa",
+      "b": "Jako państwowa lub samorządowa osoba prawna",
+      "c": "Jako fundacja celowa",
+      "d": "Jako spółka z ograniczoną odpowiedzialnością"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 35,
-    "text": "W przypadku zbiegu postępowań (nieletni i dorosły współsprawca), sprawę nieletniego rozpoznaje:",
+    "text": "W którym dokumencie określa się cele i mierniki w budżecie zadaniowym?",
     "options": {
-      "a": "Zawsze sąd karny razem z dorosłym",
-      "b": "Sąd rodzinny (następuje rozdzielenie spraw)",
-      "c": "Sąd rodzinny, chyba że sędzia karny przejmie sprawę dla dobra wymiaru sprawiedliwości",
-      "d": "Komisja Dyscyplinarna przy Kuratorium Oświaty"
+      "a": "W statucie jednostki",
+      "b": "W układzie zadaniowym wydatków",
+      "c": "W regulaminie pracy",
+      "d": "W umowie o pracę dyrektora"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 36,
-    "text": "Zgodnie z Art. 109, zakaz 'wykonywania tatuaży' przez nieletniego w placówce obejmuje:",
+    "text": "Które gminy mają obowiązek tworzenia budżetu obywatelskiego?",
     "options": {
-      "a": "Tylko tatuaże o treściach faszystowskich",
-      "b": "Wszelkie tatuaże i inne trwałe uszkodzenia ciała",
-      "c": "Tylko tatuaże robione bez sterylnych igieł",
-      "d": "Zakaz ten nie dotyczy tatuaży zmywalnych (tzw. kalkomanii)"
+      "a": "Wszystkie gminy w Polsce",
+      "b": "Miasta na prawach powiatu",
+      "c": "Gminy wiejskie powyżej 10 tys. mieszkańców",
+      "d": "Gminy, w których dług przekroczył 50%"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 37,
-    "text": "Termin 6 tygodni na mediację może zostać przedłużony przez sąd, jeżeli:",
+    "text": "Ile wynosi minimalna kwota budżetu obywatelskiego w miastach na prawach powiatu?",
     "options": {
-      "a": "Mediator potrzebuje więcej czasu na napisanie sprawozdania",
-      "b": "Istnieją szanse na zawarcie ugody, a strony wyrażają na to zgodę",
-      "c": "Pokrzywdzony przebywa na urlopie",
-      "d": "Nieletni choruje na grypę"
+      "a": "1% wydatków gminy",
+      "b": "0,5% wydatków gminy",
+      "c": "5% wydatków gminy",
+      "d": "10 mln złotych"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 38,
-    "text": "W której części sprawozdania z wywiadu środowiskowego kurator opisuje 'prognozę kryminologiczną'?",
+    "text": "Kto określa wymagania dla kandydata na Głównego Księgowego jednostki sektora finansów publicznych?",
     "options": {
-      "a": "W części dotyczącej warunków bytowych",
-      "b": "W podsumowaniu i wnioskach końcowych",
-      "c": "W opisie kontaktów rówieśniczych",
-      "d": "W wykazie ocen szkolnych"
+      "a": "Konstytucja RP",
+      "b": "Ustawa o finansach publicznych (art. 54)",
+      "c": "Kodeks Cywilny",
+      "d": "Ustawa o rachunkowości"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 39,
-    "text": "Na postanowienie o zastosowaniu środka tymczasowego w postaci nadzoru kuratora (Art. 44 pkt 2) zażalenie przysługuje:",
+    "text": "Jaki staż pracy w księgowości musi posiadać osoba z wykształceniem średnim medycznym lub ekonomicznym, by być Głównym Księgowym?",
     "options": {
-      "a": "Wyłącznie nieletniemu",
-      "b": "Stronom postępowania",
-      "c": "Tylko rodzicom",
-      "d": "Postanowienie to jest niezaskarżalne do czasu wyroku"
+      "a": "3 lata",
+      "b": "6 lat",
+      "c": "10 lat",
+      "d": "Nie może być księgowym"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 40,
-    "text": "Zgodnie z modelem mieszanym, dominującym w polskiej ustawie, priorytetem jest:",
+    "text": "Czy Główny Księgowy może być karany za przestępstwo skarbowe?",
     "options": {
-      "a": "Resocjalizacja, ale z zachowaniem ścisłych gwarancji procesowych i uwzględnieniem czynu",
-      "b": "Wyłącznie prewencja ogólna i zastraszanie społeczeństwa",
-      "c": "Pełna swoboda sędziego w doborze kar bez patrzenia na ustawę",
-      "d": "Szybkie przekazanie każdego nieletniego do sądu karnego"
-    },
-    "correct_answers": ["a"]
-  },
-  {
-    "id": 41,
-    "text": "Zgodnie z Art. 60 ust. 2, utrwalanie wysłuchania za pomocą urządzenia rejestrującego obraz i dźwięk jest:",
-    "options": {
-      "a": "Zawsze obowiązkowe",
-      "b": "Zalecane 'w miarę możliwości'",
-      "c": "Zabronione ze względu na intymność nieletniego",
-      "d": "Wymagane tylko na pisemny wniosek prokuratora"
+      "a": "Tak, jeśli zapłacił grzywnę",
+      "b": "Nie, musi posiadać pełną niekaralność w tym zakresie",
+      "c": "Tak, jeśli przestępstwo było nieumyślne",
+      "d": "Tylko jeśli kara była wyższa niż rok więzienia"
     },
     "correct_answers": ["b"]
   },
   {
-    "id": 42,
-    "text": "Kto może wnieść skargę do sądu na czynności komornika w przypadku egzekucji kary pieniężnej nałożonej na rodziców?",
+    "id": 41,
+    "text": "Co oznacza zasada jedności formalnej budżetu?",
     "options": {
-      "a": "Nieletni",
-      "b": "Rodzice (jako dłużnicy)",
-      "c": "Kurator sądowy",
-      "d": "Dyrektor szkoły"
+      "a": "Wszystkie dochody i wydatki są w jednym dokumencie",
+      "b": "Wszystkie dochody przeznacza się na wszystkie wydatki",
+      "c": "Budżet jest uchwalany przez jedną izbę parlamentu",
+      "d": "Budżet dotyczy tylko jednej instytucji"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 42,
+    "text": "Co oznacza zasada jedności materialnej budżetu (zasada nieanonimowości)?",
+    "options": {
+      "a": "Wszystkie dochody są w jednym dokumencie",
+      "b": "Wszystkie dochody budżetowe stanowią ogólny fundusz przeznaczony na finansowanie wszystkich wydatków",
+      "c": "Każdy wydatek musi mieć przypisane imię urzędnika",
+      "d": "Budżet musi być jawny dla obywateli"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 43,
-    "text": "W jakim przypadku sąd rodzinny może odstąpić od doręczenia pokrzywdzonemu postanowienia o umorzeniu postępowania?",
+    "text": "Która instytucja obsługuje bankowo budżet państwa?",
     "options": {
-      "a": "Gdy pokrzywdzony nie brał udziału w ani jednej rozprawie",
-      "b": "Ustawa obliguje do doręczenia tego postanowienia pokrzywdzonemu ze względu na prawo do zażalenia",
-      "c": "Gdy nieletni naprawił szkodę w całości",
-      "d": "Tylko w sprawach o niskiej szkodliwości społecznej"
+      "a": "PKO BP",
+      "b": "Narodowy Bank Polski",
+      "c": "Bank Gospodarstwa Krajowego",
+      "d": "Europejski Bank Centralny"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 44,
-    "text": "Która zasada ogranicza sędziego rodzinnego w możliwości orzeczenia środka poprawczego 'z góry' bez próby stosowania środków wychowawczych?",
+    "text": "Która instytucja obsługuje budżet środków europejskich?",
     "options": {
-      "a": "Zasada kontradyktoryjności",
-      "b": "Zasada subsydiarności środków poprawczych (ultima ratio)",
-      "c": "Zasada jawności",
-      "d": "Zasada domniemania niewinności"
+      "a": "NBP",
+      "b": "Bank Gospodarstwa Krajowego (BGK)",
+      "c": "Ministerstwo Finansów bezpośrednio",
+      "d": "Bank Światowy"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 45,
-    "text": "Czy nieletni ma prawo do zapoznania się z treścią opinii OZSS (Art. 70)?",
+    "text": "Czym jest państwowy dług publiczny?",
     "options": {
-      "a": "Zawsze, bez ograniczeń",
-      "b": "Może zostać zapoznany, chyba że szczególne względy wychowawcze przemawiają przeciwko temu",
-      "c": "Nigdy, opinia jest tylko dla sędziego i stron dorosłych",
-      "d": "Tylko jeśli wyrazi na to zgodę biegły psycholog"
+      "a": "Wartością wszystkich wydatków państwa",
+      "b": "Wartością nominalną zadłużenia jednostek sektora finansów publicznych po eliminacji wzajemnych zobowiązań",
+      "c": "Suma deficytów z ostatnich 10 lat",
+      "d": "Kredytami zaciągniętymi tylko przez rząd"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 46,
-    "text": "Na postanowienie sądu okręgowego w przedmiocie przedłużenia pobytu w schronisku (jako sądu pierwszej instancji w określonych sprawach), zażalenie przysługuje do:",
+    "text": "Jaki jest pierwszy próg ostrożnościowy relacji długu publicznego do PKB w Polsce?",
     "options": {
-      "a": "Sądu Apelacyjnego",
-      "b": "Innego składu tego samego sądu (Sądu Okręgowego)",
-      "c": "Sądu Najwyższego",
-      "d": "Postanowienie to jest niezaskarżalne"
+      "a": "43%",
+      "b": "55%",
+      "c": "60%",
+      "d": "50%"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 47,
-    "text": "Zgodnie z Art. 108 pkt 10, nieletni przekazuje do depozytu przedmioty wartościowe. Kto odpowiada za ich bezpieczeństwo?",
+    "text": "Co się dzieje, gdy państwowy dług publiczny przekroczy 60% PKB?",
     "options": {
-      "a": "Rodzice nieletniego",
-      "b": "Dyrektor placówki (Skarb Państwa)",
-      "c": "Sędzia rodzinny",
-      "d": "Sam nieletni (na własne ryzyko)"
+      "a": "Rada Ministrów podaje się do dymisji",
+      "b": "Obowiązuje zakaz uchwalania budżetu z deficytem",
+      "c": "Polska musi opuścić UE",
+      "d": "Nic się nie dzieje, to tylko wskaźnik"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 48,
-    "text": "W jakim przypadku sędzia rodzinny może zarządzić przesłuchanie nieletniego w obecności pokrzywdzonego?",
+    "text": "Który organ jest uprawniony do emisji skarbowych papierów wartościowych?",
     "options": {
-      "a": "Zawsze, gdy pokrzywdzony tego zażąda",
-      "b": "Gdy uzna to za celowe i nie wpłynie to negatywnie na swobodę wypowiedzi nieletniego",
-      "c": "Nigdy, jest to ustawowy zakaz",
-      "d": "Tylko w sprawach o bójkę i pobicie"
+      "a": "Prezes NBP",
+      "b": "Minister Finansów",
+      "c": "Prezydent RP",
+      "d": "Giełda Papierów Wartościowych"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 49,
-    "text": "Termin na wniesienie zażalenia na postanowienie o wymierzeniu kary pieniężnej rodzicom biegnie od:",
+    "text": "Czym są bony skarbowe?",
     "options": {
-      "a": "Dnia ogłoszenia postanowienia",
-      "b": "Dnia doręczenia postanowienia z uzasadnieniem",
-      "c": "Dnia wpłacenia kary",
-      "d": "Dnia wystawienia tytułu wykonawczego"
+      "a": "Długoterminowymi papierami wartościowymi",
+      "b": "Krótkoterminowymi papierami wartościowymi o terminie wykupu do 52 tygodni",
+      "c": "Banknotami o wysokim nominale",
+      "d": "Rodzajem akcji Skarbu Państwa"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 50,
-    "text": "Zgodnie z Art. 3 ust. 1, interes społeczny jest uwzględniany przy wyborze środków, ale priorytetem jest:",
+    "text": "Jakie są główne rodzaje obligacji skarbowych ze względu na termin?",
     "options": {
-      "a": "Oszczędność środków publicznych",
-      "b": "Dobro nieletniego (zmiany w jego osobowości)",
-      "c": "Satysfakcja pokrzywdzonego",
-      "d": "Szybkość postępowania"
+      "a": "Jednodniowe i wieczyste",
+      "b": "Krótkoterminowe, średnioterminowe i długoterminowe",
+      "c": "Wyłącznie 10-letnie",
+      "d": "Tylko takie, które można wymienić na złoto"
     },
     "correct_answers": ["b"]
   },
+
   {
     "id": 51,
-    "text": "Który organ prowadzi centralny wykaz mediatorów uprawnionych do mediacji w sprawach nieletnich?",
+    "text": "Według jakich podziałek klasyfikuje się wydatki budżetu państwa zgodnie z art. 116 u.f.p.?",
     "options": {
-      "a": "Ministerstwo Sprawiedliwości",
-      "b": "Prezesi poszczególnych Sądów Okręgowych",
-      "c": "Policja w systemie KSIP",
-      "d": "Krajowa Rada Sądownictwa"
+      "a": "Wyłącznie według paragrafów",
+      "b": "Według części, działów i rozdziałów klasyfikacji budżetowej",
+      "c": "Według województw i powiatów",
+      "d": "Według imion i nazwisk dysponentów"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 52,
-    "text": "Czy nieletni, wobec którego orzeczono nadzór odpowiedzialny rodziców, może zostać dodatkowo zobowiązany do przeproszenia pokrzywdzonego?",
+    "text": "Dlaczego w budżecie państwa po stronie wydatków nie stosuje się w ustawie budżetowej podziału na paragrafy?",
     "options": {
-      "a": "Nie, nadzór rodziców wyklucza inne obowiązki",
-      "b": "Tak, środki wychowawcze można łączyć",
-      "c": "Tylko jeśli rodzice zapłacą grzywnę",
-      "d": "Tylko na wniosek mediatora"
+      "a": "Aby nie utrudniać realnego gospodarowania pieniędzmi przez dysponentów",
+      "b": "Bo paragrafy dotyczą tylko dochodów",
+      "c": "Z powodu braku miejsca w dokumencie ustawy",
+      "d": "Ponieważ zakazuje tego Konstytucja"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a"]
   },
   {
     "id": 53,
-    "text": "Zgodnie z Art. 109 pkt 2, nieletniemu nie wolno 'dokonywać ucieczek'. Jaka jest najczęstsza reakcja placówki na ucieczkę?",
+    "text": "Czym są rezerwy budżetowe zgodnie z notatkami?",
     "options": {
-      "a": "Zawiadomienie sądu rodzinnego i Policji (poszukiwania)",
-      "b": "Automatyczne wydalenie z placówki",
-      "c": "Wymierzenie kary chłosty",
-      "d": "Brak reakcji, jeśli ucieczka trwała krócej niż 24h"
-    },
-    "correct_answers": ["a"]
-  },
-  {
-    "id": 54,
-    "text": "W jakim trybie sąd rozpoznaje zażalenie na postanowienie o przekazaniu sprawy prokuratorowi?",
-    "options": {
-      "a": "W trybie jawnym z udziałem publiczności",
-      "b": "W trybie niezwłocznym na posiedzeniu przy drzwiach zamkniętych",
-      "c": "W trybie przewidzianym dla dorosłych oskarżonych",
-      "d": "Tylko po przesłuchaniu nieletniego przez prokuratora"
+      "a": "Zapasem gotówki w skarbcu Narodowego Banku Polskiego",
+      "b": "Niepodzielnymi kwotami na realizację wydatków nieprzewidzianych",
+      "c": "Pieniędzmi odłożonymi na spłatę długu zagranicznego",
+      "d": "Nadwyżką dochodów nad wydatkami z roku ubiegłego"
     },
     "correct_answers": ["b"]
   },
   {
-    "id": 55,
-    "text": "W przypadku zaskarżenia orzeczenia o zakładzie poprawczym, czy sąd drugiej instancji może orzec środek surowszy (zakaz reformationis in peius)?",
+    "id": 54,
+    "text": "Jaki jest limit wysokości rezerwy ogólnej w budżecie JST?",
     "options": {
-      "a": "Może, o ile środek wniósł prokurator na niekorzyść nieletniego",
-      "b": "Nigdy nie może orzec środka surowszego",
-      "c": "Może zawsze, bo dobro dziecka jest ważniejsze niż zasady procesowe",
-      "d": "Tylko jeśli rodzice wyrażą na to zgodę"
+      "a": "Nie niższa niż 0,1% i nie wyższa niż 1% wydatków budżetu",
+      "b": "Zawsze dokładnie 0,5% dochodów",
+      "c": "Maksymalnie 5% wydatków",
+      "d": "Nie ma ustawowych limitów dla samorządów"
     },
     "correct_answers": ["a"]
   },
   {
-    "id": 56,
-    "text": "Jakie są ustawowe przesłanki do przedłużenia okresu obserwacji w zakładzie leczniczym ponad 4 tygodnie?",
+    "id": 55,
+    "text": "Która rezerwa w projekcie ustawy budżetowej państwa jest obligatoryjna?",
     "options": {
-      "a": "Wniosek rodziców nieletniego",
-      "b": "Szczególnie uzasadniony przypadek i wniosek kierownika zakładu",
-      "c": "Brak postępów w leczeniu grypy",
-      "d": "Konieczność przeprowadzenia remontu w sądzie"
+      "a": "Rezerwa celowa",
+      "b": "Rezerwa ogólna",
+      "c": "Rezerwa na pomoc Ukrainie",
+      "d": "Rezerwa na odprawy emerytalne"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 56,
+    "text": "Na co mogą być przeznaczone rezerwy celowe w budżecie JST?",
+    "options": {
+      "a": "Na dowolny cel wskazany przez radnych w trakcie roku",
+      "b": "Na wydatki, których podziału nie można dokonać w momencie uchwalania budżetu",
+      "c": "Wyłącznie na nagrody dla pracowników urzędu",
+      "d": "Na spłatę kredytów zaciągniętych przez spółki gminne"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 57,
-    "text": "Zgodnie z Art. 115 par. 11 KK (stosowanym w ustawie), osobą najbliższą dla pokrzywdzonego nie jest:",
+    "text": "Jaki jest limit sumy rezerw celowych w budżecie państwa (poza wyjątkami)?",
     "options": {
-      "a": "Konkubent (osoba pozostająca we wspólnym pożyciu)",
-      "b": "Sąsiad mieszkający przez ścianę dłużej niż 10 lat",
-      "c": "Rodzeństwo",
-      "d": "Przysposobiony"
+      "a": "0,2% wydatków",
+      "b": "5% wydatków",
+      "c": "10% dochodów",
+      "d": "Nie ma limitu dla rezerw celowych"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 58,
-    "text": "W jakim terminie sąd musi zawiadomić pokrzywdzonego o terminie rozprawy, aby uznać zawiadomienie za prawidłowe?",
+    "text": "Na czym polega zasada 'niefunduszowania' (art. 42 u.f.p.)?",
     "options": {
-      "a": "Zastosowanie mają przepisy KPC (odpowiedni czas na przygotowanie)",
-      "b": "Co najmniej 24 godziny przed",
-      "c": "W dniu rozprawy telefonicznie",
-      "d": "Ustawa nie określa sztywnego terminu dla pokrzywdzonego"
+      "a": "Środki z poszczególnych tytułów nie mogą być przeznaczane na imiennie wymienione wydatki",
+      "b": "Zakaz zaciągania pożyczek przez jednostki budżetowe",
+      "c": "Obowiązek wydawania wszystkich pieniędzy do końca roku",
+      "d": "Zakaz przyjmowania darowizn przez gminy"
     },
     "correct_answers": ["a"]
   },
   {
     "id": 59,
-    "text": "Czy nieletni przebywający w schronisku może brać udział w posiedzeniu zażaleniowym dotyczącym jego pobytu?",
+    "text": "Czy można tworzyć fundacje ze środków publicznych na podstawie ustawy o fundacjach?",
     "options": {
-      "a": "Ma prawo zostać doprowadzony na posiedzenie",
-      "b": "Nie, bierze udział tylko jego obrońca",
-      "c": "Tylko jeśli wyrazi na to zgodę dyrektor schroniska",
-      "d": "Tylko za pośrednictwem wideokonferencji"
+      "a": "Tak, o ile cel jest charytatywny",
+      "b": "Tak, za zgodą Ministra Finansów",
+      "c": "Nie, ze środków publicznych nie można tworzyć fundacji",
+      "d": "Tylko gminy mają takie uprawnienie"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["c"]
   },
   {
     "id": 60,
-    "text": "Kto ponosi odpowiedzialność za szkodę wyrządzoną przez nieletniego w trakcie jego pobytu w placówce resocjalizacyjnej?",
+    "text": "Co oznacza zasada 'jawności gospodarowania środkami publicznymi'?",
     "options": {
-      "a": "Rodzice (odpowiedzialność cywilna)",
-      "b": "Placówka (Skarb Państwa - brak należytego nadzoru)",
-      "c": "Sam nieletni (wyłącznie z własnego kieszonkowego)",
-      "d": "Ubezpieczyciel szkoły, do której nieletni chodził wcześniej"
+      "a": "Każdy obywatel ma prawo do otrzymania gotówki z budżetu",
+      "b": "Gospodarka środkami publicznymi jest jawna, z wyjątkami dotyczącymi informacji niejawnych",
+      "c": "Wszystkie wydatki państwa muszą być publikowane w prasie codziennej",
+      "d": "Zakaz utajniania jakichkolwiek wydatków, nawet na wywiad"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 61,
-    "text": "Zgodnie z Art. 6, nadzór organizacji społecznej nad nieletnim trwa zazwyczaj do:",
+    "text": "W jaki sposób realizowana jest jawność finansów publicznych według art. 34 u.f.p.?",
     "options": {
-      "a": "Ukończenia przez nieletniego 18 lat",
-      "b": "Ukończenia przez nieletniego 21 lat (chyba że sąd go uchyli)",
-      "c": "Śmierci rodziców",
-      "d": "Wybicia godziny 22:00 każdego dnia"
+      "a": "Przez jawność debat budżetowych w Sejmie i radach JST",
+      "b": "Przez wysyłanie budżetu każdemu mieszkańcowi pocztą",
+      "c": "Przez wywieszanie faktur na tablicy ogłoszeń urzędu",
+      "d": "Przez obowiązkowe transmisje radiowe z każdego zakupu"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 62,
+    "text": "Kto jest odpowiedzialny za wprowadzenie danych do rejestru umów (art. 34a u.f.p.)?",
+    "options": {
+      "a": "Minister Finansów",
+      "b": "Kierownicy jednostek sektora finansów publicznych",
+      "c": "Główny Księgowy jednostki",
+      "d": "Wojewoda"
     },
     "correct_answers": ["b"]
   },
   {
-    "id": 62,
-    "text": "W jakim przypadku sąd rodzinny może odmówić wszczęcia postępowania mimo dowodów na czyn karalny (Art. 52)?",
-    "options": {
-      "a": "Gdy uzna, że wszczęcie byłoby niecelowe ze względu na orzeczone już wcześniej środki",
-      "b": "Gdy pokrzywdzony jest osobą zamożną",
-      "c": "Gdy sędzia udaje się na urlop",
-      "d": "Tylko w przypadku zgonu nieletniego"
-    },
-    "correct_answers": ["a"]
-  },
-  {
     "id": 63,
-    "text": "Co oznacza zasada 'bezpośredniości' przy przeprowadzaniu dowodu z opinii OZSS?",
+    "text": "Jaka kara grozi za podanie nieprawdziwych danych w rejestrze umów zgodnie z art. 34b u.f.p.?",
     "options": {
-      "a": "Biegli muszą osobiście zbadać nieletniego",
-      "b": "Sędzia musi osobiście napisać opinię",
-      "c": "Pokrzywdzony musi być obecny przy badaniu",
-      "d": "Opinia musi zostać wysłana kurierem"
+      "a": "Wyłącznie upomnienie",
+      "b": "Grzywna, kara ograniczenia wolności albo pozbawienia wolności do lat 2",
+      "c": "Dyscyplinarne zwolnienie z pracy bez prawa do odwołania",
+      "d": "Kara pieniężna w wysokości 100 000 zł"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["b"]
   },
   {
     "id": 64,
-    "text": "Zgodnie z Art. 108 pkt 16, nieletni ma obowiązek wykonywania prac porządkowych. Jaki jest dopuszczalny wymiar tych prac?",
+    "text": "Kto ogłasza w Monitorze Polskim kwotę i relację państwowego długu publicznego do PKB?",
     "options": {
-      "a": "8 godzin dziennie",
-      "b": "Dostosowany do wieku, stanu zdrowia i nieutrudniający nauki",
-      "c": "Tylko 15 minut rano",
-      "d": "Tylko w dni ustawowo wolne od pracy"
+      "a": "Prezes GUS",
+      "b": "Minister Finansów",
+      "c": "Prezes NIK",
+      "d": "Prezes NBP"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 65,
-    "text": "Na postanowienie sądu pierwszej instancji o skierowaniu nieletniego na leczenie odwykowe (środek leczniczy), zażalenie przysługuje:",
+    "text": "Do jakiego dnia Minister Finansów musi ogłosić dane o zadłużeniu państwa za rok poprzedni?",
     "options": {
-      "a": "Tylko lekarzowi prowadzącemu",
-      "b": "Stronom (nieletniemu, rodzicom, prokuratorowi)",
-      "c": "Wyłącznie prokuratorowi",
-      "d": "Postanowienie to jest natychmiast wykonalne i niezaskarżalne"
+      "a": "Do 31 marca",
+      "b": "Do 31 maja",
+      "c": "Do 30 czerwca",
+      "d": "Do końca roku"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 66,
-    "text": "Czy pokrzywdzony ma prawo do otrzymania odpisu sprawozdania z wywiadu środowiskowego?",
+    "text": "W jakim terminie Zarząd JST podaje do publicznej wiadomości informację o wykonaniu budżetu za kwartał?",
     "options": {
-      "a": "Tak, bez ograniczeń",
-      "b": "Nie, dane z wywiadu podlegają ochronie prywatności nieletniego (tylko wgląd za zgodą sądu)",
-      "c": "Tylko jeśli zapłaci opłatę kancelaryjną",
-      "d": "Zawsze, ale tylko w części dotyczącej zarobków rodziców"
+      "a": "W ciągu 7 dni",
+      "b": "Do końca miesiąca następującego po zakończeniu kwartału",
+      "c": "Raz w roku, po zatwierdzeniu sprawozdania",
+      "d": "Termin ten określa statut gminy"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 67,
-    "text": "W jakiej sytuacji 'nadzór kuratora' może zostać zmieniony na 'ośrodek kuratorski' w fazie wykonawczej?",
+    "text": "Co oznacza, że wydatki ujęte w budżecie stanowią 'nieprzekraczalny limit'?",
     "options": {
-      "a": "Gdy nadzór kuratora jest nieskuteczny, a stopień demoralizacji wzrasta",
-      "b": "Automatycznie po 3 miesiącach",
-      "c": "Tylko na prośbę nieletniego",
-      "d": "Gdy kurator zawodowy idzie na emeryturę"
+      "a": "Można je przekroczyć o 5% bez konsekwencji",
+      "b": "Przekroczenie tej kwoty powoduje odpowiedzialność karną i dyscyplinarną",
+      "c": "Limit dotyczy tylko inwestycji, nie wynagrodzeń",
+      "d": "Limit jest tylko wskazówką dla księgowego"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["b"]
   },
   {
     "id": 68,
-    "text": "Zgodnie z Art. 44 pkt 8, 'umieszczenie w schronisku dla nieletnich' jest środkiem:",
+    "text": "Kto ponosi odpowiedzialność za całość gospodarki finansowej jednostki sektora finansów publicznych?",
     "options": {
-      "a": "Wychowawczym",
-      "b": "Tymczasowym",
-      "c": "Poprawczym",
-      "d": "Leczniczym"
+      "a": "Główny Księgowy",
+      "b": "Kierownik jednostki",
+      "c": "Minister Finansów",
+      "d": "Pracownik merytoryczny dokonujący zakupu"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 69,
-    "text": "Kto przewodniczy składowi sądu rozpoznającemu apelację od wyroku sądu rodzinnego?",
+    "text": "W jaki sposób kierownik jednostki może powierzyć pracownikowi obowiązki w zakresie gospodarki finansowej?",
     "options": {
-      "a": "Sędzia Sądu Okręgowego",
-      "b": "Sędzia Sądu Rejonowego z najdłuższym stażem",
-      "c": "Ławnik",
-      "d": "Prezes Sądu Apelacyjnego"
-    },
-    "correct_answers": ["a"]
-  },
-  {
-    "id": 70,
-    "text": "Czy nieletni może zostać przesłuchany przez Policję w szkole bez obecności rodzica (Art. 60)?",
-    "options": {
-      "a": "Tak, jeśli obecny jest dyrektor lub nauczyciel",
-      "b": "Kategorycznie nie (musi być rodzic/opiekun/obrońca)",
-      "c": "Tylko jeśli Policja ma nakaz od prokuratora",
-      "d": "Tylko w sprawach o wagary"
+      "a": "Ustnie przy świadkach",
+      "b": "W formie odrębnego imiennego upoważnienia lub w regulaminie organizacyjnym",
+      "c": "Wyłącznie poprzez wpis do dowodu osobistego",
+      "d": "Poprzez e-mail wysłany do wszystkich pracowników"
     },
     "correct_answers": ["b"]
   },
   {
-    "id": 71,
-    "text": "Jaki charakter ma ugoda mediacyjna zawarta bez udziału pokrzywdzonego (np. tylko między nieletnim a jego rodzicami)?",
+    "id": 70,
+    "text": "Co jest dowodem dokonania wstępnej kontroli przez Głównego Księgowego?",
     "options": {
-      "a": "Nie jest to ugoda mediacyjna w rozumieniu ustawy",
-      "b": "Jest w pełni skuteczna",
-      "c": "Wymaga podpisu kuratora",
-      "d": "Zastępuje wyrok sądu"
+      "a": "Jego podpis złożony na dokumentach danej operacji",
+      "b": "Pieczątka jednostki",
+      "c": "Zatwierdzenie w systemie przez informatyka",
+      "d": "Pisemny raport przesyłany co tydzień do burmistrza"
     },
     "correct_answers": ["a"]
   },
   {
-    "id": 72,
-    "text": "W przypadku zbiegu demoralizacji i czynu karalnego, sąd prowadzi:",
+    "id": 71,
+    "text": "Co musi zrobić Główny Księgowy, jeśli ujawni nieprawidłowości w dokumentach operacji finansowej?",
     "options": {
-      "a": "Dwa osobne postępowania",
-      "b": "Jedno łączne postępowanie (zasada koncentracji)",
-      "c": "Tylko sprawę o czyn karalny",
-      "d": "Tylko sprawę o demoralizację"
+      "a": "Samodzielnie poprawić dokumenty",
+      "b": "Zwrócić dokument właściwemu pracownikowi i odmówić podpisania w razie nieusunięcia błędu",
+      "c": "Zignorować to, jeśli kwota jest mniejsza niż 100 zł",
+      "d": "Zawiadomić od razu prokuraturę"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 72,
+    "text": "Jakie uprawnienie ma kierownik jednostki, gdy Główny Księgowy odmówi podpisania dokumentu?",
+    "options": {
+      "a": "Musi natychmiast zwolnić księgowego",
+      "b": "Może wydać w formie pisemnej polecenie realizacji operacji",
+      "c": "Nie może nic zrobić, odmowa księgowego jest ostateczna",
+      "d": "Musi poprosić o zgodę Radę Gminy"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 73,
-    "text": "Zgodnie z Art. 108 pkt 5, nieletni musi odnosić się z poszanowaniem godności do innych. Naruszenie tego obowiązku w placówce grozi:",
+    "text": "Kogo zawiadamia wójt/burmistrz w przypadku wydania pisemnego polecenia realizacji zakwestionowanej przez skarbnika operacji?",
     "options": {
-      "a": "Karą dyscyplinarną przewidzianą w regulaminie",
-      "b": "Natychmiastowym procesem karnym",
-      "c": "Wyrzuceniem z placówki na ulicę",
-      "d": "Brak reakcji, bo to tylko norma etyczna"
+      "a": "Wyłącznie Głównego Księgowego",
+      "b": "Organ stanowiący JST oraz właściwą Regionalną Izbę Obrachunkową",
+      "c": "Ministra Finansów",
+      "d": "Najbliższą jednostkę Policji"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["b"]
   },
   {
     "id": 74,
-    "text": "W jakim przypadku sąd rodzinny może orzec 'przepadek przedmiotów' (Art. 7 pkt 8)?",
+    "text": "Kiedy można umorzyć należność cywilnoprawną przypadającą organowi administracji rządowej z urzędu?",
     "options": {
-      "a": "Tylko przy czynie karalnym (przedmioty pochodzące z czynu lub służące do niego)",
-      "b": "W każdej sprawie o demoralizację",
-      "c": "Tylko jeśli rodzice nieletniego mają długi",
-      "d": "Tylko wobec telefonów komórkowych"
+      "a": "Gdy dłużnik jest miłą osobą",
+      "b": "Gdy osoba fizyczna zmarła, nie pozostawiając żadnego majątku",
+      "c": "Gdy dłużnik ma dużo innych kredytów",
+      "d": "Zawsze, gdy wartość nie przekracza 10 000 zł"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["b"]
   },
   {
     "id": 75,
-    "text": "Na postanowienie o odmowie wszczęcia postępowania zażalenie wnosi się do:",
+    "text": "Jaka jest kwota graniczna wartości przedmiotów użytku domowego, poniżej której można umorzyć dług zmarłej osoby fizycznej?",
     "options": {
-      "a": "Sądu Okręgowego",
-      "b": "Komendanta Policji",
-      "c": "Rzecznika Praw Obywatelskich",
-      "d": "Sądu Najwyższego"
+      "a": "1 000 zł",
+      "b": "6 000 zł",
+      "c": "500 zł",
+      "d": "10 000 zł"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["b"]
   },
   {
     "id": 76,
-    "text": "W terminologii ustawy, 'readaptacja społeczna' to:",
+    "text": "Do jakiej kwoty należności głównej kierownik państwowej jednostki budżetowej może samodzielnie umarzać długi?",
     "options": {
-      "a": "Wyjazd nieletniego do innego miasta",
-      "b": "Pomoc w powrocie do normalnego życia po odbyciu środka",
-      "c": "Przymusowa praca w bibliotece",
-      "d": "Zmiana nazwiska nieletniego"
+      "a": "Do 10 000 zł",
+      "b": "Do 40 000 zł",
+      "c": "Do 5 000 zł",
+      "d": "Nie ma ograniczenia kwotowego"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 77,
-    "text": "Zasada 'autonomii rodziny' oznacza m.in., że państwo ingeruje w wychowanie:",
+    "text": "Czy jednostka sektora finansów publicznych może zawrzeć ugodę w sprawie spornej należności cywilnoprawnej?",
     "options": {
-      "a": "Zawsze, gdy ma na to ochotę",
-      "b": "Dopiero gdy rodzice są niewydolni lub zagrożone jest dobro dziecka",
-      "c": "Nigdy, rodzice mają władzę absolutną",
-      "d": "Tylko w dni robocze"
+      "a": "Nie, to byłaby niegospodarność",
+      "b": "Tak, jeśli skutki ugody są korzystniejsze niż wynik postępowania sądowego",
+      "c": "Tylko za zgodą sądu najwyższego",
+      "d": "Tylko w sprawach karnych"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 78,
-    "text": "Czy nieletni przebywający w schronisku ma prawo do bezpłatnego leczenia?",
+    "text": "Do jakiej kwoty dysponent części budżetowej może wyrazić zgodę na niedochodzenie należności (tzw. kwota bagatelna)?",
     "options": {
-      "a": "Nie, rodzice muszą płacić za każdą wizytę",
-      "b": "Tak (opieka zdrowotna zapewniona przez placówkę)",
-      "c": "Tylko w przypadku złamania nogi",
-      "d": "Tylko jeśli ma ubezpieczenie w szkole"
+      "a": "500 zł",
+      "b": "100 zł",
+      "c": "50 zł",
+      "d": "1 000 zł"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 79,
-    "text": "Kto sporządza protokół z posiedzenia sądu rodzinnego?",
+    "text": "Co stanowi nadwyżkę sektora finansów publicznych?",
     "options": {
-      "a": "Sędzia osobiście",
-      "b": "Protokolant sądowy",
-      "c": "Kurator",
-      "d": "Nieletni w ramach nauki pisania"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 80,
-    "text": "Zgodnie z Art. 109 pkt 5, zakaz 'uszkodzeń ciała' dotyczy m.in. skaryfikacji. Jest to zakaz:",
-    "options": {
-      "a": "Bezwzględny w placówkach",
-      "b": "Dopuszczalny za zgodą pielęgniarki",
-      "c": "Dotyczący tylko dziewcząt",
-      "d": "Niestosowany w praktyce"
+      "a": "Dodatnia różnica między dochodami a wydatkami publicznymi",
+      "b": "Suma wszystkich podatków zebranych w roku",
+      "c": "Różnica między przychodami a rozchodami",
+      "d": "Pieniądze pozostałe po spłacie długu zagranicznego"
     },
     "correct_answers": ["a"]
   },
   {
-    "id": 81,
-    "text": "W jakim przypadku sąd rodzinny może nakazać nieletniemu powstrzymanie się od używania substancji psychoaktywnych (Art. 7 pkt 2)?",
+    "id": 80,
+    "text": "Jakie zadania JST mogą być wykonywane przez samorządowe zakłady budżetowe zgodnie z art. 14 u.f.p.?",
     "options": {
-      "a": "Tylko po zrobieniu testów narkotykowych",
-      "b": "W ramach zobowiązania do określonego postępowania",
-      "c": "Nigdy, to tylko zalecenie",
-      "d": "Tylko w wieku 17 lat"
+      "a": "Wydawanie paszportów",
+      "b": "Wodociągi, kanalizacja, transport zbiorowy, cmentarze",
+      "c": "Pobór podatku dochodowego",
+      "d": "Utrzymanie wojska i policji"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 81,
+    "text": "Co dzieje się z nadwyżką środków obrotowych samorządowego zakładu budżetowego na koniec okresu?",
+    "options": {
+      "a": "Zostaje w zakładzie na nagrody",
+      "b": "Podlega wpłacie do budżetu JST",
+      "c": "Jest przekazywana do budżetu państwa",
+      "d": "Jest spalana komisyjnie"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 82,
-    "text": "Czy apelacja może zostać wniesiona przez osobę, pod której pieczą nieletni faktycznie pozostaje (a nie jest rodzicem)?",
+    "text": "Z jaką chwilą agencja wykonawcza uzyskuje osobowość prawną?",
     "options": {
-      "a": "Nie, tylko rodzice biologiczni",
-      "b": "Tak, ma ona uprawnienia strony (Art. 35 ust. 2)",
-      "c": "Tylko za zgodą prokuratora",
-      "d": "Tylko w sprawach o alimenty"
+      "a": "Z dniem wpisu do KRS",
+      "b": "Z dniem wejścia w życie ustawy o jej utworzeniu",
+      "c": "Z chwilą powołania Prezesa Agencji",
+      "d": "Z chwilą uchwalenia budżetu państwa"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 83,
-    "text": "Prawomocne orzeczenie o umieszczeniu w młodzieżowym ośrodku wychowawczym (MOW) wykonuje:",
+    "text": "W jakim terminie agencja wykonawcza wpłaca nadwyżkę środków finansowych do budżetu państwa?",
     "options": {
-      "a": "Sąd rodzinny (poprzez system kierowania do placówek)",
-      "b": "Policja (poprzez doprowadzenie siłowe zawsze)",
-      "c": "Szkoła podstawowa nieletniego",
-      "d": "Urząd Miasta"
+      "a": "Do końca roku",
+      "b": "Nie później niż do 30 czerwca roku następnego",
+      "c": "W ciągu 7 dni od ustalenia zysku",
+      "d": "Raz na 5 lat"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["b"]
   },
   {
     "id": 84,
-    "text": "Zgodnie z Art. 88, środki wychowawcze mają na celu m.in. uwzględnienie doświadczeń:",
+    "text": "Kto może tworzyć instytucje gospodarki budżetowej (IGB)?",
     "options": {
-      "a": "Wojskowych",
-      "b": "Pedagogicznych",
-      "c": "Handlowych",
-      "d": "Religijnych"
+      "a": "Każdy wójt i burmistrz",
+      "b": "Minister lub Szef Kancelarii Prezesa RM, za zgodą Rady Ministrów",
+      "c": "Wyłącznie Marszałek Sejmu",
+      "d": "Dyrektor szkoły publicznej"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 85,
-    "text": "Czy nieletni w placówce może zostać ukarany zakazem oglądania TV za złe zachowanie?",
+    "text": "Czy koszty instytucji gospodarki budżetowej mogą przekraczać jej przychody?",
     "options": {
-      "a": "Tak, to standardowa kara regulaminowa",
-      "b": "Nie, to narusza jego prawo do informacji",
-      "c": "Tylko za zgodą sędziego",
-      "d": "Tylko jeśli TV jest jego własnością"
+      "a": "Tak, bo państwo zawsze dopłaca",
+      "b": "Mogą być ponoszone tylko w ramach przychodów (z uwzględnieniem środków z poprzednich lat)",
+      "c": "Mogą przekroczyć o 50%",
+      "d": "Nie, IGB musi zawsze wykazywać zysk"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["b"]
   },
   {
     "id": 86,
-    "text": "Kto rozstrzyga spór o właściwość między dwoma sądami rodzinnymi?",
+    "text": "Kto zarządza państwowym funduszem celowym?",
     "options": {
-      "a": "Minister Sprawiedliwości",
-      "b": "Sąd nadrzędny nad nimi (np. Sąd Okręgowy lub Apelacyjny)",
-      "c": "Sąd Najwyższy zawsze",
-      "d": "Sądy muszą dogadać się same"
+      "a": "Dyrektor agencji płatniczej",
+      "b": "Minister wskazany w ustawie tworzącej fundusz lub inny wskazany organ",
+      "c": "Niezależna rada fundacji",
+      "d": "Prezes Narodowego Banku Polskiego"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 87,
-    "text": "W fazie wykonawczej 'zmiana środka' na surowszy wymaga:",
+    "text": "W jakim przypadku Państwowy Fundusz Celowy może udzielać pożyczek jednostkom samorządu terytorialnego?",
     "options": {
-      "a": "Wysłuchania nieletniego i rodziców",
-      "b": "Jedynie notatki kuratora",
-      "c": "Zgody Policji",
-      "d": "Wniosku pokrzywdzonego"
+      "a": "Zawsze, gdy ma wolne środki",
+      "b": "Jeżeli ustawa tworząca fundusz tak stanowi",
+      "c": "Tylko w czasie wojny",
+      "d": "Nigdy nie może udzielać pożyczek"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["b"]
   },
   {
     "id": 88,
-    "text": "Czy nieletni w placówce może posiadać własne ubrania?",
+    "text": "Które z wymienionych jednostek należą do sektora finansów publicznych według art. 9 u.f.p.?",
     "options": {
-      "a": "Nie, musi nosić mundur",
-      "b": "Tak, na zasadach określonych w regulaminie placówki",
-      "c": "Tylko w niedziele",
-      "d": "Tylko jeśli sam je uszyje"
+      "a": "Prywatne teatry i kina",
+      "b": "Uczelnie publiczne i Polska Akademia Nauk",
+      "c": "Spółki z ograniczoną odpowiedzialnością gminy",
+      "d": "Banki komercyjne"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 89,
+    "text": "Czy spółki prawa handlowego należą do sektora finansów publicznych?",
+    "options": {
+      "a": "Tak, jeśli 100% udziałów ma Skarb Państwa",
+      "b": "Nie, zostały wyraźnie wyłączone w art. 9 u.f.p.",
+      "c": "Tak, jeśli realizują zadania publiczne",
+      "d": "Tylko te, które nie przynoszą zysku"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 90,
-    "text": "Zasada 'prawdy materialnej' w postępowaniu z nieletnimi oznacza, że sąd dąży do:",
+    "text": "Czym jest 'statio fisci' w kontekście jednostek budżetowych?",
     "options": {
-      "a": "Ustalenia rzeczywistego przebiegu zdarzeń i sytuacji nieletniego",
-      "b": "Zakończenia sprawy w 15 minut",
-      "c": "Przyznania racji silniejszej stronie",
-      "d": "Ukrycia błędów Policji"
+      "a": "Nazwą łacińską Skarbu Państwa",
+      "b": "Postacią organizacyjną majątku Skarbu Państwa pozostającego w zarządzie jednostki",
+      "c": "Specjalnym podatkiem od nieruchomości",
+      "d": "Rodzajem obligacji zagranicznej"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["b"]
   },
   {
     "id": 91,
-    "text": "Czy sąd rodzinny może orzec środek wychowawczy wobec osoby, która ukończyła 18 lat, za czyn popełniony wcześniej?",
+    "text": "Kto nadaje statut jednostce budżetowej?",
     "options": {
-      "a": "Nie, traci właściwość",
-      "b": "Tak, o ile orzeczenie zapadnie przed ukończeniem 21 lat",
-      "c": "Tylko za zgodą prokuratora",
-      "d": "Tylko w przypadku morderstwa"
+      "a": "Główny Księgowy",
+      "b": "Właściwy minister lub organ stanowiący JST",
+      "c": "Pracownicy w głosowaniu",
+      "d": "Sąd rejestrowy"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 92,
-    "text": "Zgodnie z Art. 38, wyznaczenie obrońcy z urzędu nakłada na niego obowiązek działania do:",
+    "text": "Co oznacza zasada celowości i oszczędności przy dokonywaniu wydatków (art. 44 u.f.p.)?",
     "options": {
-      "a": "Końca rozprawy",
-      "b": "Prawomocnego zakończenia postępowania (w tym wykonawczego)",
-      "c": "Wysłania pierwszej apelacji",
-      "d": "Wypłacenia mu honorarium"
+      "a": "Należy wydawać jak najwięcej, by budżet nie został obcięty",
+      "b": "Należy uzyskiwać najlepsze efekty z danych nakładów i optymalnie dobierać metody",
+      "c": "Zakaz dokonywania zakupów zagranicznych",
+      "d": "Obowiązek kupowania wyłącznie najtańszych produktów, niezależnie od jakości"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 93,
-    "text": "W przypadku ucieczki nieletniego ze schroniska, czas ucieczki:",
+    "text": "Do jakiej wysokości jednostki sektora finansów publicznych mogą zaciągać zobowiązania?",
     "options": {
-      "a": "Wlicza się do okresu pobytu",
-      "b": "Nie wlicza się do okresu pobytu (ulega on przedłużeniu)",
-      "c": "Powoduje skrócenie kary",
-      "d": "Jest obojętny dla terminów"
+      "a": "Bez ograniczeń, państwo spłaci",
+      "b": "Do wysokości wynikającej z planu wydatków, pomniejszonej o wydatki sztywne",
+      "c": "Maksymalnie do 10% dochodów z roku ubiegłego",
+      "d": "Do wysokości posiadanej gotówki w kasie"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 94,
-    "text": "Kto może wnieść zażalenie na czynność kuratora wykonującego nadzór?",
+    "text": "Gdzie jednostki sektora finansów publicznych (rządowe) mają obowiązek lokować wolne środki?",
     "options": {
-      "a": "Nieletni i jego rodzice",
-      "b": "Tylko prokurator",
-      "c": "Nikt, kurator jest niezależny",
-      "d": "Tylko sędzia wizytator"
+      "a": "Na giełdzie papierów wartościowych",
+      "b": "W formie depozytu u Ministra Finansów",
+      "c": "W kryptowalutach",
+      "d": "W bankach zagranicznych"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["b"]
   },
   {
     "id": 95,
-    "text": "Czy nieletni w placówce może korzystać z Internetu?",
+    "text": "Kto sprawuje nadzór nad państwowymi i samorządowymi osobami prawnymi?",
     "options": {
-      "a": "Nie, to całkowity zakaz",
-      "b": "Tak, pod nadzorem i w celach edukacyjnych/kontaktowych",
-      "c": "Tylko do grania w gry",
-      "d": "Zawsze bez żadnych ograniczeń"
+      "a": "Zawsze tylko Premier",
+      "b": "Organ wskazany w ustawie o ich utworzeniu",
+      "c": "Wyłącznie Najwyższa Izba Kontroli",
+      "d": "Sąd Administracyjny"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 96,
-    "text": "Co oznacza skrót OZSS w postępowaniu z nieletnimi?",
+    "text": "Czym jest 'nieprawidłowość' w kontekście wydatkowania środków UE?",
     "options": {
-      "a": "Okręgowy Zespół Sędziów Specjalistów",
-      "b": "Opiniodawczy Zespół Sądowych Specjalistów",
-      "c": "Ośrodek Zapobiegania Skutkom Socjalizacji",
-      "d": "Organ Zasobów Służb Społecznych"
+      "a": "Każdym błędem ortograficznym we wniosku",
+      "b": "Naruszeniem prawa, które ma lub może mieć szkodliwy wpływ na budżet Unii",
+      "c": "Wydaniem pieniędzy po terminie, nawet jeśli cel osiągnięto",
+      "d": "Zmianą koloru elewacji budynku budowanego z dotacji"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 97,
-    "text": "Przesłuchanie nieletniego 'w trybie art. 185a KPK' (tzw. niebieski pokój) stosuje się, gdy:",
+    "text": "W jakim terminie po doręczeniu decyzji o zwrocie środków unijnych beneficjent musi oddać pieniądze?",
     "options": {
-      "a": "Nieletni jest pokrzywdzonym w sprawach o przemoc/seks",
-      "b": "Nieletni ukradł rower",
-      "c": "Nieletni chce mieć niebieskie ściany",
-      "d": "Zawsze, gdy sędzia ma na to ochotę"
+      "a": "W ciągu 30 dni",
+      "b": "W ciągu 14 dni",
+      "c": "Do końca roku budżetowego",
+      "d": "W ciągu 3 dni roboczych"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["b"]
   },
   {
     "id": 98,
-    "text": "Zasada 'wychowania przez pracę' w placówkach resocjalizacyjnych ma na celu:",
+    "text": "Co grozi beneficjentowi za wydatkowanie dotacji unijnej niezgodnie z przeznaczeniem?",
     "options": {
-      "a": "Zastąpienie personelu sprzątającego",
-      "b": "Naukę obowiązkowości i szacunku do pracy",
-      "c": "Wyzysk nieletnich",
-      "d": "Zmniejszenie kosztów funkcjonowania państwa"
+      "a": "Jedynie upomnienie pisemne",
+      "b": "Zwrot środków wraz z odsetkami jak dla zaległości podatkowych",
+      "c": "Dożywotni zakaz prowadzenia działalności gospodarczej",
+      "d": "Obowiązek wpłacenia darowizny na rzecz UE"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 99,
-    "text": "Czy nieletni może zostać ukarany naganą w placówce?",
+    "text": "Który organ jest drugą instancją w sprawach o naruszenie dyscypliny finansów publicznych?",
     "options": {
-      "a": "Tak, to jedna z kar regulaminowych",
-      "b": "Nie, nagana jest tylko dla dorosłych pracowników",
-      "c": "Tylko jeśli rodzice się zgodzą",
-      "d": "Tylko w formie pisemnej z podpisem sędziego"
+      "a": "Regionalna Izba Obrachunkowa",
+      "b": "Główna Komisja Orzekająca",
+      "c": "Sąd Najwyższy",
+      "d": "Minister Sprawiedliwości"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 100,
+    "text": "Ile trwa kadencja komisji orzekających w sprawach o naruszenie dyscypliny?",
+    "options": {
+      "a": "2 lata",
+      "b": "4 lata",
+      "c": "5 lat",
+      "d": "Jest nieokreślona"
+    },
+    "correct_answers": ["b"]
+  },
+
+  {
+    "id": 101,
+    "text": "Jak w ujęciu funkcjonalnym (ekonomicznym) definiuje się budżet?",
+    "options": {
+      "a": "Jako akt prawny w formie ustawy",
+      "b": "Jako roczny plan finansowy dochodów i wydatków oraz przychodów i rozchodów",
+      "c": "Jako zestawienie wszystkich kont bankowych państwa",
+      "d": "Jako prognozę inflacji na dany rok"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 102,
+    "text": "Co oznacza, że ustawa budżetowa ma charakter szczególny?",
+    "options": {
+      "a": "Obowiązuje przez 10 lat",
+      "b": "Wiąże tylko dysponentów – podmioty, których kompetencje określa",
+      "c": "Jest ważniejsza od Konstytucji",
+      "d": "Nie może być nowelizowana w trakcie roku"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 103,
+    "text": "Czym jest układ zadaniowy według definicji legalnej z art. 2 u.f.p.?",
+    "options": {
+      "a": "Listą płac pracowników urzędu",
+      "b": "Zestawieniem wydatków sporządzonym według funkcji państwa, zadań i podzadań wraz z miernikami",
+      "c": "Podziałem budżetu na województwa",
+      "d": "Harmonogramem spłaty długu publicznego"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 104,
+    "text": "Co służy do opisu stopnia realizacji celów w budżecie zadaniowym?",
+    "options": {
+      "a": "Wyłącznie kwoty pieniężne",
+      "b": "Bazowe i docelowe mierniki (wartościowe, ilościowe lub opisowe)",
+      "c": "Opinie biegłych rewidentów",
+      "d": "Liczba zatrudnionych urzędników"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 105,
+    "text": "Która jednostka sektora finansów publicznych jest obsługiwana przez Narodowy Bank Polski?",
+    "options": {
+      "a": "Budżet środków europejskich",
+      "b": "Budżet państwa w zakresie należności podatkowych i niepodatkowych",
+      "c": "Budżet każdej gminy w Polsce",
+      "d": "Wyłącznie Zakład Ubezpieczeń Społecznych"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 106,
+    "text": "Dlaczego NBP nie prowadzi spraw indywidualnych klientów w kontekście obsługi budżetu?",
+    "options": {
+      "a": "Bo jest organem władzy fiskalnej i bankiem centralnym",
+      "b": "Bo nie ma wystarczającej liczby placówek",
+      "c": "Bo zakazuje tego prawo unijne",
+      "d": "Bo obsługuje tylko transakcje w walutach obcych"
     },
     "correct_answers": ["a"]
   },
   {
-    "id": 100,
-    "text": "Końcowym akcentem resocjalizacji w placówce jest zazwyczaj przygotowanie do:",
+    "id": 107,
+    "text": "Jakie jednostki mają obowiązek sporządzania planów finansowych w układzie zadaniowym na rok budżetowy i dwa kolejne lata (art. 32 u.f.p.)?",
     "options": {
-      "a": "Usamodzielnienia i powrotu do środowiska",
-      "b": "Dalszej kariery w więzieniu",
-      "c": "Wyjazdu z kraju",
-      "d": "Pracy w Policji"
+      "a": "Wszystkie urzędy gmin",
+      "b": "Agencje wykonawcze, IGB oraz dysponenci państwowych funduszy celowych",
+      "c": "Prywatne banki współpracujące z rządem",
+      "d": "Wyłącznie Ministerstwo Finansów"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 108,
+    "text": "Co wchodzi w skład środków publicznych zgodnie z art. 5 ust. 1 u.f.p.?",
+    "options": {
+      "a": "Tylko dochody z podatków",
+      "b": "Dochody publiczne, środki z UE/EFTA i przychody publiczne",
+      "c": "Wyłącznie gotówka w kasie państwa",
+      "d": "Pieniądze zgromadzone na kontach obywateli"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 109,
+    "text": "Do jakiej kategorii środków publicznych zalicza się środki z Norweskiego Mechanizmu Finansowego?",
+    "options": {
+      "a": "Dochody publiczne",
+      "b": "Środki z pomocy udzielanej przez państwa członkowskie EFTA",
+      "c": "Przychody z prywatyzacji",
+      "d": "Rozchody publiczne"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 110,
+    "text": "Co stanowi przykład dochodu publicznego będącego 'daniną publiczną'?",
+    "options": {
+      "a": "Wpływy z najmu lokali gminnych",
+      "b": "Podatki i składki",
+      "c": "Sprzedaż akcji Skarbu Państwa",
+      "d": "Kredyt zaciągnięty w banku komercyjnym"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 111,
+    "text": "Czy wpływy ze sprzedaży wyrobów i usług świadczonych przez JST są dochodami publicznymi?",
+    "options": {
+      "a": "Nie, to są przychody prywatne",
+      "b": "Tak, zgodnie z art. 5 ust. 2 pkt 3 u.f.p.",
+      "c": "Tylko jeśli kwota przekracza 1000 zł",
+      "d": "Tylko w przypadku usług medycznych"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 112,
+    "text": "Do której kategorii należą odsetki od środków na rachunkach bankowych jednostek sektora finansów publicznych?",
+    "options": {
+      "a": "Rozchody publiczne",
+      "b": "Dochody z mienia",
+      "c": "Przychody z prywatyzacji",
+      "d": "Środki bezzwrotne z UE"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 113,
+    "text": "Zgodnie z wzorem ekonomicznym: Dochód = ?",
+    "options": {
+      "a": "Przychód + Koszty",
+      "b": "Przychód – Koszty",
+      "c": "Wydatki / Rozchody",
+      "d": "Aktywa * Pasywa"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 114,
+    "text": "Co jest kluczową cechą 'przychodu' w ujęciu prawnym według notatki?",
+    "options": {
+      "a": "Bezzwrotność",
+      "b": "Charakter zwrotny (powstaje roszczenie o zwrot)",
+      "c": "Pochodzenie wyłącznie z darowizn",
+      "d": "Brak wpływu na stan konta"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 115,
+    "text": "Co to jest 'wydatek'?",
+    "options": {
+      "a": "Każde faktyczne wydanie pieniędzy (gotówka lub przelew)",
+      "b": "Tylko zakup towarów na magazyn",
+      "c": "Amortyzacja maszyn",
+      "d": "Udzielenie pożyczki innemu państwu"
     },
     "correct_answers": ["a"]
+  },
+  {
+    "id": 116,
+    "text": "Czy spłata otrzymanej pożyczki jest wydatkiem publicznym?",
+    "options": {
+      "a": "Tak, każda płatność to wydatek",
+      "b": "Nie, jest to rozchód publiczny",
+      "c": "Jest to dochód ujemny",
+      "d": "Jest to przychód zwrotny"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 117,
+    "text": "Co zalicza się do rozchodów publicznych (art. 6 ust. 2 u.f.p.)?",
+    "options": {
+      "a": "Wypłatę 500+",
+      "b": "Wykup papierów wartościowych",
+      "c": "Budowę nowej autostrady",
+      "d": "Zakup energii elektrycznej dla urzędu"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 118,
+    "text": "Jak ustala się nadwyżkę lub deficyt sektora finansów publicznych?",
+    "options": {
+      "a": "Po zsumowaniu wszystkich dochodów bez wyjątków",
+      "b": "Po wyeliminowaniu przepływów finansowych między jednostkami tego sektora",
+      "c": "Według kursu euro z dnia 1 stycznia",
+      "d": "Na podstawie ankiet przeprowadzonych wśród ministrów"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 119,
+    "text": "Która z wymienionych instytucji NIE należy do sektora finansów publicznych według art. 9 u.f.p.?",
+    "options": {
+      "a": "Sądy i trybunały",
+      "b": "Prywatne banki komercyjne",
+      "c": "Samodzielne publiczne zakłady opieki zdrowotnej",
+      "d": "Polska Akademia Nauk"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 120,
+    "text": "Czy Bankowy Fundusz Gwarancyjny (BFG) tworzy sektor finansów publicznych?",
+    "options": {
+      "a": "Nie, jest instytucją prywatną",
+      "b": "Tak, jest wymieniony w art. 9 pkt 15 u.f.p.",
+      "c": "Tylko w sytuacji kryzysu bankowego",
+      "d": "Tak, ale tylko jego oddziały regionalne"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 121,
+    "text": "Na jakiej podstawie działają jednostki sektora wymienione w art. 9 pkt 8-15 (np. uczelnie, NFZ)?",
+    "options": {
+      "a": "Wyłącznie na podstawie ustawy o finansach publicznych",
+      "b": "Na podstawie odrębnych ustaw stanowiących podstawę ich utworzenia",
+      "c": "Na podstawie Kodeksu Handlowego",
+      "d": "Na podstawie dekretu Prezydenta"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 122,
+    "text": "Czym jest jednostka budżetowa według art. 11 u.f.p.?",
+    "options": {
+      "a": "Firmą państwową z osobowością prawną",
+      "b": "Jednostką organizacyjną nieposiadającą osobowości prawnej, pokrywającą wydatki bezpośrednio z budżetu",
+      "c": "Wydzielonym kontem w Ministerstwie Finansów",
+      "d": "Fundacją celową rządu"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 123,
+    "text": "Na jakiej podstawie działa każda jednostka budżetowa?",
+    "options": {
+      "a": "Umowy spółki",
+      "b": "Statutu określającego nazwę, siedzibę i przedmiot działalności",
+      "c": "Wpisu do ewidencji działalności gospodarczej",
+      "d": "Uchwały zarządu województwa"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 124,
+    "text": "Co jest podstawą gospodarki finansowej jednostki budżetowej?",
+    "options": {
+      "a": "Budżet państwa",
+      "b": "Plan dochodów i wydatków (plan finansowy jednostki)",
+      "c": "Bilans zysków i strat",
+      "d": "Wyłącznie faktury VAT"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 125,
+    "text": "Które jednostki budżetowe mogą gromadzić dochody na wydzielonym rachunku (art. 11a u.f.p.)?",
+    "options": {
+      "a": "Wszystkie urzędy skarbowe",
+      "b": "Państwowe jednostki budżetowe prowadzące działalność oświatową",
+      "c": "Jednostki wojskowe",
+      "d": "Ministerstwa"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 126,
+    "text": "Z jakiego tytułu oświatowe jednostki budżetowe mogą gromadzić dochody na wydzielonym rachunku?",
+    "options": {
+      "a": "Z podatku od darowizn",
+      "b": "Z odszkodowań i wpłat za utracone mienie oraz z darowizn pieniężnych",
+      "c": "Z mandatów nakładanych na uczniów",
+      "d": "Z dotacji celowych z budżetu UE"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 127,
+    "text": "Kto podejmuje decyzję o utworzeniu wydzielonego rachunku dochodów w szkole państwowej?",
+    "options": {
+      "a": "Minister Finansów",
+      "b": "Kierownik jednostki (dyrektor), po uzyskaniu zgody organu prowadzącego",
+      "c": "Rada Rodziców",
+      "d": "Kurator Oświaty"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 128,
+    "text": "Czy dochody z wydzielonego rachunku oświatowego mogą być przeznaczone na wynagrodzenia osobowe?",
+    "options": {
+      "a": "Tak, bez ograniczeń",
+      "b": "Nie, nie mogą być przeznaczone na finansowanie wynagrodzeń osobowych",
+      "c": "Tylko za zgodą związków zawodowych",
+      "d": "Tylko w formie premii świątecznych"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 129,
+    "text": "Co stanowi nadwyżkę budżetu środków europejskich?",
+    "options": {
+      "a": "Pieniądze pozostałe w portfelu ministra",
+      "b": "Dodatnia różnica między dochodami a wydatkami budżetu środków europejskich",
+      "c": "Kwota zwrócona przez beneficjentów do budżetu krajowego",
+      "d": "Oszczędności na wynagrodzeniach urzędników unijnych"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 130,
+    "text": "Na co może być przeznaczona nadwyżka budżetu środków europejskich?",
+    "options": {
+      "a": "Na podwyżki dla sędziów",
+      "b": "Na spłatę zobowiązań budżetu państwa zaciągniętych na pokrycie deficytu tego budżetu",
+      "c": "Na sfinansowanie deficytu NFZ",
+      "d": "Musi zostać zwrócona bezpośrednio do Brukseli w ciągu 7 dni"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 131,
+    "text": "Według jakiego podziału ujmuje się wydatki budżetu środków europejskich w ustawie?",
+    "options": {
+      "a": "Tylko według imienia i nazwiska beneficjenta",
+      "b": "Według części, działów i programów finansowanych z udziałem środków UE",
+      "c": "Według alfabetu",
+      "d": "Według stopnia trudności projektu"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 132,
+    "text": "Jak w prawie budżetowym traktuje się załączniki do ustawy budżetowej?",
+    "options": {
+      "a": "Jako dokumenty o charakterze wyłącznie pomocniczym",
+      "b": "Jako integralną część ustawy, wiążącą tak samo mocno jak ustawa",
+      "c": "Jako dokumenty jawne tylko dla posłów",
+      "d": "Jako propozycje, które można dowolnie zmieniać w trakcie roku bez nowelizacji"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 133,
+    "text": "Co obejmuje łączna kwota planowanych przychodów budżetu państwa (art. 110 u.f.p.)?",
+    "options": {
+      "a": "Tylko wpływy z VAT",
+      "b": "M.in. wpływy ze sprzedaży papierów wartościowych i prywatyzacji",
+      "c": "Skarby znalezione na terytorium RP",
+      "d": "Wydatki na obsługę długu"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 134,
+    "text": "Czym jest limit zobowiązań określany w budżecie państwa?",
+    "options": {
+      "a": "Maksymalną liczbą urzędników, których można zatrudnić",
+      "b": "Maksymalną kwotą kredytów, pożyczek i emisji papierów wartościowych",
+      "c": "Minimalną kwotą podatków, jaką trzeba zebrać",
+      "d": "Liczbą umów międzynarodowych, jakie można podpisać"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 135,
+    "text": "Która instytucja jest jedynym polskim bankiem państwowym?",
+    "options": {
+      "a": "PKO BP",
+      "b": "Bank Gospodarstwa Krajowego (BGK)",
+      "c": "mBank",
+      "d": "Bank Pekao SA"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 136,
+    "text": "Czym różni się budżet UE od budżetu środków europejskich w polskiej ustawie?",
+    "options": {
+      "a": "To to samo pojęcie",
+      "b": "Budżet UE to plan dla całej Unii, a budżet środków europejskich to krajowy plan finansowania zadań z udziałem UE",
+      "c": "Budżet UE jest uchwalany przez polski Sejm",
+      "d": "W budżecie środków europejskich nie ma żadnych pieniędzy"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 137,
+    "text": "Do jakiej kategorii dochodów publicznych zalicza się spadki, zapisy i darowizny (art. 5 ust. 2 pkt 5 u.f.p.)?",
+    "options": {
+      "a": "Do danin publicznych",
+      "b": "Do dochodów budżetu (pozostałych)",
+      "c": "Do przychodów z prywatyzacji",
+      "d": "Do rozchodów"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 138,
+    "text": "Co stanowi przykład 'dochodu z mienia' w postaci dywidendy?",
+    "options": {
+      "a": "Odsetki od lokaty",
+      "b": "Wypłata zysku z tytułu posiadanych praw majątkowych (akcji/udziałów)",
+      "c": "Czynsz za wynajem biura",
+      "d": "Odszkodowanie za stłuczkę samochodu służbowego"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 139,
+    "text": "Na co przeznacza się środki publiczne zgodnie z art. 6 ust. 1 u.f.p.?",
+    "options": {
+      "a": "Wyłącznie na wydatki publiczne",
+      "b": "Na wydatki publiczne oraz rozchody publiczne",
+      "c": "Na oszczędności na kontach ministrów",
+      "d": "Na finansowanie kampanii wyborczych"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 140,
+    "text": "Czy płatności związane z udziałami Skarbu Państwa w instytucjach międzynarodowych są rozchodem publicznym?",
+    "options": {
+      "a": "Nie, to jest wydatek bieżący",
+      "b": "Tak, zgodnie z art. 6 ust. 2 pkt 6 u.f.p.",
+      "c": "Jest to darowizna międzynarodowa",
+      "d": "Jest to przychód finansowy"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 141,
+    "text": "W jakich formach mogą być tworzone jednostki sektora finansów publicznych?",
+    "options": {
+      "a": "W dowolnych formach przewidzianych Kodeksem Cywilnym",
+      "b": "W formach określonych w ustawie o finansach publicznych lub na podstawie odrębnych ustaw",
+      "c": "Tylko jako spółki akcyjne",
+      "d": "Tylko jako stowarzyszenia zwykłe"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 142,
+    "text": "Co oznacza skrót 'JST' w polskim prawie finansowym?",
+    "options": {
+      "a": "Jednostki Sprawozdawczości Terenowej",
+      "b": "Jednostki Samorządu Terytorialnego",
+      "c": "Jawny System Tranzakcyjny",
+      "d": "Jedyne Środki Transportu"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 143,
+    "text": "Czy ZUS należy do sektora finansów publicznych?",
+    "options": {
+      "a": "Nie, to instytucja ubezpieczeniowa prywatna",
+      "b": "Tak, zgodnie z art. 9 pkt 8 u.f.p.",
+      "c": "Tak, ale tylko jego pion medyczny",
+      "d": "Tylko jeśli budżet państwa ma deficyt"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 144,
+    "text": "Jaki organ nadzoruje fundusze zarządzane przez KRUS?",
+    "options": {
+      "a": "Prezes Rady Ministrów",
+      "b": "Prezes Kasy Rolniczego Ubezpieczenia Społecznego",
+      "c": "Minister Rolnictwa",
+      "d": "Komisja Nadzoru Finansowego"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 145,
+    "text": "Czym są samodzielne publiczne zakłady opieki zdrowotnej (SPZOZ) w strukturze sektora?",
+    "options": {
+      "a": "Jednostkami budżetowymi bez osobowości",
+      "b": "Osobami prawnymi tworzącymi sektor finansów publicznych (art. 9 pkt 10)",
+      "c": "Fundacjami zdrowia publicznego",
+      "d": "Przedsiębiorstwami państwowymi nastawionymi na zysk"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 146,
+    "text": "Czy spółki prawa handlowego są częścią sektora finansów publicznych według art. 9 u.f.p.?",
+    "options": {
+      "a": "Tak, wszystkie",
+      "b": "Nie, są wyraźnie wyłączone w pkt 14",
+      "c": "Tylko jeśli zatrudniają powyżej 100 osób",
+      "d": "Tak, jeśli 51% udziałów ma gmina"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 147,
+    "text": "Kto nadaje statut jednostce budżetowej gminy?",
+    "options": {
+      "a": "Prezydent RP",
+      "b": "Organ stanowiący JST (np. Rada Gminy)",
+      "c": "Skarbnik Gminy",
+      "d": "Minister Spraw Wewnętrznych"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 148,
+    "text": "Jaki jest cel budżetu zadaniowego?",
+    "options": {
+      "a": "Zwiększenie biurokracji",
+      "b": "Zwiększenie efektywności i przejrzystości wydatkowania przez określenie celów i mierników",
+      "c": "Ukrycie wydatków przed opozycją",
+      "d": "Wypłacenie wyższych dywidend dla państwa"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 149,
+    "text": "Który dokument w polskim prawie stanowi podstawę prawną budżetu obywatelskiego?",
+    "options": {
+      "a": "Konstytucja RP",
+      "b": "Ustawa o samorządzie gminnym (art. 5a)",
+      "c": "Ustawa o podatkach lokalnych",
+      "d": "Kodeks Wyborczy"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 150,
+    "text": "Czy zadania wybrane przez mieszkańców w budżecie obywatelskim są wiążące dla rady gminy?",
+    "options": {
+      "a": "Nie, rada może je odrzucić bez powodu",
+      "b": "Tak, muszą zostać uwzględnione w uchwale budżetowej, a rada nie może ich usuwać w stopniu istotnym",
+      "c": "Są tylko luźną sugestią",
+      "d": "Wymagają dodatkowego zatwierdzenia przez Premiera"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 151,
+    "text": "Na jaki okres agencje wykonawcze i IGB sporządzają plany finansowe w układzie zadaniowym (art. 32 u.f.p.)?",
+    "options": {
+      "a": "Na jeden rok budżetowy",
+      "b": "Na rok budżetowy i dwa kolejne lata",
+      "c": "Na okres 5 lat",
+      "d": "Na okres kadencji Sejmu"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 152,
+    "text": "Czy dochody oświatowych jednostek budżetowych z odszkodowań za uszkodzone mienie mogą być gromadzone na wydzielonym rachunku?",
+    "options": {
+      "a": "Nie, muszą trafić bezpośrednio do budżetu państwa",
+      "b": "Tak, zgodnie z art. 11a ust. 1 pkt 2 u.f.p.",
+      "c": "Tylko jeśli mienie było ubezpieczone w PZU",
+      "d": "Tylko za zgodą Ministra Finansów"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 153,
+    "text": "Na co mogą być przeznaczone dochody z wydzielonego rachunku oświatowej jednostki budżetowej?",
+    "options": {
+      "a": "Wyłącznie na nagrody dla dyrektora",
+      "b": "Na sfinansowanie wydatków bieżących i majątkowych",
+      "c": "Na spłatę długu publicznego",
+      "d": "Na zakup akcji spółek giełdowych"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 154,
+    "text": "Co stanowi przykład niepodatkowego dochodu budżetu państwa?",
+    "options": {
+      "a": "Podatek akcyzowy",
+      "b": "Kary pieniężne nałożone przez Policję",
+      "c": "Wpływy z prywatyzacji",
+      "d": "Kredyt zaciągnięty w banku zagranicznym"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 155,
+    "text": "Jakie znaczenie dla budżetu państwa ma wynik budżetu środków europejskich?",
+    "options": {
+      "a": "Sumuje się z wynikiem krajowym w celu obliczenia deficytu",
+      "b": "Nie jest wliczany do deficytu albo nadwyżki budżetu państwa",
+      "c": "Zawsze musi być dodatni",
+      "d": "Jest odejmowany od dochodów z VAT"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 156,
+    "text": "Dlaczego wprowadzono oddzielenie wyników budżetu państwa od budżetu środków europejskich?",
+    "options": {
+      "a": "Aby ukryć dług przed Unią Europejską",
+      "b": "Aby uniknąć zaburzeń księgowych w prezentacji krajowych dochodów i wydatków",
+      "c": "Bo wymaga tego Konstytucja RP",
+      "d": "Ponieważ środki z UE są w innej walucie"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 157,
+    "text": "Która instytucja zarządza budżetem państwa w zakresie należności podatkowych?",
+    "options": {
+      "a": "Bank Gospodarstwa Krajowego",
+      "b": "Narodowy Bank Polski (NBP)",
+      "c": "PKO BP",
+      "d": "Komisja Nadzoru Finansowego"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 158,
+    "text": "Jaki status prawny posiada Bank Gospodarstwa Krajowego (BGK)?",
+    "options": {
+      "a": "Spółka akcyjna Skarbu Państwa",
+      "b": "Państwowa osoba prawna",
+      "c": "Jednostka budżetowa bez osobowości",
+      "d": "Fundacja rządowa"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 159,
+    "text": "Czy Narodowy Bank Polski prowadzi konta dla indywidualnych klientów (osób fizycznych)?",
+    "options": {
+      "a": "Tak, każdemu obywatelowi przysługuje takie konto",
+      "b": "Nie, NBP nie prowadzi spraw indywidualnych klientów",
+      "c": "Tylko dla pracowników administracji rządowej",
+      "d": "Tak, ale tylko w zakresie lokat terminowych"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 160,
+    "text": "Zgodnie z ujęciem ekonomicznym, co rozumiemy przez przychód w prostym przykładzie sklepu?",
+    "options": {
+      "a": "Zysk po opłaceniu faktur",
+      "b": "Wszystkie wpływy pieniędzy bez uwzględnienia kosztów",
+      "c": "Tylko marżę nałożoną na towar",
+      "d": "Wartość towarów pozostałych na półkach"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 161,
+    "text": "Co pokazuje 'dochód' w ujęciu ekonomicznym?",
+    "options": {
+      "a": "Ile pieniędzy wpłynęło do kasy ogółem",
+      "b": "Ile faktycznie zarobiliśmy 'na czysto' (przychód - koszty)",
+      "c": "Kwotę zaciągniętego kredytu obrotowego",
+      "d": "Wartość środków trwałych firmy"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 162,
+    "text": "Które z pojęć finansowych ma charakter zwrotny (powstaje roszczenie o zwrot)?",
+    "options": {
+      "a": "Dochód",
+      "b": "Przychód (np. pożyczka)",
+      "c": "Dotacja",
+      "d": "Podatek"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 163,
+    "text": "Co charakteryzuje 'dochód' w ujęciu prawnym?",
+    "options": {
+      "a": "Obowiązek zwrotu po roku",
+      "b": "Bezzwrotny charakter wpływu",
+      "c": "Konieczność wydania go na inwestycje",
+      "d": "Możliwość zamiany na obligacje"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 164,
+    "text": "Do jakiej kategorii środków publicznych należą wpływy z prywatyzacji majątku państwowego?",
+    "options": {
+      "a": "Dochody publiczne",
+      "b": "Przychody budżetu państwa",
+      "c": "Wydatki majątkowe",
+      "d": "Środki zagraniczne bezzwrotne"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 165,
+    "text": "Czym są 'daniny publiczne' zgodnie z art. 5 ust. 2 pkt 1 u.f.p.?",
+    "options": {
+      "a": "Dobrowolnymi wpłatami na fundusze",
+      "b": "Podatkami, składkami, opłatami i wpłatami z zysku przedsiębiorstw państwowych",
+      "c": "Darowiznami od osób prywatnych",
+      "d": "Środkami z Unii Europejskiej"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 166,
+    "text": "Czy wpływy z umów najmu lokali przez jednostki sektora finansów publicznych są dochodami publicznymi?",
+    "options": {
+      "a": "Nie, to dochody prywatne urzędu",
+      "b": "Tak, są to dochody z mienia (art. 5 ust. 2 pkt 4)",
+      "c": "Tylko jeśli najemcą jest inna jednostka publiczna",
+      "d": "Tak, ale tylko w zakresie 50% kwoty"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 167,
+    "text": "Do której kategorii zaliczamy udzielone przez państwo pożyczki (art. 6 ust. 2)?",
+    "options": {
+      "a": "Przychody publiczne",
+      "b": "Rozchody publiczne",
+      "c": "Wydatki publiczne",
+      "d": "Dochody publiczne"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 168,
+    "text": "Kiedy występuje deficyt sektora finansów publicznych?",
+    "options": {
+      "a": "Gdy dochody są wyższe od wydatków",
+      "b": "Gdy ujemna różnica między dochodami a wydatkami jest ustalona dla okresu rozliczeniowego",
+      "c": "Gdy państwo nie ma złota w skarbcu",
+      "d": "Gdy inflacja przekracza 10%"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 169,
+    "text": "Które z wymienionych podmiotów NIE tworzą sektora finansów publicznych (art. 9 pkt 14)?",
+    "options": {
+      "a": "Uczelnie publiczne",
+      "b": "Spółki prawa handlowego",
+      "c": "Sądy i trybunały",
+      "d": "Instytucje kultury"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 170,
+    "text": "Czy instytuty badawcze należą do sektora finansów publicznych według art. 9?",
+    "options": {
+      "a": "Tak, bez wyjątków",
+      "b": "Nie, są wyraźnie wyłączone z pkt 14",
+      "c": "Tak, o ile zajmują się medycyną",
+      "d": "Tylko instytuty działające w ramach PAN"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 171,
+    "text": "Gdzie znajduje się definicja przedmiotu działalności jednostki budżetowej?",
+    "options": {
+      "a": "W ustawie budżetowej",
+      "b": "W statucie jednostki",
+      "c": "W regulaminie pracy",
+      "d": "W umowie najmu lokalu"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 172,
+    "text": "Kto wydaje zgodę na utworzenie wydzielonego rachunku dochodów w państwowej szkole?",
+    "options": {
+      "a": "Rada Rodziców",
+      "b": "Organ prowadzący szkołę",
+      "c": "Główny Księgowy",
+      "d": "Skarb Państwa"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 173,
+    "text": "W jaki sposób finansowany jest deficyt budżetu środków europejskich?",
+    "options": {
+      "a": "Z podatków od nieruchomości",
+      "b": "W ramach potrzeb pożyczkowych budżetu państwa",
+      "c": "Z oszczędności emerytalnych",
+      "d": "Przez emisję pieniądza przez NBP"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 174,
+    "text": "Czym skutkuje 'nieprawidłowość' w wydatkowaniu środków UE?",
+    "options": {
+      "a": "Koniecznością zwrotu środków wraz z odsetkami",
+      "b": "Wysłaniem listu gratulacyjnego",
+      "c": "Zwiększeniem dotacji w kolejnym roku",
+      "d": "Zmianą statutu jednostki"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 175,
+    "text": "Jak liczone są odsetki od środków unijnych podlegających zwrotowi?",
+    "options": {
+      "a": "Według stopy lombardowej",
+      "b": "W wysokości określonej jak dla zaległości podatkowych",
+      "c": "Według kursu euro",
+      "d": "Nie nalicza się odsetek od środków UE"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 176,
+    "text": "W jakim terminie należy zwrócić środki UE po doręczeniu decyzji o zwrocie?",
+    "options": {
+      "a": "W ciągu 7 dni",
+      "b": "W ciągu 14 dni",
+      "c": "W ciągu 30 dni",
+      "d": "Do końca roku"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 177,
+    "text": "Co może zrobić beneficjent, który nie zgadza się ze stwierdzeniem nieprawidłowości w wydatkowaniu środków UE?",
+    "options": {
+      "a": "Złożyć sprawę do Trybunału Konstytucyjnego",
+      "b": "Zgłosić umotywowane zastrzeżenia w terminie 14 dni",
+      "c": "Nic, decyzja jest niepodważalna",
+      "d": "Poprosić o umorzenie długu Prezydenta RP"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 178,
+    "text": "Które prawo reguluje procesy pozyskiwania środków przez państwo?",
+    "options": {
+      "a": "Prawo karne",
+      "b": "Prawo finansowe",
+      "c": "Prawo cywilne",
+      "d": "Prawo pracy"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 179,
+    "text": "Do którego działu prawa finansowego zaliczamy pozyskiwanie środków (np. podatki)?",
+    "options": {
+      "a": "Prawo budżetowe",
+      "b": "Prawo podatkowe",
+      "c": "Prawo celne",
+      "d": "Prawo bankowe"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 180,
+    "text": "Czym są 'instytucje kompleksowe' w prawie finansowym?",
+    "options": {
+      "a": "Dużymi urzędami skarbowymi",
+      "b": "Instytucjami zbudowanymi częściowo z prawa cywilnego, a częściowo z administracyjnego",
+      "c": "Bankami obsługującymi państwo",
+      "d": "Uczelniami medycznymi"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 181,
+    "text": "Jaki jest podstawowy cel finansów publicznych według notatki?",
+    "options": {
+      "a": "Zarabianie pieniędzy przez polityków",
+      "b": "Zaspokajanie potrzeb społecznych",
+      "c": "Inwestowanie na giełdzie",
+      "d": "Zbieranie rezerw złota"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 182,
+    "text": "Czy rok budżetowy w Polsce może być inny niż kalendarzowy?",
+    "options": {
+      "a": "Tak, na wniosek Premiera",
+      "b": "Nie, rokiem budżetowym jest rok kalendarzowy",
+      "c": "Tylko w czasie wojny",
+      "d": "Tak, dla jednostek samorządu terytorialnego"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 183,
+    "text": "Czym jest refundacja w budżecie środków europejskich?",
+    "options": {
+      "a": "Wypłatą zaliczki przed rozpoczęciem prac",
+      "b": "Zwrotem pieniędzy przez UE po zakończeniu inwestycji bez nieprawidłowości",
+      "c": "Opłatą za obsługę konta w BGK",
+      "d": "Karą za opóźnienie w projekcie"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 184,
+    "text": "Z czego finansowana jest spłata zobowiązań zaciągniętych na deficyt budżetu środków europejskich?",
+    "options": {
+      "a": "Z podatku VAT",
+      "b": "Z nadwyżki budżetu środków europejskich",
+      "c": "Z dotacji celowych z budżetu państwa",
+      "d": "Ze sprzedaży obligacji infrastrukturalnych"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 185,
+    "text": "Według jakiego podziału ujmuje się dochody budżetu środków europejskich?",
+    "options": {
+      "a": "Działów i rozdziałów",
+      "b": "Części klasyfikacji budżetowej i programów",
+      "c": "Województw i powiatów",
+      "d": "Tylko według nazwy programu"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 186,
+    "text": "W jakiej formie wydawany jest budżet państwa?",
+    "options": {
+      "a": "Uchwały Rady Ministrów",
+      "b": "Ustawy",
+      "c": "Rozporządzenia Prezydenta",
+      "d": "Obwieszczenia Marszałka Sejmu"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 187,
+    "text": "Kogo wiąże ustawa budżetowa (dlaczego ma charakter szczególny)?",
+    "options": {
+      "a": "Wszystkich obywateli bezpośrednio",
+      "b": "Tylko dysponentów (podmioty, których kompetencje określa)",
+      "c": "Wyłącznie pracowników Ministerstwa Finansów",
+      "d": "Tylko banki komercyjne"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 188,
+    "text": "Czym różni się budżet zadaniowy od tradycyjnego pod względem analitycznym?",
+    "options": {
+      "a": "Jest mniej dokładny",
+      "b": "Koncentruje się na efektach i celach, a nie tylko na kwotach w działach",
+      "c": "Nie wymaga stosowania mierników",
+      "d": "Jest sporządzany w języku angielskim"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 189,
+    "text": "Co to są 'Funkcje państwa' w budżecie zadaniowym?",
+    "options": {
+      "a": "Uroczystości państwowe",
+      "b": "Poszczególne obszary działań państwa (np. bezpieczeństwo, edukacja)",
+      "c": "Uprawnienia Prezydenta RP",
+      "d": "Zasady protokołu dyplomatycznego"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 190,
+    "text": "Jak nazywają się mierniki określające poziom efektów na starcie zadania?",
+    "options": {
+      "a": "Mierniki docelowe",
+      "b": "Mierniki bazowe",
+      "c": "Mierniki operacyjne",
+      "d": "Mierniki kontrolne"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 191,
+    "text": "Czy budżet obywatelski jest obowiązkowy dla wszystkich gmin wiejskich?",
+    "options": {
+      "a": "Tak, na podstawie ustawy",
+      "b": "Nie, jest obowiązkowy tylko dla miast na prawach powiatu",
+      "c": "Tak, jeśli gmina ma powyżej 5000 mieszkańców",
+      "d": "Tylko za zgodą wojewody"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 192,
+    "text": "Jaki charakter ma głosowanie mieszkańców w budżecie obywatelskim?",
+    "options": {
+      "a": "Konsultacyjny (niewiążący)",
+      "b": "Bezpośredni i decyzyjny (wiążący dla rady gminy)",
+      "c": "Tylko doradczy dla burmistrza",
+      "d": "Ma charakter sondażu opinii publicznej"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 193,
+    "text": "Jakie środki są wyłączone z definicji budżetu środków europejskich (art. 117)?",
+    "options": {
+      "a": "Środki na budowę autostrad",
+      "b": "Środki przeznaczone na projekty pomocy technicznej",
+      "c": "Środki na kulturę",
+      "d": "Środki z funduszy strukturalnych"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 194,
+    "text": "Gdzie deponowane są pieniądze z UE według notatki?",
+    "options": {
+      "a": "W skarbcu Ministerstwa Finansów",
+      "b": "Na odrębnym rachunku w Banku Gospodarstwa Krajowego",
+      "c": "W Europejskim Banku Inwestycyjnym",
+      "d": "Na wspólnym koncie z podatkami w NBP"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 195,
+    "text": "Jaki jest limit dotacji przedmiotowej dla zakładu budżetowego z JST?",
+    "options": {
+      "a": "Maksymalnie 10% przychodów",
+      "b": "Nie może przekroczyć 50% kosztów działalności",
+      "c": "Zawsze 100% kosztów",
+      "d": "Nie ma takiego limitu"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 196,
+    "text": "Co stanowi integralną część ustawy budżetowej?",
+    "options": {
+      "a": "Tylko tekst główny artykułów",
+      "b": "Tekst główny oraz załączniki",
+      "c": "Opinie ekspertów sejmowych",
+      "d": "Nagrania z obrad Komisji Finansów"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 197,
+    "text": "Jak w ujęciu prawnym określa się formę budżetu JST?",
+    "options": {
+      "a": "Ustawa lokalna",
+      "b": "Uchwała",
+      "c": "Zarządzenie",
+      "d": "Dekret"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 198,
+    "text": "Który organ przyjmuje budżet środków europejskich w Polsce?",
+    "options": {
+      "a": "Komisja Europejska",
+      "b": "Parlament (Sejm i Senat)",
+      "c": "Rada Ministrów (ostatecznie)",
+      "d": "Prezes NBP"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 199,
+    "text": "Zgodnie z art. 110 u.f.p., co określa budżet państwa w pkt 3?",
+    "options": {
+      "a": "Listę wszystkich urzędników",
+      "b": "Kwotę planowanego deficytu wraz ze źródłami jego pokrycia",
+      "c": "Harmonogram świąt państwowych",
+      "d": "Kurs euro na cały rok"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 200,
+    "text": "Jakie są 'środki zagraniczne niepodlegające zwrotowi' (art. 5 ust. 1 pkt 3)?",
+    "options": {
+      "a": "Pożyczki z Chin",
+      "b": "Środki inne niż z UE i EFTA, np. darowizny od państw trzecich",
+      "c": "Środki z budżetu państwa polskiego",
+      "d": "Kredyty z Międzynarodowego Funduszu Walutowego"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 201,
+    "text": "Kto może zostać Głównym Księgowym jednostki sektora finansów publicznych według kryterium obywatelstwa?",
+    "options": {
+      "a": "Wyłącznie obywatel Polski",
+      "b": "Obywatel państwa członkowskiego UE, EFTA lub Konfederacji Szwajcarskiej",
+      "c": "Każda osoba posiadająca kartę pobytu",
+      "d": "Obywatel dowolnego państwa z całego świata"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 202,
+    "text": "Jakie wykształcenie i staż musi posiadać Główny Księgowy, jeśli ukończył ekonomiczne studia magisterskie?",
+    "options": {
+      "a": "Nie musi posiadać stażu pracy",
+      "b": "Co najmniej 3-letnią praktykę w księgowości",
+      "c": "Co najmniej 6-letnią praktykę w księgowości",
+      "d": "10 lat pracy w administracji"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 203,
+    "text": "Jakie wykształcenie i staż musi posiadać Główny Księgowy, jeśli ukończył tylko średnią szkołę ekonomiczną?",
+    "options": {
+      "a": "Nie może być Głównym Księgowym",
+      "b": "Co najmniej 6-letnią praktykę w księgowości",
+      "c": "Co najmniej 3-letnią praktykę w księgowości",
+      "d": "Co najmniej 15 lat praktyki"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 204,
+    "text": "Za co w szczególności odpowiada Główny Księgowy w jednostce?",
+    "options": {
+      "a": "Za politykę kadrową i zatrudnianie urzędników",
+      "b": "Za prowadzenie rachunkowości i wykonywanie dyspozycji środkami pieniężnymi",
+      "c": "Za reprezentowanie jednostki w sądzie w sprawach karnych",
+      "d": "Za utrzymanie techniczne budynku jednostki"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 205,
+    "text": "Na czym polega 'wstępna kontrola' dokonywana przez Głównego Księgowego?",
+    "options": {
+      "a": "Na sprawdzeniu czy pracownicy przyszli punktualnie do pracy",
+      "b": "Na ocenie zgodności operacji z planem finansowym oraz kompletności dokumentów",
+      "c": "Na kontroli osobistej osób wchodzących do urzędu",
+      "d": "Na weryfikacji poglądów politycznych kontrahentów"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 206,
+    "text": "Które z wymienionych przestępstw dyskwalifikuje kandydata na Głównego Księgowego?",
+    "options": {
+      "a": "Przestępstwo przeciwko mieniu, obrotowi gospodarczemu lub wiarygodności dokumentów",
+      "b": "Mandat za złe parkowanie",
+      "c": "Każde wykroczenie drogowe",
+      "d": "Rozwód z orzeczeniem o winie"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 207,
+    "text": "Co oznacza podpis Głównego Księgowego na dokumencie operacji finansowej?",
+    "options": {
+      "a": "Że dokument jest ładnie wydrukowany",
+      "b": "Że nie zgłasza zastrzeżeń do merytorycznej i formalnej strony operacji",
+      "c": "Że to on osobiście wydał te pieniądze",
+      "d": "Że dokument trafi do archiwum"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 208,
+    "text": "Jakie środki podlegają zwrotowi zgodnie z art. 207 u.f.p.?",
+    "options": {
+      "a": "Tylko podatki nadpłacone przez obywateli",
+      "b": "Środki przeznaczone na realizację programów finansowanych z udziałem środków europejskich",
+      "c": "Wszystkie wynagrodzenia urzędników państwowych",
+      "d": "Pieniądze wydane na zakup paliwa do samochodów służbowych"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 209,
+    "text": "W jakiej sytuacji beneficjent musi zwrócić środki europejskie?",
+    "options": {
+      "a": "Gdy wykorzystał je zgodnie z przeznaczeniem, ale spóźnił się o 1 dzień z raportem",
+      "b": "Gdy wykorzystał je niezgodnie z przeznaczeniem lub z naruszeniem procedur",
+      "c": "Zawsze po zakończeniu projektu, niezależnie od wyniku",
+      "d": "Tylko jeśli ogłosi upadłość"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 210,
+    "text": "Od kiedy nalicza się odsetki od środków europejskich podlegających zwrotowi?",
+    "options": {
+      "a": "Od dnia doręczenia decyzji o zwrocie",
+      "b": "Od dnia przekazania środków beneficjentowi",
+      "c": "Od 1 stycznia roku następnego",
+      "d": "Od dnia zakończenia kontroli"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 211,
+    "text": "W jakiej formie organ orzeka o obowiązku zwrotu środków unijnych?",
+    "options": {
+      "a": "Listu poleconego",
+      "b": "Decyzji administracyjnej",
+      "c": "Uchwały sejmiku",
+      "d": "Ustnego polecenia"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 212,
+    "text": "Ile dni ma beneficjent na zwrot środków od dnia doręczenia ostatecznej decyzji?",
+    "options": {
+      "a": "7 dni",
+      "b": "14 dni",
+      "c": "30 dni",
+      "d": "60 dni"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 213,
+    "text": "Co oznacza, że środki unijne zostały wykorzystane 'z naruszeniem procedur'?",
+    "options": {
+      "a": "Beneficjent kupił sprzęt od firmy, która nie wygrała przetargu",
+      "b": "Beneficjent napisał raport niebieskim długopisem zamiast czarnym",
+      "c": "Pracownik projektu wziął urlop na żądanie",
+      "d": "Zmieniono nazwę banku obsługującego beneficjenta"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 214,
+    "text": "Czy decyzję o zwrocie środków wydaje się, gdy beneficjent sam zgłosił nieprawidłowość i oddał pieniądze?",
+    "options": {
+      "a": "Tak, procedura musi zostać zakończona decyzją",
+      "b": "Nie, decyzji nie wydaje się, jeśli zwrot nastąpił przed jej wydaniem",
+      "c": "Tak, ale tylko w celu nałożenia kary grzywny",
+      "d": "Decyzję wydaje wtedy Minister Finansów"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 215,
+    "text": "Która ustawa reguluje zasady wydatkowania środków UE w perspektywie 2021-2027?",
+    "options": {
+      "a": "Ustawa o rachunkowości",
+      "b": "Ustawa wdrożeniowa",
+      "c": "Kodeks Postępowania Administracyjnego",
+      "d": "Ustawa o podatku VAT"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 216,
+    "text": "W jakim przypadku środki UE nie podlegają zwrotowi mimo uchybień?",
+    "options": {
+      "a": "Gdy uchybienie jest merytoryczne i dotyczy celu projektu",
+      "b": "Gdy błąd nie ma charakteru nieprawidłowości indywidualnej i nie wpływa na budżet UE",
+      "c": "Gdy beneficjentem jest partia polityczna",
+      "d": "Każde uchybienie zawsze skutkuje zwrotem"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 217,
+    "text": "Czym jest 'część' w klasyfikacji budżetowej?",
+    "options": {
+      "a": "Grupą wydatków na konkretną drogę",
+      "b": "Podstawowym przekrojem budżetu (np. Administracja publiczna, Obrona narodowa)",
+      "c": "Ułamkiem kwoty podatku",
+      "d": "Załącznikiem do faktury"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 218,
+    "text": "Co to jest 'rozdział' w klasyfikacji wydatków?",
+    "options": {
+      "a": "Fragment tekstu ustawy",
+      "b": "Bardziej szczegółowy podział w ramach działu (np. szkoły podstawowe)",
+      "c": "Data publikacji budżetu",
+      "d": "Podział na województwa"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 219,
+    "text": "Czy w ustawie budżetowej wydatki są dzielone na paragrafy?",
+    "options": {
+      "a": "Tak, zawsze",
+      "b": "Nie, w ustawie kończy się na rozdziałach (aby dać elastyczność dysponentom)",
+      "c": "Tylko w zakresie wynagrodzeń",
+      "d": "Tylko dla wydatków z UE"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 220,
+    "text": "Kto nadaje w drodze rozporządzenia szczegółową klasyfikację dochodów i wydatków?",
+    "options": {
+      "a": "Prezes Rady Ministrów",
+      "b": "Minister Finansów",
+      "c": "Marszałek Sejmu",
+      "d": "Prezes NIK"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 221,
+    "text": "Jaki jest główny cel audytu wewnętrznego w jednostce sektora?",
+    "options": {
+      "a": "Znalezienie winnych i ukaranie ich",
+      "b": "Niezależna ocena systemów zarządzania i kontroli oraz doradztwo",
+      "c": "Zastąpienie Głównego Księgowego w pracy",
+      "d": "Przygotowanie raportu dla prasy"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 222,
+    "text": "Czy w jednostkach budżetowych dopuszczalne jest przesuwanie środków między działami bez zgody organu?",
+    "options": {
+      "a": "Tak, kierownik może to robić dowolnie",
+      "b": "Nie, przesunięcia wymagają zmiany planu finansowego i zachowania procedur",
+      "c": "Tylko jeśli kwota nie przekracza 100 zł",
+      "d": "Tylko w grudniu"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 223,
+    "text": "Co oznacza zasada 'jedności formalnej' budżetu?",
+    "options": {
+      "a": "Wszystkie dochody i wydatki państwa muszą być ujęte w jednym dokumencie",
+      "b": "Każdy urzędnik musi nosić taki sam mundur",
+      "c": "Wszystkie faktury muszą mieć ten sam format",
+      "d": "Polska musi mieć ten sam budżet co Niemcy"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 224,
+    "text": "Czym jest 'zobowiązanie' w finansach publicznych?",
+    "options": {
+      "a": "Obietnicą wyborczą",
+      "b": "Wynikającym z przepisów lub umów obowiązkiem zapłaty określonej kwoty",
+      "c": "Planem wydatków na przyszły rok",
+      "d": "Rodzajem podatku"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 225,
+    "text": "Do czego zobowiązany jest kierownik jednostki w zakresie należności (art. 42 u.f.p.)?",
+    "options": {
+      "a": "Do ich darowania każdemu biednemu dłużnikowi",
+      "b": "Do ustalania ich w prawidłowej wysokości i terminowego dochodzenia",
+      "c": "Do przekazywania ich na cele charytatywne",
+      "d": "Do ukrywania ich przed kontrolą"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 226,
+    "text": "Czym jest budżet w ujęciu prawnym?",
+    "options": {
+      "a": "Prognozą pogody gospodarczej",
+      "b": "Aktem prawnym (ustawą lub uchwałą)",
+      "c": "Zbiorem luźnych notatek ministra",
+      "d": "Reklamą sukcesów rządu"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 227,
+    "text": "Co oznacza, że budżet jest aktem 'rocznym'?",
+    "options": {
+      "a": "Że jest ogłaszany raz na rok, ale trwa 5 lat",
+      "b": "Że planuje operacje finansowe na okres jednego roku budżetowego",
+      "c": "Że dotyczy tylko wydatków na święta roczne",
+      "d": "Że trzeba go czytać przez cały rok"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 228,
+    "text": "Zasada 'zupełności' budżetu oznacza, że:",
+    "options": {
+      "a": "Budżet musi zawierać absolutnie wszystkie dochody i wydatki państwa",
+      "b": "Budżet jest w 100% poprawny",
+      "c": "W budżecie nie ma błędów ortograficznych",
+      "d": "Wszystkie pieniądze zostały wydane"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 229,
+    "text": "Co to jest 'deficyt budżetowy'?",
+    "options": {
+      "a": "Sytuacja, gdy wydatki są równe dochodom",
+      "b": "Sytuacja, gdy planowane wydatki są wyższe niż planowane dochody",
+      "c": "Brak pieniędzy w portfelu obywatela",
+      "d": "Spadek wartości waluty krajowej"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 230,
+    "text": "Kto odpowiada za sporządzenie projektu budżetu państwa?",
+    "options": {
+      "a": "Prezydent RP",
+      "b": "Rada Ministrów",
+      "c": "Sąd Najwyższy",
+      "d": "Marszałek Sejmu"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 231,
+    "text": "Kto uchwala ustawę budżetową?",
+    "options": {
+      "a": "Rada Ministrów",
+      "b": "Sejm",
+      "c": "NBP",
+      "d": "Związek Miast Polskich"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 232,
+    "text": "Jaki organ sprawuje nadzór nad gospodarką finansową JST w zakresie budżetu?",
+    "options": {
+      "a": "Minister Obrony Narodowej",
+      "b": "Regionalna Izba Obrachunkowa (RIO)",
+      "c": "Urząd Celno-Skarbowy",
+      "d": "Sanepid"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 233,
+    "text": "Czym jest 'dyscyplina finansów publicznych'?",
+    "options": {
+      "a": "Wojskowym drylem w urzędzie",
+      "b": "Zespołem reguł określających prawidłowość operacji finansowych i odpowiedzialność za ich naruszenie",
+      "c": "Oszczędzaniem na oświetleniu ulic",
+      "d": "Podatkiem od zysków bankowych"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 234,
+    "text": "Kto podlega ustawie o odpowiedzialności za naruszenie dyscypliny finansów publicznych?",
+    "options": {
+      "a": "Tylko politycy",
+      "b": "Osoby wchodzące w skład organu jednostki, pracownicy oraz inne osoby dysponujące środkami",
+      "c": "Wyłącznie bezrobotni",
+      "d": "Tylko obywatele innych państw"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 235,
+    "text": "Naruszeniem dyscypliny jest:",
+    "options": {
+      "a": "Przejście na czerwonym świetle",
+      "b": "Wydatkowanie środków bez upoważnienia lub z przekroczeniem limitu",
+      "c": "Spóźnienie się do pracy o 5 minut",
+      "d": "Picie kawy w czasie pracy"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 236,
+    "text": "Czy niepobranie należności podatkowej jest naruszeniem dyscypliny finansów?",
+    "options": {
+      "a": "Nie, to jest uprzejmość wobec podatnika",
+      "b": "Tak, jest to czyn zabroniony przez ustawę",
+      "c": "Tylko jeśli kwota przekracza milion złotych",
+      "d": "Tylko jeśli urzędnik wziął łapówkę"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 237,
+    "text": "Jaka kara może zostać nałożona za naruszenie dyscypliny finansów publicznych?",
+    "options": {
+      "a": "Dożywocie",
+      "b": "Upomnienie, nagana, kara pieniężna lub zakaz pełnienia funkcji",
+      "c": "Chłosta publiczna",
+      "d": "Konfiskata całego prywatnego majątku"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 238,
+    "text": "Kto orzeka o naruszeniu dyscypliny w pierwszej instancji (dla JST)?",
+    "options": {
+      "a": "Sąd Rejonowy",
+      "b": "Regionalna komisja orzekająca przy RIO",
+      "c": "Burmistrz",
+      "d": "Komendant Straży Miejskiej"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 239,
+    "text": "Jak nazywa się centralny organ orzekający w sprawach dyscypliny finansów?",
+    "options": {
+      "a": "Trybunał Konstytucyjny",
+      "b": "Główna Komisja Orzekająca",
+      "c": "Rada Stanu",
+      "d": "Sąd Najwyższy"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 240,
+    "text": "Co oznacza zasada 'przejrzystości' finansów publicznych?",
+    "options": {
+      "a": "Stosowanie przejrzystych koszulek na dokumenty",
+      "b": "Stosowanie jednolitych reguł klasyfikacji i sprawozdawczości umożliwiających ocenę gospodarki",
+      "c": "Budowanie urzędów ze szkła",
+      "d": "Udostępnianie haseł do kont bankowych państwa wszystkim chętnym"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 241,
+    "text": "Gdzie publikowane są sprawozdania z wykonania budżetu państwa?",
+    "options": {
+      "a": "W Gazecie Wyborczej",
+      "b": "W Monitorze Polskim",
+      "c": "W serwisie Facebook",
+      "d": "W ogłoszeniach parafialnych"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 242,
+    "text": "Jaki wpływ na gospodarkę ma wysoki dług publiczny?",
+    "options": {
+      "a": "Powoduje, że wszyscy są bogatsi",
+      "b": "Może prowadzić do konieczności podnoszenia podatków i ograniczania inwestycji",
+      "c": "Nie ma żadnego wpływu",
+      "d": "Zmniejsza inflację do zera"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 243,
+    "text": "Czym jest 'budżet państwa' w ujęciu ekonomicznym?",
+    "options": {
+      "a": "Portfelem Ministra Finansów",
+      "b": "Zasobem pieniężnym służącym do finansowania zadań państwa",
+      "c": "Listą zakupów rządu",
+      "d": "Wykresami na konferencji prasowej"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 244,
+    "text": "Kto to jest 'dysponent środków budżetowych'?",
+    "options": {
+      "a": "Osoba uprawniona do wydawania pieniędzy z określonej części budżetu",
+      "b": "Każdy obywatel płacący podatki",
+      "c": "Kasjer w banku NBP",
+      "d": "Kurier dostarczający pieniądze do urzędu"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 245,
+    "text": "Czym są 'wydatki niewygasające'?",
+    "options": {
+      "a": "Wydatkami na paliwo, które się nie kończy",
+      "b": "Wydatkami, które wyjątkowo mogą być zrealizowane po zakończeniu roku budżetowego",
+      "c": "Wydatkami na wieczne lampki na grobach",
+      "d": "Podatkami, które trzeba płacić zawsze"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 246,
+    "text": "Jaki organ dokonuje corocznej oceny wykonania budżetu państwa (absolutorium)?",
+    "options": {
+      "a": "Narodowy Bank Polski",
+      "b": "Sejm",
+      "c": "Prokuratura Generalna",
+      "d": "Konferencja Episkopatu"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 247,
+    "text": "Co to jest 'audyt zewnętrzny' finansów państwa?",
+    "options": {
+      "a": "Kontrola prowadzona przez urzędników z zagranicy",
+      "b": "Kontrola prowadzona przez Najwyższą Izbę Kontroli (NIK)",
+      "c": "Ankieta wśród obywateli",
+      "d": "Przegląd prasy finansowej"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 248,
+    "text": "Które prawo finansowe zajmuje się cłami przy imporcie towarów?",
+    "options": {
+      "a": "Prawo bankowe",
+      "b": "Prawo celne",
+      "c": "Prawo dewizowe",
+      "d": "Prawo pracy"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 249,
+    "text": "Czym zajmuje się 'prawo dewizowe'?",
+    "options": {
+      "a": "Produkcją monet",
+      "b": "Obrotem wartościami dewizowymi i kontrolą dewizową",
+      "c": "Udzielaniem ślubów cywilnych",
+      "d": "Sprzedażą nieruchomości"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 250,
+    "text": "Jaki procentowy próg długu publicznego w relacji do PKB jest zapisany w Konstytucji RP?",
+    "options": {
+      "a": "30%",
+      "b": "60%",
+      "c": "100%",
+      "d": "Konstytucja nie określa progu"
+    },
+    "correct_answers": ["b"]
   }
 ]
