@@ -1,2754 +1,2195 @@
 [
   {
     "id": 1,
-    "text": "Co stanowi podstawę gospodarki finansowej państwa w danym roku budżetowym zgodnie z art. 109 u.f.p.?",
+    "text": "Narodowy Bank Polski:",
     "options": {
-      "a": "Ustawa o finansach publicznych",
-      "b": "Ustawa budżetowa",
-      "c": "Rozporządzenie Ministra Finansów",
-      "d": "Uchwała Rady Ministrów"
+      "a": "Posiada osobowość prawną",
+      "b": "Emituje znaki pieniężne",
+      "c": "Posiada zarząd",
+      "d": "RPP ma roczną kadencję"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c"]
   },
   {
     "id": 2,
-    "text": "Z jakich elementów składa się ustawa budżetowa?",
+    "text": "Prezes NBP:",
     "options": {
-      "a": "Z budżetu państwa i załączników",
-      "b": "Z budżetu państwa, załączników i postanowień wynikających z ustaw",
-      "c": "Wyłącznie z planu wydatków i dochodów",
-      "d": "Z budżetu państwa oraz budżetów jednostek samorządu terytorialnego"
+      "a": "Powołanie i odwołanie przez Sejm na wniosek Prezydenta RP",
+      "b": "Jest przewodniczącym RPP",
+      "c": "Może sprawować swoje stanowisko pomimo skazania prawomocnym wyrokiem Sądu",
+      "d": "Żadna z powyższych"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b"]
   },
   {
     "id": 3,
-    "text": "Na jaki okres uchwalana jest ustawa budżetowa?",
+    "text": "Jednostki sektora finansów publicznych to:",
     "options": {
-      "a": "Na okres 2 lat",
-      "b": "Na rok kalendarzowy",
-      "c": "Na okres kadencji Sejmu",
-      "d": "Na dowolny okres wskazany przez Ministra Finansów"
+      "a": "Jednostki budżetowe",
+      "b": "Agencje wykonawcze",
+      "c": "Państwowe Fundusze Celowe",
+      "d": "ZUS i NFZ",
+      "e": "Instytucje Gospodarki Budżetowej",
+      "f": "Wszystkie spółki Partnerskie na terenie RP",
+      "g": "UEK"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c", "d", "e", "g"]
   },
   {
     "id": 4,
-    "text": "Czy ustawa budżetowa może zawierać przepisy zmieniające inne ustawy?",
+    "text": "Do sektora finansów publicznych należą:",
     "options": {
-      "a": "Tak, jeśli dotyczy to oszczędności",
-      "b": "Tak, za zgodą Senatu",
-      "c": "Nie, ustawa budżetowa nie może zmieniać innych ustaw",
-      "d": "Tak, ale tylko w zakresie podatków"
+      "a": "Wojewódzkie fundusze ochrony środowiska",
+      "b": "Gospodarstwo Lasy Państwowe",
+      "c": "Instytuty naukowo badawcze",
+      "d": "TVP S.A."
     },
-    "correct_answers": ["c"]
+    "correct_answers": ["a"]
   },
   {
     "id": 5,
-    "text": "Czym jest budżet jednostki samorządu terytorialnego (JST) według art. 211 u.f.p.?",
+    "text": "Do sektora finansów publicznych należą:",
     "options": {
-      "a": "Wieloletnią prognozą finansową",
-      "b": "Rocznym planem dochodów i wydatków oraz przychodów i rozchodów",
-      "c": "Zbiorem wszystkich faktur wystawionych przez urząd",
-      "d": "Dokumentem określającym wysokość podatków lokalnych"
+      "a": "Związki metropolitarne",
+      "b": "Gospodarstwo lasy państwowe",
+      "c": "Szkoła prowadzona przez stowarzyszenie",
+      "d": "Instytut naukowo-badawczy"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a"]
   },
   {
     "id": 6,
-    "text": "Co jest podstawą gospodarki finansowej JST w danym roku budżetowym?",
+    "text": "Do sektora finansów publicznych należą:",
     "options": {
-      "a": "Ustawa budżetowa",
-      "b": "Zarządzenie Burmistrza/Wójta",
-      "c": "Uchwała budżetowa",
-      "d": "Budżet środków europejskich"
+      "a": "Wojewódzkie fundusze ochrony środowiska",
+      "b": "Gospodarstwo Lasy państwowe",
+      "c": "Instytuty naukowo badawcze",
+      "d": "Bank Gospodarstwa Krajowego"
     },
-    "correct_answers": ["c"]
+    "correct_answers": ["a"]
   },
   {
     "id": 7,
-    "text": "Z czego składa się uchwała budżetowa JST?",
+    "text": "Do sektora finansów publicznych zalicza się:",
     "options": {
-      "a": "Z budżetu JST i załączników",
-      "b": "Z planu inwestycyjnego i listy dotacji",
-      "c": "Z budżetu państwa oraz subwencji",
-      "d": "Z dochodów własnych i podatków"
+      "a": "Uniwersytety ekonomiczne",
+      "b": "Koła łowieckie",
+      "c": "NBP",
+      "d": "Ochotnicze straże pożarna"
     },
     "correct_answers": ["a"]
   },
   {
     "id": 8,
-    "text": "Czym jest budżet środków europejskich?",
+    "text": "Zasada jedności:",
     "options": {
-      "a": "Planem wydatków Komisji Europejskiej na terenie Polski",
-      "b": "Rocznym planem dochodów i podlegających refundacji wydatków na programy europejskie",
-      "c": "Funduszem celowym na wypadek kryzysu w strefie euro",
-      "d": "Częścią budżetu państwa finansującą wyłącznie administrację rządową"
+      "a": "Zestawienie w budżecie wszystkich dochodów i wydatków Państwa",
+      "b": "Występuje w 2 postaciach: formalnej i materialnej",
+      "c": "Przyporządkowanie określonego celu każdej pozycji w budżecie",
+      "d": "Istnieje 1 dokument określający całość dochodów i wydatków Państwa"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "d"]
   },
   {
     "id": 9,
-    "text": "Co wyłącza się z budżetu środków europejskich zgodnie z art. 117 u.f.p.?",
+    "text": "Zasada jedności dzieli się na:",
     "options": {
-      "a": "Wydatki na drogi krajowe",
-      "b": "Środki na projekty pomocy technicznej",
-      "c": "Dotacje dla rolników",
-      "d": "Koszty obsługi długu publicznego"
+      "a": "Materialną",
+      "b": "Majątkową",
+      "c": "Formalną",
+      "d": "Całkowitą"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "c"]
   },
   {
     "id": 10,
-    "text": "W jaki sposób finansowany jest deficyt budżetu środków europejskich (art. 118 u.f.p.)?",
+    "text": "Zasada jawności wiąże się z podawaniem do publicznej wiadomości:",
     "options": {
-      "a": "Przez pożyczki z budżetu UE",
-      "b": "W ramach potrzeb pożyczkowych budżetu państwa",
-      "c": "Z darowizn obywateli",
-      "d": "Nie może wystąpić deficyt w tym budżecie"
+      "a": "Kwot dotacji",
+      "b": "Zbiorczych danych dotyczących finansów publicznych",
+      "c": "Informacji o wykonaniu budżetu Państwa",
+      "d": "Przebiegu debaty o budżet w Sejmie i Senacie"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c", "d"]
   },
   {
     "id": 11,
-    "text": "Co zalicza się do dochodów budżetu środków europejskich?",
+    "text": "Budżetową zasadę zupełności realizują w pełni:",
     "options": {
-      "a": "Podatki od dochodów osobistych",
-      "b": "Środki pochodzące z funduszy strukturalnych i Funduszu Spójności",
-      "c": "Wpływy z mandatów karnych",
-      "d": "Zysk Narodowego Banku Polskiego"
+      "a": "Jednostki budżetowe",
+      "b": "Agencje wykonawcze",
+      "c": "SZOZ",
+      "d": "Instytucje Gospodarki Budżetowej"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a"]
   },
   {
     "id": 12,
-    "text": "Która zasada finansów publicznych jest realizowana przez prowadzenie rejestru umów (art. 34a u.f.p.)?",
+    "text": "Budżetową zasadę zupełności realizują w pełni:",
     "options": {
-      "a": "Zasada jedności",
-      "b": "Zasada jawności i przejrzystości",
-      "c": "Zasada roczności",
-      "d": "Zasada równowagi"
+      "a": "Agencje wykonawcze",
+      "b": "Jednostki budżetowe",
+      "c": "Samorządowe zakłady budżetowe",
+      "d": "Instytucje gospodarki budżetowej"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 13,
-    "text": "Kto prowadzi rejestr umów zawartych przez jednostki sektora finansów publicznych?",
+    "text": "Klasyfikacja budżetowa powinna mieć funkcję:",
     "options": {
-      "a": "Prezes NIK",
-      "b": "Minister Finansów",
-      "c": "Marszałek Sejmu",
-      "d": "Prezes Rady Ministrów"
+      "a": "Prawną",
+      "b": "Informacyjną",
+      "c": "Sprawozdawczą",
+      "d": "Statystyczną"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c", "d"]
   },
   {
     "id": 14,
-    "text": "Od jakiej kwoty wartości przedmiotu umowy powstaje obowiązek wpisu do rejestru umów?",
+    "text": "Państwowe jednostki budżetowe mogą:",
     "options": {
-      "a": "Powyżej 100 zł",
-      "b": "Powyżej 500 zł",
-      "c": "Powyżej 1000 zł",
-      "d": "Od każdej kwoty"
+      "a": "Przeznaczać dochody na finansowanie wynagrodzeń osobowych",
+      "b": "Gromadzić dochody za odpłatne wyżywienie i zakwaterowanie uczniów",
+      "c": "Przeznaczać dochody na cele wskazane przez darczyńcę",
+      "d": "Gromadzić dochody pochodzące z opłat egzaminacyjnych",
+      "e": "Przeznaczać dochody na sfinansowanie wydatków bieżących i majątkowych"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "c", "d", "e"]
   },
   {
     "id": 15,
-    "text": "W jakim terminie należy wprowadzić dane do rejestru umów od dnia zawarcia umowy?",
+    "text": "Jednostki budżetowe:",
     "options": {
-      "a": "Niezwłocznie, nie później niż w 14 dni",
-      "b": "W ciągu 30 dni",
-      "c": "Do końca miesiąca",
-      "d": "W ciągu 7 dni"
+      "a": "Wszystkie swoje dochody odprowadzają na rachunek budżetu państwa",
+      "b": "W razie potrzeby mogą zakładać rachunki środków specjalnych",
+      "c": "Wszystkie wydatki pokrywają z budżetu",
+      "d": "Mogą otrzymywać dotacje inwestycyjne"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["a", "c"]
   },
   {
     "id": 16,
-    "text": "Które z poniższych są dochodami publicznymi zgodnie z art. 5 u.f.p.?",
+    "text": "Roczny plan finansowy jest podstawą gospodarki finansowej:",
     "options": {
-      "a": "Kredyty i pożyczki",
-      "b": "Daniny publiczne (podatki, składki)",
-      "c": "Wpływy ze sprzedaży obligacji",
-      "d": "Pieniądze z prywatyzacji"
+      "a": "Agencji wykonawczej",
+      "b": "Instytucji Gospodarki Budżetowej",
+      "c": "Samorządowych zakładów budżetowych",
+      "d": "Państwowych funduszy celowych",
+      "e": "Państwowych i samorządowych osób prawnych"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c", "d", "e"]
   },
   {
     "id": 17,
-    "text": "Czym różni się dochód publiczny od przychodu publicznego?",
+    "text": "Do obowiązków Samorządowych zakładów budżetowych należy:",
     "options": {
-      "a": "Dochód jest zwrotny, przychód bezzwrotny",
-      "b": "Dochód jest bezzwrotny, przychód jest zwrotny",
-      "c": "Nie ma żadnej różnicy",
-      "d": "Dochód dotyczy tylko państwa, przychód tylko JST"
+      "a": "Pokrywanie kosztów swojej działalności z przychodów własnych",
+      "b": "Odpłatne wykonywanie zadań",
+      "c": "Wpłata na osobny rachunek SZB nadwyżki środków obrotowych i przeznaczenie jej na wynagrodzenia",
+      "d": "Żadne z powyższych"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b"]
   },
   {
     "id": 18,
-    "text": "Co stanowi przykład przychodów publicznych?",
+    "text": "Środki publiczne mogą być przeznaczone na:",
     "options": {
-      "a": "Podatek VAT",
-      "b": "Przychody ze sprzedaży papierów wartościowych",
-      "c": "Cło",
-      "d": "Grzywny i mandaty"
+      "a": "Dochody i przychody publiczne",
+      "b": "Tylko dochody publiczne",
+      "c": "Wydatki i rozchody publiczne",
+      "d": "Tylko wydatki publiczne"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c"]
   },
   {
     "id": 19,
-    "text": "Do jakiej kategorii należą spłaty udzielonych pożyczek?",
+    "text": "Do środków publicznych zalicza się:",
     "options": {
-      "a": "Dochody publiczne",
-      "b": "Przychody publiczne",
-      "c": "Wydatki publiczne",
-      "d": "Rozchody publiczne"
+      "a": "Darowiznę na rzecz szkoły gminnej",
+      "b": "Wpływ z biletów w muzeum regionalnym",
+      "c": "Przychody instytucji gospodarki budżetowej",
+      "d": "Wadium (depozyt) wniesione do urzędu wojewódzkich"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c"]
   },
   {
     "id": 20,
-    "text": "Czym są rozchody publiczne?",
+    "text": "Do środków publicznych należą wpływy budżetu z tytułu:",
     "options": {
-      "a": "Zakupem materiałów biurowych",
-      "b": "Spłatami otrzymanych pożyczek i kredytów",
-      "c": "Wypłatą wynagrodzeń dla urzędników",
-      "d": "Wpływami z podatków"
+      "a": "Wadium przetargowe lub innego depozytu",
+      "b": "Najmu nieruchomości publicznej",
+      "c": "Darowizny, spadku lub zapisu",
+      "d": "Odszkodowania za zniszczenie samochodu służbowego"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "c", "d"]
   },
   {
     "id": 21,
-    "text": "Który organ sprawuje nadzór nad rynkiem finansowym?",
+    "text": "Dochody i przychody w budżecie Państwa i budżetach JST:",
     "options": {
-      "a": "Prezes NBP",
-      "b": "Komisja Nadzoru Finansowego",
-      "c": "Minister Sprawiedliwości",
-      "d": "Rada Polityki Pieniężnej"
+      "a": "Stanowią nieprzekraczalny limit",
+      "b": "Stanowią prognozy ich wielkości",
+      "c": "Odpowiedź A i B jest poprawna",
+      "d": "Żadna z powyższych"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 22,
-    "text": "Jaki charakter ma budżetowanie w jednostce budżetowej?",
+    "text": "Państwowy dług publiczny obejmuje:",
     "options": {
-      "a": "Netto",
-      "b": "Brutto",
-      "c": "Zadaniowe",
-      "d": "Mieszane"
+      "a": "Zaciągnięte kredyty i pożyczki",
+      "b": "Przyjęte depozyty",
+      "c": "Wyemitowane papiery wartościowe",
+      "d": "Zobowiązania finansowe pracowników biur JST"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c"]
   },
   {
     "id": 23,
-    "text": "Na czym polega zasada budżetowania brutto?",
+    "text": "Kwota zaciągniętych pożyczek i kredytów nie może przekroczyć limitów określonych w:",
     "options": {
-      "a": "Jednostka zatrzymuje dochody na swoje wydatki",
-      "b": "Dochody są odprowadzane do budżetu, a wydatki pokrywane bezpośrednio z budżetu",
-      "c": "Jednostka płaci podatki od swoich zysków",
-      "d": "Wydatki nie mogą być wyższe niż dochody"
+      "a": "UFP",
+      "b": "Ustawie o NBP",
+      "c": "Ustawie budżetowej",
+      "d": "Odpowiedzi A i C są poprawne"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c"]
   },
   {
     "id": 24,
-    "text": "Czy jednostka budżetowa posiada osobowość prawną?",
+    "text": "Zjawisko deficytu budżetowego występuje, gdy:",
     "options": {
-      "a": "Tak, zawsze",
-      "b": "Nie, nie posiada osobowości prawnej",
-      "c": "Tak, ale tylko jednostki państwowe",
-      "d": "Tylko jeśli wpisze się do KRS"
+      "a": "Wydatki są niższe niż dochody",
+      "b": "Dochody są wyższe niż wydatki",
+      "c": "Wydatki są wyższe niż dochody",
+      "d": "Dochody są niższe niż wydatki"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c", "d"]
   },
   {
     "id": 25,
-    "text": "Czym charakteryzuje się samorządowy zakład budżetowy?",
+    "text": "Deficyt budżetu samorządowego może być sfinansowany z:",
     "options": {
-      "a": "Rozlicza się metodą brutto",
-      "b": "Odpłatnie wykonuje zadania i pokrywa koszty z przychodów własnych",
-      "c": "Jest spółką akcyjną gminy",
-      "d": "Nie może otrzymywać żadnych dotacji"
+      "a": "Wolnymi środkami na rachunku bieżącym",
+      "b": "Nadwyżki z lat ubiegłych",
+      "c": "Prywatyzacji majątku",
+      "d": "Dochodów z mienia (dzierżawy, najem, leasing)"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c"]
   },
   {
     "id": 26,
-    "text": "Jaki jest dopuszczalny limit dotacji przedmiotowych dla samorządowego zakładu budżetowego (z wyjątkami)?",
+    "text": "Deficyt budżetu państwa jest limitowany ustawowo:",
     "options": {
-      "a": "30% kosztów działalności",
-      "b": "50% kosztów działalności",
-      "c": "75% kosztów działalności",
-      "d": "Bez limitu"
+      "a": "Dopuszczalna wielkość zagrożenia 3/5 PKB",
+      "b": "Dopuszczalna wielkością zadłużenia 4/5 PKB",
+      "c": "Ustalonymi sposobami jego pokrycia",
+      "d": "Możliwością zaciągnięcia zobowiązań w banku centralnym"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c"]
   },
   {
     "id": 27,
-    "text": "Kiedy samorządowy zakład budżetowy może otrzymać dotację wyższą niż 50% kosztów?",
+    "text": "Obowiązek ogłaszania wysokości długu publicznego należy do:",
     "options": {
-      "a": "Gdy realizuje inwestycje finansowane z udziałem środków UE",
-      "b": "Gdy ma kłopoty finansowe",
-      "c": "Gdy tak zdecyduje Prezydent Miasta bez uzasadnienia",
-      "d": "Nigdy"
+      "a": "Prezydenta RP",
+      "b": "Ministra Finansów",
+      "c": "Wicepremiera",
+      "d": "Marszałka sejmu"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["b"]
   },
   {
     "id": 28,
-    "text": "Czym jest agencja wykonawcza?",
+    "text": "Subwencję ogólną otrzymują:",
     "options": {
-      "a": "Jednostką budżetową bez osobowości prawnej",
-      "b": "Państwową osobą prawną tworzoną na podstawie odrębnej ustawy w celu realizacji zadań państwa",
-      "c": "Prywatną firmą wykonującą zlecenia rządu",
-      "d": "Fundacją powołaną przez Ministra Finansów"
+      "a": "Województwa",
+      "b": "Gminy",
+      "c": "Miasta na prawach powiatu",
+      "d": "JST"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c", "d"]
   },
   {
     "id": 29,
-    "text": "Na podstawie czego działa agencja wykonawcza?",
+    "text": "Subwencje ogólną otrzymują:",
     "options": {
-      "a": "Wyłącznie statutu",
-      "b": "Rocznego planu finansowego",
-      "c": "Uchwały zarządu województwa",
-      "d": "Księgi przychodów i rozchodów"
+      "a": "Wszystkie JST",
+      "b": "Województwa",
+      "c": "Powiaty",
+      "d": "Gminy"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c", "d"]
   },
   {
     "id": 30,
-    "text": "W jakiej formie tworzona jest instytucja gospodarki budżetowej?",
+    "text": "Państwowy fundusz celowy:",
     "options": {
-      "a": "Jako wydzielone konto bankowe",
-      "b": "Jako państwowa osoba prawna",
-      "c": "Jako stowarzyszenie",
-      "d": "Jako fundacja"
+      "a": "Posiada osobowość prawną",
+      "b": "Stanowi wyodrębniony rachunek bankowy",
+      "c": "Minister Skarbu Państwa jest jego jedynym dysponentem",
+      "d": "Odpowiedzi A i B są prawidłowe"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 31,
-    "text": "W którym momencie instytucja gospodarki budżetowej uzyskuje osobowość prawną?",
+    "text": "Państwowy fundusz celowy ma:",
     "options": {
-      "a": "Z chwilą ogłoszenia w Monitorze Polskim",
-      "b": "Z chwilą wpisu do Krajowego Rejestru Sądowego (KRS)",
-      "c": "Z chwilą zatrudnienia dyrektora",
-      "d": "Z dniem 1 stycznia roku następnego"
+      "a": "Osobowość prawną",
+      "b": "Plan finansowy",
+      "c": "Wyodrębniony rachunek bankowy",
+      "d": "Obowiązek odprowadzenia nadwyżki do budżetu państwa"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "c", "d"]
   },
   {
     "id": 32,
-    "text": "Czym jest Państwowy Fundusz Celowy (art. 29 u.f.p.)?",
+    "text": "Państwowy fundusz celowy:",
     "options": {
-      "a": "Osobną agencją rządową",
-      "b": "Wyodrębnionym rachunkiem bankowym, którym dysponuje minister",
-      "c": "Spółką Skarbu Państwa",
-      "d": "Funduszem inwestycyjnym na giełdzie"
+      "a": "Posiada osobowość prawną",
+      "b": "Stanowi wyodrębniony rachunek bankowy",
+      "c": "Dysponuje nim Minister Skarbu Państwa",
+      "d": "Jego przychody pochodzą wyłącznie z dotacji"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 33,
-    "text": "Czy Państwowy Fundusz Celowy posiada osobowość prawną?",
+    "text": "Posiedzenia RPP zwołuje:",
     "options": {
-      "a": "Tak",
-      "b": "Nie",
-      "c": "Tak, o ile tak stanowi ustawa",
-      "d": "Tylko fundusze samorządowe ją mają"
+      "a": "Przewodniczący (co najmniej raz w miesiącu)",
+      "b": "Prezydent RP przynajmniej raz do roku",
+      "c": "Przynajmniej trzech członków w Rady (pisemny wniosek)",
+      "d": "Żadna z powyższych"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "c"]
   },
   {
     "id": 34,
-    "text": "W jakiej formie działa Samodzielny Publiczny Zakład Opieki Zdrowotnej (SPZOZ)?",
+    "text": "W skład RPP wchodzi 9 członków powoływanych przez:",
     "options": {
-      "a": "Jako jednostka budżetowa",
-      "b": "Jako państwowa lub samorządowa osoba prawna",
-      "c": "Jako fundacja celowa",
-      "d": "Jako spółka z ograniczoną odpowiedzialnością"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 35,
-    "text": "W którym dokumencie określa się cele i mierniki w budżecie zadaniowym?",
-    "options": {
-      "a": "W statucie jednostki",
-      "b": "W układzie zadaniowym wydatków",
-      "c": "W regulaminie pracy",
-      "d": "W umowie o pracę dyrektora"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 36,
-    "text": "Które gminy mają obowiązek tworzenia budżetu obywatelskiego?",
-    "options": {
-      "a": "Wszystkie gminy w Polsce",
-      "b": "Miasta na prawach powiatu",
-      "c": "Gminy wiejskie powyżej 10 tys. mieszkańców",
-      "d": "Gminy, w których dług przekroczył 50%"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 37,
-    "text": "Ile wynosi minimalna kwota budżetu obywatelskiego w miastach na prawach powiatu?",
-    "options": {
-      "a": "1% wydatków gminy",
-      "b": "0,5% wydatków gminy",
-      "c": "5% wydatków gminy",
-      "d": "10 mln złotych"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 38,
-    "text": "Kto określa wymagania dla kandydata na Głównego Księgowego jednostki sektora finansów publicznych?",
-    "options": {
-      "a": "Konstytucja RP",
-      "b": "Ustawa o finansach publicznych (art. 54)",
-      "c": "Kodeks Cywilny",
-      "d": "Ustawa o rachunkowości"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 39,
-    "text": "Jaki staż pracy w księgowości musi posiadać osoba z wykształceniem średnim medycznym lub ekonomicznym, by być Głównym Księgowym?",
-    "options": {
-      "a": "3 lata",
-      "b": "6 lat",
-      "c": "10 lat",
-      "d": "Nie może być księgowym"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 40,
-    "text": "Czy Główny Księgowy może być karany za przestępstwo skarbowe?",
-    "options": {
-      "a": "Tak, jeśli zapłacił grzywnę",
-      "b": "Nie, musi posiadać pełną niekaralność w tym zakresie",
-      "c": "Tak, jeśli przestępstwo było nieumyślne",
-      "d": "Tylko jeśli kara była wyższa niż rok więzienia"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 41,
-    "text": "Co oznacza zasada jedności formalnej budżetu?",
-    "options": {
-      "a": "Wszystkie dochody i wydatki są w jednym dokumencie",
-      "b": "Wszystkie dochody przeznacza się na wszystkie wydatki",
-      "c": "Budżet jest uchwalany przez jedną izbę parlamentu",
-      "d": "Budżet dotyczy tylko jednej instytucji"
-    },
-    "correct_answers": ["a"]
-  },
-  {
-    "id": 42,
-    "text": "Co oznacza zasada jedności materialnej budżetu (zasada nieanonimowości)?",
-    "options": {
-      "a": "Wszystkie dochody są w jednym dokumencie",
-      "b": "Wszystkie dochody budżetowe stanowią ogólny fundusz przeznaczony na finansowanie wszystkich wydatków",
-      "c": "Każdy wydatek musi mieć przypisane imię urzędnika",
-      "d": "Budżet musi być jawny dla obywateli"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 43,
-    "text": "Która instytucja obsługuje bankowo budżet państwa?",
-    "options": {
-      "a": "PKO BP",
-      "b": "Narodowy Bank Polski",
-      "c": "Bank Gospodarstwa Krajowego",
-      "d": "Europejski Bank Centralny"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 44,
-    "text": "Która instytucja obsługuje budżet środków europejskich?",
-    "options": {
-      "a": "NBP",
-      "b": "Bank Gospodarstwa Krajowego (BGK)",
-      "c": "Ministerstwo Finansów bezpośrednio",
-      "d": "Bank Światowy"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 45,
-    "text": "Czym jest państwowy dług publiczny?",
-    "options": {
-      "a": "Wartością wszystkich wydatków państwa",
-      "b": "Wartością nominalną zadłużenia jednostek sektora finansów publicznych po eliminacji wzajemnych zobowiązań",
-      "c": "Suma deficytów z ostatnich 10 lat",
-      "d": "Kredytami zaciągniętymi tylko przez rząd"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 46,
-    "text": "Jaki jest pierwszy próg ostrożnościowy relacji długu publicznego do PKB w Polsce?",
-    "options": {
-      "a": "43%",
-      "b": "55%",
-      "c": "60%",
-      "d": "50%"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 47,
-    "text": "Co się dzieje, gdy państwowy dług publiczny przekroczy 60% PKB?",
-    "options": {
-      "a": "Rada Ministrów podaje się do dymisji",
-      "b": "Obowiązuje zakaz uchwalania budżetu z deficytem",
-      "c": "Polska musi opuścić UE",
-      "d": "Nic się nie dzieje, to tylko wskaźnik"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 48,
-    "text": "Który organ jest uprawniony do emisji skarbowych papierów wartościowych?",
-    "options": {
-      "a": "Prezes NBP",
-      "b": "Minister Finansów",
-      "c": "Prezydent RP",
-      "d": "Giełda Papierów Wartościowych"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 49,
-    "text": "Czym są bony skarbowe?",
-    "options": {
-      "a": "Długoterminowymi papierami wartościowymi",
-      "b": "Krótkoterminowymi papierami wartościowymi o terminie wykupu do 52 tygodni",
-      "c": "Banknotami o wysokim nominale",
-      "d": "Rodzajem akcji Skarbu Państwa"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 50,
-    "text": "Jakie są główne rodzaje obligacji skarbowych ze względu na termin?",
-    "options": {
-      "a": "Jednodniowe i wieczyste",
-      "b": "Krótkoterminowe, średnioterminowe i długoterminowe",
-      "c": "Wyłącznie 10-letnie",
-      "d": "Tylko takie, które można wymienić na złoto"
-    },
-    "correct_answers": ["b"]
-  },
-
-  {
-    "id": 51,
-    "text": "Według jakich podziałek klasyfikuje się wydatki budżetu państwa zgodnie z art. 116 u.f.p.?",
-    "options": {
-      "a": "Wyłącznie według paragrafów",
-      "b": "Według części, działów i rozdziałów klasyfikacji budżetowej",
-      "c": "Według województw i powiatów",
-      "d": "Według imion i nazwisk dysponentów"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 52,
-    "text": "Dlaczego w budżecie państwa po stronie wydatków nie stosuje się w ustawie budżetowej podziału na paragrafy?",
-    "options": {
-      "a": "Aby nie utrudniać realnego gospodarowania pieniędzmi przez dysponentów",
-      "b": "Bo paragrafy dotyczą tylko dochodów",
-      "c": "Z powodu braku miejsca w dokumencie ustawy",
-      "d": "Ponieważ zakazuje tego Konstytucja"
-    },
-    "correct_answers": ["a"]
-  },
-  {
-    "id": 53,
-    "text": "Czym są rezerwy budżetowe zgodnie z notatkami?",
-    "options": {
-      "a": "Zapasem gotówki w skarbcu Narodowego Banku Polskiego",
-      "b": "Niepodzielnymi kwotami na realizację wydatków nieprzewidzianych",
-      "c": "Pieniędzmi odłożonymi na spłatę długu zagranicznego",
-      "d": "Nadwyżką dochodów nad wydatkami z roku ubiegłego"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 54,
-    "text": "Jaki jest limit wysokości rezerwy ogólnej w budżecie JST?",
-    "options": {
-      "a": "Nie niższa niż 0,1% i nie wyższa niż 1% wydatków budżetu",
-      "b": "Zawsze dokładnie 0,5% dochodów",
-      "c": "Maksymalnie 5% wydatków",
-      "d": "Nie ma ustawowych limitów dla samorządów"
-    },
-    "correct_answers": ["a"]
-  },
-  {
-    "id": 55,
-    "text": "Która rezerwa w projekcie ustawy budżetowej państwa jest obligatoryjna?",
-    "options": {
-      "a": "Rezerwa celowa",
-      "b": "Rezerwa ogólna",
-      "c": "Rezerwa na pomoc Ukrainie",
-      "d": "Rezerwa na odprawy emerytalne"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 56,
-    "text": "Na co mogą być przeznaczone rezerwy celowe w budżecie JST?",
-    "options": {
-      "a": "Na dowolny cel wskazany przez radnych w trakcie roku",
-      "b": "Na wydatki, których podziału nie można dokonać w momencie uchwalania budżetu",
-      "c": "Wyłącznie na nagrody dla pracowników urzędu",
-      "d": "Na spłatę kredytów zaciągniętych przez spółki gminne"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 57,
-    "text": "Jaki jest limit sumy rezerw celowych w budżecie państwa (poza wyjątkami)?",
-    "options": {
-      "a": "0,2% wydatków",
-      "b": "5% wydatków",
-      "c": "10% dochodów",
-      "d": "Nie ma limitu dla rezerw celowych"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 58,
-    "text": "Na czym polega zasada 'niefunduszowania' (art. 42 u.f.p.)?",
-    "options": {
-      "a": "Środki z poszczególnych tytułów nie mogą być przeznaczane na imiennie wymienione wydatki",
-      "b": "Zakaz zaciągania pożyczek przez jednostki budżetowe",
-      "c": "Obowiązek wydawania wszystkich pieniędzy do końca roku",
-      "d": "Zakaz przyjmowania darowizn przez gminy"
-    },
-    "correct_answers": ["a"]
-  },
-  {
-    "id": 59,
-    "text": "Czy można tworzyć fundacje ze środków publicznych na podstawie ustawy o fundacjach?",
-    "options": {
-      "a": "Tak, o ile cel jest charytatywny",
-      "b": "Tak, za zgodą Ministra Finansów",
-      "c": "Nie, ze środków publicznych nie można tworzyć fundacji",
-      "d": "Tylko gminy mają takie uprawnienie"
+      "a": "Sejm na wniosek Prezydenta RP",
+      "b": "Senat",
+      "c": "Prezydenta RP, Sejm i Senat",
+      "d": "Prezesa NBP"
     },
     "correct_answers": ["c"]
   },
   {
-    "id": 60,
-    "text": "Co oznacza zasada 'jawności gospodarowania środkami publicznymi'?",
+    "id": 35,
+    "text": "Środki publiczne to:",
     "options": {
-      "a": "Każdy obywatel ma prawo do otrzymania gotówki z budżetu",
-      "b": "Gospodarka środkami publicznymi jest jawna, z wyjątkami dotyczącymi informacji niejawnych",
-      "c": "Wszystkie wydatki państwa muszą być publikowane w prasie codziennej",
-      "d": "Zakaz utajniania jakichkolwiek wydatków, nawet na wywiad"
+      "a": "Dochody publiczne",
+      "b": "Środki pochodzące ze źródeł zagranicznych",
+      "c": "Przychody jednostek sektora finansów publicznych z prowadzonej działalności",
+      "d": "Wszystkie odpowiedzi są poprawne"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 36,
+    "text": "Instytucje Gospodarki Budżetowej działają na podstawie:",
+    "options": {
+      "a": "Statutu",
+      "b": "Regulaminu",
+      "c": "Statutu nadanego przez organ wykonujący funkcję organu założycielskiego",
+      "d": "Żadne z powyższych"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 37,
+    "text": "Instytucja gospodarki budżetowej:",
+    "options": {
+      "a": "Posiada osobowość prawną",
+      "b": "Pokrywa koszty z przychodów własnych",
+      "c": "Nie otrzymuje dotacji na inwestycje",
+      "d": "Jej mienie pochodzi z zasobów Skarbu Państwa"
+    },
+    "correct_answers": ["a", "b", "d"]
+  },
+  {
+    "id": 38,
+    "text": "Państwowy Fundusz Celowy:",
+    "options": {
+      "a": "Z jego środków mogą być udzielane pożyczki dla JST",
+      "b": "Nie zalicza się do nich funduszy, których jedynym źródłem dochodów jest dotacja z budżetu państwa",
+      "c": "Zwiększonych dochodów nigdy nie przeznacza się na spłatę pożyczek",
+      "d": "Zmiany planu finansowego PFC nie mogą powodować zwiększenia dotacji z BP"
+    },
+    "correct_answers": ["a", "b", "d"]
+  },
+  {
+    "id": 39,
+    "text": "Do funkcji Zarządu NBP należą:",
+    "options": {
+      "a": "Uchwalanie prowizji i opłat bankowych",
+      "b": "Sporządzanie rocznego sprawozdania finansowego NBP",
+      "c": "Ustalanie wysokości stóp procentowych NBP",
+      "d": "Nadzorowanie operacji wolnego rynku"
+    },
+    "correct_answers": ["a", "b", "d"]
+  },
+  {
+    "id": 40,
+    "text": "Prezydent RP:",
+    "options": {
+      "a": "Ma prawo zawetowania ustawy budżetowej",
+      "b": "Ma możliwość zwrócenia się do TK z wnioskiem o zbadanie konstytucyjności ustawy budżetowej",
+      "c": "Ma 7 dni na podpisanie ustawy budżetowej",
+      "d": "Odpowiedzi A i C są poprawne"
+    },
+    "correct_answers": ["b", "c"]
+  },
+  {
+    "id": 41,
+    "text": "Projekt ustawy budżetowej wnosi do Sejmu:",
+    "options": {
+      "a": "Marszałek Senatu",
+      "b": "Kancelaria Prezydenta RP",
+      "c": "Rada Ministrów",
+      "d": "Minister Finansów"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 42,
+    "text": "Ustawa o finansach publicznych reguluje m.in.:",
+    "options": {
+      "a": "szczegółowe procedury dokonywania zakupów towarów i usług niezbędnych dla funkcjonowania jednostek sektora publicznego",
+      "b": "zasady konstruowania budżetów powiatowych",
+      "c": "zasady tworzenia budżetów obywatelskich",
+      "d": "dyrektywność (moc prawną) postanowień ujętych w formie załączników do ustawy budżetowej"
+    },
+    "correct_answers": ["b", "d"]
+  },
+  {
+    "id": 43,
+    "text": "Wskaż twierdzenia zgodne z obowiązującym prawem:",
+    "options": {
+      "a": "nadwyżka budżetu środków europejskich jest źródłem spłaty zobowiązań budżetu państwa zaciągniętych na pokrycie deficytu budżetu środków europejskich",
+      "b": "nadwyżka budżetu środków europejskich jest źródłem spłaty zobowiązań budżetu UE",
+      "c": "deficyt budżetu środków europejskich jest finansowany w ramach potrzeb pożyczkowych UE",
+      "d": "deficyt budżetu środków europejskich jest finansowany w ramach potrzeb pożyczkowych budżetu państwa"
+    },
+    "correct_answers": ["a", "d"]
+  },
+  {
+    "id": 44,
+    "text": "Do działów prawa finansowego należy zaliczyć:",
+    "options": {
+      "a": "prywatne prawo bankowe",
+      "b": "prawo rynku kapitałowego",
+      "c": "prawo dewizowe",
+      "d": "publiczne prawo międzynarodowe"
+    },
+    "correct_answers": ["b", "c"]
+  },
+  {
+    "id": 45,
+    "text": "Które z poniższych jednostek należą do sektora finansów publicznych zgodnie z art. 9 ustawy?",
+    "options": {
+      "a": "Fundacja prywatna",
+      "b": "Agencja wykonawcza",
+      "c": "Spółka akcyjna z udziałem Skarbu Państwa",
+      "d": "Jednostka samorządu terytorialnego"
+    },
+    "correct_answers": ["b", "d"]
+  },
+  {
+    "id": 46,
+    "text": "Ustawa budżetowa musi zawierać:",
+    "options": {
+      "a": "Planowane saldo przychodów i rozchodów w Państwa",
+      "b": "Łączną kwotę prognozowanych dochodów budżetu środków w europejskich",
+      "c": "Przepisy zmieniające inne ustawy",
+      "d": "Limit zobowiązań z tytułu zaciąganych kredytów i pożyczek oraz emitowanych papierów wartościowych"
+    },
+    "correct_answers": ["a", "b", "d"]
+  },
+  {
+    "id": 47,
+    "text": "Które z poniższych cech charakteryzują środki publiczne zgodnie z art. 5 ustawy?",
+    "options": {
+      "a": "Nie obejmują środków z opłat publicznych",
+      "b": "Mogą pochodzić z emisji papierów wartościowych",
+      "c": "Są to wyłącznie środki pochodzące z podatków",
+      "d": "Obejmują środki pochodzące z budżetu UE"
+    },
+    "correct_answers": ["b", "d"]
+  },
+  {
+    "id": 48,
+    "text": "Które z poniższych dochodów stanowią dochody publiczne zgodnie z art. 5 ust. 1 ustawy?",
+    "options": {
+      "a": "Darowizny od osób fizycznych",
+      "b": "Opłaty skarbowe",
+      "c": "Przychody z działalności gospodarczej fundacji",
+      "d": "Środki z budżetu Unii Europejskiej"
+    },
+    "correct_answers": ["a", "b", "d"]
+  },
+  {
+    "id": 49,
+    "text": "Które z poniższych podmiotów są państwowymi jednostkami budżetowymi w rozumieniu ustawy?",
+    "options": {
+      "a": "Polska Agencja Inwestycji i Handlu S.A.",
+      "b": "Ministerstwo Finansów",
+      "c": "Komenda Główna Policji",
+      "d": "Narodowy Bank Polski"
+    },
+    "correct_answers": ["b", "c"]
+  },
+  {
+    "id": 50,
+    "text": "Które z poniższych operacji finansowych są uznawane za rozchody publiczne zgodnie z ustawą?",
+    "options": {
+      "a": "Wydatki na kampanie reklamowe partii politycznych",
+      "b": "Wykup obligacji skarbowych",
+      "c": "Spłata zobowiązań z tytułu kredytów zaciągniętych przez gminę",
+      "d": "Wydatki na wynagrodzenia pracowników JST"
+    },
+    "correct_answers": ["b", "c"]
+  },
+  {
+    "id": 51,
+    "text": "Które z poniższych jednostek są samorządowymi jednostkami organizacyjnymi sektora finansów publicznych?",
+    "options": {
+      "a": "Urząd Marszałkowski Województwa",
+      "b": "Gminna biblioteka publiczna",
+      "c": "Wodociągi miejskie",
+      "d": "Wojewódzki Urząd Pracy"
+    },
+    "correct_answers": ["a", "b", "d"]
+  },
+  {
+    "id": 52,
+    "text": "Kontrolę nad wykonywaniem i wykonaniem ustawy budżetowej sprawuje:",
+    "options": {
+      "a": "NIK",
+      "b": "Sejm",
+      "c": "Sejm opierając się na sprawozdaniu i wynikach kontroli NIK"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 53,
+    "text": "W rocznym planie agencji wykonawczej znajdują się:",
+    "options": {
+      "a": "Wynik finansowy",
+      "b": "Dotacje z budżetu państwa",
+      "c": "Przychody z prowadzonej działalności",
+      "d": "Wszystkie odpowiedzi są poprawne"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 54,
+    "text": "W rocznym planie agencji wykonawczej wyodrębnia się:",
+    "options": {
+      "a": "Przychody z prowadzonej działalności",
+      "b": "Dotacje z budżetu państwa",
+      "c": "Środki przyznane innym podmiotom",
+      "d": "Wynik finansowy"
+    },
+    "correct_answers": ["a", "b", "c", "d"]
+  },
+  {
+    "id": 55,
+    "text": "Statio fisci:",
+    "options": {
+      "a": "Nie posiadają osobowości prawnej",
+      "b": "To jednostki Skarbu Państwa",
+      "c": "Działa w imieniu i na rzecz Skarbu Państwa",
+      "d": "Żadne z powyższych"
+    },
+    "correct_answers": ["a", "b", "c"]
+  },
+  {
+    "id": 56,
+    "text": "Statio fisci:",
+    "options": {
+      "a": "Posiadają osobowość prawną",
+      "b": "Działają w imieniu Skarbu Państwa",
+      "c": "Są jednostkami Skarbu Państwa",
+      "d": "Nie posiadają osobowości prawnej"
+    },
+    "correct_answers": ["b", "c", "d"]
+  },
+  {
+    "id": 57,
+    "text": "Katalog sektora finansów publicznych nie zawiera:",
+    "options": {
+      "a": "PAN",
+      "b": "Samorządowych spółek prawa handlowego",
+      "c": "Państwowych spółek prawa handlowego",
+      "d": "Banków i instytutów badawczych"
+    },
+    "correct_answers": ["b", "c", "d"]
+  },
+  {
+    "id": 58,
+    "text": "Do katalogu sektora finansów publicznych nie należą:",
+    "options": {
+      "a": "Państwowe spółki prawa handlowego",
+      "b": "Polska Akademia Nauk",
+      "c": "Kasa Rolniczego Zabezpieczenia Społecznego",
+      "d": "Samorządowe spółki prawa handlowego"
+    },
+    "correct_answers": ["a", "d"]
+  },
+  {
+    "id": 59,
+    "text": "Państwowe jednostki budżetowe gromadzą na wydzielonym rachunku dochody uzyskiwane:",
+    "options": {
+      "a": "Ze spadków i darowizn w postaci pieniężnej na rzecz jednostki budżetowej",
+      "b": "Z odszkodowań i wpłat za utracone lub uszkodzone mienie",
+      "c": "Z działalności szkoleniowej i informacyjnej",
+      "d": "Żadne z powyższych"
+    },
+    "correct_answers": ["a", "b", "c"]
+  },
+  {
+    "id": 60,
+    "text": "Jakimi sposobami można finansować deficyt budżetowy:",
+    "options": {
+      "a": "Podniesienie podatków",
+      "b": "Dodatkowa emisja pieniądza przez bank centralny",
+      "c": "Cięcia w wydatkach budżetowych",
+      "d": "Zaciągnięcie kredytów lub pożyczek",
+      "e": "Wszystkie odpowiedzi są poprawne"
+    },
+    "correct_answers": ["e"]
   },
   {
     "id": 61,
-    "text": "W jaki sposób realizowana jest jawność finansów publicznych według art. 34 u.f.p.?",
+    "text": "Rezerwa budżetowa jest wyjątkiem od zasady:",
     "options": {
-      "a": "Przez jawność debat budżetowych w Sejmie i radach JST",
-      "b": "Przez wysyłanie budżetu każdemu mieszkańcowi pocztą",
-      "c": "Przez wywieszanie faktur na tablicy ogłoszeń urzędu",
-      "d": "Przez obowiązkowe transmisje radiowe z każdego zakupu"
+      "a": "Równowagi budżetowej",
+      "b": "Jawności budżetowej",
+      "c": "Szczegółowości budżetu",
+      "d": "Zupełności budżetu"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 62,
+    "text": "Rezerwa budżetowa stanowi wyjątek od zasady:",
+    "options": {
+      "a": "zakazu funduszowania",
+      "b": "jawności budżetu",
+      "c": "zupełności budżetu",
+      "d": "szczegółowości budżetu"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 63,
+    "text": "Zgodnie z zasadą przejrzystości:",
+    "options": {
+      "a": "Dochody i wydatki w budżecie prezentowane są w sposób ani zbyt ogólny, ani zbyt szczegółowy",
+      "b": "Całość środków publicznych powinna być wydawana na ogół wydatków publicznych",
+      "c": "Część wydatków i dochodów ujawnia się dopiero na etapie planów finansowych"
     },
     "correct_answers": ["a"]
   },
   {
-    "id": 62,
-    "text": "Kto jest odpowiedzialny za wprowadzenie danych do rejestru umów (art. 34a u.f.p.)?",
-    "options": {
-      "a": "Minister Finansów",
-      "b": "Kierownicy jednostek sektora finansów publicznych",
-      "c": "Główny Księgowy jednostki",
-      "d": "Wojewoda"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 63,
-    "text": "Jaka kara grozi za podanie nieprawdziwych danych w rejestrze umów zgodnie z art. 34b u.f.p.?",
-    "options": {
-      "a": "Wyłącznie upomnienie",
-      "b": "Grzywna, kara ograniczenia wolności albo pozbawienia wolności do lat 2",
-      "c": "Dyscyplinarne zwolnienie z pracy bez prawa do odwołania",
-      "d": "Kara pieniężna w wysokości 100 000 zł"
-    },
-    "correct_answers": ["b"]
-  },
-  {
     "id": 64,
-    "text": "Kto ogłasza w Monitorze Polskim kwotę i relację państwowego długu publicznego do PKB?",
+    "text": "Zasada niefunduszowania to inaczej zasada:",
     "options": {
-      "a": "Prezes GUS",
-      "b": "Minister Finansów",
-      "c": "Prezes NIK",
-      "d": "Prezes NBP"
+      "a": "Szczegółowości",
+      "b": "Zupełności",
+      "c": "Jedności materialnej",
+      "d": "Żadna z powyższych"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c"]
   },
   {
     "id": 65,
-    "text": "Do jakiego dnia Minister Finansów musi ogłosić dane o zadłużeniu państwa za rok poprzedni?",
+    "text": "Zakaz funduszowania w budżecie stanowi przejaw zasady:",
     "options": {
-      "a": "Do 31 marca",
-      "b": "Do 31 maja",
-      "c": "Do 30 czerwca",
-      "d": "Do końca roku"
+      "a": "Jedności materialnej",
+      "b": "Celowości",
+      "c": "Przejrzystości",
+      "d": "Szczegółowości"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a"]
   },
   {
     "id": 66,
-    "text": "W jakim terminie Zarząd JST podaje do publicznej wiadomości informację o wykonaniu budżetu za kwartał?",
+    "text": "Budżetowanie netto:",
     "options": {
-      "a": "W ciągu 7 dni",
-      "b": "Do końca miesiąca następującego po zakończeniu kwartału",
-      "c": "Raz w roku, po zatwierdzeniu sprawozdania",
-      "d": "Termin ten określa statut gminy"
+      "a": "To odstępstwo od budżetowej zasady powszechności",
+      "b": "Jest to pokrywanie kosztów z przychodów własnych, a nie bezpośrednio z budżetu",
+      "c": "Dokonują go jednostki budżetowe",
+      "d": "Wszystkie powyższe odpowiedzi są poprawne"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b"]
   },
   {
     "id": 67,
-    "text": "Co oznacza, że wydatki ujęte w budżecie stanowią 'nieprzekraczalny limit'?",
+    "text": "Zasada uprzedniości budżetu polega na:",
     "options": {
-      "a": "Można je przekroczyć o 5% bez konsekwencji",
-      "b": "Przekroczenie tej kwoty powoduje odpowiedzialność karną i dyscyplinarną",
-      "c": "Limit dotyczy tylko inwestycji, nie wynagrodzeń",
-      "d": "Limit jest tylko wskazówką dla księgowego"
+      "a": "Ujmowaniu w budżecie wszystkich dochodów i wydatków",
+      "b": "Uchwaleniu budżetu przed terminem jego obowiązywania",
+      "c": "Tworzeniu budżetu na jeden rok",
+      "d": "Żadne z powyższych"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 68,
-    "text": "Kto ponosi odpowiedzialność za całość gospodarki finansowej jednostki sektora finansów publicznych?",
+    "text": "Zasada szczegółowości:",
     "options": {
-      "a": "Główny Księgowy",
-      "b": "Kierownik jednostki",
-      "c": "Minister Finansów",
-      "d": "Pracownik merytoryczny dokonujący zakupu"
+      "a": "Ma związek z klasyfikacja budżetową",
+      "b": "Wyraża postulat zgodnie, z którym kwotę dochodów trzeba dostosować do kwoty wydatków",
+      "c": "Wyraża postulat, że wszystkie dochody i wydatki, przychody i rozchody sektora finansów publicznych mają być ujmowane w sposób pozwalający ich odpowiednią prezentację",
+      "d": "Jest w pełni realizowana w odniesieniu do budżetów państwa i budżetów jednostek samorządowych"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "c"]
   },
   {
     "id": 69,
-    "text": "W jaki sposób kierownik jednostki może powierzyć pracownikowi obowiązki w zakresie gospodarki finansowej?",
+    "text": "Zasada równowagi:",
     "options": {
-      "a": "Ustnie przy świadkach",
-      "b": "W formie odrębnego imiennego upoważnienia lub w regulaminie organizacyjnym",
-      "c": "Wyłącznie poprzez wpis do dowodu osobistego",
-      "d": "Poprzez e-mail wysłany do wszystkich pracowników"
+      "a": "Wydatki powinny być dostosowane do dochodów",
+      "b": "Wydatki mogą znacznie przekroczyć dochody",
+      "c": "Planowanie budżetu z deficytem, jako jej wyjątek",
+      "d": "Wyjątkiem są fundusze celowe"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "c"]
   },
   {
     "id": 70,
-    "text": "Co jest dowodem dokonania wstępnej kontroli przez Głównego Księgowego?",
+    "text": "Stabilizująca reguła wydatkowa:",
     "options": {
-      "a": "Jego podpis złożony na dokumentach danej operacji",
-      "b": "Pieczątka jednostki",
-      "c": "Zatwierdzenie w systemie przez informatyka",
-      "d": "Pisemny raport przesyłany co tydzień do burmistrza"
+      "a": "Określa limit wydatków sektora finansowego",
+      "b": "Reguluje tylko dług Skarbu Państwa",
+      "c": "W doktrynie panuje spór o niezgodność z prawem UE",
+      "d": "Ma zapobiec stosowaniu procedur sanacyjnych"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["a", "d"]
   },
   {
     "id": 71,
-    "text": "Co musi zrobić Główny Księgowy, jeśli ujawni nieprawidłowości w dokumentach operacji finansowej?",
+    "text": "W budżecie państwa tworzy się rezerwę ogólną nie wyższą niż:",
     "options": {
-      "a": "Samodzielnie poprawić dokumenty",
-      "b": "Zwrócić dokument właściwemu pracownikowi i odmówić podpisania w razie nieusunięcia błędu",
-      "c": "Zignorować to, jeśli kwota jest mniejsza niż 100 zł",
-      "d": "Zawiadomić od razu prokuraturę"
+      "a": "0,4% wydatków budżetu",
+      "b": "0,1% wydatków budżetu",
+      "c": "0,5% wydatków budżetu",
+      "d": "0,2% wydatków budżetu"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["d"]
   },
   {
     "id": 72,
-    "text": "Jakie uprawnienie ma kierownik jednostki, gdy Główny Księgowy odmówi podpisania dokumentu?",
+    "text": "Wydatki bieżące JST:",
     "options": {
-      "a": "Musi natychmiast zwolnić księgowego",
-      "b": "Może wydać w formie pisemnej polecenie realizacji operacji",
-      "c": "Nie może nic zrobić, odmowa księgowego jest ostateczna",
-      "d": "Musi poprosić o zgodę Radę Gminy"
+      "a": "Służą wykonywaniu zadań bieżących JST",
+      "b": "Obejmują wynagrodzenia",
+      "c": "Obejmują działania inwestycyjne JST",
+      "d": "Mogą przekraczać dochody bieżące oraz nadwyżkę z lat ubiegłych"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b"]
   },
   {
     "id": 73,
-    "text": "Kogo zawiadamia wójt/burmistrz w przypadku wydania pisemnego polecenia realizacji zakwestionowanej przez skarbnika operacji?",
+    "text": "Dochody obligatoryjne gminy to:",
     "options": {
-      "a": "Wyłącznie Głównego Księgowego",
-      "b": "Organ stanowiący JST oraz właściwą Regionalną Izbę Obrachunkową",
-      "c": "Ministra Finansów",
-      "d": "Najbliższą jednostkę Policji"
+      "a": "Dotacje z budżetu państwa",
+      "b": "Dochody z danin publicznych",
+      "c": "Dochody z mienia",
+      "d": "Udział w podatkach państwowych"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "c", "d"]
   },
   {
     "id": 74,
-    "text": "Kiedy można umorzyć należność cywilnoprawną przypadającą organowi administracji rządowej z urzędu?",
+    "text": "Subwencja ogólna dla gminy składa się m.in. z części:",
     "options": {
-      "a": "Gdy dłużnik jest miłą osobą",
-      "b": "Gdy osoba fizyczna zmarła, nie pozostawiając żadnego majątku",
-      "c": "Gdy dłużnik ma dużo innych kredytów",
-      "d": "Zawsze, gdy wartość nie przekracza 10 000 zł"
+      "a": "Obligatoryjnej",
+      "b": "Fakultatywnej",
+      "c": "Oświatowej",
+      "d": "Porównawczej"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c", "d"]
   },
   {
     "id": 75,
-    "text": "Jaka jest kwota graniczna wartości przedmiotów użytku domowego, poniżej której można umorzyć dług zmarłej osoby fizycznej?",
+    "text": "Jednostka samorządu terytorialnego:",
     "options": {
-      "a": "1 000 zł",
-      "b": "6 000 zł",
-      "c": "500 zł",
-      "d": "10 000 zł"
+      "a": "Może otrzymywać dotacje na wykonywanie zadań zleconych",
+      "b": "Musie otrzymywać dotacje na wykonywanie zadań zleconych",
+      "c": "JST nie może udzielać innej JST dotacji",
+      "d": "Dotacje dla JST należą do wydatków budżetu państwa"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "d"]
   },
   {
     "id": 76,
-    "text": "Do jakiej kwoty należności głównej kierownik państwowej jednostki budżetowej może samodzielnie umarzać długi?",
+    "text": "Do funkcji klasyfikacji budżetowej możemy zaliczyć:",
     "options": {
-      "a": "Do 10 000 zł",
-      "b": "Do 40 000 zł",
-      "c": "Do 5 000 zł",
-      "d": "Nie ma ograniczenia kwotowego"
+      "a": "Funkcje prawną",
+      "b": "Funkcje księgowo-rachunkową",
+      "c": "Funkcję sprawozdawczą",
+      "d": "Funkcje statystyczną"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c", "d"]
   },
   {
     "id": 77,
-    "text": "Czy jednostka sektora finansów publicznych może zawrzeć ugodę w sprawie spornej należności cywilnoprawnej?",
+    "text": "Środki na pokrycie pożyczkowych potrzeb państwa można uzyskać z:",
     "options": {
-      "a": "Nie, to byłaby niegospodarność",
-      "b": "Tak, jeśli skutki ugody są korzystniejsze niż wynik postępowania sądowego",
-      "c": "Tylko za zgodą sądu najwyższego",
-      "d": "Tylko w sprawach karnych"
+      "a": "Podatku VAT",
+      "b": "Emisji papierów wartościowych",
+      "c": "Prywatyzacji majątku Skarbu Państwa",
+      "d": "Wynajmu lokalu należącego do Skarbu Państwa"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "c"]
   },
   {
     "id": 78,
-    "text": "Do jakiej kwoty dysponent części budżetowej może wyrazić zgodę na niedochodzenie należności (tzw. kwota bagatelna)?",
+    "text": "Pożyczkowe potrzeby budżetu państwa można sfinansować środkami z:",
     "options": {
-      "a": "500 zł",
-      "b": "100 zł",
-      "c": "50 zł",
-      "d": "1 000 zł"
+      "a": "Sprzedaży akcji spółki państwowej",
+      "b": "Sprzedaży zbędnych składników mienia",
+      "c": "Spłat uprzednio udzielonych pożyczek",
+      "d": "Emisji bonów skarbowych"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "c", "d"]
   },
   {
     "id": 79,
-    "text": "Co stanowi nadwyżkę sektora finansów publicznych?",
+    "text": "Potrzeby pożyczkowe państwa finansuje się z:",
     "options": {
-      "a": "Dodatnia różnica między dochodami a wydatkami publicznymi",
-      "b": "Suma wszystkich podatków zebranych w roku",
-      "c": "Różnica między przychodami a rozchodami",
-      "d": "Pieniądze pozostałe po spłacie długu zagranicznego"
+      "a": "Sprzedaży zbędnych nieruchomości",
+      "b": "Sprzedaży akcji przysługujących państwu",
+      "c": "Spłat uprzednio udzielanych pożyczek",
+      "d": "Emisji skarbowych papierów wartościowych"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["b", "c", "d"]
   },
   {
     "id": 80,
-    "text": "Jakie zadania JST mogą być wykonywane przez samorządowe zakłady budżetowe zgodnie z art. 14 u.f.p.?",
+    "text": "Zaznacz zdanie/a prawdziwe:",
     "options": {
-      "a": "Wydawanie paszportów",
-      "b": "Wodociągi, kanalizacja, transport zbiorowy, cmentarze",
-      "c": "Pobór podatku dochodowego",
-      "d": "Utrzymanie wojska i policji"
+      "a": "Dług Skarbu Państwa przewyższa państwowy dług publiczny",
+      "b": "Państwowy dług publiczny tworzy między innymi zadłużenie ZUSu",
+      "c": "Maksymalny stosunek deficytu budżetowego do PKB określa Traktat z Amsterdamu",
+      "d": "Zgodnie z Konstytucją RP, deficyt budżetowy nie może przekraczać 3/5 PKB"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 81,
-    "text": "Co dzieje się z nadwyżką środków obrotowych samorządowego zakładu budżetowego na koniec okresu?",
+    "text": "Procedury sanacyjne:",
     "options": {
-      "a": "Zostaje w zakładzie na nagrody",
-      "b": "Podlega wpłacie do budżetu JST",
-      "c": "Jest przekazywana do budżetu państwa",
-      "d": "Jest spalana komisyjnie"
+      "a": "Stosuje się, gdy deficyt budżetowy osiąga równe 55%",
+      "b": "Przewidują waloryzacje rent i emerytur tylko o stopę inflacji",
+      "c": "Na kolejny rok nie przewiduje się deficytu budżetowego",
+      "d": "Przewidują konieczność osiągnięcia nadwyżki budżetowej w roku następnym"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "c", "d"]
   },
   {
     "id": 82,
-    "text": "Z jaką chwilą agencja wykonawcza uzyskuje osobowość prawną?",
+    "text": "Kwoty dotacji dla JST wykonujących zadania zlecone z zakresu administracji rządowej otrzymuje się w wysokości:",
     "options": {
-      "a": "Z dniem wpisu do KRS",
-      "b": "Z dniem wejścia w życie ustawy o jej utworzeniu",
-      "c": "Z chwilą powołania Prezesa Agencji",
-      "d": "Z chwilą uchwalenia budżetu państwa"
+      "a": "Adekwatnej",
+      "b": "Koniecznej do wykonania zadania",
+      "c": "Odpowiedniej do realizacji zadania",
+      "d": "Zapewniającej realizację zadania"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["d"]
   },
   {
     "id": 83,
-    "text": "W jakim terminie agencja wykonawcza wpłaca nadwyżkę środków finansowych do budżetu państwa?",
+    "text": "Spłaty otrzymanych pożyczek i kredytów są:",
     "options": {
-      "a": "Do końca roku",
-      "b": "Nie później niż do 30 czerwca roku następnego",
-      "c": "W ciągu 7 dni od ustalenia zysku",
-      "d": "Raz na 5 lat"
+      "a": "Wydatkami publicznymi",
+      "b": "Przychodami publicznymi",
+      "c": "Dochodami publicznymi",
+      "d": "Rozchodami publicznymi"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["d"]
   },
   {
     "id": 84,
-    "text": "Kto może tworzyć instytucje gospodarki budżetowej (IGB)?",
+    "text": "Opłatę jako daninę publiczną różni od podatku:",
     "options": {
-      "a": "Każdy wójt i burmistrz",
-      "b": "Minister lub Szef Kancelarii Prezesa RM, za zgodą Rady Ministrów",
-      "c": "Wyłącznie Marszałek Sejmu",
-      "d": "Dyrektor szkoły publicznej"
+      "a": "Ekwiwalentność",
+      "b": "Nieprzymusowość",
+      "c": "Niepowszechność",
+      "d": "Odpłatność"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a"]
   },
   {
     "id": 85,
-    "text": "Czy koszty instytucji gospodarki budżetowej mogą przekraczać jej przychody?",
+    "text": "Organ stanowiący JST powinien uchwalić uchwałę budżetową do:",
     "options": {
-      "a": "Tak, bo państwo zawsze dopłaca",
-      "b": "Mogą być ponoszone tylko w ramach przychodów (z uwzględnieniem środków z poprzednich lat)",
-      "c": "Mogą przekroczyć o 50%",
-      "d": "Nie, IGB musi zawsze wykazywać zysk"
+      "a": "15 listopada roku poprzedzającego rok budżetowy",
+      "b": "Dnia uchwalenia ustawy budżetowej",
+      "c": "Końca roku poprzedzającego rok budżetowy",
+      "d": "W szczególnie uzasadnionych przypadkach - nie później niż do 31.01 roku budżetowego",
+      "e": "31 marca roku budżetowego"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c", "d"]
   },
   {
     "id": 86,
-    "text": "Kto zarządza państwowym funduszem celowym?",
+    "text": "Minister Finansów zaciąga pożyczki i kredyty w imieniu:",
     "options": {
-      "a": "Dyrektor agencji płatniczej",
-      "b": "Minister wskazany w ustawie tworzącej fundusz lub inny wskazany organ",
-      "c": "Niezależna rada fundacji",
-      "d": "Prezes Narodowego Banku Polskiego"
+      "a": "Ministra Skarbu Państwa",
+      "b": "Własnym",
+      "c": "Skarbu Państwa",
+      "d": "Rady Ministrów"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c"]
   },
   {
     "id": 87,
-    "text": "W jakim przypadku Państwowy Fundusz Celowy może udzielać pożyczek jednostkom samorządu terytorialnego?",
+    "text": "Wydatki bieżące budżetu państwa obejmują:",
     "options": {
-      "a": "Zawsze, gdy ma wolne środki",
-      "b": "Jeżeli ustawa tworząca fundusz tak stanowi",
-      "c": "Tylko w czasie wojny",
-      "d": "Nigdy nie może udzielać pożyczek"
+      "a": "Subwencje dla partii politycznych",
+      "b": "Wydatki na spłatę rat kredytów",
+      "c": "Wydatki inwestycyjne",
+      "d": "Wydatki na obsługę długu Skarbu Państwa"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "d"]
   },
   {
     "id": 88,
-    "text": "Które z wymienionych jednostek należą do sektora finansów publicznych według art. 9 u.f.p.?",
+    "text": "Zaznacz zdanie/zdania prawdziwe:",
     "options": {
-      "a": "Prywatne teatry i kina",
-      "b": "Uczelnie publiczne i Polska Akademia Nauk",
-      "c": "Spółki z ograniczoną odpowiedzialnością gminy",
-      "d": "Banki komercyjne"
+      "a": "Bank zagraniczny jest to bank mający siedzibę za granicą Rzeczypospolitej Polskiej, na terytorium państwa trzeciego",
+      "b": "Bank państwowy jest tworzony w drodze rozporządzenia Rady Ministrów",
+      "c": "Bank państwowy jest tworzony w drodze zarządzenia Rady Ministrów, na wniosek Ministra Skarbu Państwa",
+      "d": "Założycielami banku spółdzielczego mogą być wyłącznie osoby fizyczne, w liczbie nie mniejszej niż 10 osób"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "d"]
   },
   {
     "id": 89,
-    "text": "Czy spółki prawa handlowego należą do sektora finansów publicznych?",
+    "text": "Zasadami prawa budżetowego UE są:",
     "options": {
-      "a": "Tak, jeśli 100% udziałów ma Skarb Państwa",
-      "b": "Nie, zostały wyraźnie wyłączone w art. 9 u.f.p.",
-      "c": "Tak, jeśli realizują zadania publiczne",
-      "d": "Tylko te, które nie przynoszą zysku"
+      "a": "Zasada jedności",
+      "b": "Zasada podwójnego upoważnienia",
+      "c": "Zasada realności",
+      "d": "Zasada zupełności"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "d"]
   },
   {
     "id": 90,
-    "text": "Czym jest 'statio fisci' w kontekście jednostek budżetowych?",
+    "text": "Uczelnie publiczne:",
     "options": {
-      "a": "Nazwą łacińską Skarbu Państwa",
-      "b": "Postacią organizacyjną majątku Skarbu Państwa pozostającego w zarządzie jednostki",
-      "c": "Specjalnym podatkiem od nieruchomości",
-      "d": "Rodzajem obligacji zagranicznej"
+      "a": "Mają status osób prawnych",
+      "b": "Nie są finansowane z przychodów własnych",
+      "c": "Nie są powiązane z budżetem państwa",
+      "d": "Mogą otrzymywać dotacje"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "d"]
   },
   {
     "id": 91,
-    "text": "Kto nadaje statut jednostce budżetowej?",
+    "text": "Funkcja fiskalna finansów publicznych dotyczy:",
     "options": {
-      "a": "Główny Księgowy",
-      "b": "Właściwy minister lub organ stanowiący JST",
-      "c": "Pracownicy w głosowaniu",
-      "d": "Sąd rejestrowy"
+      "a": "Rozdzielania środków pieniężnych w państwie",
+      "b": "Dążenia do gromadzenia dochodów do budżetów publicznych",
+      "c": "Kontroli przebiegu zjawisk gospodarczych",
+      "d": "Dokonywaniu analizy procesów finansowych"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 92,
-    "text": "Co oznacza zasada celowości i oszczędności przy dokonywaniu wydatków (art. 44 u.f.p.)?",
+    "text": "Dochodami publicznymi są:",
     "options": {
-      "a": "Należy wydawać jak najwięcej, by budżet nie został obcięty",
-      "b": "Należy uzyskiwać najlepsze efekty z danych nakładów i optymalnie dobierać metody",
-      "c": "Zakaz dokonywania zakupów zagranicznych",
-      "d": "Obowiązek kupowania wyłącznie najtańszych produktów, niezależnie od jakości"
+      "a": "Daniny publiczne",
+      "b": "Wpływy ze sprzedaży wyrobów i usług świadczonych przez jednostki sektora finansów publicznych",
+      "c": "Odsetki od udzielonych pożyczek i kredytów",
+      "d": "Odsetki od spłat otrzymanych pożyczek i kredytów"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c", "d"]
   },
   {
     "id": 93,
-    "text": "Do jakiej wysokości jednostki sektora finansów publicznych mogą zaciągać zobowiązania?",
+    "text": "Minister zakładający państwową instytucję kultury nadaje jej:",
     "options": {
-      "a": "Bez ograniczeń, państwo spłaci",
-      "b": "Do wysokości wynikającej z planu wydatków, pomniejszonej o wydatki sztywne",
-      "c": "Maksymalnie do 10% dochodów z roku ubiegłego",
-      "d": "Do wysokości posiadanej gotówki w kasie"
+      "a": "Osobowość Prawną",
+      "b": "Odrębny rachunek środków specjalnych",
+      "c": "Zasady prowadzenia gospodarki finansowej",
+      "d": "Statut i określa mienie przekazane w zarząd"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "c", "d"]
   },
   {
     "id": 94,
-    "text": "Gdzie jednostki sektora finansów publicznych (rządowe) mają obowiązek lokować wolne środki?",
+    "text": "Samorządowe zakłady budżetowe:",
     "options": {
-      "a": "Na giełdzie papierów wartościowych",
-      "b": "W formie depozytu u Ministra Finansów",
-      "c": "W kryptowalutach",
-      "d": "W bankach zagranicznych"
+      "a": "Wszystkie swoje dochody przekazują na rachunek budżetu jednostki samorządu terytorialnego",
+      "b": "W razie potrzeby mogą zakładać rachunki środków specjalnych",
+      "c": "Wszystkie wydatki pokrywają z budżetu",
+      "d": "Mogą otrzymywać dotacje inwestycyjne"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "c", "d"]
   },
   {
     "id": 95,
-    "text": "Kto sprawuje nadzór nad państwowymi i samorządowymi osobami prawnymi?",
+    "text": "Jednostki gospodarki budżetowej zawsze mają:",
     "options": {
-      "a": "Zawsze tylko Premier",
-      "b": "Organ wskazany w ustawie o ich utworzeniu",
-      "c": "Wyłącznie Najwyższa Izba Kontroli",
-      "d": "Sąd Administracyjny"
+      "a": "Osobowość prawną",
+      "b": "Plan finansowy",
+      "c": "Wyodrębniony rachunek bankowy",
+      "d": "Obowiązek odprowadzania nadwyżki do budżetu państwa"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b"]
   },
   {
     "id": 96,
-    "text": "Czym jest 'nieprawidłowość' w kontekście wydatkowania środków UE?",
+    "text": "Nadwyżki dochodów odprowadzają do budżetu państwa:",
     "options": {
-      "a": "Każdym błędem ortograficznym we wniosku",
-      "b": "Naruszeniem prawa, które ma lub może mieć szkodliwy wpływ na budżet Unii",
-      "c": "Wydaniem pieniędzy po terminie, nawet jeśli cel osiągnięto",
-      "d": "Zmianą koloru elewacji budynku budowanego z dotacji"
+      "a": "Państwowe instytucje kultury",
+      "b": "Gminy",
+      "c": "Agencje wykonawcze",
+      "d": "Samorządowy zakład budżetowy",
+      "e": "Instytucje gospodarki budżetowej"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c", "d"]
   },
   {
     "id": 97,
-    "text": "W jakim terminie po doręczeniu decyzji o zwrocie środków unijnych beneficjent musi oddać pieniądze?",
+    "text": "Gmina może otrzymać:",
     "options": {
-      "a": "W ciągu 30 dni",
-      "b": "W ciągu 14 dni",
-      "c": "Do końca roku budżetowego",
-      "d": "W ciągu 3 dni roboczych"
+      "a": "Dotacje na zadania zlecone",
+      "b": "Zasiłek",
+      "c": "Subwencję ogólną",
+      "d": "Darowiznę pieniężną"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "c", "d"]
   },
   {
     "id": 98,
-    "text": "Co grozi beneficjentowi za wydatkowanie dotacji unijnej niezgodnie z przeznaczeniem?",
+    "text": "Do rozchodów publicznych zalicza się środki przeznaczane na:",
     "options": {
-      "a": "Jedynie upomnienie pisemne",
-      "b": "Zwrot środków wraz z odsetkami jak dla zaległości podatkowych",
-      "c": "Dożywotni zakaz prowadzenia działalności gospodarczej",
-      "d": "Obowiązek wpłacenia darowizny na rzecz UE"
+      "a": "Pomoc społeczną",
+      "b": "Wykup obligacji",
+      "c": "Nabycie udziałów w spółce prawa handlowego",
+      "d": "Pożyczkę dla gminy"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "d"]
   },
   {
     "id": 99,
-    "text": "Który organ jest drugą instancją w sprawach o naruszenie dyscypliny finansów publicznych?",
+    "text": "Ulgi w spłacie należności budżetowych mogą polegać na:",
     "options": {
-      "a": "Regionalna Izba Obrachunkowa",
-      "b": "Główna Komisja Orzekająca",
-      "c": "Sąd Najwyższy",
-      "d": "Minister Sprawiedliwości"
+      "a": "Zaniechaniu ustalenia należności",
+      "b": "Rozłożeniu na raty należności z tytułu zwrotu dotacji",
+      "c": "Całkowitego umorzenia należności z tytułu wielokrotnego korzystania z izby wytrzeźwień",
+      "d": "Częściowego zwolnienia od zapłaty za nabytą nieruchomość komunalną"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 100,
-    "text": "Ile trwa kadencja komisji orzekających w sprawach o naruszenie dyscypliny?",
+    "text": "Należności budżetowe wyjątkowo umarzać mogą:",
     "options": {
-      "a": "2 lata",
-      "b": "4 lata",
-      "c": "5 lat",
-      "d": "Jest nieokreślona"
+      "a": "Dysponenci części budżetowych",
+      "b": "Kierownicy jednostek budżetowych",
+      "c": "Starostowie powiatowi samodzielnie",
+      "d": "Skarbnicy gminni"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c"]
   },
-
   {
     "id": 101,
-    "text": "Jak w ujęciu funkcjonalnym (ekonomicznym) definiuje się budżet?",
+    "text": "Ulgi w spłacie gminnych należności mogą:",
     "options": {
-      "a": "Jako akt prawny w formie ustawy",
-      "b": "Jako roczny plan finansowy dochodów i wydatków oraz przychodów i rozchodów",
-      "c": "Jako zestawienie wszystkich kont bankowych państwa",
-      "d": "Jako prognozę inflacji na dany rok"
+      "a": "Dotyczyć także należności cywilnoprawnych",
+      "b": "Zwrotu dotacji wyłudzonej przez organ pożytku publicznego",
+      "c": "Polegać na całkowitym umorzeniu należności",
+      "d": "Mieścić się w wyłącznej kompetencji organu wykonawczego"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "c"]
   },
   {
     "id": 102,
-    "text": "Co oznacza, że ustawa budżetowa ma charakter szczególny?",
+    "text": "Prowizorium budżetowe wchodzi w rachubę, gdy:",
     "options": {
-      "a": "Obowiązuje przez 10 lat",
-      "b": "Wiąże tylko dysponentów – podmioty, których kompetencje określa",
-      "c": "Jest ważniejsza od Konstytucji",
-      "d": "Nie może być nowelizowana w trakcie roku"
+      "a": "Przeciąga się w czasie uchwalenie ustawy budżetowej w Sejmie",
+      "b": "Naruszono termin 30 września dla sporządzenia projektu budżetu państwa",
+      "c": "Budżetu państwa nie da się zrównoważyć z uwagi na nadmierne zadłużenie",
+      "d": "Nieprzewidywalność dochodów lub wydatków w stopniu uniemożliwiającym ustalenie budżetu rocznego"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a"]
   },
   {
     "id": 103,
-    "text": "Czym jest układ zadaniowy według definicji legalnej z art. 2 u.f.p.?",
+    "text": "Podatki lokalne zasilają budżet:",
     "options": {
-      "a": "Listą płac pracowników urzędu",
-      "b": "Zestawieniem wydatków sporządzonym według funkcji państwa, zadań i podzadań wraz z miernikami",
-      "c": "Podziałem budżetu na województwa",
-      "d": "Harmonogramem spłaty długu publicznego"
+      "a": "Wyłącznie gminy",
+      "b": "Także związku międzygminnego",
+      "c": "Także Powiatu",
+      "d": "Także Państwa"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a"]
   },
   {
     "id": 104,
-    "text": "Co służy do opisu stopnia realizacji celów w budżecie zadaniowym?",
+    "text": "W uchwale budżetowej dochody klasyfikuje się według:",
     "options": {
-      "a": "Wyłącznie kwoty pieniężne",
-      "b": "Bazowe i docelowe mierniki (wartościowe, ilościowe lub opisowe)",
-      "c": "Opinie biegłych rewidentów",
-      "d": "Liczba zatrudnionych urzędników"
+      "a": "Ważniejszych źródeł",
+      "b": "Działów i rozdziałów",
+      "c": "Kategorii",
+      "d": "Paragrafów"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "d"]
   },
   {
     "id": 105,
-    "text": "Która jednostka sektora finansów publicznych jest obsługiwana przez Narodowy Bank Polski?",
+    "text": "Rezerwa budżetowa stanowi wyjątek od zasady:",
     "options": {
-      "a": "Budżet środków europejskich",
-      "b": "Budżet państwa w zakresie należności podatkowych i niepodatkowych",
-      "c": "Budżet każdej gminy w Polsce",
-      "d": "Wyłącznie Zakład Ubezpieczeń Społecznych"
+      "a": "Efektywności wydatków",
+      "b": "Jawności budżetu",
+      "c": "Zupełności budżetu",
+      "d": "Szczegółowości budżetu"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["d"]
   },
   {
     "id": 106,
-    "text": "Dlaczego NBP nie prowadzi spraw indywidualnych klientów w kontekście obsługi budżetu?",
+    "text": "W budżecie gminy tworzy się rezerwę ogólną w wysokości:",
     "options": {
-      "a": "Bo jest organem władzy fiskalnej i bankiem centralnym",
-      "b": "Bo nie ma wystarczającej liczby placówek",
-      "c": "Bo zakazuje tego prawo unijne",
-      "d": "Bo obsługuje tylko transakcje w walutach obcych"
+      "a": "Wynikającej z planowanej sumy na wydatki nieprzewidziane",
+      "b": "Zależnej od dochodów",
+      "c": "Do 2% przychodów",
+      "d": "Do 1% wydatków"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["d"]
   },
   {
     "id": 107,
-    "text": "Jakie jednostki mają obowiązek sporządzania planów finansowych w układzie zadaniowym na rok budżetowy i dwa kolejne lata (art. 32 u.f.p.)?",
+    "text": "W budżecie państwa można tworzyć rezerwy celowe:",
     "options": {
-      "a": "Wszystkie urzędy gmin",
-      "b": "Agencje wykonawcze, IGB oraz dysponenci państwowych funduszy celowych",
-      "c": "Prywatne banki współpracujące z rządem",
-      "d": "Wyłącznie Ministerstwo Finansów"
+      "a": "Na wydatki wynikające z programów dotyczących środków europejskich",
+      "b": "Do 5% sumy wydatków budżetu",
+      "c": "Na pokrycie deficytu budżetowego",
+      "d": "Także do dyspozycji wojewodów"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "d"]
   },
   {
     "id": 108,
-    "text": "Co wchodzi w skład środków publicznych zgodnie z art. 5 ust. 1 u.f.p.?",
+    "text": "Rezydentami w rozumieniu prawa finansowego są:",
     "options": {
-      "a": "Tylko dochody z podatków",
-      "b": "Dochody publiczne, środki z UE/EFTA i przychody publiczne",
-      "c": "Wyłącznie gotówka w kasie państwa",
-      "d": "Pieniądze zgromadzone na kontach obywateli"
+      "a": "Osoby fizyczne mające miejsce zamieszkania w kraju",
+      "b": "Osoby prawne mające siedzibę w kraju",
+      "c": "Polskie przedstawicielstwa dyplomatyczne",
+      "d": "Oddziały i przedsiębiorstwa utworzone przez nierezydentów znajdujące się w kraju"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c", "d"]
   },
   {
     "id": 109,
-    "text": "Do jakiej kategorii środków publicznych zalicza się środki z Norweskiego Mechanizmu Finansowego?",
+    "text": "Audyt wewnętrzny:",
     "options": {
-      "a": "Dochody publiczne",
-      "b": "Środki z pomocy udzielanej przez państwa członkowskie EFTA",
-      "c": "Przychody z prywatyzacji",
-      "d": "Rozchody publiczne"
+      "a": "Ma na celu zapewnienie kontroli wewnętrznej (zarządczej)",
+      "b": "Stanowi formę oceny adekwatności i skuteczności kontroli zarządczej",
+      "c": "Może być obligatoryjny",
+      "d": "Może być zarządzony przez jednostkę zwierzchnią"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "c", "d"]
   },
   {
     "id": 110,
-    "text": "Co stanowi przykład dochodu publicznego będącego 'daniną publiczną'?",
+    "text": "Audyt wewnętrzny:",
     "options": {
-      "a": "Wpływy z najmu lokali gminnych",
-      "b": "Podatki i składki",
-      "c": "Sprzedaż akcji Skarbu Państwa",
-      "d": "Kredyt zaciągnięty w banku komercyjnym"
+      "a": "Jest zawsze obligatoryjny",
+      "b": "Przeprowadza się go na podstawie planu audytu",
+      "c": "Może być usługowy",
+      "d": "Wykonuje osoba o szczególnych kompetencjach"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "c", "d"]
   },
   {
     "id": 111,
-    "text": "Czy wpływy ze sprzedaży wyrobów i usług świadczonych przez JST są dochodami publicznymi?",
+    "text": "Audyt wewnętrzny prowadzi się:",
     "options": {
-      "a": "Nie, to są przychody prywatne",
-      "b": "Tak, zgodnie z art. 5 ust. 2 pkt 3 u.f.p.",
-      "c": "Tylko jeśli kwota przekracza 1000 zł",
-      "d": "Tylko w przypadku usług medycznych"
+      "a": "W uczelniach publicznych",
+      "b": "Jednostkach samorządu terytorialnego",
+      "c": "Celem oceny funkcjonowania kontroli zarządczej",
+      "d": "Na zarządzenie organu zwierzchniego"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c", "d"]
   },
   {
     "id": 112,
-    "text": "Do której kategorii należą odsetki od środków na rachunkach bankowych jednostek sektora finansów publicznych?",
+    "text": "Do warunków udzielania rządowi absolutorium z tytułu wykonania budżetu należą:",
     "options": {
-      "a": "Rozchody publiczne",
-      "b": "Dochody z mienia",
-      "c": "Przychody z prywatyzacji",
-      "d": "Środki bezzwrotne z UE"
+      "a": "Stosowny wniosek Senatu RP",
+      "b": "Zachowanie terminu do 30 czerwca",
+      "c": "Zapoznanie się z opinią NIK o wykonaniu budżetu państwa",
+      "d": "Zapoznanie się z opinią Prezydenta RP"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c"]
   },
   {
     "id": 113,
-    "text": "Zgodnie z wzorem ekonomicznym: Dochód = ?",
+    "text": "Absolutorium dla RM uchwala się po obligatoryjnym uwzględnieniu:",
     "options": {
-      "a": "Przychód + Koszty",
-      "b": "Przychód – Koszty",
-      "c": "Wydatki / Rozchody",
-      "d": "Aktywa * Pasywa"
+      "a": "Opinii prezydenta",
+      "b": "Opinii NIK",
+      "c": "Informacji o stanie zadłużenia państwa",
+      "d": "Informacji o bilansie płatniczym państwa"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "c"]
   },
   {
     "id": 114,
-    "text": "Co jest kluczową cechą 'przychodu' w ujęciu prawnym według notatki?",
+    "text": "Zgodnie z ustawą minister tworząc instytucje gospodarki budżetowej nadaje im:",
     "options": {
-      "a": "Bezzwrotność",
-      "b": "Charakter zwrotny (powstaje roszczenie o zwrot)",
-      "c": "Pochodzenie wyłącznie z darowizn",
-      "d": "Brak wpływu na stan konta"
+      "a": "osobowość prawną",
+      "b": "osobny rachunek środków specjalnych",
+      "c": "zasady prowadzenia gospodarki finansowej",
+      "d": "statut i określa mienie przekazane w zarząd"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "d"]
   },
   {
     "id": 115,
-    "text": "Co to jest 'wydatek'?",
+    "text": "Samorządowy zakład budżetowy może otrzymać:",
     "options": {
-      "a": "Każde faktyczne wydanie pieniędzy (gotówka lub przelew)",
-      "b": "Tylko zakup towarów na magazyn",
-      "c": "Amortyzacja maszyn",
-      "d": "Udzielenie pożyczki innemu państwu"
+      "a": "dotacje przedmiotową",
+      "b": "dotacje inwestycyjną",
+      "c": "subwencje celową",
+      "d": "dotacje wyrównawczą"
+    },
+    "correct_answers": ["a", "b"]
+  },
+  {
+    "id": 116,
+    "text": "Samorządowy zakład budżetowy może prowadzić:",
+    "options": {
+      "a": "Gospodarkę mieszkaniową",
+      "b": "Cmentarz",
+      "c": "Ogród zoologiczny",
+      "d": "Szkołę"
+    },
+    "correct_answers": ["a", "b", "c"]
+  },
+  {
+    "id": 117,
+    "text": "Dotacje przedmiotowe przeznacza się na wydatki:",
+    "options": {
+      "a": "z tytułu wynagrodzeń i składek pochodnych",
+      "b": "inwestycyjne",
+      "c": "polegające na zakupie podręczników szkolnych",
+      "d": "bieżące jednostki o działalności deficytowej (dopłaty do usług)"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 118,
+    "text": "Do warunków samorządowej uchwały absolutoryjnej należą:",
+    "options": {
+      "a": "stosowny wniosek komisji rewizyjnej do organu stanowiącego",
+      "b": "zachowanie terminu do 30 czerwca",
+      "c": "zapoznanie się z opinią właściwej regionalnej izby obrachunkowej o wykonaniu budżetu",
+      "d": "sprawozdanie finansowe"
+    },
+    "correct_answers": ["a", "b", "c", "d"]
+  },
+  {
+    "id": 119,
+    "text": "Zasada przejrzystości finansów publicznych wyraża się w:",
+    "options": {
+      "a": "Opublikowaniu budżetu państwa w dzienniku ustaw",
+      "b": "Hierarchicznym podziale urzędów",
+      "c": "Klasyfikacyjnym ujęciu dochodów i wydatków publicznych",
+      "d": "Powiązaniem wydatków z dochodami budżetowymi"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 120,
+    "text": "Zasada celowości wydatków publicznych polega na tym, aby wydatek był:",
+    "options": {
+      "a": "Gospodarny (służył osiągnięciu celu)",
+      "b": "Uprzednio zaplanowany",
+      "c": "Niezbędny",
+      "d": "Rzetelny"
     },
     "correct_answers": ["a"]
   },
   {
-    "id": 116,
-    "text": "Czy spłata otrzymanej pożyczki jest wydatkiem publicznym?",
-    "options": {
-      "a": "Tak, każda płatność to wydatek",
-      "b": "Nie, jest to rozchód publiczny",
-      "c": "Jest to dochód ujemny",
-      "d": "Jest to przychód zwrotny"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 117,
-    "text": "Co zalicza się do rozchodów publicznych (art. 6 ust. 2 u.f.p.)?",
-    "options": {
-      "a": "Wypłatę 500+",
-      "b": "Wykup papierów wartościowych",
-      "c": "Budowę nowej autostrady",
-      "d": "Zakup energii elektrycznej dla urzędu"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 118,
-    "text": "Jak ustala się nadwyżkę lub deficyt sektora finansów publicznych?",
-    "options": {
-      "a": "Po zsumowaniu wszystkich dochodów bez wyjątków",
-      "b": "Po wyeliminowaniu przepływów finansowych między jednostkami tego sektora",
-      "c": "Według kursu euro z dnia 1 stycznia",
-      "d": "Na podstawie ankiet przeprowadzonych wśród ministrów"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 119,
-    "text": "Która z wymienionych instytucji NIE należy do sektora finansów publicznych według art. 9 u.f.p.?",
-    "options": {
-      "a": "Sądy i trybunały",
-      "b": "Prywatne banki komercyjne",
-      "c": "Samodzielne publiczne zakłady opieki zdrowotnej",
-      "d": "Polska Akademia Nauk"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 120,
-    "text": "Czy Bankowy Fundusz Gwarancyjny (BFG) tworzy sektor finansów publicznych?",
-    "options": {
-      "a": "Nie, jest instytucją prywatną",
-      "b": "Tak, jest wymieniony w art. 9 pkt 15 u.f.p.",
-      "c": "Tylko w sytuacji kryzysu bankowego",
-      "d": "Tak, ale tylko jego oddziały regionalne"
-    },
-    "correct_answers": ["b"]
-  },
-  {
     "id": 121,
-    "text": "Na jakiej podstawie działają jednostki sektora wymienione w art. 9 pkt 8-15 (np. uczelnie, NFZ)?",
+    "text": "Samorządowe instytucje kultury mają prawo do:",
     "options": {
-      "a": "Wyłącznie na podstawie ustawy o finansach publicznych",
-      "b": "Na podstawie odrębnych ustaw stanowiących podstawę ich utworzenia",
-      "c": "Na podstawie Kodeksu Handlowego",
-      "d": "Na podstawie dekretu Prezydenta"
+      "a": "Samodzielnych planów finansowych",
+      "b": "Dotacji budżetowej",
+      "c": "Subwencji z budżetu",
+      "d": "Wyodrębnienia środków specjalnych"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b"]
   },
   {
     "id": 122,
-    "text": "Czym jest jednostka budżetowa według art. 11 u.f.p.?",
+    "text": "Obowiązek dochodzenia roszczeń pieniężnych, wyraża się:",
     "options": {
-      "a": "Firmą państwową z osobowością prawną",
-      "b": "Jednostką organizacyjną nieposiadającą osobowości prawnej, pokrywającą wydatki bezpośrednio z budżetu",
-      "c": "Wydzielonym kontem w Ministerstwie Finansów",
-      "d": "Fundacją celową rządu"
+      "a": "Powinnością prawidłowego obliczenia należności",
+      "b": "Powinnością wzywania do zapłaty",
+      "c": "Wyłączeniem przedawnienia należności",
+      "d": "W odpowiedzialności karno-administracyjnej urzędników"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b"]
   },
   {
     "id": 123,
-    "text": "Na jakiej podstawie działa każda jednostka budżetowa?",
+    "text": "Skarbowe papiery wartościowe to:",
     "options": {
-      "a": "Umowy spółki",
-      "b": "Statutu określającego nazwę, siedzibę i przedmiot działalności",
-      "c": "Wpisu do ewidencji działalności gospodarczej",
-      "d": "Uchwały zarządu województwa"
+      "a": "Skarbowe papiery oszczędnościowe",
+      "b": "Bony skarbowe",
+      "c": "Obligacje skarbowe",
+      "d": "Akcje jednoosobowej spółki skarbu państwa"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c"]
   },
   {
     "id": 124,
-    "text": "Co jest podstawą gospodarki finansowej jednostki budżetowej?",
+    "text": "W toku wykonywania budżetu obowiązują zasady:",
     "options": {
-      "a": "Budżet państwa",
-      "b": "Plan dochodów i wydatków (plan finansowy jednostki)",
-      "c": "Bilans zysków i strat",
-      "d": "Wyłącznie faktury VAT"
+      "a": "Terminowości realizacji wydatków",
+      "b": "Przestrzegania limitów wydatków",
+      "c": "Dokonywania wydatków w sposób oszczędny",
+      "d": "Pierwszeństwa wydatków na zamówienia publiczne"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c"]
   },
   {
     "id": 125,
-    "text": "Które jednostki budżetowe mogą gromadzić dochody na wydzielonym rachunku (art. 11a u.f.p.)?",
+    "text": "Cofa się beneficjentowi środki europejskie, gdy:",
     "options": {
-      "a": "Wszystkie urzędy skarbowe",
-      "b": "Państwowe jednostki budżetowe prowadzące działalność oświatową",
-      "c": "Jednostki wojskowe",
-      "d": "Ministerstwa"
+      "a": "Wykorzystano je z naruszeniem procedur udzielania środków",
+      "b": "Pobrano je w nadmiernej wysokości",
+      "c": "Dopuszczono się opóźnienia w ich rozliczeniu",
+      "d": "Wykorzystano je niezgodnie z przeznaczeniem",
+      "e": "Doszło do przekroczenia limitów wydatków na zadanie"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "d"]
   },
   {
     "id": 126,
-    "text": "Z jakiego tytułu oświatowe jednostki budżetowe mogą gromadzić dochody na wydzielonym rachunku?",
+    "text": "Blokowanie wydatków z budżetu samorządowego:",
     "options": {
-      "a": "Z podatku od darowizn",
-      "b": "Z odszkodowań i wpłat za utracone mienie oraz z darowizn pieniężnych",
-      "c": "Z mandatów nakładanych na uczniów",
-      "d": "Z dotacji celowych z budżetu UE"
+      "a": "Należy do kompetencji organu wykonawczego JST - zarząd jst",
+      "b": "Może nastąpić w razie nadmiaru posiadanych środków",
+      "c": "Może nastąpić w razie opóźnień realizacyjnych",
+      "d": "Następuje w razie powiększenia deficytu budżetowego"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c"]
   },
   {
     "id": 127,
-    "text": "Kto podejmuje decyzję o utworzeniu wydzielonego rachunku dochodów w szkole państwowej?",
+    "text": "Odpowiedzialność za naruszenie dyscyplin finansów publicznych ponoszą:",
     "options": {
-      "a": "Minister Finansów",
-      "b": "Kierownik jednostki (dyrektor), po uzyskaniu zgody organu prowadzącego",
-      "c": "Rada Rodziców",
-      "d": "Kurator Oświaty"
+      "a": "Dyrektorzy szpitali publicznych",
+      "b": "Najęci projektanci obiektów publicznych",
+      "c": "Skarbnicy samorządowi",
+      "d": "Osoby prawne korzystające ze środków europejskich"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "c"]
   },
   {
     "id": 128,
-    "text": "Czy dochody z wydzielonego rachunku oświatowego mogą być przeznaczone na wynagrodzenia osobowe?",
+    "text": "Środki na pokrycie pożyczkowych potrzeb państwa można uzyskać z:",
     "options": {
-      "a": "Tak, bez ograniczeń",
-      "b": "Nie, nie mogą być przeznaczone na finansowanie wynagrodzeń osobowych",
-      "c": "Tylko za zgodą związków zawodowych",
-      "d": "Tylko w formie premii świątecznych"
+      "a": "Podatku VAT",
+      "b": "Emisji papierów wartościowych",
+      "c": "Prywatyzacji majątku Skarbu Państwa",
+      "d": "Wynajmu lokalu należącego do SP"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 129,
-    "text": "Co stanowi nadwyżkę budżetu środków europejskich?",
+    "text": "Umowa o dofinansowanie kosztów projektu ze środków europejskich określa:",
     "options": {
-      "a": "Pieniądze pozostałe w portfelu ministra",
-      "b": "Dodatnia różnica między dochodami a wydatkami budżetu środków europejskich",
-      "c": "Kwota zwrócona przez beneficjentów do budżetu krajowego",
-      "d": "Oszczędności na wynagrodzeniach urzędników unijnych"
+      "a": "Harmonogram dokonywanych wydatków",
+      "b": "Zobowiązanie beneficjenta do poddania się kontroli",
+      "c": "Termin rozliczenia projektu",
+      "d": "Ewentualne wyłączenie wydatków z reżimu zamówień publicznych"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c"]
   },
   {
     "id": 130,
-    "text": "Na co może być przeznaczona nadwyżka budżetu środków europejskich?",
+    "text": "Do obligatoryjnych postanowień uchwały budżetowej należą:",
     "options": {
-      "a": "Na podwyżki dla sędziów",
-      "b": "Na spłatę zobowiązań budżetu państwa zaciągniętych na pokrycie deficytu tego budżetu",
-      "c": "Na sfinansowanie deficytu NFZ",
-      "d": "Musi zostać zwrócona bezpośrednio do Brukseli w ciągu 7 dni"
+      "a": "Limit zobowiązań kredytowo-pożyczkowych",
+      "b": "Szczególne zasady wykonania budżetu",
+      "c": "Uprawnienia jednostek pomocniczych w ramach budżetu gminy",
+      "d": "Upoważnienia do dokonywania zmian w budżecie"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c"]
   },
   {
     "id": 131,
-    "text": "Według jakiego podziału ujmuje się wydatki budżetu środków europejskich w ustawie?",
+    "text": "Agencje wykonawcze działają:",
     "options": {
-      "a": "Tylko według imienia i nazwiska beneficjenta",
-      "b": "Według części, działów i programów finansowanych z udziałem środków UE",
-      "c": "Według alfabetu",
-      "d": "Według stopnia trudności projektu"
+      "a": "W liczbie kilkudziesięciu",
+      "b": "Także w sferze samorządu województwa",
+      "c": "Na zasadzie osobowości prawnej",
+      "d": "Na zasadzie dotowania z budżetu"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c", "d"]
   },
   {
     "id": 132,
-    "text": "Jak w prawie budżetowym traktuje się załączniki do ustawy budżetowej?",
+    "text": "Do skarbowych papierów wartościowych należą:",
     "options": {
-      "a": "Jako dokumenty o charakterze wyłącznie pomocniczym",
-      "b": "Jako integralną część ustawy, wiążącą tak samo mocno jak ustawa",
-      "c": "Jako dokumenty jawne tylko dla posłów",
-      "d": "Jako propozycje, które można dowolnie zmieniać w trakcie roku bez nowelizacji"
+      "a": "Bony skarbowe",
+      "b": "Skarbowe papiery oszczędnościowe",
+      "c": "Certyfikaty inwestycyjne",
+      "d": "Akcje"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b"]
   },
   {
     "id": 133,
-    "text": "Co obejmuje łączna kwota planowanych przychodów budżetu państwa (art. 110 u.f.p.)?",
+    "text": "Do zasad publicznej gospodarki finansowej należą:",
     "options": {
-      "a": "Tylko wpływy z VAT",
-      "b": "M.in. wpływy ze sprzedaży papierów wartościowych i prywatyzacji",
-      "c": "Skarby znalezione na terytorium RP",
-      "d": "Wydatki na obsługę długu"
+      "a": "Tzw. zakaz funduszowania",
+      "b": "Obowiązek dochodzenia roszczeń",
+      "c": "Równego dostępu do zadań finansowanych ze środków publicznych",
+      "d": "Zakazu emisji obligacji długoterminowych"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c"]
   },
   {
     "id": 134,
-    "text": "Czym jest limit zobowiązań określany w budżecie państwa?",
+    "text": "Do niepodatkowych należności budżetowych należą:",
     "options": {
-      "a": "Maksymalną liczbą urzędników, których można zatrudnić",
-      "b": "Maksymalną kwotą kredytów, pożyczek i emisji papierów wartościowych",
-      "c": "Minimalną kwotą podatków, jaką trzeba zebrać",
-      "d": "Liczbą umów międzynarodowych, jakie można podpisać"
+      "a": "Wpływy z ceł",
+      "b": "Nadwyżki środków zakładów budżetowych",
+      "c": "Kwoty zwracanych dotacji",
+      "d": "Wpływy z mandatów karnych"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "c", "d"]
   },
   {
     "id": 135,
-    "text": "Która instytucja jest jedynym polskim bankiem państwowym?",
+    "text": "W załącznikach do ustawy budżetowej zamieszcza się:",
     "options": {
-      "a": "PKO BP",
-      "b": "Bank Gospodarstwa Krajowego (BGK)",
-      "c": "mBank",
-      "d": "Bank Pekao SA"
+      "a": "Plany finansowe agencji wykonawczych",
+      "b": "Wykaz jednostek dotowanych podmiotowo",
+      "c": "Plany państwowych instytucji kultury",
+      "d": "Zestawienie programów wieloletnich"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "d"]
   },
   {
     "id": 136,
-    "text": "Czym różni się budżet UE od budżetu środków europejskich w polskiej ustawie?",
+    "text": "Obligacje komunalne można emitować na pokrycie:",
     "options": {
-      "a": "To to samo pojęcie",
-      "b": "Budżet UE to plan dla całej Unii, a budżet środków europejskich to krajowy plan finansowania zadań z udziałem UE",
-      "c": "Budżet UE jest uchwalany przez polski Sejm",
-      "d": "W budżecie środków europejskich nie ma żadnych pieniędzy"
+      "a": "Planowanego deficytu budżetowego",
+      "b": "Przejściowego (w ciągu roku) niedoboru finansowego",
+      "c": "Spłaty uprzednio zaciągniętych kredytów",
+      "d": "Kosztów obsługi długu (oprocentowania)"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c"]
   },
   {
     "id": 137,
-    "text": "Do jakiej kategorii dochodów publicznych zalicza się spadki, zapisy i darowizny (art. 5 ust. 2 pkt 5 u.f.p.)?",
+    "text": "Do dochodów majątkowych gmin należą:",
     "options": {
-      "a": "Do danin publicznych",
-      "b": "Do dochodów budżetu (pozostałych)",
-      "c": "Do przychodów z prywatyzacji",
-      "d": "Do rozchodów"
+      "a": "Wpływy ze sprzedaży majątku trwałego",
+      "b": "Dotacje na utrzymanie USC",
+      "c": "Wpływy z przekształcenia wieczystego użytkowania we własność",
+      "d": "Dotacje na wydatki inwestycyjne"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "c", "d"]
   },
   {
     "id": 138,
-    "text": "Co stanowi przykład 'dochodu z mienia' w postaci dywidendy?",
+    "text": "Rezerwa budżetowa:",
     "options": {
-      "a": "Odsetki od lokaty",
-      "b": "Wypłata zysku z tytułu posiadanych praw majątkowych (akcji/udziałów)",
-      "c": "Czynsz za wynajem biura",
-      "d": "Odszkodowanie za stłuczkę samochodu służbowego"
+      "a": "Stanowi wyjątek od zasady bankowej obsługi budżetu",
+      "b": "Jest rozwiązana w trybie przeniesień wydatków budżetowych",
+      "c": "Ujmowana jest w budżecie państwa w odrębnej części",
+      "d": "Stanowi wyjątek od zasady równowagi"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "c"]
   },
   {
     "id": 139,
-    "text": "Na co przeznacza się środki publiczne zgodnie z art. 6 ust. 1 u.f.p.?",
+    "text": "Obligacje mogą emitować:",
     "options": {
-      "a": "Wyłącznie na wydatki publiczne",
-      "b": "Na wydatki publiczne oraz rozchody publiczne",
-      "c": "Na oszczędności na kontach ministrów",
-      "d": "Na finansowanie kampanii wyborczych"
+      "a": "Osoby prawne prowadzące działalność gospodarczą",
+      "b": "Zarządy budynków komunalnych",
+      "c": "Fundusze celowe",
+      "d": "Gminy"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "d"]
   },
   {
     "id": 140,
-    "text": "Czy płatności związane z udziałami Skarbu Państwa w instytucjach międzynarodowych są rozchodem publicznym?",
+    "text": "Wytyczne dotyczące korekt finansowych w ramach programów operacyjnych może wydawać:",
     "options": {
-      "a": "Nie, to jest wydatek bieżący",
-      "b": "Tak, zgodnie z art. 6 ust. 2 pkt 6 u.f.p.",
-      "c": "Jest to darowizna międzynarodowa",
-      "d": "Jest to przychód finansowy"
+      "a": "Instytucja wdrażająca",
+      "b": "Instytucja certyfikująca",
+      "c": "Zarząd województwa",
+      "d": "Właściwy minister"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["d"]
   },
   {
     "id": 141,
-    "text": "W jakich formach mogą być tworzone jednostki sektora finansów publicznych?",
+    "text": "Zgodnie z ustawą o finansach publicznych minister tworząc instytucję gospodarki budżetowej:",
     "options": {
-      "a": "W dowolnych formach przewidzianych Kodeksem Cywilnym",
-      "b": "W formach określonych w ustawie o finansach publicznych lub na podstawie odrębnych ustaw",
-      "c": "Tylko jako spółki akcyjne",
-      "d": "Tylko jako stowarzyszenia zwykłe"
+      "a": "Nie może przekazywać mienia Skarbu Państwa w jej zarząd",
+      "b": "Nadaje jej statut",
+      "c": "Określa mienie przekazywane w jej zarządzie",
+      "d": "Nadaje jej osobowość prawną"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "c", "d"]
   },
   {
     "id": 142,
-    "text": "Co oznacza skrót 'JST' w polskim prawie finansowym?",
+    "text": "Zakaz funduszowania stanowi przejaw obowiązywania zasady:",
     "options": {
-      "a": "Jednostki Sprawozdawczości Terenowej",
-      "b": "Jednostki Samorządu Terytorialnego",
-      "c": "Jawny System Tranzakcyjny",
-      "d": "Jedyne Środki Transportu"
+      "a": "Równowagi budżetowej",
+      "b": "Jedności formalnej budżetu",
+      "c": "Przejrzystości budżetu",
+      "d": "Szczegółowości budżetu",
+      "e": "Jedności materialnej budżetu",
+      "f": "Zupełność budżetu"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["e"]
   },
   {
     "id": 143,
-    "text": "Czy ZUS należy do sektora finansów publicznych?",
+    "text": "Państwowy fundusz celowy posiada:",
     "options": {
-      "a": "Nie, to instytucja ubezpieczeniowa prywatna",
-      "b": "Tak, zgodnie z art. 9 pkt 8 u.f.p.",
-      "c": "Tak, ale tylko jego pion medyczny",
-      "d": "Tylko jeśli budżet państwa ma deficyt"
+      "a": "Wyodrębniony rachunek bankowy",
+      "b": "Prawo otrzymywania dotacji z budżetu państwa",
+      "c": "Możliwość tworzenia państwowych jednostek budżetowych",
+      "d": "Rozbudowaną strukturę organizacyjną"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b"]
   },
   {
     "id": 144,
-    "text": "Jaki organ nadzoruje fundusze zarządzane przez KRUS?",
+    "text": "Jednostki samorządu terytorialnego mogą zaciągać kredyty i pożyczki oraz emitować papiery wartościowe na pokrycie występującego w ciągu roku przejściowego deficytu budżetu JST:",
     "options": {
-      "a": "Prezes Rady Ministrów",
-      "b": "Prezes Kasy Rolniczego Ubezpieczenia Społecznego",
-      "c": "Minister Rolnictwa",
-      "d": "Komisja Nadzoru Finansowego"
+      "a": "Prawda",
+      "b": "Fałsz"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a"]
   },
   {
     "id": 145,
-    "text": "Czym są samodzielne publiczne zakłady opieki zdrowotnej (SPZOZ) w strukturze sektora?",
+    "text": "Szef Krajowej Administracji Skarbowej pełni funkcję:",
     "options": {
-      "a": "Jednostkami budżetowymi bez osobowości",
-      "b": "Osobami prawnymi tworzącymi sektor finansów publicznych (art. 9 pkt 10)",
-      "c": "Fundacjami zdrowia publicznego",
-      "d": "Przedsiębiorstwami państwowymi nastawionymi na zysk"
+      "a": "Instytucji certyfikującej",
+      "b": "Instytucji zarządzającej",
+      "c": "Instytucji audytowej",
+      "d": "Instytucji wdrażającej"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c"]
   },
   {
     "id": 146,
-    "text": "Czy spółki prawa handlowego są częścią sektora finansów publicznych według art. 9 u.f.p.?",
+    "text": "Jednostki budżetowe:",
     "options": {
-      "a": "Tak, wszystkie",
-      "b": "Nie, są wyraźnie wyłączone w pkt 14",
-      "c": "Tylko jeśli zatrudniają powyżej 100 osób",
-      "d": "Tak, jeśli 51% udziałów ma gmina"
+      "a": "Pod pewnymi warunkami mogą być przekształcone w samorządowe zakłady budżetowe",
+      "b": "Tylko niektóre wydatki pokrywają z budżetu",
+      "c": "Wszystkie swoje dochody odprowadzają na rachunek budżetu państwa",
+      "d": "W razie potrzeby mogą tworzyć agencje wykonawcze"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "c"]
   },
   {
     "id": 147,
-    "text": "Kto nadaje statut jednostce budżetowej gminy?",
+    "text": "Nieprawidłowość indywidualna oznacza:",
     "options": {
-      "a": "Prezydent RP",
-      "b": "Organ stanowiący JST (np. Rada Gminy)",
-      "c": "Skarbnik Gminy",
-      "d": "Minister Spraw Wewnętrznych"
+      "a": "Każde naruszenie mającego zastosowanie prawa",
+      "b": "M.in. zaniechania podmiotu gospodarczego powodujące naruszenie mającego zastosowanie prawa",
+      "c": "Wyłącznie zawinione naruszenie mającego zastosowanie prawa",
+      "d": "Naruszenie prawa wynikające wyłącznie z działania beneficjenta"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 148,
-    "text": "Jaki jest cel budżetu zadaniowego?",
+    "text": "Dług Skarbu Państwa obejmuje zobowiązania całego sektora finansów publicznych wynikające m.in. z wyemitowanych papierów wartościowych, kredytów i przyjętych depozytów:",
     "options": {
-      "a": "Zwiększenie biurokracji",
-      "b": "Zwiększenie efektywności i przejrzystości wydatkowania przez określenie celów i mierników",
-      "c": "Ukrycie wydatków przed opozycją",
-      "d": "Wypłacenie wyższych dywidend dla państwa"
+      "a": "Prawda",
+      "b": "Fałsz"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 149,
-    "text": "Który dokument w polskim prawie stanowi podstawę prawną budżetu obywatelskiego?",
+    "text": "Dotacje podmiotowe:",
     "options": {
-      "a": "Konstytucja RP",
-      "b": "Ustawa o samorządzie gminnym (art. 5a)",
-      "c": "Ustawa o podatkach lokalnych",
-      "d": "Kodeks Wyborczy"
+      "a": "Mogą służyć dofinansowaniu produkcji podręczników szkolnych",
+      "b": "Mogą być przeznaczane wyłącznie na dofinansowanie działalności inwestycyjnej",
+      "c": "Mogą być przeznaczane wyłącznie na dofinansowanie działalności bieżącej",
+      "d": "Obejmują środki dla podmiotu wskazanego w odrębnej ustawie lub w umowie międzynarodowej"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c", "d"]
   },
   {
     "id": 150,
-    "text": "Czy zadania wybrane przez mieszkańców w budżecie obywatelskim są wiążące dla rady gminy?",
+    "text": "Rada Ministrów:",
     "options": {
-      "a": "Nie, rada może je odrzucić bez powodu",
-      "b": "Tak, muszą zostać uwzględnione w uchwale budżetowej, a rada nie może ich usuwać w stopniu istotnym",
-      "c": "Są tylko luźną sugestią",
-      "d": "Wymagają dodatkowego zatwierdzenia przez Premiera"
+      "a": "Uchwala projekt ustawy budżetowej i przedkłada go Sejmowi do 30 sierpnia",
+      "b": "Uchwala projekt ustawy budżetowej i przedkłada go Sejmowi do 30 września",
+      "c": "Przedstawia Sejmowi i NIK do 31 maja roczne sprawozdanie z wykonania ustawy budżetowej",
+      "d": "Uchwala prowizorium budżetowe dla województwa samorządowego"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 151,
-    "text": "Na jaki okres agencje wykonawcze i IGB sporządzają plany finansowe w układzie zadaniowym (art. 32 u.f.p.)?",
+    "text": "Podstawę systemu realizacji programu finansowanego ze środków europejskich 2021-2027 mogą stanowić:",
     "options": {
-      "a": "Na jeden rok budżetowy",
-      "b": "Na rok budżetowy i dwa kolejne lata",
-      "c": "Na okres 5 lat",
-      "d": "Na okres kadencji Sejmu"
+      "a": "Orzeczenia sądów administracyjnych",
+      "b": "Wytyczne",
+      "c": "Decyzje administracyjne",
+      "d": "Szczegółowy opis priorytetów programu"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "d"]
   },
   {
     "id": 152,
-    "text": "Czy dochody oświatowych jednostek budżetowych z odszkodowań za uszkodzone mienie mogą być gromadzone na wydzielonym rachunku?",
+    "text": "Samorządowy zakład budżetowy może otrzymać:",
     "options": {
-      "a": "Nie, muszą trafić bezpośrednio do budżetu państwa",
-      "b": "Tak, zgodnie z art. 11a ust. 1 pkt 2 u.f.p.",
-      "c": "Tylko jeśli mienie było ubezpieczone w PZU",
-      "d": "Tylko za zgodą Ministra Finansów"
+      "a": "Subwencję ogólną",
+      "b": "Majątek na własność",
+      "c": "Dotację przedmiotową",
+      "d": "Dotację podmiotową"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c"]
   },
   {
     "id": 153,
-    "text": "Na co mogą być przeznaczone dochody z wydzielonego rachunku oświatowej jednostki budżetowej?",
+    "text": "Źródłami dochodów własnych gminy są wpływy z:",
     "options": {
-      "a": "Wyłącznie na nagrody dla dyrektora",
-      "b": "Na sfinansowanie wydatków bieżących i majątkowych",
-      "c": "Na spłatę długu publicznego",
-      "d": "Na zakup akcji spółek giełdowych"
+      "a": "Podatku od nieruchomości",
+      "b": "Podatku od towarów i usług",
+      "c": "Podatku od czynności cywilnoprawnych",
+      "d": "Podatku akcyzowego",
+      "e": "Podatku od spadków i darowizn"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "c", "e"]
   },
   {
     "id": 154,
-    "text": "Co stanowi przykład niepodatkowego dochodu budżetu państwa?",
+    "text": "Beneficjent zostaje wykluczony z możliwości otrzymania środków europejskich gdy:",
     "options": {
-      "a": "Podatek akcyzowy",
-      "b": "Kary pieniężne nałożone przez Policję",
-      "c": "Wpływy z prywatyzacji",
-      "d": "Kredyt zaciągnięty w banku zagranicznym"
+      "a": "Stwierdzono nadmiar posiadanych środków finansowych",
+      "b": "Stwierdzono niegospodarność",
+      "c": "Otrzymał płatność na podstawie podrobionych dokumentów",
+      "d": "Nie zwrócił środków wraz z odsetkami w terminie 14 dni od ostatecznej decyzji"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c", "d"]
   },
   {
     "id": 155,
-    "text": "Jakie znaczenie dla budżetu państwa ma wynik budżetu środków europejskich?",
+    "text": "Dochodami jednostek samorządu terytorialnego są:",
     "options": {
-      "a": "Sumuje się z wynikiem krajowym w celu obliczenia deficytu",
-      "b": "Nie jest wliczany do deficytu albo nadwyżki budżetu państwa",
-      "c": "Zawsze musi być dodatni",
-      "d": "Jest odejmowany od dochodów z VAT"
+      "a": "Środki w postaci pożyczek z budżetu państwa",
+      "b": "Środki pochodzące z emisji obligacji komunalnych",
+      "c": "Subwencja ogólna",
+      "d": "Dochody własne"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c", "d"]
   },
   {
     "id": 156,
-    "text": "Dlaczego wprowadzono oddzielenie wyników budżetu państwa od budżetu środków europejskich?",
+    "text": "Zgodnie z ustawą o finansach publicznych sektor finansów publicznych obejmuje:",
     "options": {
-      "a": "Aby ukryć dług przed Unią Europejską",
-      "b": "Aby uniknąć zaburzeń księgowych w prezentacji krajowych dochodów i wydatków",
-      "c": "Bo wymaga tego Konstytucja RP",
-      "d": "Ponieważ środki z UE są w innej walucie"
+      "a": "Polską Akademię Nauk",
+      "b": "Przedsiębiorstwa państwowe",
+      "c": "Skarb Państwa",
+      "d": "Banki państwowe"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a"]
   },
   {
     "id": 157,
-    "text": "Która instytucja zarządza budżetem państwa w zakresie należności podatkowych?",
+    "text": "Państwowy fundusz celowy:",
     "options": {
-      "a": "Bank Gospodarstwa Krajowego",
-      "b": "Narodowy Bank Polski (NBP)",
-      "c": "PKO BP",
-      "d": "Komisja Nadzoru Finansowego"
+      "a": "Stanowi jednostkę organizacyjną nieposiadającą osobowości prawnej",
+      "b": "To taki fundusz, którego przychody pochodzą ze środków publicznych",
+      "c": "Może posiadać osobowość prawną",
+      "d": "To taki fundusz, którego wydatki są przeznaczone na realizację wyodrębnionych zadań",
+      "e": "Stanowi wyodrębniony rachunek bankowy"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "d", "e"]
   },
   {
     "id": 158,
-    "text": "Jaki status prawny posiada Bank Gospodarstwa Krajowego (BGK)?",
+    "text": "Agencja wykonawcza:",
     "options": {
-      "a": "Spółka akcyjna Skarbu Państwa",
-      "b": "Państwowa osoba prawna",
-      "c": "Jednostka budżetowa bez osobowości",
-      "d": "Fundacja rządowa"
+      "a": "Nigdy nie może zaciągać zobowiązań kredytowych",
+      "b": "Może zaciągać zobowiązania na okres przekraczający rok budżetowy przy zapewnieniu środków w planie",
+      "c": "Może otrzymywać dotacje z budżetu państwa",
+      "d": "Może otrzymywać dotacje z budżetu województwa samorządowego"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "c"]
   },
   {
     "id": 159,
-    "text": "Czy Narodowy Bank Polski prowadzi konta dla indywidualnych klientów (osób fizycznych)?",
+    "text": "Instytucja gospodarki budżetowej:",
     "options": {
-      "a": "Tak, każdemu obywatelowi przysługuje takie konto",
-      "b": "Nie, NBP nie prowadzi spraw indywidualnych klientów",
-      "c": "Tylko dla pracowników administracji rządowej",
-      "d": "Tak, ale tylko w zakresie lokat terminowych"
+      "a": "Odpłatnie wykonuje wyodrębnione zadania",
+      "b": "Nieodpłatnie wykonuje wyodrębnione zadania",
+      "c": "Pokrywa koszty swojej działalności przede wszystkim z uzyskiwanych dotacji",
+      "d": "Pokrywa koszty działalności oraz zobowiązania z uzyskiwanych przychodów"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "d"]
   },
   {
     "id": 160,
-    "text": "Zgodnie z ujęciem ekonomicznym, co rozumiemy przez przychód w prostym przykładzie sklepu?",
+    "text": "Statut instytucji gospodarki budżetowej określa w szczególności:",
     "options": {
-      "a": "Zysk po opłaceniu faktur",
-      "b": "Wszystkie wpływy pieniędzy bez uwzględnienia kosztów",
-      "c": "Tylko marżę nałożoną na towar",
-      "d": "Wartość towarów pozostałych na półkach"
+      "a": "Zasady reprezentacji IGB",
+      "b": "Organizację wewnętrzną",
+      "c": "Tryb i zasady dokonywania zmian w statucie",
+      "d": "Źródła uzyskiwania przychodów"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c", "d"]
   },
-  {
+    {
     "id": 161,
-    "text": "Co pokazuje 'dochód' w ujęciu ekonomicznym?",
+    "text": "Na mienie instytucji gospodarki budżetowej mogą składać się:",
     "options": {
-      "a": "Ile pieniędzy wpłynęło do kasy ogółem",
-      "b": "Ile faktycznie zarobiliśmy 'na czysto' (przychód - koszty)",
-      "c": "Kwotę zaciągniętego kredytu obrotowego",
-      "d": "Wartość środków trwałych firmy"
+      "a": "mienie stanowiące własność IGB przekazane przez organ wykonujący funkcje organu założycielskiego w formie ustanowienia użytkowania",
+      "b": "mienie stanowiące wyposażenie przekazane przez organ wykonujący funkcje organu założycielskiego w formie użyczenia",
+      "c": "wyłącznie nieruchomości i ruchomości oddane IGB w trwały zarząd",
+      "d": "przeniesione na własność nieruchomości"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "d"]
   },
   {
     "id": 162,
-    "text": "Które z pojęć finansowych ma charakter zwrotny (powstaje roszczenie o zwrot)?",
+    "text": "Skarbowy papier wartościowy:",
     "options": {
-      "a": "Dochód",
-      "b": "Przychód (np. pożyczka)",
-      "c": "Dotacja",
-      "d": "Podatek"
+      "a": "Jest papierem wartościowym, z którego wynika, że Skarb Państwa jest dłużnikiem posiadacza takiego papieru",
+      "b": "W którym Minister Finansów zobowiązuje się wobec nabywcy zawsze do spełnienia świadczenia pieniężnego",
+      "c": "Jest instrumentem finansowym, w którym Skarb Państwa stwierdza, że jest wierzycielem w stosunku do posiadacza takiego instrumentu",
+      "d": "W którym Skarb Państwa zobowiązuje się do spełnienia określonego świadczenia, które może mieć charakter pieniężny lub niepieniężny"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "d"]
   },
   {
     "id": 163,
-    "text": "Co charakteryzuje 'dochód' w ujęciu prawnym?",
+    "text": "Dysponenci części budżetowych zawsze mogą dokonywać przeniesień wydatków między częściami.",
     "options": {
-      "a": "Obowiązek zwrotu po roku",
-      "b": "Bezzwrotny charakter wpływu",
-      "c": "Konieczność wydania go na inwestycje",
-      "d": "Możliwość zamiany na obligacje"
+      "a": "Prawda",
+      "b": "Fałsz"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 164,
-    "text": "Do jakiej kategorii środków publicznych należą wpływy z prywatyzacji majątku państwowego?",
+    "text": "Blokowanie planowanych wydatków budżetowych polega na unieważnieniu planu finansowego danej jednostki organizacyjnej sektora finansów publicznych.",
     "options": {
-      "a": "Dochody publiczne",
-      "b": "Przychody budżetu państwa",
-      "c": "Wydatki majątkowe",
-      "d": "Środki zagraniczne bezzwrotne"
+      "a": "Prawda",
+      "b": "Fałsz"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 165,
-    "text": "Czym są 'daniny publiczne' zgodnie z art. 5 ust. 2 pkt 1 u.f.p.?",
+    "text": "Dysponenci trzeciego stopnia mogą przekazywać środki dysponentom stopnia czwartego.",
     "options": {
-      "a": "Dobrowolnymi wpłatami na fundusze",
-      "b": "Podatkami, składkami, opłatami i wpłatami z zysku przedsiębiorstw państwowych",
-      "c": "Darowiznami od osób prywatnych",
-      "d": "Środkami z Unii Europejskiej"
+      "a": "Prawda",
+      "b": "Fałsz"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 166,
-    "text": "Czy wpływy z umów najmu lokali przez jednostki sektora finansów publicznych są dochodami publicznymi?",
+    "text": "Rada ministrów może upoważnić, w drodze rozporządzenia, Prezesa Rady Ministrów i Ministra Finansów do dysponowania rezerwą ogólną do wysokości określonych kwot.",
     "options": {
-      "a": "Nie, to dochody prywatne urzędu",
-      "b": "Tak, są to dochody z mienia (art. 5 ust. 2 pkt 4)",
-      "c": "Tylko jeśli najemcą jest inna jednostka publiczna",
-      "d": "Tak, ale tylko w zakresie 50% kwoty"
+      "a": "Prawda",
+      "b": "Fałsz"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a"]
   },
   {
     "id": 167,
-    "text": "Do której kategorii zaliczamy udzielone przez państwo pożyczki (art. 6 ust. 2)?",
+    "text": "Wydatki jednostek budżetowych obejmują:",
     "options": {
-      "a": "Przychody publiczne",
-      "b": "Rozchody publiczne",
-      "c": "Wydatki publiczne",
-      "d": "Dochody publiczne"
+      "a": "Wydatki inwestycyjne państwowych jednostek budżetowych oraz dotacje celowe na finansowanie lub dofinansowanie kosztów inwestycji realizowanych przez inne jednostki",
+      "b": "koszty utrzymania oraz inne wydatki związane z funkcjonowaniem jednostek budżetowych i realizacją ich statutowych zadań",
+      "c": "wynagrodzenia i uposażenia osób zatrudnionych w państwowych jednostkach budżetowych oraz składki naliczane od tych wynagrodzeń i uposażeń",
+      "d": "wydatki na zakup i objęcie akcji oraz wniesienie wkładów do spółek prawa handlowego"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "c"]
   },
   {
     "id": 168,
-    "text": "Kiedy występuje deficyt sektora finansów publicznych?",
+    "text": "Dotacje podmiotowe obejmują środki dla podmiotu wskazanego w odrębnej ustawie lub w umowie międzynarodowej przeznaczone wyłącznie na:",
     "options": {
-      "a": "Gdy dochody są wyższe od wydatków",
-      "b": "Gdy ujemna różnica między dochodami a wydatkami jest ustalona dla okresu rozliczeniowego",
-      "c": "Gdy państwo nie ma złota w skarbcu",
-      "d": "Gdy inflacja przekracza 10%"
+      "a": "dopłaty do określonych rodzajów wyrobów lub usług, kalkulowane według stawek jednostkowych",
+      "b": "finansowanie lub dofinansowanie zadań z zakresu administracji rządowej oraz innych zadań zleconych jednostkom samorządu terytorialnego ustawami",
+      "c": "dofinansowywanie działalności bieżącej"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c"]
   },
   {
     "id": 169,
-    "text": "Które z wymienionych podmiotów NIE tworzą sektora finansów publicznych (art. 9 pkt 14)?",
+    "text": "Bankową obsługę budżetu jednostki samorządu terytorialnego wykonuje NBP lub BGK.",
     "options": {
-      "a": "Uczelnie publiczne",
-      "b": "Spółki prawa handlowego",
-      "c": "Sądy i trybunały",
-      "d": "Instytucje kultury"
+      "a": "Prawda",
+      "b": "Fałsz"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 170,
-    "text": "Czy instytuty badawcze należą do sektora finansów publicznych według art. 9?",
+    "text": "Niezrealizowane kwoty wydatków budżetu państwa:",
     "options": {
-      "a": "Tak, bez wyjątków",
-      "b": "Nie, są wyraźnie wyłączone z pkt 14",
-      "c": "Tak, o ile zajmują się medycyną",
-      "d": "Tylko instytuty działające w ramach PAN"
+      "a": "na podstawie rozporządzenia Rady Ministrów mogą być zrealizowane do 31 marca następnego roku budżetowego",
+      "b": "zasadniczo wygasają z upływem roku budżetowego",
+      "c": "co do zasady podlegają zdeponowaniu na rachunku bankowym Ministra Finansów w BGK",
+      "d": "jednostka organizacyjna sektora finansów publicznych zawsze będzie mogła wydatkować w kolejnym roku budżetowym"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b"]
   },
   {
     "id": 171,
-    "text": "Gdzie znajduje się definicja przedmiotu działalności jednostki budżetowej?",
+    "text": "Wydatki majątkowe obejmują:",
     "options": {
-      "a": "W ustawie budżetowej",
-      "b": "W statucie jednostki",
-      "c": "W regulaminie pracy",
-      "d": "W umowie najmu lokalu"
+      "a": "wydatki budżetu państwa kierowane, na podstawie odrębnych przepisów, bezpośrednio lub pośrednio do osób fizycznych, a niebędące wynagrodzeniem za świadczoną pracę",
+      "b": "wydatki inwestycyjne państwowych jednostek budżetowych oraz dotacje celowe na finansowanie lub dofinansowanie kosztów inwestycji realizowanych przez inne jednostki",
+      "c": "wydatki na zakup i objęcie akcji oraz wniesienie wkładów do spółek prawa handlowego",
+      "d": "wydatki budżetu państwa z tytułu oprocentowania dyskonta od skarbowych papierów wartościowych"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "c"]
   },
   {
     "id": 172,
-    "text": "Kto wydaje zgodę na utworzenie wydzielonego rachunku dochodów w państwowej szkole?",
+    "text": "W toku wykonywania budżetu państwa obowiązują następujące zasady gospodarki finansowej:",
     "options": {
-      "a": "Rada Rodziców",
-      "b": "Organ prowadzący szkołę",
-      "c": "Główny Księgowy",
-      "d": "Skarb Państwa"
+      "a": "rozwiązania rezerw celowych dokonuje Rada Ministrów z uwzględnieniem reguł wynikających z prawa zamówień publicznych",
+      "b": "dokonywanie wydatków następuje w granicach kwot określonych w planie finansowym, z uwzględnieniem prawidłowo dokonanych przeniesień",
+      "c": "pełna realizacja zadań następuje w terminach określonych przepisami i harmonogramem",
+      "d": "blokowanie wydatków następuje w granicach prawidłowo dokonanych przeniesień"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "c"]
   },
   {
     "id": 173,
-    "text": "W jaki sposób finansowany jest deficyt budżetu środków europejskich?",
+    "text": "Absolutorium dla Rady Ministrów uchwala się po obligatoryjnym przedłożeniu Sejmowi:",
     "options": {
-      "a": "Z podatków od nieruchomości",
-      "b": "W ramach potrzeb pożyczkowych budżetu państwa",
-      "c": "Z oszczędności emerytalnych",
-      "d": "Przez emisję pieniądza przez NBP"
+      "a": "sprawozdania z wykonania ustawy budżetowej",
+      "b": "opinii Prezydenta RP",
+      "c": "opinii NIK",
+      "d": "informacji o stanie zadłużenia państwa"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "c", "d"]
   },
   {
     "id": 174,
-    "text": "Czym skutkuje 'nieprawidłowość' w wydatkowaniu środków UE?",
+    "text": "Potrzeby finansowe jednostki samorządu terytorialnego to suma m.in. potrzeb:",
     "options": {
-      "a": "Koniecznością zwrotu środków wraz z odsetkami",
-      "b": "Wysłaniem listu gratulacyjnego",
-      "c": "Zwiększeniem dotacji w kolejnym roku",
-      "d": "Zmianą statutu jednostki"
+      "a": "wyrównawczych",
+      "b": "administracyjnych",
+      "c": "rozwojowych",
+      "d": "hydrologicznych"
+    },
+    "correct_answers": ["a", "c"]
+  },
+  {
+    "id": 175,
+    "text": "Subwencję ogólną dla jednostki samorządu terytorialnego na rok budżetowy ustala się w wysokości subwencji z roku poprzedzającego rok budżetowy powiększonej lub pomniejszonej o odpowiednie różnice potrzeb i kwot kalkulacyjnych.",
+    "options": {
+      "a": "Prawda",
+      "b": "Fałsz"
     },
     "correct_answers": ["a"]
   },
   {
-    "id": 175,
-    "text": "Jak liczone są odsetki od środków unijnych podlegających zwrotowi?",
-    "options": {
-      "a": "Według stopy lombardowej",
-      "b": "W wysokości określonej jak dla zaległości podatkowych",
-      "c": "Według kursu euro",
-      "d": "Nie nalicza się odsetek od środków UE"
-    },
-    "correct_answers": ["b"]
-  },
-  {
     "id": 176,
-    "text": "W jakim terminie należy zwrócić środki UE po doręczeniu decyzji o zwrocie?",
+    "text": "Jednostki samorządu terytorialnego mogą otrzymywać dotacje celowe z budżetu państwa na dofinansowanie zadań własnych:",
     "options": {
-      "a": "W ciągu 7 dni",
-      "b": "W ciągu 14 dni",
-      "c": "W ciągu 30 dni",
-      "d": "Do końca roku"
+      "a": "związanych z wdrażaniem reformy systemu politycznego",
+      "b": "z zakresu zadań inwestycyjnych szkół i placówek oświatowych",
+      "c": "realizowanych w celu zagospodarowania nieruchomości Skarbu Państwa przejętych od wojsk Federacji Rosyjskiej",
+      "d": "związanych z budową i remontami obiektów handlowych"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "c"]
   },
   {
     "id": 177,
-    "text": "Co może zrobić beneficjent, który nie zgadza się ze stwierdzeniem nieprawidłowości w wydatkowaniu środków UE?",
+    "text": "Karami za naruszenie dyscypliny finansów publicznych są:",
     "options": {
-      "a": "Złożyć sprawę do Trybunału Konstytucyjnego",
-      "b": "Zgłosić umotywowane zastrzeżenia w terminie 14 dni",
-      "c": "Nic, decyzja jest niepodważalna",
-      "d": "Poprosić o umorzenie długu Prezydenta RP"
+      "a": "kara pieniężna",
+      "b": "nagana",
+      "c": "kara pozbawienia wolności do lat dwóch",
+      "d": "kara ograniczenia wolności"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b"]
   },
   {
     "id": 178,
-    "text": "Które prawo reguluje procesy pozyskiwania środków przez państwo?",
+    "text": "Umowa o dofinansowanie projektu ze środków europejskich realizowanego w ramach programu operacyjnego powinna określać w szczególności zobowiązanie do:",
     "options": {
-      "a": "Prawo karne",
-      "b": "Prawo finansowe",
-      "c": "Prawo cywilne",
-      "d": "Prawo pracy"
+      "a": "Rezygnacji z cywilnoprawnych środków zaskarżenia",
+      "b": "Stosowania wytycznych",
+      "c": "Poddania się kontroli i tryb kontroli realizacji projektu lub zadania",
+      "d": "Stosowania przepisów ustawy o finansach publicznych"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "c", "d"]
   },
   {
     "id": 179,
-    "text": "Do którego działu prawa finansowego zaliczamy pozyskiwanie środków (np. podatki)?",
+    "text": "Korekta finansowa oznacza:",
     "options": {
-      "a": "Prawo budżetowe",
-      "b": "Prawo podatkowe",
-      "c": "Prawo celne",
-      "d": "Prawo bankowe"
+      "a": "kwotę, o jaką zwiększa się finansowanie UE dla projektu",
+      "b": "procedurę zmiany warunków konkursu o dofinansowanie projektu ze środków UE",
+      "c": "kwotę, o jaką pomniejsza się finansowanie UE dla projektu lub programu w związku z nieprawidłowością indywidualną lub systemową"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c"]
   },
   {
     "id": 180,
-    "text": "Czym są 'instytucje kompleksowe' w prawie finansowym?",
+    "text": "Instytucja zarządzająca na gruncie ustawy o zasadach prowadzenia polityki rozwoju oznacza:",
     "options": {
-      "a": "Dużymi urzędami skarbowymi",
-      "b": "Instytucjami zbudowanymi częściowo z prawa cywilnego, a częściowo z administracyjnego",
-      "c": "Bankami obsługującymi państwo",
-      "d": "Uczelniami medycznymi"
+      "a": "podmiot publiczny lub prywatny realizujący zadania bezpośrednio wobec beneficjentów",
+      "b": "właściwego ministra lub zarząd województwa odpowiedzialnych za przygotowanie i realizację programu operacyjnego",
+      "c": "organ administracji publicznej, któremu powierzono część zadań związanych z programem"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 181,
-    "text": "Jaki jest podstawowy cel finansów publicznych według notatki?",
+    "text": "Wytyczne w zakresie wdrażania funduszy strukturalnych:",
     "options": {
-      "a": "Zarabianie pieniędzy przez polityków",
-      "b": "Zaspokajanie potrzeb społecznych",
-      "c": "Inwestowanie na giełdzie",
-      "d": "Zbieranie rezerw złota"
+      "a": "są wydawane przez instytucje wdrażające",
+      "b": "jest to instrument ekonomiczny służący intensyfikacji wydatków",
+      "c": "jest to akt prawny określający ujednolicone warunki i procedury",
+      "d": "są wydawane w celu zapewnienia zgodności sposobu realizacji programów z prawem Unii Europejskiej"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["d"]
   },
   {
     "id": 182,
-    "text": "Czy rok budżetowy w Polsce może być inny niż kalendarzowy?",
+    "text": "Nieprawidłowość indywidualna na gruncie przepisów UE oznacza:",
     "options": {
-      "a": "Tak, na wniosek Premiera",
-      "b": "Nie, rokiem budżetowym jest rok kalendarzowy",
-      "c": "Tylko w czasie wojny",
-      "d": "Tak, dla jednostek samorządu terytorialnego"
+      "a": "tylko takie naruszenie, które ma szkodliwy wpływ na budżet Unii poprzez obciążenie go nieuzasadnionym wydatkiem",
+      "b": "zawinione naruszenie mającego zastosowanie prawa",
+      "c": "każde naruszenie prawa, które ma lub może mieć wpływ na budżet Unii poprzez obciążenie go nieuzasadnionym wydatkiem",
+      "d": "naruszenie mającego zastosowanie prawa, wynikające z działania lub zaniechania podmiotu gospodarczego"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c", "d"]
   },
   {
     "id": 183,
-    "text": "Czym jest refundacja w budżecie środków europejskich?",
+    "text": "Podstawą prawną dokonania płatności na rzecz beneficjenta jest:",
     "options": {
-      "a": "Wypłatą zaliczki przed rozpoczęciem prac",
-      "b": "Zwrotem pieniędzy przez UE po zakończeniu inwestycji bez nieprawidłowości",
-      "c": "Opłatą za obsługę konta w BGK",
-      "d": "Karą za opóźnienie w projekcie"
+      "a": "postanowienie wydane w trybie KPA",
+      "b": "zlecenie płatności wystawione przez instytucję, z którą beneficjent zawarł umowę o dofinansowanie projektu",
+      "c": "wpis ocenionego projektu na listę zakwalifikowanych projektów",
+      "d": "żądanie sformułowane przez podmiot z listy"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 184,
-    "text": "Z czego finansowana jest spłata zobowiązań zaciągniętych na deficyt budżetu środków europejskich?",
+    "text": "W przypadku jeżeli beneficjent nie zgadza się ze stwierdzeniem wystąpienia nieprawidłowości indywidualnej może:",
     "options": {
-      "a": "Z podatku VAT",
-      "b": "Z nadwyżki budżetu środków europejskich",
-      "c": "Z dotacji celowych z budżetu państwa",
-      "d": "Ze sprzedaży obligacji infrastrukturalnych"
+      "a": "wnieść zarzut na postanowienie",
+      "b": "zgłosić umotywowane zastrzeżenia",
+      "c": "wnieść skargę do WSA w wyniku bezskuteczności zarzutu",
+      "d": "wnieść odwołanie od decyzji administracyjnej"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 185,
-    "text": "Według jakiego podziału ujmuje się dochody budżetu środków europejskich?",
+    "text": "Środki UE podlegają zwrotowi wraz z odsetkami w wysokości jak dla zaległości podatkowych, gdy są wykorzystane niezgodnie z:",
     "options": {
-      "a": "Działów i rozdziałów",
-      "b": "Części klasyfikacji budżetowej i programów",
-      "c": "Województw i powiatów",
-      "d": "Tylko według nazwy programu"
+      "a": "przeznaczeniem",
+      "b": "procedurami określonymi w umowie międzynarodowej lub innymi procedurami obowiązującymi przy ich wykorzystaniu",
+      "c": "decyzją mocą której orzeczono obowiązek ich zwrotu",
+      "d": "uchwałą zarządu województwa"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b"]
   },
   {
     "id": 186,
-    "text": "W jakiej formie wydawany jest budżet państwa?",
+    "text": "Blokowania planowanych wydatków budżetowych można dokonać w przypadku stwierdzenia:",
     "options": {
-      "a": "Uchwały Rady Ministrów",
-      "b": "Ustawy",
-      "c": "Rozporządzenia Prezydenta",
-      "d": "Obwieszczenia Marszałka Sejmu"
+      "a": "niegospodarności w określonych jednostkach",
+      "b": "nadmiaru posiadanych środków",
+      "c": "opóźnień w realizacji zadań",
+      "d": "niedoboru posiadanych środków",
+      "e": "terminowej realizacji zadań publicznych"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c"]
   },
   {
     "id": 187,
-    "text": "Kogo wiąże ustawa budżetowa (dlaczego ma charakter szczególny)?",
+    "text": "Państwowy fundusz celowy posiada:",
     "options": {
-      "a": "Wszystkich obywateli bezpośrednio",
-      "b": "Tylko dysponentów (podmioty, których kompetencje określa)",
-      "c": "Wyłącznie pracowników Ministerstwa Finansów",
-      "d": "Tylko banki komercyjne"
+      "a": "Możliwość tworzenia państwowych jednostek budżetowych",
+      "b": "Prawo otrzymania dotacji z budżetu państwa",
+      "c": "Rozbudowaną strukturę organizacyjną z wieloosobowym zarządem",
+      "d": "Wyodrębniony rachunek bankowy"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "d"]
   },
   {
     "id": 188,
-    "text": "Czym różni się budżet zadaniowy od tradycyjnego pod względem analitycznym?",
+    "text": "W planie finansowym zakładu budżetowego:",
     "options": {
-      "a": "Jest mniej dokładny",
-      "b": "Koncentruje się na efektach i celach, a nie tylko na kwotach w działach",
-      "c": "Nie wymaga stosowania mierników",
-      "d": "Jest sporządzany w języku angielskim"
+      "a": "mogą być dokonywane zmiany w ciągu roku w przypadku realizowania wyższych od planowanych przychodów i kosztów",
+      "b": "mogą być dokonywane zmiany pod warunkiem, że nie spowoduje to zmniejszenia wpłat do budżetu ani zwiększenia dotacji",
+      "c": "mogą być dokonywane wszelkie zmiany",
+      "d": "nie mogą być dokonywane zmiany"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b"]
   },
   {
     "id": 189,
-    "text": "Co to są 'Funkcje państwa' w budżecie zadaniowym?",
+    "text": "Do rozchodów publicznych zalicza się środki przeznaczone na:",
     "options": {
-      "a": "Uroczystości państwowe",
-      "b": "Poszczególne obszary działań państwa (np. bezpieczeństwo, edukacja)",
-      "c": "Uprawnienia Prezydenta RP",
-      "d": "Zasady protokołu dyplomatycznego"
+      "a": "Spłaty otrzymanych pożyczek i kredytów",
+      "b": "Wykup obligacji skarbowych",
+      "c": "Pomoc społeczną",
+      "d": "Prowadzenie publicznej działalności gospodarczej"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b"]
   },
   {
     "id": 190,
-    "text": "Jak nazywają się mierniki określające poziom efektów na starcie zadania?",
+    "text": "Źródłami dochodów własnych gminy są wpływy z:",
     "options": {
-      "a": "Mierniki docelowe",
-      "b": "Mierniki bazowe",
-      "c": "Mierniki operacyjne",
-      "d": "Mierniki kontrolne"
+      "a": "Podatku od spadków i darowizn",
+      "b": "Podatku od nieruchomości",
+      "c": "Podatku od towarów i usług",
+      "d": "Podatku akcyzowego",
+      "e": "Podatku od czynności cywilnoprawnych"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "e"]
   },
   {
     "id": 191,
-    "text": "Czy budżet obywatelski jest obowiązkowy dla wszystkich gmin wiejskich?",
+    "text": "Zakaz funduszowania stanowi przejaw obowiązywania zasady:",
     "options": {
-      "a": "Tak, na podstawie ustawy",
-      "b": "Nie, jest obowiązkowy tylko dla miast na prawach powiatu",
-      "c": "Tak, jeśli gmina ma powyżej 5000 mieszkańców",
-      "d": "Tylko za zgodą wojewody"
+      "a": "zupełności budżetu",
+      "b": "Szczegółowości budżetu",
+      "c": "Jedności materialnej budżetu",
+      "d": "Jedności formalnej budżetu",
+      "e": "Przejrzystości budżetu",
+      "f": "Równowagi budżetowej"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c"]
   },
   {
     "id": 192,
-    "text": "Jaki charakter ma głosowanie mieszkańców w budżecie obywatelskim?",
+    "text": "Zgodnie z ustawą o finansach publicznych minister:",
     "options": {
-      "a": "Konsultacyjny (niewiążący)",
-      "b": "Bezpośredni i decyzyjny (wiążący dla rady gminy)",
-      "c": "Tylko doradczy dla burmistrza",
-      "d": "Ma charakter sondażu opinii publicznej"
+      "a": "Nadaje tworzonej przez siebie jednostce budżetowej osobowość prawną",
+      "b": "Nadaje tworzonej przez siebie jednostce budżetowej statut",
+      "c": "Likwidując jednostkę budżetową określa przeznaczenia mienia",
+      "d": "Tworząc państwową jednostkę budżetową nie może wyposażyć jej w mienie Skarbu Państwa"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["b", "c"]
   },
   {
     "id": 193,
-    "text": "Jakie środki są wyłączone z definicji budżetu środków europejskich (art. 117)?",
+    "text": "W toku wykonywania budżetu zarząd może dokonywać zmian w planie dochodów i wydatków JST polegających na zmianach planu:",
     "options": {
-      "a": "Środki na budowę autostrad",
-      "b": "Środki przeznaczone na projekty pomocy technicznej",
-      "c": "Środki na kulturę",
-      "d": "Środki z funduszy strukturalnych"
+      "a": "Dochodów i wydatków związanych ze zmianą kwot lub uzyskaniem dotacji przekazywanych z budżetu państwa lub innych JST",
+      "b": "Wydatków samorządowych osób prawnych w ramach części",
+      "c": "Dochodów JST wynikających ze zmian kwot subwencji w wyniku podziału rezerw subwencji ogólnej",
+      "d": "Dochodów i wydatków JST związanych ze zwrotem dotacji otrzymanych z budżetu państwa lub innych JST"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "c", "d"]
   },
   {
     "id": 194,
-    "text": "Gdzie deponowane są pieniądze z UE według notatki?",
+    "text": "Rada Ministrów przedstawia Sejmowi i NIK roczne sprawozdanie z wykonywania budżetu w terminie do:",
     "options": {
-      "a": "W skarbcu Ministerstwa Finansów",
-      "b": "Na odrębnym rachunku w Banku Gospodarstwa Krajowego",
-      "c": "W Europejskim Banku Inwestycyjnym",
-      "d": "Na wspólnym koncie z podatkami w NBP"
+      "a": "31 marca",
+      "b": "31 maja",
+      "c": "30 września",
+      "d": "31 grudnia"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 195,
-    "text": "Jaki jest limit dotacji przedmiotowej dla zakładu budżetowego z JST?",
+    "text": "Subwencja ogólna dla JST jest ustalana w oparciu o potrzeby:",
     "options": {
-      "a": "Maksymalnie 10% przychodów",
-      "b": "Nie może przekroczyć 50% kosztów działalności",
-      "c": "Zawsze 100% kosztów",
-      "d": "Nie ma takiego limitu"
+      "a": "Wyrównawcze",
+      "b": "Oświatowe",
+      "c": "Rozwojowe",
+      "d": "Ekologiczne",
+      "e": "Uzupełniające"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c", "d", "e"]
   },
   {
     "id": 196,
-    "text": "Co stanowi integralną część ustawy budżetowej?",
+    "text": "Samorządowy zakład budżetowy może otrzymać z budżetu JST:",
     "options": {
-      "a": "Tylko tekst główny artykułów",
-      "b": "Tekst główny oraz załączniki",
-      "c": "Opinie ekspertów sejmowych",
-      "d": "Nagrania z obrad Komisji Finansów"
+      "a": "dotacje przedmiotowe",
+      "b": "dotacje celowe na zadania bieżące finansowane z udziałem środków UE",
+      "c": "dotacje celowe na finansowanie kosztów inwestycji",
+      "d": "dotacje podmiotowe"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c"]
   },
   {
     "id": 197,
-    "text": "Jak w ujęciu prawnym określa się formę budżetu JST?",
+    "text": "Budżet środków europejskich jest elementem konstrukcyjnym ustawy budżetowej i nie stanowi odrębnego aktu prawnego.",
     "options": {
-      "a": "Ustawa lokalna",
-      "b": "Uchwała",
-      "c": "Zarządzenie",
-      "d": "Dekret"
+      "a": "Prawda",
+      "b": "Fałsz"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a"]
   },
   {
     "id": 198,
-    "text": "Który organ przyjmuje budżet środków europejskich w Polsce?",
+    "text": "Jednostki budżetowe prowadzą gospodarkę finansową w oparciu o:",
     "options": {
-      "a": "Komisja Europejska",
-      "b": "Parlament (Sejm i Senat)",
-      "c": "Rada Ministrów (ostatecznie)",
-      "d": "Prezes NBP"
+      "a": "Bilans zysków i strat",
+      "b": "Plan dochodów i wydatków",
+      "c": "Uchwałę o podziale zysku",
+      "d": "Zatwierdzone faktury"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 199,
-    "text": "Zgodnie z art. 110 u.f.p., co określa budżet państwa w pkt 3?",
+    "text": "Rezerwa budżetowa jest ujmowana w budżecie państwa w odrębnej części.",
     "options": {
-      "a": "Listę wszystkich urzędników",
-      "b": "Kwotę planowanego deficytu wraz ze źródłami jego pokrycia",
-      "c": "Harmonogram świąt państwowych",
-      "d": "Kurs euro na cały rok"
+      "a": "Prawda",
+      "b": "Fałsz"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a"]
   },
   {
     "id": 200,
-    "text": "Jakie są 'środki zagraniczne niepodlegające zwrotowi' (art. 5 ust. 1 pkt 3)?",
+    "text": "Pożyczkowe potrzeby budżetu państwa mogą być sfinansowane przychodami pochodzącymi z:",
     "options": {
-      "a": "Pożyczki z Chin",
-      "b": "Środki inne niż z UE i EFTA, np. darowizny od państw trzecich",
-      "c": "Środki z budżetu państwa polskiego",
-      "d": "Kredyty z Międzynarodowego Funduszu Walutowego"
+      "a": "sprzedaży skarbowych papierów wartościowych",
+      "b": "kredytów zaciąganych w bankach",
+      "c": "nadwyżki budżetu środków europejskich",
+      "d": "spłat uprzednio udzielonych pożyczek"
     },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 201,
-    "text": "Kto może zostać Głównym Księgowym jednostki sektora finansów publicznych według kryterium obywatelstwa?",
-    "options": {
-      "a": "Wyłącznie obywatel Polski",
-      "b": "Obywatel państwa członkowskiego UE, EFTA lub Konfederacji Szwajcarskiej",
-      "c": "Każda osoba posiadająca kartę pobytu",
-      "d": "Obywatel dowolnego państwa z całego świata"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 202,
-    "text": "Jakie wykształcenie i staż musi posiadać Główny Księgowy, jeśli ukończył ekonomiczne studia magisterskie?",
-    "options": {
-      "a": "Nie musi posiadać stażu pracy",
-      "b": "Co najmniej 3-letnią praktykę w księgowości",
-      "c": "Co najmniej 6-letnią praktykę w księgowości",
-      "d": "10 lat pracy w administracji"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 203,
-    "text": "Jakie wykształcenie i staż musi posiadać Główny Księgowy, jeśli ukończył tylko średnią szkołę ekonomiczną?",
-    "options": {
-      "a": "Nie może być Głównym Księgowym",
-      "b": "Co najmniej 6-letnią praktykę w księgowości",
-      "c": "Co najmniej 3-letnią praktykę w księgowości",
-      "d": "Co najmniej 15 lat praktyki"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 204,
-    "text": "Za co w szczególności odpowiada Główny Księgowy w jednostce?",
-    "options": {
-      "a": "Za politykę kadrową i zatrudnianie urzędników",
-      "b": "Za prowadzenie rachunkowości i wykonywanie dyspozycji środkami pieniężnymi",
-      "c": "Za reprezentowanie jednostki w sądzie w sprawach karnych",
-      "d": "Za utrzymanie techniczne budynku jednostki"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 205,
-    "text": "Na czym polega 'wstępna kontrola' dokonywana przez Głównego Księgowego?",
-    "options": {
-      "a": "Na sprawdzeniu czy pracownicy przyszli punktualnie do pracy",
-      "b": "Na ocenie zgodności operacji z planem finansowym oraz kompletności dokumentów",
-      "c": "Na kontroli osobistej osób wchodzących do urzędu",
-      "d": "Na weryfikacji poglądów politycznych kontrahentów"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 206,
-    "text": "Które z wymienionych przestępstw dyskwalifikuje kandydata na Głównego Księgowego?",
-    "options": {
-      "a": "Przestępstwo przeciwko mieniu, obrotowi gospodarczemu lub wiarygodności dokumentów",
-      "b": "Mandat za złe parkowanie",
-      "c": "Każde wykroczenie drogowe",
-      "d": "Rozwód z orzeczeniem o winie"
-    },
-    "correct_answers": ["a"]
-  },
-  {
-    "id": 207,
-    "text": "Co oznacza podpis Głównego Księgowego na dokumencie operacji finansowej?",
-    "options": {
-      "a": "Że dokument jest ładnie wydrukowany",
-      "b": "Że nie zgłasza zastrzeżeń do merytorycznej i formalnej strony operacji",
-      "c": "Że to on osobiście wydał te pieniądze",
-      "d": "Że dokument trafi do archiwum"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 208,
-    "text": "Jakie środki podlegają zwrotowi zgodnie z art. 207 u.f.p.?",
-    "options": {
-      "a": "Tylko podatki nadpłacone przez obywateli",
-      "b": "Środki przeznaczone na realizację programów finansowanych z udziałem środków europejskich",
-      "c": "Wszystkie wynagrodzenia urzędników państwowych",
-      "d": "Pieniądze wydane na zakup paliwa do samochodów służbowych"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 209,
-    "text": "W jakiej sytuacji beneficjent musi zwrócić środki europejskie?",
-    "options": {
-      "a": "Gdy wykorzystał je zgodnie z przeznaczeniem, ale spóźnił się o 1 dzień z raportem",
-      "b": "Gdy wykorzystał je niezgodnie z przeznaczeniem lub z naruszeniem procedur",
-      "c": "Zawsze po zakończeniu projektu, niezależnie od wyniku",
-      "d": "Tylko jeśli ogłosi upadłość"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 210,
-    "text": "Od kiedy nalicza się odsetki od środków europejskich podlegających zwrotowi?",
-    "options": {
-      "a": "Od dnia doręczenia decyzji o zwrocie",
-      "b": "Od dnia przekazania środków beneficjentowi",
-      "c": "Od 1 stycznia roku następnego",
-      "d": "Od dnia zakończenia kontroli"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 211,
-    "text": "W jakiej formie organ orzeka o obowiązku zwrotu środków unijnych?",
-    "options": {
-      "a": "Listu poleconego",
-      "b": "Decyzji administracyjnej",
-      "c": "Uchwały sejmiku",
-      "d": "Ustnego polecenia"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 212,
-    "text": "Ile dni ma beneficjent na zwrot środków od dnia doręczenia ostatecznej decyzji?",
-    "options": {
-      "a": "7 dni",
-      "b": "14 dni",
-      "c": "30 dni",
-      "d": "60 dni"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 213,
-    "text": "Co oznacza, że środki unijne zostały wykorzystane 'z naruszeniem procedur'?",
-    "options": {
-      "a": "Beneficjent kupił sprzęt od firmy, która nie wygrała przetargu",
-      "b": "Beneficjent napisał raport niebieskim długopisem zamiast czarnym",
-      "c": "Pracownik projektu wziął urlop na żądanie",
-      "d": "Zmieniono nazwę banku obsługującego beneficjenta"
-    },
-    "correct_answers": ["a"]
-  },
-  {
-    "id": 214,
-    "text": "Czy decyzję o zwrocie środków wydaje się, gdy beneficjent sam zgłosił nieprawidłowość i oddał pieniądze?",
-    "options": {
-      "a": "Tak, procedura musi zostać zakończona decyzją",
-      "b": "Nie, decyzji nie wydaje się, jeśli zwrot nastąpił przed jej wydaniem",
-      "c": "Tak, ale tylko w celu nałożenia kary grzywny",
-      "d": "Decyzję wydaje wtedy Minister Finansów"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 215,
-    "text": "Która ustawa reguluje zasady wydatkowania środków UE w perspektywie 2021-2027?",
-    "options": {
-      "a": "Ustawa o rachunkowości",
-      "b": "Ustawa wdrożeniowa",
-      "c": "Kodeks Postępowania Administracyjnego",
-      "d": "Ustawa o podatku VAT"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 216,
-    "text": "W jakim przypadku środki UE nie podlegają zwrotowi mimo uchybień?",
-    "options": {
-      "a": "Gdy uchybienie jest merytoryczne i dotyczy celu projektu",
-      "b": "Gdy błąd nie ma charakteru nieprawidłowości indywidualnej i nie wpływa na budżet UE",
-      "c": "Gdy beneficjentem jest partia polityczna",
-      "d": "Każde uchybienie zawsze skutkuje zwrotem"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 217,
-    "text": "Czym jest 'część' w klasyfikacji budżetowej?",
-    "options": {
-      "a": "Grupą wydatków na konkretną drogę",
-      "b": "Podstawowym przekrojem budżetu (np. Administracja publiczna, Obrona narodowa)",
-      "c": "Ułamkiem kwoty podatku",
-      "d": "Załącznikiem do faktury"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 218,
-    "text": "Co to jest 'rozdział' w klasyfikacji wydatków?",
-    "options": {
-      "a": "Fragment tekstu ustawy",
-      "b": "Bardziej szczegółowy podział w ramach działu (np. szkoły podstawowe)",
-      "c": "Data publikacji budżetu",
-      "d": "Podział na województwa"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 219,
-    "text": "Czy w ustawie budżetowej wydatki są dzielone na paragrafy?",
-    "options": {
-      "a": "Tak, zawsze",
-      "b": "Nie, w ustawie kończy się na rozdziałach (aby dać elastyczność dysponentom)",
-      "c": "Tylko w zakresie wynagrodzeń",
-      "d": "Tylko dla wydatków z UE"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 220,
-    "text": "Kto nadaje w drodze rozporządzenia szczegółową klasyfikację dochodów i wydatków?",
-    "options": {
-      "a": "Prezes Rady Ministrów",
-      "b": "Minister Finansów",
-      "c": "Marszałek Sejmu",
-      "d": "Prezes NIK"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 221,
-    "text": "Jaki jest główny cel audytu wewnętrznego w jednostce sektora?",
-    "options": {
-      "a": "Znalezienie winnych i ukaranie ich",
-      "b": "Niezależna ocena systemów zarządzania i kontroli oraz doradztwo",
-      "c": "Zastąpienie Głównego Księgowego w pracy",
-      "d": "Przygotowanie raportu dla prasy"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 222,
-    "text": "Czy w jednostkach budżetowych dopuszczalne jest przesuwanie środków między działami bez zgody organu?",
-    "options": {
-      "a": "Tak, kierownik może to robić dowolnie",
-      "b": "Nie, przesunięcia wymagają zmiany planu finansowego i zachowania procedur",
-      "c": "Tylko jeśli kwota nie przekracza 100 zł",
-      "d": "Tylko w grudniu"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 223,
-    "text": "Co oznacza zasada 'jedności formalnej' budżetu?",
-    "options": {
-      "a": "Wszystkie dochody i wydatki państwa muszą być ujęte w jednym dokumencie",
-      "b": "Każdy urzędnik musi nosić taki sam mundur",
-      "c": "Wszystkie faktury muszą mieć ten sam format",
-      "d": "Polska musi mieć ten sam budżet co Niemcy"
-    },
-    "correct_answers": ["a"]
-  },
-  {
-    "id": 224,
-    "text": "Czym jest 'zobowiązanie' w finansach publicznych?",
-    "options": {
-      "a": "Obietnicą wyborczą",
-      "b": "Wynikającym z przepisów lub umów obowiązkiem zapłaty określonej kwoty",
-      "c": "Planem wydatków na przyszły rok",
-      "d": "Rodzajem podatku"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 225,
-    "text": "Do czego zobowiązany jest kierownik jednostki w zakresie należności (art. 42 u.f.p.)?",
-    "options": {
-      "a": "Do ich darowania każdemu biednemu dłużnikowi",
-      "b": "Do ustalania ich w prawidłowej wysokości i terminowego dochodzenia",
-      "c": "Do przekazywania ich na cele charytatywne",
-      "d": "Do ukrywania ich przed kontrolą"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 226,
-    "text": "Czym jest budżet w ujęciu prawnym?",
-    "options": {
-      "a": "Prognozą pogody gospodarczej",
-      "b": "Aktem prawnym (ustawą lub uchwałą)",
-      "c": "Zbiorem luźnych notatek ministra",
-      "d": "Reklamą sukcesów rządu"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 227,
-    "text": "Co oznacza, że budżet jest aktem 'rocznym'?",
-    "options": {
-      "a": "Że jest ogłaszany raz na rok, ale trwa 5 lat",
-      "b": "Że planuje operacje finansowe na okres jednego roku budżetowego",
-      "c": "Że dotyczy tylko wydatków na święta roczne",
-      "d": "Że trzeba go czytać przez cały rok"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 228,
-    "text": "Zasada 'zupełności' budżetu oznacza, że:",
-    "options": {
-      "a": "Budżet musi zawierać absolutnie wszystkie dochody i wydatki państwa",
-      "b": "Budżet jest w 100% poprawny",
-      "c": "W budżecie nie ma błędów ortograficznych",
-      "d": "Wszystkie pieniądze zostały wydane"
-    },
-    "correct_answers": ["a"]
-  },
-  {
-    "id": 229,
-    "text": "Co to jest 'deficyt budżetowy'?",
-    "options": {
-      "a": "Sytuacja, gdy wydatki są równe dochodom",
-      "b": "Sytuacja, gdy planowane wydatki są wyższe niż planowane dochody",
-      "c": "Brak pieniędzy w portfelu obywatela",
-      "d": "Spadek wartości waluty krajowej"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 230,
-    "text": "Kto odpowiada za sporządzenie projektu budżetu państwa?",
-    "options": {
-      "a": "Prezydent RP",
-      "b": "Rada Ministrów",
-      "c": "Sąd Najwyższy",
-      "d": "Marszałek Sejmu"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 231,
-    "text": "Kto uchwala ustawę budżetową?",
-    "options": {
-      "a": "Rada Ministrów",
-      "b": "Sejm",
-      "c": "NBP",
-      "d": "Związek Miast Polskich"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 232,
-    "text": "Jaki organ sprawuje nadzór nad gospodarką finansową JST w zakresie budżetu?",
-    "options": {
-      "a": "Minister Obrony Narodowej",
-      "b": "Regionalna Izba Obrachunkowa (RIO)",
-      "c": "Urząd Celno-Skarbowy",
-      "d": "Sanepid"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 233,
-    "text": "Czym jest 'dyscyplina finansów publicznych'?",
-    "options": {
-      "a": "Wojskowym drylem w urzędzie",
-      "b": "Zespołem reguł określających prawidłowość operacji finansowych i odpowiedzialność za ich naruszenie",
-      "c": "Oszczędzaniem na oświetleniu ulic",
-      "d": "Podatkiem od zysków bankowych"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 234,
-    "text": "Kto podlega ustawie o odpowiedzialności za naruszenie dyscypliny finansów publicznych?",
-    "options": {
-      "a": "Tylko politycy",
-      "b": "Osoby wchodzące w skład organu jednostki, pracownicy oraz inne osoby dysponujące środkami",
-      "c": "Wyłącznie bezrobotni",
-      "d": "Tylko obywatele innych państw"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 235,
-    "text": "Naruszeniem dyscypliny jest:",
-    "options": {
-      "a": "Przejście na czerwonym świetle",
-      "b": "Wydatkowanie środków bez upoważnienia lub z przekroczeniem limitu",
-      "c": "Spóźnienie się do pracy o 5 minut",
-      "d": "Picie kawy w czasie pracy"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 236,
-    "text": "Czy niepobranie należności podatkowej jest naruszeniem dyscypliny finansów?",
-    "options": {
-      "a": "Nie, to jest uprzejmość wobec podatnika",
-      "b": "Tak, jest to czyn zabroniony przez ustawę",
-      "c": "Tylko jeśli kwota przekracza milion złotych",
-      "d": "Tylko jeśli urzędnik wziął łapówkę"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 237,
-    "text": "Jaka kara może zostać nałożona za naruszenie dyscypliny finansów publicznych?",
-    "options": {
-      "a": "Dożywocie",
-      "b": "Upomnienie, nagana, kara pieniężna lub zakaz pełnienia funkcji",
-      "c": "Chłosta publiczna",
-      "d": "Konfiskata całego prywatnego majątku"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 238,
-    "text": "Kto orzeka o naruszeniu dyscypliny w pierwszej instancji (dla JST)?",
-    "options": {
-      "a": "Sąd Rejonowy",
-      "b": "Regionalna komisja orzekająca przy RIO",
-      "c": "Burmistrz",
-      "d": "Komendant Straży Miejskiej"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 239,
-    "text": "Jak nazywa się centralny organ orzekający w sprawach dyscypliny finansów?",
-    "options": {
-      "a": "Trybunał Konstytucyjny",
-      "b": "Główna Komisja Orzekająca",
-      "c": "Rada Stanu",
-      "d": "Sąd Najwyższy"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 240,
-    "text": "Co oznacza zasada 'przejrzystości' finansów publicznych?",
-    "options": {
-      "a": "Stosowanie przejrzystych koszulek na dokumenty",
-      "b": "Stosowanie jednolitych reguł klasyfikacji i sprawozdawczości umożliwiających ocenę gospodarki",
-      "c": "Budowanie urzędów ze szkła",
-      "d": "Udostępnianie haseł do kont bankowych państwa wszystkim chętnym"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 241,
-    "text": "Gdzie publikowane są sprawozdania z wykonania budżetu państwa?",
-    "options": {
-      "a": "W Gazecie Wyborczej",
-      "b": "W Monitorze Polskim",
-      "c": "W serwisie Facebook",
-      "d": "W ogłoszeniach parafialnych"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 242,
-    "text": "Jaki wpływ na gospodarkę ma wysoki dług publiczny?",
-    "options": {
-      "a": "Powoduje, że wszyscy są bogatsi",
-      "b": "Może prowadzić do konieczności podnoszenia podatków i ograniczania inwestycji",
-      "c": "Nie ma żadnego wpływu",
-      "d": "Zmniejsza inflację do zera"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 243,
-    "text": "Czym jest 'budżet państwa' w ujęciu ekonomicznym?",
-    "options": {
-      "a": "Portfelem Ministra Finansów",
-      "b": "Zasobem pieniężnym służącym do finansowania zadań państwa",
-      "c": "Listą zakupów rządu",
-      "d": "Wykresami na konferencji prasowej"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 244,
-    "text": "Kto to jest 'dysponent środków budżetowych'?",
-    "options": {
-      "a": "Osoba uprawniona do wydawania pieniędzy z określonej części budżetu",
-      "b": "Każdy obywatel płacący podatki",
-      "c": "Kasjer w banku NBP",
-      "d": "Kurier dostarczający pieniądze do urzędu"
-    },
-    "correct_answers": ["a"]
-  },
-  {
-    "id": 245,
-    "text": "Czym są 'wydatki niewygasające'?",
-    "options": {
-      "a": "Wydatkami na paliwo, które się nie kończy",
-      "b": "Wydatkami, które wyjątkowo mogą być zrealizowane po zakończeniu roku budżetowego",
-      "c": "Wydatkami na wieczne lampki na grobach",
-      "d": "Podatkami, które trzeba płacić zawsze"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 246,
-    "text": "Jaki organ dokonuje corocznej oceny wykonania budżetu państwa (absolutorium)?",
-    "options": {
-      "a": "Narodowy Bank Polski",
-      "b": "Sejm",
-      "c": "Prokuratura Generalna",
-      "d": "Konferencja Episkopatu"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 247,
-    "text": "Co to jest 'audyt zewnętrzny' finansów państwa?",
-    "options": {
-      "a": "Kontrola prowadzona przez urzędników z zagranicy",
-      "b": "Kontrola prowadzona przez Najwyższą Izbę Kontroli (NIK)",
-      "c": "Ankieta wśród obywateli",
-      "d": "Przegląd prasy finansowej"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 248,
-    "text": "Które prawo finansowe zajmuje się cłami przy imporcie towarów?",
-    "options": {
-      "a": "Prawo bankowe",
-      "b": "Prawo celne",
-      "c": "Prawo dewizowe",
-      "d": "Prawo pracy"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 249,
-    "text": "Czym zajmuje się 'prawo dewizowe'?",
-    "options": {
-      "a": "Produkcją monet",
-      "b": "Obrotem wartościami dewizowymi i kontrolą dewizową",
-      "c": "Udzielaniem ślubów cywilnych",
-      "d": "Sprzedażą nieruchomości"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 250,
-    "text": "Jaki procentowy próg długu publicznego w relacji do PKB jest zapisany w Konstytucji RP?",
-    "options": {
-      "a": "30%",
-      "b": "60%",
-      "c": "100%",
-      "d": "Konstytucja nie określa progu"
-    },
-    "correct_answers": ["b"]
+    "correct_answers": ["a", "b", "c", "d"]
   }
 ]
