@@ -1,2195 +1,2396 @@
 [
   {
     "id": 1,
-    "text": "Narodowy Bank Polski:",
+    "text": "Postępowaniem odrębnym fakultatywnym jest:",
     "options": {
-      "a": "Posiada osobowość prawną",
-      "b": "Emituje znaki pieniężne",
-      "c": "Posiada zarząd",
-      "d": "RPP ma roczną kadencję"
-    },
-    "correct_answers": ["a", "b", "c"]
-  },
-  {
-    "id": 2,
-    "text": "Prezes NBP:",
-    "options": {
-      "a": "Powołanie i odwołanie przez Sejm na wniosek Prezydenta RP",
-      "b": "Jest przewodniczącym RPP",
-      "c": "Może sprawować swoje stanowisko pomimo skazania prawomocnym wyrokiem Sądu",
-      "d": "Żadna z powyższych"
+      "a": "postępowanie nakazowe",
+      "b": "postępowanie upominawcze",
+      "c": "postępowanie o naruszenie posiadania",
+      "d": "postępowanie uproszczone"
     },
     "correct_answers": ["a", "b"]
   },
   {
-    "id": 3,
-    "text": "Jednostki sektora finansów publicznych to:",
+    "id": 2,
+    "text": "Umorzenie postępowania:",
     "options": {
-      "a": "Jednostki budżetowe",
-      "b": "Agencje wykonawcze",
-      "c": "Państwowe Fundusze Celowe",
-      "d": "ZUS i NFZ",
-      "e": "Instytucje Gospodarki Budżetowej",
-      "f": "Wszystkie spółki Partnerskie na terenie RP",
-      "g": "UEK"
+      "a": "następuje w postaci wyroku",
+      "b": "może nastąpić na posiedzeniu niejawnym w razie skutecznego cofnięcia pozwu poza rozprawą",
+      "c": "powinno nastąpić w razie skutecznego uznania powództwa przez pozwanego",
+      "d": "w pierwszej instancji jest zaskarżalne apelacją",
+      "e": "następuje w postaci postanowienia"
     },
-    "correct_answers": ["a", "b", "c", "d", "e", "g"]
+    "correct_answers": ["b", "e"]
+  },
+  {
+    "id": 3,
+    "text": "Zwrot pozwu:",
+    "options": {
+      "a": "jest skutkiem podniesienia zarzutu powagi rzeczy osądzonej",
+      "b": "następuje w postaci postanowienia sądu",
+      "c": "ma postać zarządzenia przewodniczącego",
+      "d": "może nastąpić po doręczeniu odpisu pozwu pozwanemu",
+      "e": "może być konsekwencją nieuzupełnienia braku fiskalnego",
+      "f": "jest skutkiem braku zdolności sądowej strony",
+      "g": "jest zaskarżalny zażaleniem do innego składu sądu I instancji"
+    },
+    "correct_answers": ["c", "e", "g"]
   },
   {
     "id": 4,
-    "text": "Do sektora finansów publicznych należą:",
+    "text": "Negatywną przesłanką procesową jest:",
     "options": {
-      "a": "Wojewódzkie fundusze ochrony środowiska",
-      "b": "Gospodarstwo Lasy Państwowe",
-      "c": "Instytuty naukowo badawcze",
-      "d": "TVP S.A."
+      "a": "zrzeczenie roszczenia w poprzednim procesie",
+      "b": "interes prawny",
+      "c": "przedawnienie roszczenia",
+      "d": "stan sprawy w toku"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["d"]
   },
   {
     "id": 5,
-    "text": "Do sektora finansów publicznych należą:",
+    "text": "Skarga kasacyjna:",
     "options": {
-      "a": "Związki metropolitarne",
-      "b": "Gospodarstwo lasy państwowe",
-      "c": "Szkoła prowadzona przez stowarzyszenie",
-      "d": "Instytut naukowo-badawczy"
+      "a": "jest dopuszczalna w każdej sprawie niemajątkowej",
+      "b": "jest nadzwyczajnym środkiem zaskarżenia",
+      "c": "jest dopuszczalna w sprawie rozpoznawanej w postępowaniu uproszczonym",
+      "d": "jest dopuszczalna od każdego wyroku sądu II instancji"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["b"]
   },
   {
     "id": 6,
-    "text": "Do sektora finansów publicznych należą:",
+    "text": "Sprzeciw od wyroku zaocznego:",
     "options": {
-      "a": "Wojewódzkie fundusze ochrony środowiska",
-      "b": "Gospodarstwo Lasy państwowe",
-      "c": "Instytuty naukowo badawcze",
-      "d": "Bank Gospodarstwa Krajowego"
+      "a": "jest szczególnym środkiem zaskarżenia",
+      "b": "jest nadzwyczajnym środkiem zaskarżenia",
+      "c": "jest środkiem odwoławczym",
+      "d": "przysługuje każdej ze stron"
     },
     "correct_answers": ["a"]
   },
   {
     "id": 7,
-    "text": "Do sektora finansów publicznych zalicza się:",
+    "text": "Wyrok zaoczny:",
     "options": {
-      "a": "Uniwersytety ekonomiczne",
-      "b": "Koła łowieckie",
-      "c": "NBP",
-      "d": "Ochotnicze straże pożarna"
+      "a": "może być wydany w postępowaniu nieprocesowym",
+      "b": "może być zaskarżony apelacją przez pozwanego",
+      "c": "jest natychmiast wykonalny jeżeli uwzględnia powództwo",
+      "d": "może być wydany wyłącznie na posiedzeniu niejawnym"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["b", "c"]
   },
   {
     "id": 8,
-    "text": "Zasada jedności:",
+    "text": "Zgodnie z KPC sąd jest związany:",
     "options": {
-      "a": "Zestawienie w budżecie wszystkich dochodów i wydatków Państwa",
-      "b": "Występuje w 2 postaciach: formalnej i materialnej",
-      "c": "Przyporządkowanie określonego celu każdej pozycji w budżecie",
-      "d": "Istnieje 1 dokument określający całość dochodów i wydatków Państwa"
+      "a": "cofnięciem zażalenia",
+      "b": "cofnięciem pozwu",
+      "c": "cofnięciem sprzeciwu od wyroku zaocznego",
+      "d": "zgodnym wnioskiem stron o odroczenie rozprawy"
     },
-    "correct_answers": ["a", "b", "d"]
+    "correct_answers": ["d"]
   },
   {
     "id": 9,
-    "text": "Zasada jedności dzieli się na:",
+    "text": "Zarzut przedawnienia:",
     "options": {
-      "a": "Materialną",
-      "b": "Majątkową",
-      "c": "Formalną",
-      "d": "Całkowitą"
-    },
-    "correct_answers": ["a", "c"]
-  },
-  {
-    "id": 10,
-    "text": "Zasada jawności wiąże się z podawaniem do publicznej wiadomości:",
-    "options": {
-      "a": "Kwot dotacji",
-      "b": "Zbiorczych danych dotyczących finansów publicznych",
-      "c": "Informacji o wykonaniu budżetu Państwa",
-      "d": "Przebiegu debaty o budżet w Sejmie i Senacie"
-    },
-    "correct_answers": ["a", "b", "c", "d"]
-  },
-  {
-    "id": 11,
-    "text": "Budżetową zasadę zupełności realizują w pełni:",
-    "options": {
-      "a": "Jednostki budżetowe",
-      "b": "Agencje wykonawcze",
-      "c": "SZOZ",
-      "d": "Instytucje Gospodarki Budżetowej"
-    },
-    "correct_answers": ["a"]
-  },
-  {
-    "id": 12,
-    "text": "Budżetową zasadę zupełności realizują w pełni:",
-    "options": {
-      "a": "Agencje wykonawcze",
-      "b": "Jednostki budżetowe",
-      "c": "Samorządowe zakłady budżetowe",
-      "d": "Instytucje gospodarki budżetowej"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 13,
-    "text": "Klasyfikacja budżetowa powinna mieć funkcję:",
-    "options": {
-      "a": "Prawną",
-      "b": "Informacyjną",
-      "c": "Sprawozdawczą",
-      "d": "Statystyczną"
-    },
-    "correct_answers": ["a", "b", "c", "d"]
-  },
-  {
-    "id": 14,
-    "text": "Państwowe jednostki budżetowe mogą:",
-    "options": {
-      "a": "Przeznaczać dochody na finansowanie wynagrodzeń osobowych",
-      "b": "Gromadzić dochody za odpłatne wyżywienie i zakwaterowanie uczniów",
-      "c": "Przeznaczać dochody na cele wskazane przez darczyńcę",
-      "d": "Gromadzić dochody pochodzące z opłat egzaminacyjnych",
-      "e": "Przeznaczać dochody na sfinansowanie wydatków bieżących i majątkowych"
-    },
-    "correct_answers": ["b", "c", "d", "e"]
-  },
-  {
-    "id": 15,
-    "text": "Jednostki budżetowe:",
-    "options": {
-      "a": "Wszystkie swoje dochody odprowadzają na rachunek budżetu państwa",
-      "b": "W razie potrzeby mogą zakładać rachunki środków specjalnych",
-      "c": "Wszystkie wydatki pokrywają z budżetu",
-      "d": "Mogą otrzymywać dotacje inwestycyjne"
-    },
-    "correct_answers": ["a", "c"]
-  },
-  {
-    "id": 16,
-    "text": "Roczny plan finansowy jest podstawą gospodarki finansowej:",
-    "options": {
-      "a": "Agencji wykonawczej",
-      "b": "Instytucji Gospodarki Budżetowej",
-      "c": "Samorządowych zakładów budżetowych",
-      "d": "Państwowych funduszy celowych",
-      "e": "Państwowych i samorządowych osób prawnych"
-    },
-    "correct_answers": ["a", "b", "c", "d", "e"]
-  },
-  {
-    "id": 17,
-    "text": "Do obowiązków Samorządowych zakładów budżetowych należy:",
-    "options": {
-      "a": "Pokrywanie kosztów swojej działalności z przychodów własnych",
-      "b": "Odpłatne wykonywanie zadań",
-      "c": "Wpłata na osobny rachunek SZB nadwyżki środków obrotowych i przeznaczenie jej na wynagrodzenia",
-      "d": "Żadne z powyższych"
-    },
-    "correct_answers": ["a", "b"]
-  },
-  {
-    "id": 18,
-    "text": "Środki publiczne mogą być przeznaczone na:",
-    "options": {
-      "a": "Dochody i przychody publiczne",
-      "b": "Tylko dochody publiczne",
-      "c": "Wydatki i rozchody publiczne",
-      "d": "Tylko wydatki publiczne"
+      "a": "jest zarzutem procesowym niweczącym",
+      "b": "jego uwzględnienie skutkuje zawieszeniem postępowania",
+      "c": "jest zarzutem merytorycznym niweczącym",
+      "d": "jego uwzględnienie skutkuje odrzuceniem pozwu"
     },
     "correct_answers": ["c"]
   },
   {
-    "id": 19,
-    "text": "Do środków publicznych zalicza się:",
+    "id": 10,
+    "text": "Zarzut powagi rzeczy ugodzonej:",
     "options": {
-      "a": "Darowiznę na rzecz szkoły gminnej",
-      "b": "Wpływ z biletów w muzeum regionalnym",
-      "c": "Przychody instytucji gospodarki budżetowej",
-      "d": "Wadium (depozyt) wniesione do urzędu wojewódzkich"
+      "a": "jest zarzutem procesowym niweczącym",
+      "b": "jest zarzutem merytorycznym niweczącym",
+      "c": "jej uwzględnienie skutkuje odrzuceniem pozwu"
     },
-    "correct_answers": ["a", "b", "c"]
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 11,
+    "text": "Skutkiem materialnoprawnym doręczenia odpisu pozwu może być:",
+    "options": {
+      "a": "zawisłość sporu",
+      "b": "wymagalność świadczenia",
+      "c": "możliwość wytoczenia powództwa wzajemnego",
+      "d": "przerwa biegu terminu przedawnienia"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 12,
+    "text": "Sąd II instancji nie może wydać wyroku:",
+    "options": {
+      "a": "częściowego",
+      "b": "uzupełniającego",
+      "c": "końcowego",
+      "d": "zaocznego"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 13,
+    "text": "Wymogiem formalnym pierwszego pisma procesowego w sprawie NIE JEST:",
+    "options": {
+      "a": "podpis",
+      "b": "wskazanie adresu strony",
+      "c": "wskazanie numeru PESEL powoda",
+      "d": "wskazanie numeru PESEL pozwanego"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 14,
+    "text": "Termin ustawowy:",
+    "options": {
+      "a": "jest wyznaczany przez sąd lub przewodniczącego",
+      "b": "może być przedłużony przez sąd",
+      "c": "jest terminem instrukcyjnym",
+      "d": "może być przywrócony przez sąd"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 15,
+    "text": "Przywrócenie terminu:",
+    "options": {
+      "a": "może nastąpić również bez wniosku strony (z urzędu)",
+      "b": "jest zaskarżalne zażaleniem",
+      "c": "wymaga uprawdopodobnienia okoliczności uzasadniających wniosek",
+      "d": "wymaga udowodnienia okoliczności uzasadniających wniosek"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 16,
+    "text": "Postępowaniem pozasądowym jest:",
+    "options": {
+      "a": "postępowanie mediacyjne",
+      "b": "postępowanie z zawezwania do próby ugodowej",
+      "c": "postępowanie przed sądem gospodarczym",
+      "d": "postępowanie nieprocesowe"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 17,
+    "text": "W trybie procesowym sąd rozpoznaje sprawy o:",
+    "options": {
+      "a": "rozwód",
+      "b": "dział spadku",
+      "c": "zniesienie separacji",
+      "d": "ubezwłasnowolnienie"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 18,
+    "text": "Do właściwości sądu okręgowego należą sprawy o:",
+    "options": {
+      "a": "separację",
+      "b": "ustalenie ojcostwa",
+      "c": "naruszenie posiadania",
+      "d": "alimenty",
+      "e": "rozwód"
+    },
+    "correct_answers": ["a", "e"]
+  },
+  {
+    "id": 19,
+    "text": "Brak legitymacji procesowej:",
+    "options": {
+      "a": "jest brakiem nieusuwalnym",
+      "b": "skutkuje odrzuceniem pozwu, jeżeli nie zostanie usunięty",
+      "c": "skutkuje oddaleniem powództwa, jeżeli nie zostanie usunięty",
+      "d": "jest negatywną przesłanką procesową"
+    },
+    "correct_answers": ["c"]
   },
   {
     "id": 20,
-    "text": "Do środków publicznych należą wpływy budżetu z tytułu:",
+    "text": "Skutkiem procesowym doręczenia odpisu pozwu jest:",
     "options": {
-      "a": "Wadium przetargowe lub innego depozytu",
-      "b": "Najmu nieruchomości publicznej",
-      "c": "Darowizny, spadku lub zapisu",
-      "d": "Odszkodowania za zniszczenie samochodu służbowego"
+      "a": "zawisłość sporu",
+      "b": "wymagalność świadczenia",
+      "c": "ustalenie zasady anatocyzmu",
+      "d": "przerwa biegu terminu przedawnienia"
     },
-    "correct_answers": ["b", "c", "d"]
+    "correct_answers": ["a"]
   },
   {
     "id": 21,
-    "text": "Dochody i przychody w budżecie Państwa i budżetach JST:",
+    "text": "Skutkiem materialnoprawnym wytoczenia powództwa jest:",
     "options": {
-      "a": "Stanowią nieprzekraczalny limit",
-      "b": "Stanowią prognozy ich wielkości",
-      "c": "Odpowiedź A i B jest poprawna",
-      "d": "Żadna z powyższych"
+      "a": "wymagalność świadczenia",
+      "b": "przerwa biegu terminu przedawnienia",
+      "c": "utrwalenie właściwości",
+      "d": "stan sprawy w toku"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 22,
-    "text": "Państwowy dług publiczny obejmuje:",
+    "text": "Prejudycjalność wyroku karnego oznacza dla postępowania cywilnego, że:",
     "options": {
-      "a": "Zaciągnięte kredyty i pożyczki",
-      "b": "Przyjęte depozyty",
-      "c": "Wyemitowane papiery wartościowe",
-      "d": "Zobowiązania finansowe pracowników biur JST"
+      "a": "sąd cywilny jest związany ustaleniami prawomocnego wyroku skazującego zapadłego w postępowaniu karnym",
+      "b": "sąd cywilny jest związany ustaleniami wszystkich prawomocnych wyroków karnych",
+      "c": "sąd cywilny sam dokonuje ustaleń faktycznych bez względu na wyrok karny"
     },
-    "correct_answers": ["a", "b", "c"]
+    "correct_answers": ["a"]
   },
   {
     "id": 23,
-    "text": "Kwota zaciągniętych pożyczek i kredytów nie może przekroczyć limitów określonych w:",
+    "text": "Zdolność sądową w procesie cywilnym posiada:",
     "options": {
-      "a": "UFP",
-      "b": "Ustawie o NBP",
-      "c": "Ustawie budżetowej",
-      "d": "Odpowiedzi A i C są poprawne"
+      "a": "osoba fizyczna po ukończeniu 18. roku życia",
+      "b": "osoba fizyczna po ukończeniu 13. roku życia",
+      "c": "każda osoba fizyczna"
     },
     "correct_answers": ["c"]
   },
   {
     "id": 24,
-    "text": "Zjawisko deficytu budżetowego występuje, gdy:",
+    "text": "Interwencja główna polega na:",
     "options": {
-      "a": "Wydatki są niższe niż dochody",
-      "b": "Dochody są wyższe niż wydatki",
-      "c": "Wydatki są wyższe niż dochody",
-      "d": "Dochody są niższe niż wydatki"
+      "a": "wytoczeniu powództwa",
+      "b": "przystąpieniu do udziału po jednej ze stron",
+      "c": "złożeniu wniosku o przypozwanie"
     },
-    "correct_answers": ["c", "d"]
+    "correct_answers": ["a"]
   },
   {
     "id": 25,
-    "text": "Deficyt budżetu samorządowego może być sfinansowany z:",
+    "text": "W razie zawarcia ugody sądowej, jeżeli strony nie postanowiły inaczej, koszty procesu:",
     "options": {
-      "a": "Wolnymi środkami na rachunku bieżącym",
-      "b": "Nadwyżki z lat ubiegłych",
-      "c": "Prywatyzacji majątku",
-      "d": "Dochodów z mienia (dzierżawy, najem, leasing)"
+      "a": "znosi się wzajemnie",
+      "b": "strony ponoszą po połowie",
+      "c": "rozdziela się stosunkowo pomiędzy stronami"
     },
-    "correct_answers": ["a", "b", "c"]
+    "correct_answers": ["a"]
   },
   {
     "id": 26,
-    "text": "Deficyt budżetu państwa jest limitowany ustawowo:",
+    "text": "Zbycie w toku sprawy rzeczy lub prawa, objętych sporem (Art. 192 pkt 3 KPC):",
     "options": {
-      "a": "Dopuszczalna wielkość zagrożenia 3/5 PKB",
-      "b": "Dopuszczalna wielkością zadłużenia 4/5 PKB",
-      "c": "Ustalonymi sposobami jego pokrycia",
-      "d": "Możliwością zaciągnięcia zobowiązań w banku centralnym"
+      "a": "powoduje umorzenie postępowania",
+      "b": "wymusza natychmiastowe wejście nabywcy w miejsce zbywcy",
+      "c": "nie ma wpływu na dalszy bieg sprawy"
     },
     "correct_answers": ["c"]
   },
   {
     "id": 27,
-    "text": "Obowiązek ogłaszania wysokości długu publicznego należy do:",
+    "text": "Postanowieniem kończącym postępowanie w sprawie jest postanowienie o:",
     "options": {
-      "a": "Prezydenta RP",
-      "b": "Ministra Finansów",
-      "c": "Wicepremiera",
-      "d": "Marszałka sejmu"
+      "a": "zawieszeniu postępowania",
+      "b": "przekazaniu sprawy sądowi właściwemu",
+      "c": "odrzuceniu pozwu",
+      "d": "odmowie zawieszenia postępowania"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c"]
   },
   {
     "id": 28,
-    "text": "Subwencję ogólną otrzymują:",
+    "text": "W sprawie o rozwód:",
     "options": {
-      "a": "Województwa",
-      "b": "Gminy",
-      "c": "Miasta na prawach powiatu",
-      "d": "JST"
+      "a": "powództwo wzajemne jest dopuszczalne",
+      "b": "świadek może mieć 12 lat",
+      "c": "strona może zostać doprowadzona przymusowo na przesłuchanie",
+      "d": "nie może zapaść wyrok zaoczny"
     },
-    "correct_answers": ["a", "b", "c", "d"]
+    "correct_answers": ["d"]
   },
   {
     "id": 29,
-    "text": "Subwencje ogólną otrzymują:",
+    "text": "Pierwotna niedopuszczalność drogi sądowej:",
     "options": {
-      "a": "Wszystkie JST",
-      "b": "Województwa",
-      "c": "Powiaty",
-      "d": "Gminy"
+      "a": "skutkuje oddaleniem powództwa",
+      "b": "skutkuje zawieszeniem postępowania",
+      "c": "skutkuje nieważnością postępowania",
+      "d": "jest brana pod uwagę tylko na wniosek pozwanego"
     },
-    "correct_answers": ["a", "b", "c", "d"]
+    "correct_answers": ["c"]
   },
   {
     "id": 30,
-    "text": "Państwowy fundusz celowy:",
+    "text": "W postępowaniu nieprocesowym:",
     "options": {
-      "a": "Posiada osobowość prawną",
-      "b": "Stanowi wyodrębniony rachunek bankowy",
-      "c": "Minister Skarbu Państwa jest jego jedynym dysponentem",
-      "d": "Odpowiedzi A i B są prawidłowe"
+      "a": "dopuszczalne jest powództwo wzajemne",
+      "b": "sąd może wydać wyrok zaoczny",
+      "c": "zawsze występuje interwencja uboczna",
+      "d": "sąd nie jest związany uznaniem powództwa"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["d"]
   },
   {
     "id": 31,
-    "text": "Państwowy fundusz celowy ma:",
+    "text": "Brak legitymacji procesowej:",
     "options": {
-      "a": "Osobowość prawną",
-      "b": "Plan finansowy",
-      "c": "Wyodrębniony rachunek bankowy",
-      "d": "Obowiązek odprowadzenia nadwyżki do budżetu państwa"
+      "a": "jest brakiem formalnym pozwu",
+      "b": "skutkuje odrzuceniem pozwu",
+      "c": "skutkuje oddaleniem powództwa",
+      "d": "jest negatywną przesłanką procesową"
     },
-    "correct_answers": ["b", "c", "d"]
+    "correct_answers": ["c"]
   },
   {
     "id": 32,
-    "text": "Państwowy fundusz celowy:",
+    "text": "Sąd nie jest związany:",
     "options": {
-      "a": "Posiada osobowość prawną",
-      "b": "Stanowi wyodrębniony rachunek bankowy",
-      "c": "Dysponuje nim Minister Skarbu Państwa",
-      "d": "Jego przychody pochodzą wyłącznie z dotacji"
+      "a": "cofnięciem zażalenia",
+      "b": "cofnięciem pozwu",
+      "c": "cofnięciem apelacji",
+      "d": "cofnięciem skargi kasacyjnej"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 33,
-    "text": "Posiedzenia RPP zwołuje:",
+    "text": "W trybie procesowym sąd rozpoznaje sprawy o:",
     "options": {
-      "a": "Przewodniczący (co najmniej raz w miesiącu)",
-      "b": "Prezydent RP przynajmniej raz do roku",
-      "c": "Przynajmniej trzech członków w Rady (pisemny wniosek)",
-      "d": "Żadna z powyższych"
-    },
-    "correct_answers": ["a", "c"]
-  },
-  {
-    "id": 34,
-    "text": "W skład RPP wchodzi 9 członków powoływanych przez:",
-    "options": {
-      "a": "Sejm na wniosek Prezydenta RP",
-      "b": "Senat",
-      "c": "Prezydenta RP, Sejm i Senat",
-      "d": "Prezesa NBP"
-    },
-    "correct_answers": ["c"]
-  },
-  {
-    "id": 35,
-    "text": "Środki publiczne to:",
-    "options": {
-      "a": "Dochody publiczne",
-      "b": "Środki pochodzące ze źródeł zagranicznych",
-      "c": "Przychody jednostek sektora finansów publicznych z prowadzonej działalności",
-      "d": "Wszystkie odpowiedzi są poprawne"
-    },
-    "correct_answers": ["d"]
-  },
-  {
-    "id": 36,
-    "text": "Instytucje Gospodarki Budżetowej działają na podstawie:",
-    "options": {
-      "a": "Statutu",
-      "b": "Regulaminu",
-      "c": "Statutu nadanego przez organ wykonujący funkcję organu założycielskiego",
-      "d": "Żadne z powyższych"
-    },
-    "correct_answers": ["c"]
-  },
-  {
-    "id": 37,
-    "text": "Instytucja gospodarki budżetowej:",
-    "options": {
-      "a": "Posiada osobowość prawną",
-      "b": "Pokrywa koszty z przychodów własnych",
-      "c": "Nie otrzymuje dotacji na inwestycje",
-      "d": "Jej mienie pochodzi z zasobów Skarbu Państwa"
-    },
-    "correct_answers": ["a", "b", "d"]
-  },
-  {
-    "id": 38,
-    "text": "Państwowy Fundusz Celowy:",
-    "options": {
-      "a": "Z jego środków mogą być udzielane pożyczki dla JST",
-      "b": "Nie zalicza się do nich funduszy, których jedynym źródłem dochodów jest dotacja z budżetu państwa",
-      "c": "Zwiększonych dochodów nigdy nie przeznacza się na spłatę pożyczek",
-      "d": "Zmiany planu finansowego PFC nie mogą powodować zwiększenia dotacji z BP"
-    },
-    "correct_answers": ["a", "b", "d"]
-  },
-  {
-    "id": 39,
-    "text": "Do funkcji Zarządu NBP należą:",
-    "options": {
-      "a": "Uchwalanie prowizji i opłat bankowych",
-      "b": "Sporządzanie rocznego sprawozdania finansowego NBP",
-      "c": "Ustalanie wysokości stóp procentowych NBP",
-      "d": "Nadzorowanie operacji wolnego rynku"
-    },
-    "correct_answers": ["a", "b", "d"]
-  },
-  {
-    "id": 40,
-    "text": "Prezydent RP:",
-    "options": {
-      "a": "Ma prawo zawetowania ustawy budżetowej",
-      "b": "Ma możliwość zwrócenia się do TK z wnioskiem o zbadanie konstytucyjności ustawy budżetowej",
-      "c": "Ma 7 dni na podpisanie ustawy budżetowej",
-      "d": "Odpowiedzi A i C są poprawne"
-    },
-    "correct_answers": ["b", "c"]
-  },
-  {
-    "id": 41,
-    "text": "Projekt ustawy budżetowej wnosi do Sejmu:",
-    "options": {
-      "a": "Marszałek Senatu",
-      "b": "Kancelaria Prezydenta RP",
-      "c": "Rada Ministrów",
-      "d": "Minister Finansów"
-    },
-    "correct_answers": ["c"]
-  },
-  {
-    "id": 42,
-    "text": "Ustawa o finansach publicznych reguluje m.in.:",
-    "options": {
-      "a": "szczegółowe procedury dokonywania zakupów towarów i usług niezbędnych dla funkcjonowania jednostek sektora publicznego",
-      "b": "zasady konstruowania budżetów powiatowych",
-      "c": "zasady tworzenia budżetów obywatelskich",
-      "d": "dyrektywność (moc prawną) postanowień ujętych w formie załączników do ustawy budżetowej"
-    },
-    "correct_answers": ["b", "d"]
-  },
-  {
-    "id": 43,
-    "text": "Wskaż twierdzenia zgodne z obowiązującym prawem:",
-    "options": {
-      "a": "nadwyżka budżetu środków europejskich jest źródłem spłaty zobowiązań budżetu państwa zaciągniętych na pokrycie deficytu budżetu środków europejskich",
-      "b": "nadwyżka budżetu środków europejskich jest źródłem spłaty zobowiązań budżetu UE",
-      "c": "deficyt budżetu środków europejskich jest finansowany w ramach potrzeb pożyczkowych UE",
-      "d": "deficyt budżetu środków europejskich jest finansowany w ramach potrzeb pożyczkowych budżetu państwa"
-    },
-    "correct_answers": ["a", "d"]
-  },
-  {
-    "id": 44,
-    "text": "Do działów prawa finansowego należy zaliczyć:",
-    "options": {
-      "a": "prywatne prawo bankowe",
-      "b": "prawo rynku kapitałowego",
-      "c": "prawo dewizowe",
-      "d": "publiczne prawo międzynarodowe"
-    },
-    "correct_answers": ["b", "c"]
-  },
-  {
-    "id": 45,
-    "text": "Które z poniższych jednostek należą do sektora finansów publicznych zgodnie z art. 9 ustawy?",
-    "options": {
-      "a": "Fundacja prywatna",
-      "b": "Agencja wykonawcza",
-      "c": "Spółka akcyjna z udziałem Skarbu Państwa",
-      "d": "Jednostka samorządu terytorialnego"
-    },
-    "correct_answers": ["b", "d"]
-  },
-  {
-    "id": 46,
-    "text": "Ustawa budżetowa musi zawierać:",
-    "options": {
-      "a": "Planowane saldo przychodów i rozchodów w Państwa",
-      "b": "Łączną kwotę prognozowanych dochodów budżetu środków w europejskich",
-      "c": "Przepisy zmieniające inne ustawy",
-      "d": "Limit zobowiązań z tytułu zaciąganych kredytów i pożyczek oraz emitowanych papierów wartościowych"
-    },
-    "correct_answers": ["a", "b", "d"]
-  },
-  {
-    "id": 47,
-    "text": "Które z poniższych cech charakteryzują środki publiczne zgodnie z art. 5 ustawy?",
-    "options": {
-      "a": "Nie obejmują środków z opłat publicznych",
-      "b": "Mogą pochodzić z emisji papierów wartościowych",
-      "c": "Są to wyłącznie środki pochodzące z podatków",
-      "d": "Obejmują środki pochodzące z budżetu UE"
-    },
-    "correct_answers": ["b", "d"]
-  },
-  {
-    "id": 48,
-    "text": "Które z poniższych dochodów stanowią dochody publiczne zgodnie z art. 5 ust. 1 ustawy?",
-    "options": {
-      "a": "Darowizny od osób fizycznych",
-      "b": "Opłaty skarbowe",
-      "c": "Przychody z działalności gospodarczej fundacji",
-      "d": "Środki z budżetu Unii Europejskiej"
-    },
-    "correct_answers": ["a", "b", "d"]
-  },
-  {
-    "id": 49,
-    "text": "Które z poniższych podmiotów są państwowymi jednostkami budżetowymi w rozumieniu ustawy?",
-    "options": {
-      "a": "Polska Agencja Inwestycji i Handlu S.A.",
-      "b": "Ministerstwo Finansów",
-      "c": "Komenda Główna Policji",
-      "d": "Narodowy Bank Polski"
-    },
-    "correct_answers": ["b", "c"]
-  },
-  {
-    "id": 50,
-    "text": "Które z poniższych operacji finansowych są uznawane za rozchody publiczne zgodnie z ustawą?",
-    "options": {
-      "a": "Wydatki na kampanie reklamowe partii politycznych",
-      "b": "Wykup obligacji skarbowych",
-      "c": "Spłata zobowiązań z tytułu kredytów zaciągniętych przez gminę",
-      "d": "Wydatki na wynagrodzenia pracowników JST"
-    },
-    "correct_answers": ["b", "c"]
-  },
-  {
-    "id": 51,
-    "text": "Które z poniższych jednostek są samorządowymi jednostkami organizacyjnymi sektora finansów publicznych?",
-    "options": {
-      "a": "Urząd Marszałkowski Województwa",
-      "b": "Gminna biblioteka publiczna",
-      "c": "Wodociągi miejskie",
-      "d": "Wojewódzki Urząd Pracy"
-    },
-    "correct_answers": ["a", "b", "d"]
-  },
-  {
-    "id": 52,
-    "text": "Kontrolę nad wykonywaniem i wykonaniem ustawy budżetowej sprawuje:",
-    "options": {
-      "a": "NIK",
-      "b": "Sejm",
-      "c": "Sejm opierając się na sprawozdaniu i wynikach kontroli NIK"
-    },
-    "correct_answers": ["c"]
-  },
-  {
-    "id": 53,
-    "text": "W rocznym planie agencji wykonawczej znajdują się:",
-    "options": {
-      "a": "Wynik finansowy",
-      "b": "Dotacje z budżetu państwa",
-      "c": "Przychody z prowadzonej działalności",
-      "d": "Wszystkie odpowiedzi są poprawne"
-    },
-    "correct_answers": ["d"]
-  },
-  {
-    "id": 54,
-    "text": "W rocznym planie agencji wykonawczej wyodrębnia się:",
-    "options": {
-      "a": "Przychody z prowadzonej działalności",
-      "b": "Dotacje z budżetu państwa",
-      "c": "Środki przyznane innym podmiotom",
-      "d": "Wynik finansowy"
-    },
-    "correct_answers": ["a", "b", "c", "d"]
-  },
-  {
-    "id": 55,
-    "text": "Statio fisci:",
-    "options": {
-      "a": "Nie posiadają osobowości prawnej",
-      "b": "To jednostki Skarbu Państwa",
-      "c": "Działa w imieniu i na rzecz Skarbu Państwa",
-      "d": "Żadne z powyższych"
-    },
-    "correct_answers": ["a", "b", "c"]
-  },
-  {
-    "id": 56,
-    "text": "Statio fisci:",
-    "options": {
-      "a": "Posiadają osobowość prawną",
-      "b": "Działają w imieniu Skarbu Państwa",
-      "c": "Są jednostkami Skarbu Państwa",
-      "d": "Nie posiadają osobowości prawnej"
-    },
-    "correct_answers": ["b", "c", "d"]
-  },
-  {
-    "id": 57,
-    "text": "Katalog sektora finansów publicznych nie zawiera:",
-    "options": {
-      "a": "PAN",
-      "b": "Samorządowych spółek prawa handlowego",
-      "c": "Państwowych spółek prawa handlowego",
-      "d": "Banków i instytutów badawczych"
-    },
-    "correct_answers": ["b", "c", "d"]
-  },
-  {
-    "id": 58,
-    "text": "Do katalogu sektora finansów publicznych nie należą:",
-    "options": {
-      "a": "Państwowe spółki prawa handlowego",
-      "b": "Polska Akademia Nauk",
-      "c": "Kasa Rolniczego Zabezpieczenia Społecznego",
-      "d": "Samorządowe spółki prawa handlowego"
-    },
-    "correct_answers": ["a", "d"]
-  },
-  {
-    "id": 59,
-    "text": "Państwowe jednostki budżetowe gromadzą na wydzielonym rachunku dochody uzyskiwane:",
-    "options": {
-      "a": "Ze spadków i darowizn w postaci pieniężnej na rzecz jednostki budżetowej",
-      "b": "Z odszkodowań i wpłat za utracone lub uszkodzone mienie",
-      "c": "Z działalności szkoleniowej i informacyjnej",
-      "d": "Żadne z powyższych"
-    },
-    "correct_answers": ["a", "b", "c"]
-  },
-  {
-    "id": 60,
-    "text": "Jakimi sposobami można finansować deficyt budżetowy:",
-    "options": {
-      "a": "Podniesienie podatków",
-      "b": "Dodatkowa emisja pieniądza przez bank centralny",
-      "c": "Cięcia w wydatkach budżetowych",
-      "d": "Zaciągnięcie kredytów lub pożyczek",
-      "e": "Wszystkie odpowiedzi są poprawne"
-    },
-    "correct_answers": ["e"]
-  },
-  {
-    "id": 61,
-    "text": "Rezerwa budżetowa jest wyjątkiem od zasady:",
-    "options": {
-      "a": "Równowagi budżetowej",
-      "b": "Jawności budżetowej",
-      "c": "Szczegółowości budżetu",
-      "d": "Zupełności budżetu"
-    },
-    "correct_answers": ["c"]
-  },
-  {
-    "id": 62,
-    "text": "Rezerwa budżetowa stanowi wyjątek od zasady:",
-    "options": {
-      "a": "zakazu funduszowania",
-      "b": "jawności budżetu",
-      "c": "zupełności budżetu",
-      "d": "szczegółowości budżetu"
-    },
-    "correct_answers": ["d"]
-  },
-  {
-    "id": 63,
-    "text": "Zgodnie z zasadą przejrzystości:",
-    "options": {
-      "a": "Dochody i wydatki w budżecie prezentowane są w sposób ani zbyt ogólny, ani zbyt szczegółowy",
-      "b": "Całość środków publicznych powinna być wydawana na ogół wydatków publicznych",
-      "c": "Część wydatków i dochodów ujawnia się dopiero na etapie planów finansowych"
+      "a": "uzgodnienie treści księgi wieczystej z rzeczywistym stanem prawnym",
+      "b": "ustanowienie drogi koniecznej",
+      "c": "separację na zgodny wniosek małżonków",
+      "d": "stwierdzenie nabycia spadku"
     },
     "correct_answers": ["a"]
   },
   {
-    "id": 64,
-    "text": "Zasada niefunduszowania to inaczej zasada:",
+    "id": 34,
+    "text": "Postępowaniem pozasądowym jest:",
     "options": {
-      "a": "Szczegółowości",
-      "b": "Zupełności",
-      "c": "Jedności materialnej",
-      "d": "Żadna z powyższych"
+      "a": "postępowanie egzekucyjne prowadzone przez komornika",
+      "b": "postępowanie przed sądem polubownym",
+      "c": "postępowanie o zawezwanie do próby ugodowej",
+      "d": "postępowanie uproszczone"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 35,
+    "text": "Brak zdolności procesowej strony w momencie wszczęcia procesu:",
+    "options": {
+      "a": "zawsze skutkuje zwrotem pozwu",
+      "b": "jest badany z urzędu w każdym stanie sprawy",
+      "c": "skutkuje oddaleniem powództwa",
+      "d": "jest merytoryczną przesłanką powództwa"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 36,
+    "text": "Do właściwości sądu okręgowego (jako I instancji) należą sprawy o:",
+    "options": {
+      "a": "alimenty",
+      "b": "rozwód",
+      "c": "uzgodnienie treści KW",
+      "d": "prawa majątkowe powyżej 100 000 zł"
+    },
+    "correct_answers": ["b", "d"]
+  },
+  {
+    "id": 37,
+    "text": "Interwencja uboczna:",
+    "options": {
+      "a": "może być zgłoszona tylko do zamknięcia rozprawy w I instancji",
+      "b": "może być zgłoszona ustnie w postępowaniu zwykłym",
+      "c": "wymaga jedynie uprawdopodobnienia interesu prawnego",
+      "d": "może być skutkiem przypozwania"
+    },
+    "correct_answers": ["c", "d"]
+  },
+  {
+    "id": 38,
+    "text": "Prawdziwe jest stwierdzenie dotyczące pełnomocnictwa:",
+    "options": {
+      "a": "pełnomocnikiem może być wyłącznie adwokat",
+      "b": "w sprawie o rozwód wystarczy pełnomocnictwo ogólne",
+      "c": "do zawarcia ugody wymagane jest pełnomocnictwo szczególne",
+      "d": "pełnomocnikiem może być współuczestnik sporu"
+    },
+    "correct_answers": ["b", "d"]
+  },
+  {
+    "id": 39,
+    "text": "Pod rozstrzygnięcie sądu polubownego mogą być poddane sprawy o:",
+    "options": {
+      "a": "rozwód",
+      "b": "alimenty",
+      "c": "prawa majątkowe (z wyjątkiem alimentów)",
+      "d": "ubezpieczenia społeczne"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 40,
+    "text": "Termin sądowy:",
+    "options": {
+      "a": "wynika bezpośrednio z ustawy",
+      "b": "jest wyznaczany przez sąd lub przewodniczącego",
+      "c": "nie może być nigdy przedłużony",
+      "d": "jest terminem zawitym"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 41,
+    "text": "Postępowaniem odrębnym obligatoryjnym jest:",
+    "options": {
+      "a": "postępowanie nakazowe",
+      "b": "elektroniczne postępowanie upominawcze (EPU)",
+      "c": "postępowanie w sprawach z zakresu prawa pracy",
+      "d": "postępowanie upominawcze"
+    },
+    "correct_answers": ["b", "c"]
+  },
+  {
+    "id": 42,
+    "text": "Zarzut potrącenia:",
+    "options": {
+      "a": "jest zarzutem procesowym",
+      "b": "jego uwzględnienie skutkuje oddaleniem powództwa",
+      "c": "jest zarzutem merytorycznym niweczącym",
+      "d": "skutkuje odrzuceniem pozwu"
+    },
+    "correct_answers": ["b", "c"]
+  },
+  {
+    "id": 43,
+    "text": "Zarzut powagi rzeczy osądzonej (res iudicata):",
+    "options": {
+      "a": "jest zarzutem merytorycznym",
+      "b": "jest zarzutem procesowym",
+      "c": "jego uwzględnienie skutkuje odrzuceniem pozwu",
+      "d": "skutkuje zawieszeniem postępowania"
+    },
+    "correct_answers": ["b", "c"]
+  },
+  {
+    "id": 44,
+    "text": "Przesłankami wydania wyroku zaocznego są:",
+    "options": {
+      "a": "brak stawiennictwa pozwanego na rozprawie",
+      "b": "pozwany nie złożył odpowiedzi na pozew w terminie",
+      "c": "stawiennictwo powoda na rozprawę",
+      "d": "wniosek pozwanego o rozpoznanie sprawy pod jego nieobecność"
+    },
+    "correct_answers": ["a", "b"]
+  },
+  {
+    "id": 45,
+    "text": "Brak jurysdykcji krajowej:",
+    "options": {
+      "a": "powoduje zawieszenie postępowania",
+      "b": "skutkuje odrzuceniem pozwu",
+      "c": "może być usuwalny przez umowę prorogacyjną",
+      "d": "zawsze skutkuje umorzeniem"
+    },
+    "correct_answers": ["b", "c"]
+  },
+  {
+    "id": 46,
+    "text": "W składzie 1 sędziego i 2 ławników sąd rozpoznaje sprawy o:",
+    "options": {
+      "a": "rozwód (w I instancji)",
+      "b": "alimenty",
+      "c": "nieważność małżeństwa",
+      "d": "przywrócenie do pracy"
+    },
+    "correct_answers": ["a", "d"]
+  },
+  {
+    "id": 47,
+    "text": "Zarzut braku interesu prawnego w powództwie o ustalenie:",
+    "options": {
+      "a": "jest zarzutem procesowym",
+      "b": "skutkuje odrzuceniem pozwu",
+      "c": "skutkuje oddaleniem powództwa",
+      "d": "jest badany tylko na wniosek"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 48,
+    "text": "Postępowanie nakazowe:",
+    "options": {
+      "a": "jest wszczynane wyłącznie na wniosek strony",
+      "b": "można w nim dochodzić tylko roszczeń pieniężnych",
+      "c": "opiera się na ściśle określonych dokumentach (np. weksel)",
+      "d": "sąd wydaje w nim wyrok na posiedzeniu niejawnym"
+    },
+    "correct_answers": ["a", "c"]
+  },
+  {
+    "id": 49,
+    "text": "Wartość przedmiotu sporu (WPS):",
+    "options": {
+      "a": "nie podaje się jej w sprawach o prawa niemajątkowe",
+      "b": "zawsze obejmuje odsetki dochodzone obok roszczenia głównego",
+      "c": "podaje się ją w złotych",
+      "d": "musi być wskazana w każdym piśmie procesowym"
+    },
+    "correct_answers": ["a", "c"]
+  },
+  {
+    "id": 50,
+    "text": "Świadkiem w procesie NIE MOŻE być:",
+    "options": {
+      "a": "przedstawiciel ustawowy strony",
+      "b": "mediator co do faktów z mediacji",
+      "c": "współuczestnik jednolity",
+      "d": "zstępny strony, który nie ukończył 17 lat (w sprawach małżeńskich)"
+    },
+    "correct_answers": ["a", "b", "c", "d"]
+  },
+  {
+    "id": 51,
+    "text": "Prawdziwe jest stwierdzenie dotyczące jawności rozprawy:",
+    "options": {
+      "a": "na rozprawę poza stronami mają wstęp tylko osoby wezwane",
+      "b": "na rozprawę poza stronami, przedstawicielami ustawowymi i pełnomocnikami mają wstęp osoby pełnoletnie i nieuzbrojone",
+      "c": "postanowienie wydane na posiedzeniu niejawnym jest ogłaszane publicznie",
+      "d": "na posiedzenia niejawne mają wstęp strony i pełnomocnicy"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 52,
+    "text": "Zarzut potrącenia:",
+    "options": {
+      "a": "jest zarzutem procesowym niweczącym",
+      "b": "jego uwzględnienie skutkuje całkowitym lub częściowym oddaleniem powództwa",
+      "c": "jest zarzutem merytorycznym zawieszającym",
+      "d": "jego uwzględnienie skutkuje odrzuceniem pozwu"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 53,
+    "text": "Zarzut powagi rzeczy osądzonej:",
+    "options": {
+      "a": "jest zarzutem merytorycznym",
+      "b": "jest zarzutem procesowym",
+      "c": "jego uwzględnienie skutkuje oddaleniem powództwa",
+      "d": "jego uwzględnienie skutkuje zawieszeniem postępowania"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 54,
+    "text": "Skutkiem procesowym doręczenia odpisu pozwu jest:",
+    "options": {
+      "a": "zawisłość sporu",
+      "b": "wymagalność świadczenia",
+      "c": "ustalenie zasady anatocyzmu",
+      "d": "przerwa biegu terminu przedawnienia"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 55,
+    "text": "Postanowieniem kończącym postępowanie w sprawie jest postanowienie o:",
+    "options": {
+      "a": "odmowie zawieszenia postępowania",
+      "b": "zawieszeniu postępowania",
+      "c": "umorzeniu postępowania",
+      "d": "uchyleniu wyroku i przekazaniu sprawy do ponownego rozpoznania (w postępowaniu apelacyjnym)"
+    },
+    "correct_answers": ["c", "d"]
+  },
+  {
+    "id": 56,
+    "text": "Przesłankami wydania wyroku zaocznego są:",
+    "options": {
+      "a": "brak prawidłowego zawiadomienia pozwanego o terminie rozprawy",
+      "b": "złożenie przez pozwanego wniosku o przeprowadzenie rozprawy pod jego nieobecność",
+      "c": "stawiennictwo powoda na rozprawę",
+      "d": "niezłożenie odpowiedzi na pozew w terminie wyznaczonym przez przewodniczącego"
+    },
+    "correct_answers": ["a", "b", "d"]
+  },
+  {
+    "id": 57,
+    "text": "Brak jurysdykcji krajowej:",
+    "options": {
+      "a": "może powodować umorzenie postępowania",
+      "b": "skutkuje zawieszeniem postępowania",
+      "c": "skutkuje odrzuceniem pozwu",
+      "d": "może być skutkiem umowy prorogacyjnej",
+      "e": "może mieć charakter następczy"
+    },
+    "correct_answers": ["a", "c", "d", "e"]
+  },
+  {
+    "id": 58,
+    "text": "Brakiem formalnym kolejnego w sprawie pisma procesowego jest:",
+    "options": {
+      "a": "brak wskazania WPS",
+      "b": "brak wskazania adresu strony",
+      "c": "brak sygnatury",
+      "d": "brak numeru PESEL powoda"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 59,
+    "text": "Umorzenie postępowania:",
+    "options": {
+      "a": "następuje w postaci wyroku",
+      "b": "następuje w postaci zarządzenia przewodniczącego",
+      "c": "jest zaskarżalne zażaleniem poziomym",
+      "d": "następuje w przypadku zatwierdzenia przez sąd ugody zawartej przed mediatorem"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 60,
+    "text": "Termin ustawowy:",
+    "options": {
+      "a": "może być przedłużony przez sąd",
+      "b": "nie może być przywrócony przez sąd",
+      "c": "jest wyznaczony przez sąd lub przewodniczącego",
+      "d": "może być terminem instrukcyjnym",
+      "e": "zawsze jest terminem instrukcyjnym",
+      "f": "może być przywrócony przez sąd"
+    },
+    "correct_answers": ["d", "f"]
+  },
+  {
+    "id": 61,
+    "text": "Skutkiem materialnoprawnym wytoczenia powództwa jest:",
+    "options": {
+      "a": "wymagalność świadczenia",
+      "b": "przerwa biegu terminu przedawnienia",
+      "c": "utrwalenie właściwości",
+      "d": "stan sprawy w toku"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 62,
+    "text": "Wyrok zaoczny:",
+    "options": {
+      "a": "nie może być zaskarżony apelacją przez pozwanego",
+      "b": "nie może być wyrokiem oddalającym powództwo",
+      "c": "jest natychmiast wykonalny, jeżeli uwzględnia powództwo",
+      "d": "może być wydany wyłącznie na posiedzeniu niejawnym"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 63,
+    "text": "Postępowaniem obligatoryjnym odrębnym jest:",
+    "options": {
+      "a": "EPU (Elektroniczne postępowanie upominawcze)",
+      "b": "postępowanie w sprawie europejskiego nakazu zapłaty",
+      "c": "postępowanie nakazowe",
+      "d": "postępowanie upominawcze"
+    },
+    "correct_answers": ["a", "b", "c"]
+  },
+  {
+    "id": 64,
+    "text": "Postępowaniem pozasądowym jest:",
+    "options": {
+      "a": "postępowanie egzekucyjne prowadzone przez komornika",
+      "b": "postępowanie uproszczone",
+      "c": "postępowanie przed sądem polubownym",
+      "d": "postępowanie z zawezwania do próby ugodowej"
     },
     "correct_answers": ["c"]
   },
   {
     "id": 65,
-    "text": "Zakaz funduszowania w budżecie stanowi przejaw zasady:",
+    "text": "Postępowaniem sądowym jest:",
     "options": {
-      "a": "Jedności materialnej",
-      "b": "Celowości",
-      "c": "Przejrzystości",
-      "d": "Szczegółowości"
+      "a": "postępowanie z zawezwania do próby ugodowej",
+      "b": "postępowanie mediacyjne",
+      "c": "postępowanie arbitrażowe",
+      "d": "wszystkie odpowiedzi są prawdziwe"
     },
     "correct_answers": ["a"]
   },
   {
     "id": 66,
-    "text": "Budżetowanie netto:",
+    "text": "Immunitet sądowy pozwanego:",
     "options": {
-      "a": "To odstępstwo od budżetowej zasady powszechności",
-      "b": "Jest to pokrywanie kosztów z przychodów własnych, a nie bezpośrednio z budżetu",
-      "c": "Dokonują go jednostki budżetowe",
-      "d": "Wszystkie powyższe odpowiedzi są poprawne"
+      "a": "skutkuje zawieszeniem postępowania",
+      "b": "skutkuje oddaleniem powództwa",
+      "c": "skutkuje odrzuceniem pozwu lub umorzeniem postępowania",
+      "d": "uwzględniany jest wyłącznie na zarzut pozwanego"
     },
-    "correct_answers": ["a", "b"]
+    "correct_answers": ["c"]
   },
   {
     "id": 67,
-    "text": "Zasada uprzedniości budżetu polega na:",
+    "text": "W składzie 1 sędziego sąd I instancji rozpoznaje sprawy o:",
     "options": {
-      "a": "Ujmowaniu w budżecie wszystkich dochodów i wydatków",
-      "b": "Uchwaleniu budżetu przed terminem jego obowiązywania",
-      "c": "Tworzeniu budżetu na jeden rok",
-      "d": "Żadne z powyższych"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 68,
-    "text": "Zasada szczegółowości:",
-    "options": {
-      "a": "Ma związek z klasyfikacja budżetową",
-      "b": "Wyraża postulat zgodnie, z którym kwotę dochodów trzeba dostosować do kwoty wydatków",
-      "c": "Wyraża postulat, że wszystkie dochody i wydatki, przychody i rozchody sektora finansów publicznych mają być ujmowane w sposób pozwalający ich odpowiednią prezentację",
-      "d": "Jest w pełni realizowana w odniesieniu do budżetów państwa i budżetów jednostek samorządowych"
-    },
-    "correct_answers": ["a", "c"]
-  },
-  {
-    "id": 69,
-    "text": "Zasada równowagi:",
-    "options": {
-      "a": "Wydatki powinny być dostosowane do dochodów",
-      "b": "Wydatki mogą znacznie przekroczyć dochody",
-      "c": "Planowanie budżetu z deficytem, jako jej wyjątek",
-      "d": "Wyjątkiem są fundusze celowe"
-    },
-    "correct_answers": ["a", "c"]
-  },
-  {
-    "id": 70,
-    "text": "Stabilizująca reguła wydatkowa:",
-    "options": {
-      "a": "Określa limit wydatków sektora finansowego",
-      "b": "Reguluje tylko dług Skarbu Państwa",
-      "c": "W doktrynie panuje spór o niezgodność z prawem UE",
-      "d": "Ma zapobiec stosowaniu procedur sanacyjnych"
-    },
-    "correct_answers": ["a", "d"]
-  },
-  {
-    "id": 71,
-    "text": "W budżecie państwa tworzy się rezerwę ogólną nie wyższą niż:",
-    "options": {
-      "a": "0,4% wydatków budżetu",
-      "b": "0,1% wydatków budżetu",
-      "c": "0,5% wydatków budżetu",
-      "d": "0,2% wydatków budżetu"
-    },
-    "correct_answers": ["d"]
-  },
-  {
-    "id": 72,
-    "text": "Wydatki bieżące JST:",
-    "options": {
-      "a": "Służą wykonywaniu zadań bieżących JST",
-      "b": "Obejmują wynagrodzenia",
-      "c": "Obejmują działania inwestycyjne JST",
-      "d": "Mogą przekraczać dochody bieżące oraz nadwyżkę z lat ubiegłych"
-    },
-    "correct_answers": ["a", "b"]
-  },
-  {
-    "id": 73,
-    "text": "Dochody obligatoryjne gminy to:",
-    "options": {
-      "a": "Dotacje z budżetu państwa",
-      "b": "Dochody z danin publicznych",
-      "c": "Dochody z mienia",
-      "d": "Udział w podatkach państwowych"
-    },
-    "correct_answers": ["b", "c", "d"]
-  },
-  {
-    "id": 74,
-    "text": "Subwencja ogólna dla gminy składa się m.in. z części:",
-    "options": {
-      "a": "Obligatoryjnej",
-      "b": "Fakultatywnej",
-      "c": "Oświatowej",
-      "d": "Porównawczej"
-    },
-    "correct_answers": ["c", "d"]
-  },
-  {
-    "id": 75,
-    "text": "Jednostka samorządu terytorialnego:",
-    "options": {
-      "a": "Może otrzymywać dotacje na wykonywanie zadań zleconych",
-      "b": "Musie otrzymywać dotacje na wykonywanie zadań zleconych",
-      "c": "JST nie może udzielać innej JST dotacji",
-      "d": "Dotacje dla JST należą do wydatków budżetu państwa"
-    },
-    "correct_answers": ["b", "d"]
-  },
-  {
-    "id": 76,
-    "text": "Do funkcji klasyfikacji budżetowej możemy zaliczyć:",
-    "options": {
-      "a": "Funkcje prawną",
-      "b": "Funkcje księgowo-rachunkową",
-      "c": "Funkcję sprawozdawczą",
-      "d": "Funkcje statystyczną"
+      "a": "ustalenie ojcostwa",
+      "b": "ubezwłasnowolnienie",
+      "c": "rozwód",
+      "d": "rozwiązanie przysposobienia"
     },
     "correct_answers": ["a", "b", "c", "d"]
   },
   {
-    "id": 77,
-    "text": "Środki na pokrycie pożyczkowych potrzeb państwa można uzyskać z:",
+    "id": 68,
+    "text": "Prawdziwe jest stwierdzenie dotyczące opozycji:",
     "options": {
-      "a": "Podatku VAT",
-      "b": "Emisji papierów wartościowych",
-      "c": "Prywatyzacji majątku Skarbu Państwa",
-      "d": "Wynajmu lokalu należącego do Skarbu Państwa"
+      "a": "opozycja wymaga formy pisma procesowego",
+      "b": "opozycję może zgłosić wyłącznie interwenient",
+      "c": "żadna z pozostałych odpowiedzi nie jest prawidłowa",
+      "d": "uwzględnienie opozycji jest zaskarżalne zażaleniem"
     },
-    "correct_answers": ["b", "c"]
+    "correct_answers": ["a", "d"]
   },
   {
-    "id": 78,
-    "text": "Pożyczkowe potrzeby budżetu państwa można sfinansować środkami z:",
+    "id": 69,
+    "text": "Wniosek o przywrócenie terminu:",
     "options": {
-      "a": "Sprzedaży akcji spółki państwowej",
-      "b": "Sprzedaży zbędnych składników mienia",
-      "c": "Spłat uprzednio udzielonych pożyczek",
-      "d": "Emisji bonów skarbowych"
-    },
-    "correct_answers": ["a", "c", "d"]
-  },
-  {
-    "id": 79,
-    "text": "Potrzeby pożyczkowe państwa finansuje się z:",
-    "options": {
-      "a": "Sprzedaży zbędnych nieruchomości",
-      "b": "Sprzedaży akcji przysługujących państwu",
-      "c": "Spłat uprzednio udzielanych pożyczek",
-      "d": "Emisji skarbowych papierów wartościowych"
-    },
-    "correct_answers": ["b", "c", "d"]
-  },
-  {
-    "id": 80,
-    "text": "Zaznacz zdanie/a prawdziwe:",
-    "options": {
-      "a": "Dług Skarbu Państwa przewyższa państwowy dług publiczny",
-      "b": "Państwowy dług publiczny tworzy między innymi zadłużenie ZUSu",
-      "c": "Maksymalny stosunek deficytu budżetowego do PKB określa Traktat z Amsterdamu",
-      "d": "Zgodnie z Konstytucją RP, deficyt budżetowy nie może przekraczać 3/5 PKB"
+      "a": "wymaga przeprowadzenia rozprawy",
+      "b": "składa się w terminie tygodnia od ustania przyczyny uchybienia terminowi",
+      "c": "wymaga udowodnienia braku winy strony",
+      "d": "składa się w terminie tygodnia od daty uchybienia terminowi"
     },
     "correct_answers": ["b"]
   },
   {
-    "id": 81,
-    "text": "Procedury sanacyjne:",
+    "id": 70,
+    "text": "W składzie 1 sędziego i 2 ławników sąd rozpoznaje:",
     "options": {
-      "a": "Stosuje się, gdy deficyt budżetowy osiąga równe 55%",
-      "b": "Przewidują waloryzacje rent i emerytur tylko o stopę inflacji",
-      "c": "Na kolejny rok nie przewiduje się deficytu budżetowego",
-      "d": "Przewidują konieczność osiągnięcia nadwyżki budżetowej w roku następnym"
+      "a": "żadna z pozostałych odpowiedzi nie jest prawidłowa",
+      "b": "w I instancji sprawy o rozwód",
+      "c": "sprawy w postępowaniu apelacyjnym",
+      "d": "sprawy o zapłatę"
     },
-    "correct_answers": ["b", "c", "d"]
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 71,
+    "text": "Postępowaniem sądowym jest:",
+    "options": {
+      "a": "postępowanie mediacyjne",
+      "b": "postępowanie przed sądem gospodarczym",
+      "c": "żadna z pozostałych odpowiedzi nie jest prawdziwa",
+      "d": "postępowanie przed sądem polubownym"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 72,
+    "text": "Zarzut braku interesu prawnego w wytoczeniu powództwa ustalającego:",
+    "options": {
+      "a": "jest zarzutem procesowym",
+      "b": "skutkuje odrzuceniem pozwu",
+      "c": "skutkuje oddaleniem powództwa",
+      "d": "jest zarzutem merytorycznym zawieszającym"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 73,
+    "text": "Postępowanie nakazowe:",
+    "options": {
+      "a": "jest wszczynane z urzędu lub na wniosek strony",
+      "b": "od nakazu zapłaty wnosi się sprzeciw",
+      "c": "pozwala wykazać fakty istotne za pomocą określonych środków dowodowych",
+      "d": "wszystkie odpowiedzi są prawidłowe"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 74,
+    "text": "Gdy pismo procesowe jest pierwszym w sprawie, to:",
+    "options": {
+      "a": "należy w nim wymienić załączniki",
+      "b": "może to być pozew",
+      "c": "należy w nim wpisać sygnaturę sprawy",
+      "d": "może to być pozew, ale nie w postępowaniu nieprocesowym"
+    },
+    "correct_answers": ["a", "b"]
+  },
+  {
+    "id": 75,
+    "text": "W przypadku powództw z tytułu dziedziczenia, KPC przewiduje właściwość wyłączną.",
+    "options": {
+      "a": "Prawda",
+      "b": "Fałsz"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 76,
+    "text": "Pozwanym może być grupa o oznaczeniu kodowym (np. GAADS2-3311FZ).",
+    "options": {
+      "a": "Prawda",
+      "b": "Fałsz"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 77,
+    "text": "KPC przewiduje zasadę litis pendencji (zawisłości sporu).",
+    "options": {
+      "a": "Prawda",
+      "b": "Fałsz"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 78,
+    "text": "Jeżeli stroną jest osoba fizyczna, to doręczenia nie dokonuje się nigdy jej przedstawicielowi ustawowemu.",
+    "options": {
+      "a": "Prawda",
+      "b": "Fałsz"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 79,
+    "text": "Doręczenie pisma procesowego:",
+    "options": {
+      "a": "może nastąpić z wykorzystaniem pracownika sądu",
+      "b": "nie zawsze następuje na adres przedsiębiorcy wpisanego do CEIDG",
+      "c": "to niekoniecznie jego fizyczne doręczenie",
+      "d": "to niekoniecznie doręczenie stronie postępowania"
+    },
+    "correct_answers": ["a", "b", "c", "d"]
+  },
+  {
+    "id": 80,
+    "text": "W KPC można znaleźć unormowanie związane z zasadą res iudicata.",
+    "options": {
+      "a": "Prawda",
+      "b": "Fałsz"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 81,
+    "text": "Wartość przedmiotu sporu:",
+    "options": {
+      "a": "w sprawach niemajątkowych nie wskazuje się jej",
+      "b": "żadna odpowiedź nie jest prawidłowa",
+      "c": "zawsze musi być wskazana w pozwie",
+      "d": "nie jest explicite wyartykułowana w przepisach KPC"
+    },
+    "correct_answers": ["a"]
   },
   {
     "id": 82,
-    "text": "Kwoty dotacji dla JST wykonujących zadania zlecone z zakresu administracji rządowej otrzymuje się w wysokości:",
+    "text": "Zmiana powództwa:",
     "options": {
-      "a": "Adekwatnej",
-      "b": "Koniecznej do wykonania zadania",
-      "c": "Odpowiedniej do realizacji zadania",
-      "d": "Zapewniającej realizację zadania"
+      "a": "może być podmiotowa i przedmiotowa",
+      "b": "jeżeli nie wpływa na właściwość sądu, zmiana powództwa jest dopuszczalna",
+      "c": "jest niedopuszczalna",
+      "d": "to inaczej powództwo wzajemne"
     },
-    "correct_answers": ["d"]
+    "correct_answers": ["a", "b"]
   },
   {
     "id": 83,
-    "text": "Spłaty otrzymanych pożyczek i kredytów są:",
+    "text": "Posiedzenie przygotowawcze:",
     "options": {
-      "a": "Wydatkami publicznymi",
-      "b": "Przychodami publicznymi",
-      "c": "Dochodami publicznymi",
-      "d": "Rozchodami publicznymi"
+      "a": "na nim zasadniczo przygotowuje się plan rozprawy",
+      "b": "ma służyć przyspieszeniu postępowania",
+      "c": "jest w nim co do zasady konieczny udział strony",
+      "d": "strony są o nim pouczane z wyprzedzeniem"
     },
-    "correct_answers": ["d"]
+    "correct_answers": ["a", "b", "c", "d"]
   },
   {
     "id": 84,
-    "text": "Opłatę jako daninę publiczną różni od podatku:",
+    "text": "W związku z pandemią COVID wprowadzono szczególny przepis mający na celu ułatwienie komunikacji, ale nie zawarto go w KPC.",
     "options": {
-      "a": "Ekwiwalentność",
-      "b": "Nieprzymusowość",
-      "c": "Niepowszechność",
-      "d": "Odpłatność"
+      "a": "Prawda",
+      "b": "Fałsz"
     },
     "correct_answers": ["a"]
   },
   {
     "id": 85,
-    "text": "Organ stanowiący JST powinien uchwalić uchwałę budżetową do:",
+    "text": "Postępowanie odrębne:",
     "options": {
-      "a": "15 listopada roku poprzedzającego rok budżetowy",
-      "b": "Dnia uchwalenia ustawy budżetowej",
-      "c": "Końca roku poprzedzającego rok budżetowy",
-      "d": "W szczególnie uzasadnionych przypadkach - nie później niż do 31.01 roku budżetowego",
-      "e": "31 marca roku budżetowego"
+      "a": "może dotyczyć np. uznania bezskuteczności wypowiedzenia stosunku pracy",
+      "b": "to postępowanie nieprocesowe",
+      "c": "to nie jest elektroniczne postępowanie upominawcze",
+      "d": "niekoniecznie jest obligatoryjne - np. sąd może odstąpić od prowadzenia postępowania w trybie uproszczonym"
     },
-    "correct_answers": ["c", "d"]
+    "correct_answers": ["a", "d"]
   },
   {
     "id": 86,
-    "text": "Minister Finansów zaciąga pożyczki i kredyty w imieniu:",
+    "text": "Postępowania odrębne:",
     "options": {
-      "a": "Ministra Skarbu Państwa",
-      "b": "Własnym",
-      "c": "Skarbu Państwa",
-      "d": "Rady Ministrów"
+      "a": "to np. postępowanie w sprawach z zakresu prawa pracy i ubezpieczeń społecznych",
+      "b": "to inaczej postępowanie nieprocesowe",
+      "c": "to inaczej postępowania szczególne",
+      "d": "może służyć przyspieszeniu rozpatrywania sprawy, jeśli spełnione są odpowiednie przesłanki"
     },
-    "correct_answers": ["c"]
+    "correct_answers": ["a", "d"]
   },
   {
     "id": 87,
-    "text": "Wydatki bieżące budżetu państwa obejmują:",
+    "text": "Interwenient:",
     "options": {
-      "a": "Subwencje dla partii politycznych",
-      "b": "Wydatki na spłatę rat kredytów",
-      "c": "Wydatki inwestycyjne",
-      "d": "Wydatki na obsługę długu Skarbu Państwa"
+      "a": "posiada pewne uprawnienia procesowe",
+      "b": "to inaczej współuczestnik w ramach współuczestnictwa materialnego",
+      "c": "może być tylko główny lub uboczny",
+      "d": "może być główny"
     },
-    "correct_answers": ["a", "d"]
+    "correct_answers": ["d"]
   },
   {
     "id": 88,
-    "text": "Zaznacz zdanie/zdania prawdziwe:",
+    "text": "Pełnomocnictwo:",
     "options": {
-      "a": "Bank zagraniczny jest to bank mający siedzibę za granicą Rzeczypospolitej Polskiej, na terytorium państwa trzeciego",
-      "b": "Bank państwowy jest tworzony w drodze rozporządzenia Rady Ministrów",
-      "c": "Bank państwowy jest tworzony w drodze zarządzenia Rady Ministrów, na wniosek Ministra Skarbu Państwa",
-      "d": "Założycielami banku spółdzielczego mogą być wyłącznie osoby fizyczne, w liczbie nie mniejszej niż 10 osób"
-    },
-    "correct_answers": ["a", "b", "d"]
-  },
-  {
-    "id": 89,
-    "text": "Zasadami prawa budżetowego UE są:",
-    "options": {
-      "a": "Zasada jedności",
-      "b": "Zasada podwójnego upoważnienia",
-      "c": "Zasada realności",
-      "d": "Zasada zupełności"
-    },
-    "correct_answers": ["a", "d"]
-  },
-  {
-    "id": 90,
-    "text": "Uczelnie publiczne:",
-    "options": {
-      "a": "Mają status osób prawnych",
-      "b": "Nie są finansowane z przychodów własnych",
-      "c": "Nie są powiązane z budżetem państwa",
-      "d": "Mogą otrzymywać dotacje"
-    },
-    "correct_answers": ["a", "d"]
-  },
-  {
-    "id": 91,
-    "text": "Funkcja fiskalna finansów publicznych dotyczy:",
-    "options": {
-      "a": "Rozdzielania środków pieniężnych w państwie",
-      "b": "Dążenia do gromadzenia dochodów do budżetów publicznych",
-      "c": "Kontroli przebiegu zjawisk gospodarczych",
-      "d": "Dokonywaniu analizy procesów finansowych"
+      "a": "dołącza się do pisma procesowego w oryginale, nigdy jako odpis",
+      "b": "składane w sądzie podlega opłacie",
+      "c": "składa także przedstawiciel ustawowy",
+      "d": "składa tylko radca prawny, adwokat i rzecznik patentowy, nie licząc postępowań przed SN"
     },
     "correct_answers": ["b"]
   },
   {
-    "id": 92,
-    "text": "Dochodami publicznymi są:",
+    "id": 89,
+    "text": "Postępowanie cywilne:",
     "options": {
-      "a": "Daniny publiczne",
-      "b": "Wpływy ze sprzedaży wyrobów i usług świadczonych przez jednostki sektora finansów publicznych",
-      "c": "Odsetki od udzielonych pożyczek i kredytów",
-      "d": "Odsetki od spłat otrzymanych pożyczek i kredytów"
+      "a": "jest częścią prawa prywatnego",
+      "b": "może służyć do wnoszenia roszczeń przeciwko organowi administracyjnemu w myśl PPS",
+      "c": "jest częścią prawa cywilnego",
+      "d": "nie ma nic wspólnego ze sprawami z zakresu prawa pracy"
     },
-    "correct_answers": ["a", "b", "c", "d"]
+    "correct_answers": ["a", "c"]
   },
   {
-    "id": 93,
-    "text": "Minister zakładający państwową instytucję kultury nadaje jej:",
+    "id": 90,
+    "text": "W zakresie zwrotu odpowiedzi na pozew wydaje postanowienie sąd w określonych prawem przypadkach.",
     "options": {
-      "a": "Osobowość Prawną",
-      "b": "Odrębny rachunek środków specjalnych",
-      "c": "Zasady prowadzenia gospodarki finansowej",
-      "d": "Statut i określa mienie przekazane w zarząd"
+      "a": "Prawda",
+      "b": "Fałsz"
     },
-    "correct_answers": ["a", "c", "d"]
+    "correct_answers": ["b"]
   },
   {
-    "id": 94,
-    "text": "Samorządowe zakłady budżetowe:",
+    "id": 91,
+    "text": "Kodeks postępowania cywilnego:",
     "options": {
-      "a": "Wszystkie swoje dochody przekazują na rachunek budżetu jednostki samorządu terytorialnego",
-      "b": "W razie potrzeby mogą zakładać rachunki środków specjalnych",
-      "c": "Wszystkie wydatki pokrywają z budżetu",
-      "d": "Mogą otrzymywać dotacje inwestycyjne"
-    },
-    "correct_answers": ["a", "c", "d"]
-  },
-  {
-    "id": 95,
-    "text": "Jednostki gospodarki budżetowej zawsze mają:",
-    "options": {
-      "a": "Osobowość prawną",
-      "b": "Plan finansowy",
-      "c": "Wyodrębniony rachunek bankowy",
-      "d": "Obowiązek odprowadzania nadwyżki do budżetu państwa"
-    },
-    "correct_answers": ["a", "b"]
-  },
-  {
-    "id": 96,
-    "text": "Nadwyżki dochodów odprowadzają do budżetu państwa:",
-    "options": {
-      "a": "Państwowe instytucje kultury",
-      "b": "Gminy",
-      "c": "Agencje wykonawcze",
-      "d": "Samorządowy zakład budżetowy",
-      "e": "Instytucje gospodarki budżetowej"
-    },
-    "correct_answers": ["c", "d"]
-  },
-  {
-    "id": 97,
-    "text": "Gmina może otrzymać:",
-    "options": {
-      "a": "Dotacje na zadania zlecone",
-      "b": "Zasiłek",
-      "c": "Subwencję ogólną",
-      "d": "Darowiznę pieniężną"
-    },
-    "correct_answers": ["a", "c", "d"]
-  },
-  {
-    "id": 98,
-    "text": "Do rozchodów publicznych zalicza się środki przeznaczane na:",
-    "options": {
-      "a": "Pomoc społeczną",
-      "b": "Wykup obligacji",
-      "c": "Nabycie udziałów w spółce prawa handlowego",
-      "d": "Pożyczkę dla gminy"
+      "a": "nie reguluje sytuacji gdy skarżona jest decyzja administracyjna",
+      "b": "co do zasady reguluje kwestie proceduralne, podczas gdy Kodeks cywilny te materialnoprawne",
+      "c": "nie zawiera przepisów dotyczących postępowania egzekucyjnego",
+      "d": "definiuje czym jest sprawa cywilna (art. 1 KPC)"
     },
     "correct_answers": ["b", "d"]
   },
   {
-    "id": 99,
-    "text": "Ulgi w spłacie należności budżetowych mogą polegać na:",
+    "id": 92,
+    "text": "Pisma procesowe wnosi się na urzędowych formularzach tylko gdy przewodniczący tak zarządzi.",
     "options": {
-      "a": "Zaniechaniu ustalenia należności",
-      "b": "Rozłożeniu na raty należności z tytułu zwrotu dotacji",
-      "c": "Całkowitego umorzenia należności z tytułu wielokrotnego korzystania z izby wytrzeźwień",
-      "d": "Częściowego zwolnienia od zapłaty za nabytą nieruchomość komunalną"
+      "a": "Prawda",
+      "b": "Fałsz"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 93,
+    "text": "Zgodnie z KPC w sprawach, w których zawarcie ugody jest dopuszczalne, sąd powinien dążyć do ich ugodowego załatwienia:",
+    "options": {
+      "a": "wyłącznie w postępowaniu drugoinstancyjnym",
+      "b": "wyłącznie w postępowaniu pierwszoinstancyjnym",
+      "c": "w każdym stanie postępowania"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 94,
+    "text": "Sąd rozpoznaje sprawę w postępowaniu odrębnym:",
+    "options": {
+      "a": "na wniosek którejkolwiek ze stron, chyba że ustawa stanowi inaczej",
+      "b": "w wypadkach przewidzianych w ustawie",
+      "c": "według swego uznania, chyba że ustawa stanowi inaczej"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 95,
+    "text": "Prejudycjalność wyroku karnego oznacza dla postępowania cywilnego, że:",
+    "options": {
+      "a": "sąd cywilny jest związany ustaleniami prawomocnego wyroku skazującego zapadłego w postępowaniu karnym",
+      "b": "sąd cywilny jest związany ustaleniami wszystkich prawomocnych wyroków zapadłych w postępowaniu karnym",
+      "c": "sąd cywilny sam dokonuje ustaleń faktycznych i nie jest związany ustaleniami prawomocnego wyroku karnego"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 96,
+    "text": "Sprawy o ustanowienie rozdzielności majątkowej małżeńskiej:",
+    "options": {
+      "a": "zawsze należą do właściwości sądu rejonowego",
+      "b": "zawsze należą do właściwości sądu okręgowego",
+      "c": "należą do właściwości sądu okręgowego bądź rejonowego w zależności od WPS"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 97,
+    "text": "Jeżeli obok roszczenia głównego powód dochodzi zasądzenia odsetek:",
+    "options": {
+      "a": "wartości odsetek nie wlicza się do wartości przedmiotu sporu",
+      "b": "wartość odsetek zawsze wlicza się do wartości przedmiotu sporu",
+      "c": "wartość odsetek wlicza się do wartości przedmiotu sporu za zgodą powoda"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 98,
+    "text": "Sąd I instancji rozpoznaje sprawy w składzie:",
+    "options": {
+      "a": "zawsze 1 sędziego i 2 ławników",
+      "b": "1 sędziego i 2 ławników w sprawach określonych w KPC",
+      "c": "1 sędziego i 2 ławników, jeżeli zarządzi tak prezes sądu"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 99,
+    "text": "Zgodnie z Kodeksem postępowania cywilnego prokurator:",
+    "options": {
+      "a": "wytaczając powództwo, zawsze działa na rzecz oznaczonej osoby",
+      "b": "wytaczając powództwo, nie zawsze działa na rzecz oznaczonej osoby i wytacza powództwo przeciwko wszystkim stronom stosunku prawnego",
+      "c": "w procesie nie ma legitymacji czynnej"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 100,
-    "text": "Należności budżetowe wyjątkowo umarzać mogą:",
+    "text": "Zgodnie z Kodeksem postępowania cywilnego prokurator może zaskarżyć:",
     "options": {
-      "a": "Dysponenci części budżetowych",
-      "b": "Kierownicy jednostek budżetowych",
-      "c": "Starostowie powiatowi samodzielnie",
-      "d": "Skarbnicy gminni"
+      "a": "każde orzeczenie sądowe, od którego służy środek odwoławczy",
+      "b": "tylko takie orzeczenie sądowe, które zostało wydane wskutek wytoczenia przez niego powództwa",
+      "c": "tylko orzeczenie sądowe wydane w sprawie niemajątkowej"
     },
-    "correct_answers": ["a", "b", "c"]
+    "correct_answers": ["a"]
   },
   {
     "id": 101,
-    "text": "Ulgi w spłacie gminnych należności mogą:",
+    "text": "Prokurator może żądać wszczęcia postępowania bądź wziąć udział w każdym toczącym się postępowaniu, jeżeli według jego oceny:",
     "options": {
-      "a": "Dotyczyć także należności cywilnoprawnych",
-      "b": "Zwrotu dotacji wyłudzonej przez organ pożytku publicznego",
-      "c": "Polegać na całkowitym umorzeniu należności",
-      "d": "Mieścić się w wyłącznej kompetencji organu wykonawczego"
+      "a": "wymaga tego ochrona interesu pokrzywdzonych przestępstwem",
+      "b": "wymaga tego ochrona interesu Skarbu Państwa",
+      "c": "wymaga tego ochrona praworządności, praw obywateli oraz interes społeczny"
     },
-    "correct_answers": ["a", "c"]
+    "correct_answers": ["c"]
   },
   {
     "id": 102,
-    "text": "Prowizorium budżetowe wchodzi w rachubę, gdy:",
+    "text": "Zdolność sądową w procesie cywilnym posiada:",
     "options": {
-      "a": "Przeciąga się w czasie uchwalenie ustawy budżetowej w Sejmie",
-      "b": "Naruszono termin 30 września dla sporządzenia projektu budżetu państwa",
-      "c": "Budżetu państwa nie da się zrównoważyć z uwagi na nadmierne zadłużenie",
-      "d": "Nieprzewidywalność dochodów lub wydatków w stopniu uniemożliwiającym ustalenie budżetu rocznego"
+      "a": "osoba fizyczna po ukończeniu 18. roku życia",
+      "b": "osoba fizyczna po ukończeniu 13. roku życia",
+      "c": "każda osoba fizyczna"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["c"]
   },
   {
     "id": 103,
-    "text": "Podatki lokalne zasilają budżet:",
+    "text": "Współuczestnictwo formalne ma miejsce wówczas, gdy po stronie powodów lub pozwanych występuje kilka osób, jeżeli:",
     "options": {
-      "a": "Wyłącznie gminy",
-      "b": "Także związku międzygminnego",
-      "c": "Także Powiatu",
-      "d": "Także Państwa"
+      "a": "przedmiot sporu stanowią prawa lub obowiązki im wspólne",
+      "b": "przedmiot sporu stanowią prawa lub obowiązki oparte na tej samej podstawie faktycznej i prawnej",
+      "c": "przedmiot sporu stanowią roszczenia lub zobowiązania jednego rodzaju, oparte na jednakowej podstawie faktycznej i prawnej, jeżeli ponadto właściwość sądu jest uzasadniona dla każdego z roszczeń z osobna"
     },
-    "correct_answers": ["a"]
+    "correct_answers": ["c"]
   },
   {
     "id": 104,
-    "text": "W uchwale budżetowej dochody klasyfikuje się według:",
+    "text": "Interwencja główna polega na:",
     "options": {
-      "a": "Ważniejszych źródeł",
-      "b": "Działów i rozdziałów",
-      "c": "Kategorii",
-      "d": "Paragrafów"
-    },
-    "correct_answers": ["b", "d"]
-  },
-  {
-    "id": 105,
-    "text": "Rezerwa budżetowa stanowi wyjątek od zasady:",
-    "options": {
-      "a": "Efektywności wydatków",
-      "b": "Jawności budżetu",
-      "c": "Zupełności budżetu",
-      "d": "Szczegółowości budżetu"
-    },
-    "correct_answers": ["d"]
-  },
-  {
-    "id": 106,
-    "text": "W budżecie gminy tworzy się rezerwę ogólną w wysokości:",
-    "options": {
-      "a": "Wynikającej z planowanej sumy na wydatki nieprzewidziane",
-      "b": "Zależnej od dochodów",
-      "c": "Do 2% przychodów",
-      "d": "Do 1% wydatków"
-    },
-    "correct_answers": ["d"]
-  },
-  {
-    "id": 107,
-    "text": "W budżecie państwa można tworzyć rezerwy celowe:",
-    "options": {
-      "a": "Na wydatki wynikające z programów dotyczących środków europejskich",
-      "b": "Do 5% sumy wydatków budżetu",
-      "c": "Na pokrycie deficytu budżetowego",
-      "d": "Także do dyspozycji wojewodów"
-    },
-    "correct_answers": ["a", "b", "d"]
-  },
-  {
-    "id": 108,
-    "text": "Rezydentami w rozumieniu prawa finansowego są:",
-    "options": {
-      "a": "Osoby fizyczne mające miejsce zamieszkania w kraju",
-      "b": "Osoby prawne mające siedzibę w kraju",
-      "c": "Polskie przedstawicielstwa dyplomatyczne",
-      "d": "Oddziały i przedsiębiorstwa utworzone przez nierezydentów znajdujące się w kraju"
-    },
-    "correct_answers": ["a", "b", "c", "d"]
-  },
-  {
-    "id": 109,
-    "text": "Audyt wewnętrzny:",
-    "options": {
-      "a": "Ma na celu zapewnienie kontroli wewnętrznej (zarządczej)",
-      "b": "Stanowi formę oceny adekwatności i skuteczności kontroli zarządczej",
-      "c": "Może być obligatoryjny",
-      "d": "Może być zarządzony przez jednostkę zwierzchnią"
-    },
-    "correct_answers": ["b", "c", "d"]
-  },
-  {
-    "id": 110,
-    "text": "Audyt wewnętrzny:",
-    "options": {
-      "a": "Jest zawsze obligatoryjny",
-      "b": "Przeprowadza się go na podstawie planu audytu",
-      "c": "Może być usługowy",
-      "d": "Wykonuje osoba o szczególnych kompetencjach"
-    },
-    "correct_answers": ["b", "c", "d"]
-  },
-  {
-    "id": 111,
-    "text": "Audyt wewnętrzny prowadzi się:",
-    "options": {
-      "a": "W uczelniach publicznych",
-      "b": "Jednostkach samorządu terytorialnego",
-      "c": "Celem oceny funkcjonowania kontroli zarządczej",
-      "d": "Na zarządzenie organu zwierzchniego"
-    },
-    "correct_answers": ["a", "b", "c", "d"]
-  },
-  {
-    "id": 112,
-    "text": "Do warunków udzielania rządowi absolutorium z tytułu wykonania budżetu należą:",
-    "options": {
-      "a": "Stosowny wniosek Senatu RP",
-      "b": "Zachowanie terminu do 30 czerwca",
-      "c": "Zapoznanie się z opinią NIK o wykonaniu budżetu państwa",
-      "d": "Zapoznanie się z opinią Prezydenta RP"
-    },
-    "correct_answers": ["c"]
-  },
-  {
-    "id": 113,
-    "text": "Absolutorium dla RM uchwala się po obligatoryjnym uwzględnieniu:",
-    "options": {
-      "a": "Opinii prezydenta",
-      "b": "Opinii NIK",
-      "c": "Informacji o stanie zadłużenia państwa",
-      "d": "Informacji o bilansie płatniczym państwa"
-    },
-    "correct_answers": ["b", "c"]
-  },
-  {
-    "id": 114,
-    "text": "Zgodnie z ustawą minister tworząc instytucje gospodarki budżetowej nadaje im:",
-    "options": {
-      "a": "osobowość prawną",
-      "b": "osobny rachunek środków specjalnych",
-      "c": "zasady prowadzenia gospodarki finansowej",
-      "d": "statut i określa mienie przekazane w zarząd"
-    },
-    "correct_answers": ["a", "d"]
-  },
-  {
-    "id": 115,
-    "text": "Samorządowy zakład budżetowy może otrzymać:",
-    "options": {
-      "a": "dotacje przedmiotową",
-      "b": "dotacje inwestycyjną",
-      "c": "subwencje celową",
-      "d": "dotacje wyrównawczą"
-    },
-    "correct_answers": ["a", "b"]
-  },
-  {
-    "id": 116,
-    "text": "Samorządowy zakład budżetowy może prowadzić:",
-    "options": {
-      "a": "Gospodarkę mieszkaniową",
-      "b": "Cmentarz",
-      "c": "Ogród zoologiczny",
-      "d": "Szkołę"
-    },
-    "correct_answers": ["a", "b", "c"]
-  },
-  {
-    "id": 117,
-    "text": "Dotacje przedmiotowe przeznacza się na wydatki:",
-    "options": {
-      "a": "z tytułu wynagrodzeń i składek pochodnych",
-      "b": "inwestycyjne",
-      "c": "polegające na zakupie podręczników szkolnych",
-      "d": "bieżące jednostki o działalności deficytowej (dopłaty do usług)"
-    },
-    "correct_answers": ["d"]
-  },
-  {
-    "id": 118,
-    "text": "Do warunków samorządowej uchwały absolutoryjnej należą:",
-    "options": {
-      "a": "stosowny wniosek komisji rewizyjnej do organu stanowiącego",
-      "b": "zachowanie terminu do 30 czerwca",
-      "c": "zapoznanie się z opinią właściwej regionalnej izby obrachunkowej o wykonaniu budżetu",
-      "d": "sprawozdanie finansowe"
-    },
-    "correct_answers": ["a", "b", "c", "d"]
-  },
-  {
-    "id": 119,
-    "text": "Zasada przejrzystości finansów publicznych wyraża się w:",
-    "options": {
-      "a": "Opublikowaniu budżetu państwa w dzienniku ustaw",
-      "b": "Hierarchicznym podziale urzędów",
-      "c": "Klasyfikacyjnym ujęciu dochodów i wydatków publicznych",
-      "d": "Powiązaniem wydatków z dochodami budżetowymi"
-    },
-    "correct_answers": ["c"]
-  },
-  {
-    "id": 120,
-    "text": "Zasada celowości wydatków publicznych polega na tym, aby wydatek był:",
-    "options": {
-      "a": "Gospodarny (służył osiągnięciu celu)",
-      "b": "Uprzednio zaplanowany",
-      "c": "Niezbędny",
-      "d": "Rzetelny"
+      "a": "wytoczeniu powództwa",
+      "b": "przystąpieniu do udziału po jednej ze stron",
+      "c": "złożeniu wniosku o przypozwanie"
     },
     "correct_answers": ["a"]
   },
   {
-    "id": 121,
-    "text": "Samorządowe instytucje kultury mają prawo do:",
+    "id": 105,
+    "text": "Interwenient uboczny może wejść na miejsce strony, do której przystąpił, za zgodą:",
     "options": {
-      "a": "Samodzielnych planów finansowych",
-      "b": "Dotacji budżetowej",
-      "c": "Subwencji z budżetu",
-      "d": "Wyodrębnienia środków specjalnych"
-    },
-    "correct_answers": ["a", "b"]
-  },
-  {
-    "id": 122,
-    "text": "Obowiązek dochodzenia roszczeń pieniężnych, wyraża się:",
-    "options": {
-      "a": "Powinnością prawidłowego obliczenia należności",
-      "b": "Powinnością wzywania do zapłaty",
-      "c": "Wyłączeniem przedawnienia należności",
-      "d": "W odpowiedzialności karno-administracyjnej urzędników"
-    },
-    "correct_answers": ["a", "b"]
-  },
-  {
-    "id": 123,
-    "text": "Skarbowe papiery wartościowe to:",
-    "options": {
-      "a": "Skarbowe papiery oszczędnościowe",
-      "b": "Bony skarbowe",
-      "c": "Obligacje skarbowe",
-      "d": "Akcje jednoosobowej spółki skarbu państwa"
-    },
-    "correct_answers": ["a", "b", "c"]
-  },
-  {
-    "id": 124,
-    "text": "W toku wykonywania budżetu obowiązują zasady:",
-    "options": {
-      "a": "Terminowości realizacji wydatków",
-      "b": "Przestrzegania limitów wydatków",
-      "c": "Dokonywania wydatków w sposób oszczędny",
-      "d": "Pierwszeństwa wydatków na zamówienia publiczne"
-    },
-    "correct_answers": ["a", "b", "c"]
-  },
-  {
-    "id": 125,
-    "text": "Cofa się beneficjentowi środki europejskie, gdy:",
-    "options": {
-      "a": "Wykorzystano je z naruszeniem procedur udzielania środków",
-      "b": "Pobrano je w nadmiernej wysokości",
-      "c": "Dopuszczono się opóźnienia w ich rozliczeniu",
-      "d": "Wykorzystano je niezgodnie z przeznaczeniem",
-      "e": "Doszło do przekroczenia limitów wydatków na zadanie"
-    },
-    "correct_answers": ["a", "b", "d"]
-  },
-  {
-    "id": 126,
-    "text": "Blokowanie wydatków z budżetu samorządowego:",
-    "options": {
-      "a": "Należy do kompetencji organu wykonawczego JST - zarząd jst",
-      "b": "Może nastąpić w razie nadmiaru posiadanych środków",
-      "c": "Może nastąpić w razie opóźnień realizacyjnych",
-      "d": "Następuje w razie powiększenia deficytu budżetowego"
-    },
-    "correct_answers": ["a", "b", "c"]
-  },
-  {
-    "id": 127,
-    "text": "Odpowiedzialność za naruszenie dyscyplin finansów publicznych ponoszą:",
-    "options": {
-      "a": "Dyrektorzy szpitali publicznych",
-      "b": "Najęci projektanci obiektów publicznych",
-      "c": "Skarbnicy samorządowi",
-      "d": "Osoby prawne korzystające ze środków europejskich"
-    },
-    "correct_answers": ["a", "c"]
-  },
-  {
-    "id": 128,
-    "text": "Środki na pokrycie pożyczkowych potrzeb państwa można uzyskać z:",
-    "options": {
-      "a": "Podatku VAT",
-      "b": "Emisji papierów wartościowych",
-      "c": "Prywatyzacji majątku Skarbu Państwa",
-      "d": "Wynajmu lokalu należącego do SP"
+      "a": "sądu",
+      "b": "obu stron",
+      "c": "strony, do której przystąpił"
     },
     "correct_answers": ["b"]
   },
   {
-    "id": 129,
-    "text": "Umowa o dofinansowanie kosztów projektu ze środków europejskich określa:",
+    "id": 106,
+    "text": "Wypowiedzenie pełnomocnictwa procesowego przez mocodawcę odnosi skutek prawny w stosunku do przeciwnika z chwilą:",
     "options": {
-      "a": "Harmonogram dokonywanych wydatków",
-      "b": "Zobowiązanie beneficjenta do poddania się kontroli",
-      "c": "Termin rozliczenia projektu",
-      "d": "Ewentualne wyłączenie wydatków z reżimu zamówień publicznych"
+      "a": "zawiadomienia o tym sądu",
+      "b": "doręczenia im przez sąd zawiadomienia o wypowiedzeniu pełnomocnictwa",
+      "c": "ich zawiadomienia przez mocodawcę"
     },
-    "correct_answers": ["a", "b", "c"]
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 107,
+    "text": "W razie zawarcia ugody sądowej, jeżeli strony nie postanowiły inaczej, koszty procesu:",
+    "options": {
+      "a": "znosi się wzajemnie",
+      "b": "strony ponoszą po połowie",
+      "c": "rozdziela się stosunkowo pomiędzy stronami"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 108,
+    "text": "Jeżeli okaże się, że okoliczności, na podstawie których ustanowiono adwokata lub radcę prawnego z urzędu, nie istniały, sąd:",
+    "options": {
+      "a": "nie ma możliwości cofnięcia ustanowienia",
+      "b": "może cofnąć ustanowienie adwokata lub radcy prawnego",
+      "c": "cofa ustanowienie adwokata lub radcy prawnego"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 109,
+    "text": "Postanowienie o ustanowieniu pełnomocnika lub radcy prawnego z urzędu może wydać:",
+    "options": {
+      "a": "wyłącznie sąd",
+      "b": "sąd albo referendarz sądowy",
+      "c": "wyłącznie referendarz sądowy"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 110,
+    "text": "Adwokat lub radca prawny ustanowieni z urzędu przez sąd I instancji mają obowiązek zastępować stronę:",
+    "options": {
+      "a": "w postępowaniu wywołanym wniesieniem skargi kasacyjnej",
+      "b": "w postępowaniu wywołanym wniesieniem skargi o wznowienie postępowania",
+      "c": "do prawomocnego zakończenia postępowania, chyba że obowiązek wygasa wcześniej"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 111,
+    "text": "Jeżeli po prawomocnym oddaleniu wniosku o zwolnienie od kosztów ta sama strona ponownie składa taki wniosek oparty na tych samych okolicznościach, sąd:",
+    "options": {
+      "a": "oddala wniosek",
+      "b": "ponownie rozpoznaje wniosek",
+      "c": "odrzuca wniosek"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 112,
+    "text": "Jeżeli strona działająca bez pełnomocnika wniosła pozew z brakami, a następnie uzupełniła je w terminie, pozew wywołuje skutki od chwili:",
+    "options": {
+      "a": "usunięcia braków formalnych",
+      "b": "wniesienia pozwu",
+      "c": "doręczenia wezwania do usunięcia braków"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 113,
+    "text": "W razie nieuzupełnienia braków formalnych pozwu w terminie zakreślonym przez przewodniczącego:",
+    "options": {
+      "a": "sąd odrzuca pozew",
+      "b": "przewodniczący odrzuca pozew",
+      "c": "przewodniczący zwraca pozew"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 114,
+    "text": "W razie wniesienia nieopłaconego pisma przez adwokata lub radcę prawnego (podlegającego opłacie stałej/stosunkowej):",
+    "options": {
+      "a": "przewodniczący zwraca je bez wezwania o uiszczenie opłaty",
+      "b": "sąd odrzuca pismo",
+      "c": "przewodniczący wzywa o uiszczenie opłaty pod rygorem zwrotu"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 115,
+    "text": "W toku postępowania adwokaci lub radcy prawni:",
+    "options": {
+      "a": "bezpośrednio doręczają sobie nawzajem odpisy pism procesowych z załącznikami",
+      "b": "doręczają sobie nawzajem odpisy pism za pośrednictwem sądu",
+      "c": "nie mają obowiązku doręczania załączników"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 116,
+    "text": "Jeżeli powód uprawdopodobni, że miejsce pobytu pozwanego nie jest znane, przewodniczący ustanawia dla pozwanego:",
+    "options": {
+      "a": "kuratora",
+      "b": "pełnomocnika z urzędu",
+      "c": "przedstawiciela"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 117,
+    "text": "Protokół posiedzenia jawnego sporządzony za pomocą urządzenia rejestrującego dźwięk:",
+    "options": {
+      "a": "nie podlega sprostowaniu",
+      "b": "podlega sprostowaniu na zasadach ogólnych",
+      "c": "podlega sprostowaniu tylko do czasu przesłania akt do II instancji"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 118,
+    "text": "Jeżeli publiczne rozpoznanie sprawy zagraża porządkowi publicznemu lub moralności:",
+    "options": {
+      "a": "sąd może zdecydować o odbyciu posiedzenia przy drzwiach zamkniętych",
+      "b": "sąd jest zobowiązany z urzędu zdecydować o odbyciu posiedzenia przy drzwiach zamkniętych",
+      "c": "sąd nie może wyłączyć jawności"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 119,
+    "text": "W razie braku merytorycznych podstaw do przywrócenia terminu sąd:",
+    "options": {
+      "a": "oddala wniosek o przywrócenie terminu",
+      "b": "odrzuca wniosek o przywrócenie terminu",
+      "c": "pozostawia wniosek bez rozpoznania"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 120,
+    "text": "Wniosek o przywrócenie terminu wnosi się do sądu, w którym czynność miała być dokonana, w terminie:",
+    "options": {
+      "a": "miesiąca od ustania przyczyny uchybienia",
+      "b": "tygodnia od ustania przyczyny uchybienia",
+      "c": "tygodnia od daty uchybienia terminowi"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 121,
+    "text": "Na postanowienie o oddaleniu wniosku o przywrócenie terminu do wniesienia apelacji:",
+    "options": {
+      "a": "przysługuje zażalenie do sądu wyższej instancji",
+      "b": "nie przysługuje zażalenie",
+      "c": "przysługuje zażalenie do innego składu tego samego sądu"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 122,
+    "text": "Jeżeli strony zgłosiły zgodny wniosek o zawieszenie postępowania:",
+    "options": {
+      "a": "sąd nie jest nim związany, ale może zawiesić postępowanie",
+      "b": "sąd jest nim związany i musi zawiesić postępowanie",
+      "c": "sąd nie może zawiesić postępowania na tej podstawie"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 123,
+    "text": "Jeżeli rozstrzygnięcie sprawy zależy od wyniku innego toczącego się postępowania cywilnego, sąd:",
+    "options": {
+      "a": "obligatoryjnie zawiesza postępowanie",
+      "b": "nie może zawiesić postępowania",
+      "c": "może zawiesić postępowanie"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 124,
+    "text": "W razie śmierci strony sąd umarza postępowanie po upływie:",
+    "options": {
+      "a": "5 lat od daty postanowienia o zawieszeniu z tej przyczyny",
+      "b": "3 lat od daty postanowienia o zawieszeniu z tej przyczyny",
+      "c": "roku od daty śmierci"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 125,
+    "text": "Mediacja nie toczy się, pomimo wydania postanowienia sądu o skierowaniu do mediacji, jeżeli:",
+    "options": {
+      "a": "strona w terminie tygodniowym od doręczenia postanowienia nie wyrazi na nią zgody",
+      "b": "obie strony nie wyrażą stanowiska w terminie 14 dni",
+      "c": "powód wyrazi zgodę, a pozwany milczy"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 126,
+    "text": "Protokół mediacji składa w sądzie:",
+    "options": {
+      "a": "każda ze stron",
+      "b": "tylko wnioskujący o mediację",
+      "c": "mediator"
+    },
+    "correct_answers": ["c"]
+  },
+{
+    "id": 127,
+    "text": "Zasady postępowania mediacyjnego to:",
+    "options": {
+      "a": "dobrowolność, bezstronność i aktywność mediatora, niejawność",
+      "b": "dobrowolność, bezstronność i aktywność mediatora, jawność",
+      "c": "przymusowość, aktywność mediatora, niejawność"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 128,
+    "text": "Jeżeli w sprawie o ustalenie istnienia prawa sąd stwierdzi brak interesu prawnego, to:",
+    "options": {
+      "a": "oddala powództwo",
+      "b": "odrzuca pozew",
+      "c": "umarza postępowanie"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 129,
+    "text": "Z chwilą doręczenia pozwu (zbycie przedmiotu sporu):",
+    "options": {
+      "a": "pozwany nie może wytoczyć powództwa wzajemnego",
+      "b": "pozwany nie może żądać sprawdzenia WPS",
+      "c": "zbycie rzeczy lub prawa objętych sporem nie ma wpływu na dalszy bieg sprawy"
+    },
+    "correct_answers": ["c"]
   },
   {
     "id": 130,
-    "text": "Do obligatoryjnych postanowień uchwały budżetowej należą:",
+    "text": "Jeżeli o to samo roszczenie pomiędzy tymi samymi stronami sprawa została prawomocnie zakończona, sąd:",
     "options": {
-      "a": "Limit zobowiązań kredytowo-pożyczkowych",
-      "b": "Szczególne zasady wykonania budżetu",
-      "c": "Uprawnienia jednostek pomocniczych w ramach budżetu gminy",
-      "d": "Upoważnienia do dokonywania zmian w budżecie"
+      "a": "odrzuca pozew",
+      "b": "umarza postępowanie",
+      "c": "oddala powództwo"
     },
-    "correct_answers": ["a", "b", "c"]
+    "correct_answers": ["a"]
   },
   {
     "id": 131,
-    "text": "Agencje wykonawcze działają:",
+    "text": "Niewłaściwość sądu dającą się usunąć umową stron sąd I instancji bierze pod rozwagę:",
     "options": {
-      "a": "W liczbie kilkudziesięciu",
-      "b": "Także w sferze samorządu województwa",
-      "c": "Na zasadzie osobowości prawnej",
-      "d": "Na zasadzie dotowania z budżetu"
+      "a": "na zarzut pozwanego w każdym stanie sprawy",
+      "b": "na zarzut pozwanego zgłoszony przed wdaniem się w spór co do istoty sprawy",
+      "c": "nigdy nie bierze pod uwagę"
     },
-    "correct_answers": ["c", "d"]
+    "correct_answers": ["b"]
   },
   {
     "id": 132,
-    "text": "Do skarbowych papierów wartościowych należą:",
+    "text": "Przedmiotowa zmiana powództwa jest dopuszczalna, jeżeli:",
     "options": {
-      "a": "Bony skarbowe",
-      "b": "Skarbowe papiery oszczędnościowe",
-      "c": "Certyfikaty inwestycyjne",
-      "d": "Akcje"
+      "a": "nie wpływa na właściwość sądu i dotyczy postępowania przed sądem I instancji",
+      "b": "zawsze, nawet w postępowaniu kasacyjnym",
+      "c": "tylko za zgodą pozwanego"
     },
-    "correct_answers": ["a", "b"]
+    "correct_answers": ["a"]
   },
   {
     "id": 133,
-    "text": "Do zasad publicznej gospodarki finansowej należą:",
+    "text": "Sąd wysłuchuje małoletnie dziecko (jeżeli rozwój i zdrowie na to pozwalają) na posiedzeniu, które odbywa się:",
     "options": {
-      "a": "Tzw. zakaz funduszowania",
-      "b": "Obowiązek dochodzenia roszczeń",
-      "c": "Równego dostępu do zadań finansowanych ze środków publicznych",
-      "d": "Zakazu emisji obligacji długoterminowych"
+      "a": "na sali posiedzeń",
+      "b": "poza salą posiedzeń",
+      "c": "wyłącznie w obecności biegłego psychologa bez sędziego"
     },
-    "correct_answers": ["a", "b", "c"]
+    "correct_answers": ["b"]
   },
   {
     "id": 134,
-    "text": "Do niepodatkowych należności budżetowych należą:",
+    "text": "Od zarządzeń przewodniczącego wydanych w toku rozprawy strony:",
     "options": {
-      "a": "Wpływy z ceł",
-      "b": "Nadwyżki środków zakładów budżetowych",
-      "c": "Kwoty zwracanych dotacji",
-      "d": "Wpływy z mandatów karnych"
+      "a": "mogą odwołać się do sądu",
+      "b": "nie mogą się odwołać",
+      "c": "mogą się odwołać tylko do sądu wyższej instancji"
     },
-    "correct_answers": ["b", "c", "d"]
+    "correct_answers": ["a"]
   },
   {
     "id": 135,
-    "text": "W załącznikach do ustawy budżetowej zamieszcza się:",
+    "text": "Jeżeli nieprawdziwe okoliczności skutkujące odroczeniem rozprawy zostały powołane przez pełnomocnika w złej wierze, sąd:",
     "options": {
-      "a": "Plany finansowe agencji wykonawczych",
-      "b": "Wykaz jednostek dotowanych podmiotowo",
-      "c": "Plany państwowych instytucji kultury",
-      "d": "Zestawienie programów wieloletnich"
+      "a": "może go skazać na grzywnę",
+      "b": "musi zawiesić mu prawo wykonywania zawodu",
+      "c": "zawsze skazuje go na karę aresztu"
     },
-    "correct_answers": ["a", "b", "d"]
+    "correct_answers": ["a"]
   },
   {
     "id": 136,
-    "text": "Obligacje komunalne można emitować na pokrycie:",
+    "text": "Sąd przeprowadzając postępowanie dowodowe może dopuścić:",
     "options": {
-      "a": "Planowanego deficytu budżetowego",
-      "b": "Przejściowego (w ciągu roku) niedoboru finansowego",
-      "c": "Spłaty uprzednio zaciągniętych kredytów",
-      "d": "Kosztów obsługi długu (oprocentowania)"
+      "a": "dowody niewskazane przez strony",
+      "b": "wyłącznie dowody zawnioskowane przez strony",
+      "c": "wyłącznie dowody zgłoszone w pozwie"
     },
-    "correct_answers": ["a", "b", "c"]
+    "correct_answers": ["a"]
   },
   {
     "id": 137,
-    "text": "Do dochodów majątkowych gmin należą:",
+    "text": "Domniemanie faktyczne polega na tym, że:",
     "options": {
-      "a": "Wpływy ze sprzedaży majątku trwałego",
-      "b": "Dotacje na utrzymanie USC",
-      "c": "Wpływy z przekształcenia wieczystego użytkowania we własność",
-      "d": "Dotacje na wydatki inwestycyjne"
+      "a": "sąd uznaje fakty za przyznane, gdy strona milczy",
+      "b": "sąd ustala fakty na podstawie przyznania przez przeciwnika",
+      "c": "sąd uznaje za ustalone fakty, jeżeli wniosek taki można wyprowadzić z innych ustalonych faktów"
     },
-    "correct_answers": ["a", "c", "d"]
+    "correct_answers": ["c"]
   },
   {
     "id": 138,
-    "text": "Rezerwa budżetowa:",
+    "text": "Zasada swobodnej oceny dowodów polega na ocenie wiarygodności:",
     "options": {
-      "a": "Stanowi wyjątek od zasady bankowej obsługi budżetu",
-      "b": "Jest rozwiązana w trybie przeniesień wydatków budżetowych",
-      "c": "Ujmowana jest w budżecie państwa w odrębnej części",
-      "d": "Stanowi wyjątek od zasady równowagi"
+      "a": "według własnego przekonania, na podstawie wszechstronnego rozważenia materiału",
+      "b": "wyłącznie na podstawie matematycznej liczby dowodów",
+      "c": "według przekonania strony silniejszej"
     },
-    "correct_answers": ["b", "c"]
+    "correct_answers": ["a"]
   },
   {
     "id": 139,
-    "text": "Obligacje mogą emitować:",
+    "text": "Sąd, który wydał postanowienie dowodowe:",
     "options": {
-      "a": "Osoby prawne prowadzące działalność gospodarczą",
-      "b": "Zarządy budynków komunalnych",
-      "c": "Fundusze celowe",
-      "d": "Gminy"
+      "a": "nie może go zmienić",
+      "b": "może go zmienić stosownie do okoliczności",
+      "c": "może go zmienić tylko za zgodą obu stron"
     },
-    "correct_answers": ["a", "d"]
+    "correct_answers": ["b"]
   },
   {
     "id": 140,
-    "text": "Wytyczne dotyczące korekt finansowych w ramach programów operacyjnych może wydawać:",
+    "text": "Świadkiem w postępowaniu cywilnym może być:",
     "options": {
-      "a": "Instytucja wdrażająca",
-      "b": "Instytucja certyfikująca",
-      "c": "Zarząd województwa",
-      "d": "Właściwy minister"
+      "a": "współuczestnik formalny (co do faktów dotyczących wyłącznie innego współuczestnika)",
+      "b": "współuczestnik jednolity",
+      "c": "przedstawiciel ustawowy strony"
     },
-    "correct_answers": ["d"]
+    "correct_answers": ["a"]
   },
   {
     "id": 141,
-    "text": "Zgodnie z ustawą o finansach publicznych minister tworząc instytucję gospodarki budżetowej:",
+    "text": "Zabezpieczenie dowodu przed wszczęciem postępowania (gdy zachodzi obawa niewykonalności):",
     "options": {
-      "a": "Nie może przekazywać mienia Skarbu Państwa w jej zarząd",
-      "b": "Nadaje jej statut",
-      "c": "Określa mienie przekazywane w jej zarządzie",
-      "d": "Nadaje jej osobowość prawną"
+      "a": "nie jest możliwe",
+      "b": "następuje wyłącznie z urzędu",
+      "c": "sąd może je zabezpieczyć na wniosek"
     },
-    "correct_answers": ["b", "c", "d"]
+    "correct_answers": ["c"]
   },
   {
     "id": 142,
-    "text": "Zakaz funduszowania stanowi przejaw obowiązywania zasady:",
+    "text": "Strona, która w złej wierze zgłosiła zarzuty co do autentyczności dokumentu, podlega grzywnie za dokumenty:",
     "options": {
-      "a": "Równowagi budżetowej",
-      "b": "Jedności formalnej budżetu",
-      "c": "Przejrzystości budżetu",
-      "d": "Szczegółowości budżetu",
-      "e": "Jedności materialnej budżetu",
-      "f": "Zupełność budżetu"
+      "a": "urzędowe bądź prywatne",
+      "b": "wyłącznie urzędowe",
+      "c": "wyłącznie prywatne"
     },
-    "correct_answers": ["e"]
+    "correct_answers": ["a"]
   },
   {
     "id": 143,
-    "text": "Państwowy fundusz celowy posiada:",
+    "text": "Dowód ze świadków przeciwko osnowie dokumentu dopuszcza się między uczestnikami czynności, gdy:",
     "options": {
-      "a": "Wyodrębniony rachunek bankowy",
-      "b": "Prawo otrzymywania dotacji z budżetu państwa",
-      "c": "Możliwość tworzenia państwowych jednostek budżetowych",
-      "d": "Rozbudowaną strukturę organizacyjną"
+      "a": "nie doprowadzi to do obejścia przepisów o formie pod rygorem nieważności i sąd uzna to za konieczne",
+      "b": "zawsze, bez żadnych ograniczeń",
+      "c": "tylko jeśli dokument jest nieczytelny"
     },
-    "correct_answers": ["a", "b"]
+    "correct_answers": ["a"]
   },
   {
     "id": 144,
-    "text": "Jednostki samorządu terytorialnego mogą zaciągać kredyty i pożyczki oraz emitować papiery wartościowe na pokrycie występującego w ciągu roku przejściowego deficytu budżetu JST:",
+    "text": "Ogłoszenie wyroku, gdy postępowanie toczyło się przy drzwiach zamkniętych, odbywa się:",
     "options": {
-      "a": "Prawda",
-      "b": "Fałsz"
+      "a": "na posiedzeniu jawnym",
+      "b": "na posiedzeniu przy drzwiach zamkniętych",
+      "c": "wyłącznie listownie"
     },
     "correct_answers": ["a"]
   },
   {
     "id": 145,
-    "text": "Szef Krajowej Administracji Skarbowej pełni funkcję:",
+    "text": "Zasądzając roszczenie pieniężne uznane przez jedynego pozwanego, sąd nadaje wyrokowi rygor natychmiastowej wykonalności:",
     "options": {
-      "a": "Instytucji certyfikującej",
-      "b": "Instytucji zarządzającej",
-      "c": "Instytucji audytowej",
-      "d": "Instytucji wdrażającej"
+      "a": "na żądanie powoda",
+      "b": "za zgodą pozwanego",
+      "c": "z urzędu"
     },
     "correct_answers": ["c"]
   },
   {
     "id": 146,
-    "text": "Jednostki budżetowe:",
+    "text": "Powód, którego roszczenie zostało częściowo oddalone wyrokiem zaocznym, może go zaskarżyć:",
     "options": {
-      "a": "Pod pewnymi warunkami mogą być przekształcone w samorządowe zakłady budżetowe",
-      "b": "Tylko niektóre wydatki pokrywają z budżetu",
-      "c": "Wszystkie swoje dochody odprowadzają na rachunek budżetu państwa",
-      "d": "W razie potrzeby mogą tworzyć agencje wykonawcze"
+      "a": "sprzeciwem",
+      "b": "zarzutami",
+      "c": "apelacją"
     },
-    "correct_answers": ["a", "c"]
+    "correct_answers": ["c"]
   },
   {
     "id": 147,
-    "text": "Nieprawidłowość indywidualna oznacza:",
+    "text": "Zasądzenie 'odpowiedniej sumy' według uznania sądu (Art. 322 KPC) NIE jest dopuszczalne w sprawie:",
     "options": {
-      "a": "Każde naruszenie mającego zastosowanie prawa",
-      "b": "M.in. zaniechania podmiotu gospodarczego powodujące naruszenie mającego zastosowanie prawa",
-      "c": "Wyłącznie zawinione naruszenie mającego zastosowanie prawa",
-      "d": "Naruszenie prawa wynikające wyłącznie z działania beneficjenta"
+      "a": "o naprawienie szkody",
+      "b": "o zwrot bezpodstawnego wzbogacenia",
+      "c": "o zwykłą zapłatę, gdzie powodem jest konsument"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c"]
   },
   {
     "id": 148,
-    "text": "Dług Skarbu Państwa obejmuje zobowiązania całego sektora finansów publicznych wynikające m.in. z wyemitowanych papierów wartościowych, kredytów i przyjętych depozytów:",
+    "text": "Wniosek o sprostowanie, uzupełnienie lub wykładnię wyroku:",
     "options": {
-      "a": "Prawda",
-      "b": "Fałsz"
+      "a": "nie ma wpływu na bieg terminu do wniesienia środka zaskarżenia",
+      "b": "przerywa bieg terminu",
+      "c": "zawiesza bieg terminu"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a"]
   },
   {
     "id": 149,
-    "text": "Dotacje podmiotowe:",
+    "text": "Po wpłynięciu apelacji (czynności sądu I instancji):",
     "options": {
-      "a": "Mogą służyć dofinansowaniu produkcji podręczników szkolnych",
-      "b": "Mogą być przeznaczane wyłącznie na dofinansowanie działalności inwestycyjnej",
-      "c": "Mogą być przeznaczane wyłącznie na dofinansowanie działalności bieżącej",
-      "d": "Obejmują środki dla podmiotu wskazanego w odrębnej ustawie lub w umowie międzynarodowej"
+      "a": "przewodniczący doręcza odpis apelacji drugiej stronie",
+      "b": "odpis apelacji doręcza zawsze dopiero sąd II instancji",
+      "c": "przedstawia się akta sądowi II instancji"
     },
-    "correct_answers": ["c", "d"]
+    "correct_answers": ["c"]
   },
   {
     "id": 150,
-    "text": "Rada Ministrów:",
+    "text": "Nieważność postępowania zachodzi, gdy:",
     "options": {
-      "a": "Uchwala projekt ustawy budżetowej i przedkłada go Sejmowi do 30 sierpnia",
-      "b": "Uchwala projekt ustawy budżetowej i przedkłada go Sejmowi do 30 września",
-      "c": "Przedstawia Sejmowi i NIK do 31 maja roczne sprawozdanie z wykonania ustawy budżetowej",
-      "d": "Uchwala prowizorium budżetowe dla województwa samorządowego"
+      "a": "sąd rejonowy orzekł w sprawie należącej do SO bez względu na WPS",
+      "b": "sąd okręgowy orzekł w sprawie należącej do SR",
+      "c": "sąd rejonowy orzekł w sprawie SO tylko ze względu na WPS"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a"]
   },
   {
     "id": 151,
-    "text": "Podstawę systemu realizacji programu finansowanego ze środków europejskich 2021-2027 mogą stanowić:",
+    "text": "Termin do wniesienia zażalenia wynosi:",
     "options": {
-      "a": "Orzeczenia sądów administracyjnych",
-      "b": "Wytyczne",
-      "c": "Decyzje administracyjne",
-      "d": "Szczegółowy opis priorytetów programu"
+      "a": "miesiąc od doręczenia postanowienia",
+      "b": "2 tygodnie od doręczenia postanowienia",
+      "c": "tydzień od doręczenia postanowienia"
     },
-    "correct_answers": ["b", "d"]
+    "correct_answers": ["c"]
   },
   {
     "id": 152,
-    "text": "Samorządowy zakład budżetowy może otrzymać:",
+    "text": "Skład sądu II instancji przy rozpoznawaniu apelacji w postępowaniu uproszczonym jest:",
     "options": {
-      "a": "Subwencję ogólną",
-      "b": "Majątek na własność",
-      "c": "Dotację przedmiotową",
-      "d": "Dotację podmiotową"
+      "a": "trzyosobowy, chyba że prezes zarządzi inaczej",
+      "b": "zawsze trzyosobowy",
+      "c": "zawsze jednoosobowy"
     },
     "correct_answers": ["c"]
   },
   {
     "id": 153,
-    "text": "Źródłami dochodów własnych gminy są wpływy z:",
+    "text": "Względna dewolutywność w Kodeksie postępowania cywilnego polega na tym, że:",
     "options": {
-      "a": "Podatku od nieruchomości",
-      "b": "Podatku od towarów i usług",
-      "c": "Podatku od czynności cywilnoprawnych",
-      "d": "Podatku akcyzowego",
-      "e": "Podatku od spadków i darowizn"
+      "a": "apelację rozpoznaje sąd wyższej instancji, jednak sąd I instancji może ją uwzględnić",
+      "b": "zażalenie rozpoznaje sąd wyższej instancji, jednak sąd I instancji może je uwzględnić",
+      "c": "wniesienie zażalenia bądź apelacji wstrzymuje wykonanie orzeczenia"
     },
-    "correct_answers": ["a", "c", "e"]
+    "correct_answers": ["b"]
   },
   {
     "id": 154,
-    "text": "Beneficjent zostaje wykluczony z możliwości otrzymania środków europejskich gdy:",
+    "text": "Skarga kasacyjna nie jest dopuszczalna w sprawach:",
     "options": {
-      "a": "Stwierdzono nadmiar posiadanych środków finansowych",
-      "b": "Stwierdzono niegospodarność",
-      "c": "Otrzymał płatność na podstawie podrobionych dokumentów",
-      "d": "Nie zwrócił środków wraz z odsetkami w terminie 14 dni od ostatecznej decyzji"
+      "a": "gdzie wartość przedmiotu sporu nie przekracza 150.000 zł",
+      "b": "o rozwód bądź separację",
+      "c": "o ochronę własności"
     },
-    "correct_answers": ["c", "d"]
+    "correct_answers": ["b"]
   },
   {
     "id": 155,
-    "text": "Dochodami jednostek samorządu terytorialnego są:",
+    "text": "Skargę kasacyjną wnosi się:",
     "options": {
-      "a": "Środki w postaci pożyczek z budżetu państwa",
-      "b": "Środki pochodzące z emisji obligacji komunalnych",
-      "c": "Subwencja ogólna",
-      "d": "Dochody własne"
+      "a": "w terminie 2 miesięcy bezpośrednio do Sądu Najwyższego",
+      "b": "w terminie 2 miesięcy do sądu II instancji",
+      "c": "w terminie miesiąca do sądu II instancji"
     },
-    "correct_answers": ["c", "d"]
+    "correct_answers": ["b"]
   },
   {
     "id": 156,
-    "text": "Zgodnie z ustawą o finansach publicznych sektor finansów publicznych obejmuje:",
+    "text": "W postępowaniu kasacyjnym jest dopuszczalne:",
     "options": {
-      "a": "Polską Akademię Nauk",
-      "b": "Przedsiębiorstwa państwowe",
-      "c": "Skarb Państwa",
-      "d": "Banki państwowe"
+      "a": "przytoczenie nowego uzasadnienia podstaw kasacyjnych",
+      "b": "powołanie nowych faktów i dowodów",
+      "c": "powołanie zarzutów dotyczących ustalenia faktów i oceny dowodów"
     },
     "correct_answers": ["a"]
   },
   {
     "id": 157,
-    "text": "Państwowy fundusz celowy:",
+    "text": "Od nakazu zapłaty w postępowaniu upominawczym wydanego przez referendarza sądowego przysługuje:",
     "options": {
-      "a": "Stanowi jednostkę organizacyjną nieposiadającą osobowości prawnej",
-      "b": "To taki fundusz, którego przychody pochodzą ze środków publicznych",
-      "c": "Może posiadać osobowość prawną",
-      "d": "To taki fundusz, którego wydatki są przeznaczone na realizację wyodrębnionych zadań",
-      "e": "Stanowi wyodrębniony rachunek bankowy"
+      "a": "skarga",
+      "b": "zażalenie",
+      "c": "sprzeciw"
     },
-    "correct_answers": ["a", "b", "d", "e"]
+    "correct_answers": ["c"]
   },
   {
     "id": 158,
-    "text": "Agencja wykonawcza:",
+    "text": "Zasadą jest, że w razie wniesienia skargi na orzeczenie referendarza sądowego:",
     "options": {
-      "a": "Nigdy nie może zaciągać zobowiązań kredytowych",
-      "b": "Może zaciągać zobowiązania na okres przekraczający rok budżetowy przy zapewnieniu środków w planie",
-      "c": "Może otrzymywać dotacje z budżetu państwa",
-      "d": "Może otrzymywać dotacje z budżetu województwa samorządowego"
+      "a": "orzeczenie traci moc",
+      "b": "orzeczenie wraz ze skargą przekazuje się do I instancji",
+      "c": "orzeczenie wraz ze skargą przekazuje się do II instancji"
     },
-    "correct_answers": ["b", "c"]
+    "correct_answers": ["a"]
   },
   {
     "id": 159,
-    "text": "Instytucja gospodarki budżetowej:",
+    "text": "Sąd rozpoznający skargę na postanowienie referendarza jako sąd II instancji orzeka w składzie:",
     "options": {
-      "a": "Odpłatnie wykonuje wyodrębnione zadania",
-      "b": "Nieodpłatnie wykonuje wyodrębnione zadania",
-      "c": "Pokrywa koszty swojej działalności przede wszystkim z uzyskiwanych dotacji",
-      "d": "Pokrywa koszty działalności oraz zobowiązania z uzyskiwanych przychodów"
+      "a": "trzyosobowym",
+      "b": "jednoosobowym",
+      "c": "wskazanym przez prezesa sądu"
     },
-    "correct_answers": ["a", "d"]
+    "correct_answers": ["b"]
   },
   {
     "id": 160,
-    "text": "Statut instytucji gospodarki budżetowej określa w szczególności:",
+    "text": "Nie można żądać wznowienia postępowania:",
     "options": {
-      "a": "Zasady reprezentacji IGB",
-      "b": "Organizację wewnętrzną",
-      "c": "Tryb i zasady dokonywania zmian w statucie",
-      "d": "Źródła uzyskiwania przychodów"
+      "a": "po upływie 10 lat od uprawomocnienia wyroku (z wyjątkami)",
+      "b": "po upływie 10 lat od uprawomocnienia wyroku - w każdym wypadku",
+      "c": "po upływie 5 lat od uprawomocnienia wyroku"
     },
-    "correct_answers": ["a", "b", "c", "d"]
+    "correct_answers": ["a"]
   },
-    {
+  {
     "id": 161,
-    "text": "Na mienie instytucji gospodarki budżetowej mogą składać się:",
+    "text": "W razie skargi o wznowienie postępowania, która jest spóźniona bądź niedopuszczalna, sąd:",
     "options": {
-      "a": "mienie stanowiące własność IGB przekazane przez organ wykonujący funkcje organu założycielskiego w formie ustanowienia użytkowania",
-      "b": "mienie stanowiące wyposażenie przekazane przez organ wykonujący funkcje organu założycielskiego w formie użyczenia",
-      "c": "wyłącznie nieruchomości i ruchomości oddane IGB w trwały zarząd",
-      "d": "przeniesione na własność nieruchomości"
+      "a": "odrzuca ją postanowieniem",
+      "b": "wydaje postanowienie o pozostawieniu bez rozpoznania",
+      "c": "odrzuca ją wyrokiem"
     },
-    "correct_answers": ["a", "b", "d"]
+    "correct_answers": ["a"]
   },
   {
     "id": 162,
-    "text": "Skarbowy papier wartościowy:",
+    "text": "Do wznowienia postępowania z przyczyn nieważności w sprawie, w której orzekał tylko sąd rejonowy, właściwy jest:",
     "options": {
-      "a": "Jest papierem wartościowym, z którego wynika, że Skarb Państwa jest dłużnikiem posiadacza takiego papieru",
-      "b": "W którym Minister Finansów zobowiązuje się wobec nabywcy zawsze do spełnienia świadczenia pieniężnego",
-      "c": "Jest instrumentem finansowym, w którym Skarb Państwa stwierdza, że jest wierzycielem w stosunku do posiadacza takiego instrumentu",
-      "d": "W którym Skarb Państwa zobowiązuje się do spełnienia określonego świadczenia, które może mieć charakter pieniężny lub niepieniężny"
+      "a": "sąd okręgowy",
+      "b": "inny sąd rejonowy wyznaczony przez okręgowy",
+      "c": "ten sam sąd rejonowy"
     },
-    "correct_answers": ["a", "b", "d"]
+    "correct_answers": ["c"]
   },
   {
     "id": 163,
-    "text": "Dysponenci części budżetowych zawsze mogą dokonywać przeniesień wydatków między częściami.",
+    "text": "Sądem właściwym do rozpoznania skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia jest:",
     "options": {
-      "a": "Prawda",
-      "b": "Fałsz"
+      "a": "sąd wyższej instancji",
+      "b": "zawsze Sąd Najwyższy",
+      "c": "Sąd Najwyższy, o ile dotyczy to orzeczenia sądu II instancji"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 164,
-    "text": "Blokowanie planowanych wydatków budżetowych polega na unieważnieniu planu finansowego danej jednostki organizacyjnej sektora finansów publicznych.",
+    "text": "Jeżeli skarga o stwierdzenie niezgodności z prawem prawomocnego orzeczenia jest oczywiście bezzasadna:",
     "options": {
-      "a": "Prawda",
-      "b": "Fałsz"
+      "a": "Sąd Najwyższy odmawia jej przyjęcia do rozpoznania",
+      "b": "sąd II instancji pozostawia ją bez rozpoznania",
+      "c": "Sąd Najwyższy odrzuca ją postanowieniem"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a"]
   },
   {
     "id": 165,
-    "text": "Dysponenci trzeciego stopnia mogą przekazywać środki dysponentom stopnia czwartego.",
+    "text": "Termin do wniesienia skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia wynosi:",
     "options": {
-      "a": "Prawda",
-      "b": "Fałsz"
+      "a": "2 lata od jego uprawomocnienia się",
+      "b": "3 lata od jego uprawomocnienia się",
+      "c": "5 lat od jego uprawomocnienia się"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["a"]
   },
   {
     "id": 166,
-    "text": "Rada ministrów może upoważnić, w drodze rozporządzenia, Prezesa Rady Ministrów i Ministra Finansów do dysponowania rezerwą ogólną do wysokości określonych kwot.",
+    "text": "W ramach postępowania cywilnego wyróżnia się tryby:",
     "options": {
-      "a": "Prawda",
-      "b": "Fałsz"
+      "a": "proces i postępowanie nieprocesowe",
+      "b": "proces, nieprocesowe, zabezpieczające i egzekucyjne",
+      "c": "zwykłe, odrębne i nieprocesowe"
     },
     "correct_answers": ["a"]
   },
   {
     "id": 167,
-    "text": "Wydatki jednostek budżetowych obejmują:",
+    "text": "W postępowaniu nieprocesowym w I instancji sąd rozpoznaje sprawy w składzie:",
     "options": {
-      "a": "Wydatki inwestycyjne państwowych jednostek budżetowych oraz dotacje celowe na finansowanie lub dofinansowanie kosztów inwestycji realizowanych przez inne jednostki",
-      "b": "koszty utrzymania oraz inne wydatki związane z funkcjonowaniem jednostek budżetowych i realizacją ich statutowych zadań",
-      "c": "wynagrodzenia i uposażenia osób zatrudnionych w państwowych jednostkach budżetowych oraz składki naliczane od tych wynagrodzeń i uposażeń",
-      "d": "wydatki na zakup i objęcie akcji oraz wniesienie wkładów do spółek prawa handlowego"
+      "a": "1 sędziego (z wyjątkami)",
+      "b": "1 sędziego i 2 ławników",
+      "c": "3 sędziów"
     },
-    "correct_answers": ["b", "c"]
+    "correct_answers": ["a"]
   },
   {
     "id": 168,
-    "text": "Dotacje podmiotowe obejmują środki dla podmiotu wskazanego w odrębnej ustawie lub w umowie międzynarodowej przeznaczone wyłącznie na:",
+    "text": "W postępowaniu nieprocesowym skarga kasacyjna przysługuje od:",
     "options": {
-      "a": "dopłaty do określonych rodzajów wyrobów lub usług, kalkulowane według stawek jednostkowych",
-      "b": "finansowanie lub dofinansowanie zadań z zakresu administracji rządowej oraz innych zadań zleconych jednostkom samorządu terytorialnego ustawami",
-      "c": "dofinansowywanie działalności bieżącej"
+      "a": "zabezpieczenia spadku i spisu inwentarza",
+      "b": "postanowień sądu II instancji w przedmiocie wpisu lub wykreślenia z rejestru",
+      "c": "przepadku rzeczy"
     },
-    "correct_answers": ["c"]
+    "correct_answers": ["b"]
   },
   {
     "id": 169,
-    "text": "Bankową obsługę budżetu jednostki samorządu terytorialnego wykonuje NBP lub BGK.",
+    "text": "W postępowaniu nieprocesowym apelacja przysługuje od:",
     "options": {
-      "a": "Prawda",
-      "b": "Fałsz"
+      "a": "wyroku sądu I instancji",
+      "b": "postanowień sądu I instancji orzekających co do istoty sprawy",
+      "c": "postanowień sądu I instancji innych niż orzekające co do istoty"
     },
     "correct_answers": ["b"]
   },
   {
     "id": 170,
-    "text": "Niezrealizowane kwoty wydatków budżetu państwa:",
+    "text": "Cofnięcie wniosku w sprawie nieprocesowej (której wszczęcie nie mogło nastąpić z urzędu) po rozpoczęciu posiedzenia jest skuteczne gdy:",
     "options": {
-      "a": "na podstawie rozporządzenia Rady Ministrów mogą być zrealizowane do 31 marca następnego roku budżetowego",
-      "b": "zasadniczo wygasają z upływem roku budżetowego",
-      "c": "co do zasady podlegają zdeponowaniu na rachunku bankowym Ministra Finansów w BGK",
-      "d": "jednostka organizacyjna sektora finansów publicznych zawsze będzie mogła wydatkować w kolejnym roku budżetowym"
+      "a": "inni uczestnicy nie sprzeciwili się temu w terminie",
+      "b": "inni uczestnicy wyrazili na to zgodę",
+      "c": "co najmniej połowa uczestników wyraziła zgodę"
     },
-    "correct_answers": ["a", "b"]
+    "correct_answers": ["a"]
   },
   {
     "id": 171,
-    "text": "Wydatki majątkowe obejmują:",
+    "text": "Zwrot kosztów należy się pozwanemu pomimo uwzględnienia powództwa, jeżeli:",
     "options": {
-      "a": "wydatki budżetu państwa kierowane, na podstawie odrębnych przepisów, bezpośrednio lub pośrednio do osób fizycznych, a niebędące wynagrodzeniem za świadczoną pracę",
-      "b": "wydatki inwestycyjne państwowych jednostek budżetowych oraz dotacje celowe na finansowanie lub dofinansowanie kosztów inwestycji realizowanych przez inne jednostki",
-      "c": "wydatki na zakup i objęcie akcji oraz wniesienie wkładów do spółek prawa handlowego",
-      "d": "wydatki budżetu państwa z tytułu oprocentowania dyskonta od skarbowych papierów wartościowych"
+      "a": "sąd rozstrzyga o kosztach dopiero po uprawomocnieniu",
+      "b": "strona nie złożyła wyjaśnień zgodnych z prawdą",
+      "c": "strona wygrywająca uzyskała je z urzędu",
+      "d": "nie dał powodu do wytoczenia sprawy i uznał żądanie przy pierwszej czynności"
     },
-    "correct_answers": ["b", "c"]
+    "correct_answers": ["d"]
   },
   {
     "id": 172,
-    "text": "W toku wykonywania budżetu państwa obowiązują następujące zasady gospodarki finansowej:",
+    "text": "Świadkiem w procesie nie mogą być:",
     "options": {
-      "a": "rozwiązania rezerw celowych dokonuje Rada Ministrów z uwzględnieniem reguł wynikających z prawa zamówień publicznych",
-      "b": "dokonywanie wydatków następuje w granicach kwot określonych w planie finansowym, z uwzględnieniem prawidłowo dokonanych przeniesień",
-      "c": "pełna realizacja zadań następuje w terminach określonych przepisami i harmonogramem",
-      "d": "blokowanie wydatków następuje w granicach prawidłowo dokonanych przeniesień"
+      "a": "przedstawiciele ustawowi stron",
+      "b": "małżonkowie stron",
+      "c": "wstępni i zstępni stron",
+      "d": "żadna odpowiedź nie jest prawidłowa"
     },
-    "correct_answers": ["b", "c"]
+    "correct_answers": ["a"]
   },
   {
     "id": 173,
-    "text": "Absolutorium dla Rady Ministrów uchwala się po obligatoryjnym przedłożeniu Sejmowi:",
+    "text": "Pełnomocnictwo procesowe szczególne to:",
     "options": {
-      "a": "sprawozdania z wykonania ustawy budżetowej",
-      "b": "opinii Prezydenta RP",
-      "c": "opinii NIK",
-      "d": "informacji o stanie zadłużenia państwa"
+      "a": "pełnomocnictwo do niektórych czynności procesowych",
+      "b": "pełnomocnictwo obejmujące wszystkie czynności łączące się ze sprawą",
+      "c": "pełnomocnictwo do poszczególnych spraw uregulowanych w KPC",
+      "d": "żadna odpowiedź nie jest prawidłowa"
     },
-    "correct_answers": ["a", "c", "d"]
+    "correct_answers": ["a"]
   },
   {
     "id": 174,
-    "text": "Potrzeby finansowe jednostki samorządu terytorialnego to suma m.in. potrzeb:",
+    "text": "Skutkiem pierwotnego nieusuniętego braku zdolności sądowej strony jest:",
     "options": {
-      "a": "wyrównawczych",
-      "b": "administracyjnych",
-      "c": "rozwojowych",
-      "d": "hydrologicznych"
+      "a": "zawieszenie postępowania",
+      "b": "cofnięcie pozwu",
+      "c": "odrzucenie pozwu",
+      "d": "żadna odpowiedź nie jest prawidłowa"
     },
-    "correct_answers": ["a", "c"]
+    "correct_answers": ["c"]
   },
   {
     "id": 175,
-    "text": "Subwencję ogólną dla jednostki samorządu terytorialnego na rok budżetowy ustala się w wysokości subwencji z roku poprzedzającego rok budżetowy powiększonej lub pomniejszonej o odpowiednie różnice potrzeb i kwot kalkulacyjnych.",
+    "text": "Ustalenia prawomocnego wyroku skazującego co do popełnienia przestępstwa:",
     "options": {
-      "a": "Prawda",
-      "b": "Fałsz"
+      "a": "wiążą sąd w postępowaniu cywilnym",
+      "b": "mogą być podstawą do zawieszenia postępowania z urzędu",
+      "c": "stanowią podstawę do żądania wznowienia po ich uchyleniu",
+      "d": "sąd musi zawiesić postępowanie z urzędu w ich przypadku"
     },
     "correct_answers": ["a"]
   },
   {
     "id": 176,
-    "text": "Jednostki samorządu terytorialnego mogą otrzymywać dotacje celowe z budżetu państwa na dofinansowanie zadań własnych:",
+    "text": "Sąd dokonuje doręczeń przez system teleinformatyczny, jeżeli:",
     "options": {
-      "a": "związanych z wdrażaniem reformy systemu politycznego",
-      "b": "z zakresu zadań inwestycyjnych szkół i placówek oświatowych",
-      "c": "realizowanych w celu zagospodarowania nieruchomości Skarbu Państwa przejętych od wojsk Federacji Rosyjskiej",
-      "d": "związanych z budową i remontami obiektów handlowych"
+      "a": "adresat wniósł pismo za pośrednictwem tego systemu",
+      "b": "adresat nie może zrezygnować z doręczenia elektronicznego",
+      "c": "dotyczy to wyłącznie adwokatów i radców prawnych",
+      "d": "doręczenie bezpośrednie nie dotyczy skargi kasacyjnej"
     },
-    "correct_answers": ["b", "c"]
+    "correct_answers": ["a"]
   },
   {
     "id": 177,
-    "text": "Karami za naruszenie dyscypliny finansów publicznych są:",
+    "text": "Prokurator w postępowaniu cywilnym:",
     "options": {
-      "a": "kara pieniężna",
-      "b": "nagana",
-      "c": "kara pozbawienia wolności do lat dwóch",
-      "d": "kara ograniczenia wolności"
+      "a": "może zaskarżyć każde orzeczenie, od którego służy środek odwoławczy",
+      "b": "może wytoczyć powództwo w każdej sprawie niemajątkowej rodzinnej",
+      "c": "nie może wziąć udziału w toczącym się już postępowaniu",
+      "d": "nie może zaskarżyć orzeczenia przysługującego powodowi"
     },
-    "correct_answers": ["a", "b"]
+    "correct_answers": ["a"]
   },
   {
     "id": 178,
-    "text": "Umowa o dofinansowanie projektu ze środków europejskich realizowanego w ramach programu operacyjnego powinna określać w szczególności zobowiązanie do:",
+    "text": "Współuczestnictwo procesowe formalne występuje gdy:",
     "options": {
-      "a": "Rezygnacji z cywilnoprawnych środków zaskarżenia",
-      "b": "Stosowania wytycznych",
-      "c": "Poddania się kontroli i tryb kontroli realizacji projektu lub zadania",
-      "d": "Stosowania przepisów ustawy o finansach publicznych"
-    },
-    "correct_answers": ["b", "c", "d"]
-  },
-  {
-    "id": 179,
-    "text": "Korekta finansowa oznacza:",
-    "options": {
-      "a": "kwotę, o jaką zwiększa się finansowanie UE dla projektu",
-      "b": "procedurę zmiany warunków konkursu o dofinansowanie projektu ze środków UE",
-      "c": "kwotę, o jaką pomniejsza się finansowanie UE dla projektu lub programu w związku z nieprawidłowością indywidualną lub systemową"
-    },
-    "correct_answers": ["c"]
-  },
-  {
-    "id": 180,
-    "text": "Instytucja zarządzająca na gruncie ustawy o zasadach prowadzenia polityki rozwoju oznacza:",
-    "options": {
-      "a": "podmiot publiczny lub prywatny realizujący zadania bezpośrednio wobec beneficjentów",
-      "b": "właściwego ministra lub zarząd województwa odpowiedzialnych za przygotowanie i realizację programu operacyjnego",
-      "c": "organ administracji publicznej, któremu powierzono część zadań związanych z programem"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 181,
-    "text": "Wytyczne w zakresie wdrażania funduszy strukturalnych:",
-    "options": {
-      "a": "są wydawane przez instytucje wdrażające",
-      "b": "jest to instrument ekonomiczny służący intensyfikacji wydatków",
-      "c": "jest to akt prawny określający ujednolicone warunki i procedury",
-      "d": "są wydawane w celu zapewnienia zgodności sposobu realizacji programów z prawem Unii Europejskiej"
+      "a": "wyrok dotyczy niepodzielnie wszystkich",
+      "b": "sprawa toczy się przeciwko kilku osobom łącznie",
+      "c": "kilka osób stanowią prawa lub obowiązki im wspólne",
+      "d": "żadna odpowiedź nie jest prawidłowa"
     },
     "correct_answers": ["d"]
   },
   {
-    "id": 182,
-    "text": "Nieprawidłowość indywidualna na gruncie przepisów UE oznacza:",
+    "id": 179,
+    "text": "Umowa prorogacyjna:",
     "options": {
-      "a": "tylko takie naruszenie, które ma szkodliwy wpływ na budżet Unii poprzez obciążenie go nieuzasadnionym wydatkiem",
-      "b": "zawinione naruszenie mającego zastosowanie prawa",
-      "c": "każde naruszenie prawa, które ma lub może mieć wpływ na budżet Unii poprzez obciążenie go nieuzasadnionym wydatkiem",
-      "d": "naruszenie mającego zastosowanie prawa, wynikające z działania lub zaniechania podmiotu gospodarczego"
+      "a": "nie dotyczy spraw należących do wyłącznej jurysdykcji sądów obcych",
+      "b": "ma szerszy zakres niż immunitet dyplomatyczny",
+      "c": "musi zawierać kaucję aktoryczną",
+      "d": "nie jest możliwa w sprawach o prawa majątkowe za granicą"
     },
-    "correct_answers": ["c", "d"]
+    "correct_answers": ["a"]
   },
   {
-    "id": 183,
-    "text": "Podstawą prawną dokonania płatności na rzecz beneficjenta jest:",
+    "id": 180,
+    "text": "Pojęcie sprawy cywilnej w znaczeniu materialnym obejmuje sprawy:",
     "options": {
-      "a": "postanowienie wydane w trybie KPA",
-      "b": "zlecenie płatności wystawione przez instytucję, z którą beneficjent zawarł umowę o dofinansowanie projektu",
-      "c": "wpis ocenionego projektu na listę zakwalifikowanych projektów",
-      "d": "żądanie sformułowane przez podmiot z listy"
+      "a": "z zakresu ubezpieczeń społecznych",
+      "b": "o wpis partii politycznej do ewidencji",
+      "c": "z zakresu prawa rodzinnego oraz prawa pracy",
+      "d": "z zakresu regulacji energetyki"
     },
-    "correct_answers": ["b"]
+    "correct_answers": ["c"]
   },
   {
-    "id": 184,
-    "text": "W przypadku jeżeli beneficjent nie zgadza się ze stwierdzeniem wystąpienia nieprawidłowości indywidualnej może:",
+    "id": 181,
+    "text": "Skutkami procesowymi wniesienia pozwu są:",
     "options": {
-      "a": "wnieść zarzut na postanowienie",
-      "b": "zgłosić umotywowane zastrzeżenia",
-      "c": "wnieść skargę do WSA w wyniku bezskuteczności zarzutu",
-      "d": "wnieść odwołanie od decyzji administracyjnej"
-    },
-    "correct_answers": ["b"]
-  },
-  {
-    "id": 185,
-    "text": "Środki UE podlegają zwrotowi wraz z odsetkami w wysokości jak dla zaległości podatkowych, gdy są wykorzystane niezgodnie z:",
-    "options": {
-      "a": "przeznaczeniem",
-      "b": "procedurami określonymi w umowie międzynarodowej lub innymi procedurami obowiązującymi przy ich wykorzystaniu",
-      "c": "decyzją mocą której orzeczono obowiązek ich zwrotu",
-      "d": "uchwałą zarządu województwa"
-    },
-    "correct_answers": ["a", "b"]
-  },
-  {
-    "id": 186,
-    "text": "Blokowania planowanych wydatków budżetowych można dokonać w przypadku stwierdzenia:",
-    "options": {
-      "a": "niegospodarności w określonych jednostkach",
-      "b": "nadmiaru posiadanych środków",
-      "c": "opóźnień w realizacji zadań",
-      "d": "niedoboru posiadanych środków",
-      "e": "terminowej realizacji zadań publicznych"
-    },
-    "correct_answers": ["a", "b", "c"]
-  },
-  {
-    "id": 187,
-    "text": "Państwowy fundusz celowy posiada:",
-    "options": {
-      "a": "Możliwość tworzenia państwowych jednostek budżetowych",
-      "b": "Prawo otrzymania dotacji z budżetu państwa",
-      "c": "Rozbudowaną strukturę organizacyjną z wieloosobowym zarządem",
-      "d": "Wyodrębniony rachunek bankowy"
+      "a": "powstanie stanu zawisłości sporu",
+      "b": "utrwalenie jurysdykcji sądu polskiego",
+      "c": "podmiotowa stabilizacja postępowania",
+      "d": "utrwalenie właściwości rzeczowej i miejscowej"
     },
     "correct_answers": ["b", "d"]
   },
   {
-    "id": 188,
-    "text": "W planie finansowym zakładu budżetowego:",
+    "id": 182,
+    "text": "Skarga o stwierdzenie niezgodności z prawem prawomocnego orzeczenia:",
     "options": {
-      "a": "mogą być dokonywane zmiany w ciągu roku w przypadku realizowania wyższych od planowanych przychodów i kosztów",
-      "b": "mogą być dokonywane zmiany pod warunkiem, że nie spowoduje to zmniejszenia wpłat do budżetu ani zwiększenia dotacji",
-      "c": "mogą być dokonywane wszelkie zmiany",
-      "d": "nie mogą być dokonywane zmiany"
+      "a": "jest nadzwyczajnym środkiem zaskarżenia wyroku II instancji",
+      "b": "nie ma charakteru subsydiarnego",
+      "c": "ma charakter subsydiarny",
+      "d": "wyrok SN nie stanowi przesłanki odpowiedzialności SP"
     },
-    "correct_answers": ["a", "b"]
+    "correct_answers": ["a", "c"]
+  },
+  {
+    "id": 183,
+    "text": "Postępowanie nieprocesowe:",
+    "options": {
+      "a": "nie może być wszczęte z urzędu",
+      "b": "nie jest alternatywnym trybem rozstrzygania spraw",
+      "c": "jest właściwym trybem dla stwierdzenia nabycia spadku",
+      "d": "jest regulowane przez przepisy szczególne i ogólne"
+    },
+    "correct_answers": ["c", "d"]
+  },
+  {
+    "id": 184,
+    "text": "Skarga nadzwyczajna:",
+    "options": {
+      "a": "nie może być oparta na zarzutach rozpoznawanych w skardze kasacyjnej",
+      "b": "nie jest dopuszczalna przy sprzeczności ustaleń z dowodami",
+      "c": "jest dopuszczalna gdy orzeczenie nie może być uchylone inaczej",
+      "d": "może być wniesiona w terminie 10 lat"
+    },
+    "correct_answers": ["a", "c"]
+  },
+  {
+    "id": 185,
+    "text": "Nadanie klauzuli wykonalności:",
+    "options": {
+      "a": "jest możliwe do orzeczeń prawomocnych",
+      "b": "jest możliwe gdy termin świadczenia już nadszedł",
+      "c": "należy do kompetencji komornika",
+      "d": "służy ochronie osoby trzeciej przez zwolnienie przedmiotu"
+    },
+    "correct_answers": []
+  },
+  {
+    "id": 186,
+    "text": "Interwencja uboczna:",
+    "options": {
+      "a": "może być zgłoszona tylko w pierwszej instancji",
+      "b": "może być zgłoszona ustnie w postępowaniu zwykłym",
+      "c": "wymaga udowodnienia interesu prawnego",
+      "d": "może być skutkiem przypozwania"
+    },
+    "correct_answers": ["b", "d"]
+  },
+  {
+    "id": 187,
+    "text": "Zwrot pozwu:",
+    "options": {
+      "a": "jest skutkiem powagi rzeczy osądzonej",
+      "b": "następuje w postaci postanowienia sądu",
+      "c": "ma postać zarządzenia przewodniczącego lub referendarza",
+      "d": "może nastąpić po doręczeniu odpisu pozwanemu"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 188,
+    "text": "Cofnięcie pozwu:",
+    "options": {
+      "a": "jest dopuszczalne do rozpoczęcia rozprawy",
+      "b": "jeżeli jest skuteczne prowadzi do umorzenia postępowania",
+      "c": "nie podlega kontroli sądu",
+      "d": "żadna z powyższych"
+    },
+    "correct_answers": ["b"]
   },
   {
     "id": 189,
-    "text": "Do rozchodów publicznych zalicza się środki przeznaczone na:",
+    "text": "Postanowienie dowodowe:",
     "options": {
-      "a": "Spłaty otrzymanych pożyczek i kredytów",
-      "b": "Wykup obligacji skarbowych",
-      "c": "Pomoc społeczną",
-      "d": "Prowadzenie publicznej działalności gospodarczej"
+      "a": "nie podlega uzasadnieniu",
+      "b": "może być wydane wyłącznie na rozprawie",
+      "c": "jest zaskarżalne odwołaniem",
+      "d": "może być zmienione lub uchylone przez sąd"
     },
-    "correct_answers": ["a", "b"]
+    "correct_answers": ["d"]
   },
   {
     "id": 190,
-    "text": "Źródłami dochodów własnych gminy są wpływy z:",
+    "text": "W postępowaniu cywilnym:",
     "options": {
-      "a": "Podatku od spadków i darowizn",
-      "b": "Podatku od nieruchomości",
-      "c": "Podatku od towarów i usług",
-      "d": "Podatku akcyzowego",
-      "e": "Podatku od czynności cywilnoprawnych"
+      "a": "nie można zaprzeczać dokumentom urzędowym",
+      "b": "katalog środków dowodowych jest zamknięty",
+      "c": "obowiązuje zasada swobodnej oceny dowodów",
+      "d": "sąd dopuszcza dowody z urzędu"
     },
-    "correct_answers": ["a", "b", "e"]
+    "correct_answers": ["c", "d"]
   },
   {
     "id": 191,
-    "text": "Zakaz funduszowania stanowi przejaw obowiązywania zasady:",
+    "text": "Dowodem z opinii biegłego:",
     "options": {
-      "a": "zupełności budżetu",
-      "b": "Szczegółowości budżetu",
-      "c": "Jedności materialnej budżetu",
-      "d": "Jedności formalnej budżetu",
-      "e": "Przejrzystości budżetu",
-      "f": "Równowagi budżetowej"
+      "a": "można wykazywać treść obcego prawa",
+      "b": "może być opinia prywatna",
+      "c": "może być opinia z zlecenia sądu w sprawie karnej",
+      "d": "musi być sporządzona przez osobę z wyższym wykształceniem"
     },
     "correct_answers": ["c"]
   },
   {
     "id": 192,
-    "text": "Zgodnie z ustawą o finansach publicznych minister:",
+    "text": "Przedwczesność powództwa (brak wymagalności):",
     "options": {
-      "a": "Nadaje tworzonej przez siebie jednostce budżetowej osobowość prawną",
-      "b": "Nadaje tworzonej przez siebie jednostce budżetowej statut",
-      "c": "Likwidując jednostkę budżetową określa przeznaczenia mienia",
-      "d": "Tworząc państwową jednostkę budżetową nie może wyposażyć jej w mienie Skarbu Państwa"
+      "a": "w chwili wszczęcia skutkuje odrzuceniem",
+      "b": "w chwili wszczęcia skutkuje zawieszeniem",
+      "c": "w chwili zamknięcia rozprawy skutkuje oddaleniem",
+      "d": "jest przesłanką nieważności"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 193,
+    "text": "Zarzut powagi rzeczy osądzonej:",
+    "options": {
+      "a": "jest zarzutem merytorycznym",
+      "b": "jest zarzutem procesowym",
+      "c": "jego uwzględnienie skutkuje oddaleniem powództwa",
+      "d": "jego uwzględnienie skutkuje zawieszeniem"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 194,
+    "text": "Prawdziwe jest stwierdzenie dotyczące pełnomocnictwa:",
+    "options": {
+      "a": "pełnomocnikiem może być wyłącznie adwokat",
+      "b": "rozwód wymaga pełnomocnictwa szczególnego",
+      "c": "ugoda wymaga pełnomocnictwa szczególnego",
+      "d": "pełnomocnikiem może być współuczestnik"
     },
     "correct_answers": ["b", "c"]
   },
   {
-    "id": 193,
-    "text": "W toku wykonywania budżetu zarząd może dokonywać zmian w planie dochodów i wydatków JST polegających na zmianach planu:",
+    "id": 195,
+    "text": "Prawdziwe jest stwierdzenie dotyczące rozprawy:",
     "options": {
-      "a": "Dochodów i wydatków związanych ze zmianą kwot lub uzyskaniem dotacji przekazywanych z budżetu państwa lub innych JST",
-      "b": "Wydatków samorządowych osób prawnych w ramach części",
-      "c": "Dochodów JST wynikających ze zmian kwot subwencji w wyniku podziału rezerw subwencji ogólnej",
-      "d": "Dochodów i wydatków JST związanych ze zwrotem dotacji otrzymanych z budżetu państwa lub innych JST"
-    },
-    "correct_answers": ["a", "c", "d"]
-  },
-  {
-    "id": 194,
-    "text": "Rada Ministrów przedstawia Sejmowi i NIK roczne sprawozdanie z wykonywania budżetu w terminie do:",
-    "options": {
-      "a": "31 marca",
-      "b": "31 maja",
-      "c": "30 września",
-      "d": "31 grudnia"
+      "a": "wstęp mają tylko osoby wezwane",
+      "b": "wstęp mają osoby pełnoletnie i nieuzbrojone",
+      "c": "postanowienie niejawne jest ogłaszane publicznie",
+      "d": "na niejawne mają wstęp strony i pełnomocnicy"
     },
     "correct_answers": ["b"]
-  },
-  {
-    "id": 195,
-    "text": "Subwencja ogólna dla JST jest ustalana w oparciu o potrzeby:",
-    "options": {
-      "a": "Wyrównawcze",
-      "b": "Oświatowe",
-      "c": "Rozwojowe",
-      "d": "Ekologiczne",
-      "e": "Uzupełniające"
-    },
-    "correct_answers": ["a", "b", "c", "d", "e"]
   },
   {
     "id": 196,
-    "text": "Samorządowy zakład budżetowy może otrzymać z budżetu JST:",
+    "text": "Immunitet sądowy:",
     "options": {
-      "a": "dotacje przedmiotowe",
-      "b": "dotacje celowe na zadania bieżące finansowane z udziałem środków UE",
-      "c": "dotacje celowe na finansowanie kosztów inwestycji",
-      "d": "dotacje podmiotowe"
+      "a": "skutkuje oddaleniem powództwa",
+      "b": "skutkuje zawieszeniem",
+      "c": "skutkuje odrzuceniem pozwu albo umorzeniem",
+      "d": "uwzględniany jest wyłącznie na zarzut"
     },
-    "correct_answers": ["a", "b", "c"]
+    "correct_answers": ["c"]
   },
   {
     "id": 197,
-    "text": "Budżet środków europejskich jest elementem konstrukcyjnym ustawy budżetowej i nie stanowi odrębnego aktu prawnego.",
+    "text": "Przypozwanie:",
     "options": {
-      "a": "Prawda",
-      "b": "Fałsz"
+      "a": "polega na wezwaniu osoby w charakterze pozwanego",
+      "b": "jest dopuszczalne w apelacyjnym",
+      "c": "wyklucza zarzut wadliwego prowadzenia procesu",
+      "d": "jest dopuszczalne w nieprocesowym"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 198,
+    "text": "Zasadą jest, że według k.p.c.:",
+    "options": {
+      "a": "rozpoznanie sprawy następuje po rozprawie",
+      "b": "postanowienie może nastąpić na niejawnym",
+      "c": "sąd jest związany wnioskiem o odroczenie",
+      "d": "z rozprawy sporządza się protokół elektroniczny"
+    },
+    "correct_answers": ["a", "b", "d"]
+  },
+  {
+    "id": 199,
+    "text": "Zmiana powództwa:",
+    "options": {
+      "a": "w alimentach może być ustnie na rozprawie",
+      "b": "wymaga formy pisma procesowego",
+      "c": "jest dopuszczalna w kasacyjnym",
+      "d": "wymaga zgody pozwanego"
+    },
+    "correct_answers": ["a", "b"]
+  },
+  {
+    "id": 200,
+    "text": "Jeżeli sąd nie orzekł o całości żądania:",
+    "options": {
+      "a": "można wnieść apelację co do pominiętej części",
+      "b": "strona może wnieść o uzupełnienie wyroku",
+      "c": "sąd nie może uzupełnić z urzędu",
+      "d": "powód może dochodzić części w osobnym procesie"
+    },
+    "correct_answers": ["b", "d"]
+  },
+  {
+    "id": 201,
+    "text": "Nieważność postępowania zachodzi, jeżeli:",
+    "options": {
+      "a": "w sprawie o alimenty w I instancji orzekał sąd rejonowy w składzie 3 sędziów zawodowych",
+      "b": "sąd rejonowy orzekł rozwód",
+      "c": "jeżeli o to samo roszczenie między tymi samymi stronami toczy się sprawa wcześniej wszczęta",
+      "d": "istniały podstawy do złożenia wniosku o wyłączenie sędziego"
+    },
+    "correct_answers": ["b", "c"]
+  },
+  {
+    "id": 202,
+    "text": "W odniesieniu do powództwa o świadczenie prawdziwe jest twierdzenie, że:",
+    "options": {
+      "a": "może zawierać żądanie zawierające upoważnienie przemienne",
+      "b": "wymaga wskazania w pozwie interesu prawnego",
+      "c": "wyrok je uwzględniający nie nadaje się do wykonania w drodze egzekucji",
+      "d": "wyrok je uwzględniający ma co do zasady charakter konstytutywny"
     },
     "correct_answers": ["a"]
   },
   {
-    "id": 198,
-    "text": "Jednostki budżetowe prowadzą gospodarkę finansową w oparciu o:",
+    "id": 203,
+    "text": "W odniesieniu do powództwa o ustalenie istnienia stosunku prawnego prawdziwe jest stwierdzenie, że:",
     "options": {
-      "a": "Bilans zysków i strat",
-      "b": "Plan dochodów i wydatków",
-      "c": "Uchwałę o podziale zysku",
-      "d": "Zatwierdzone faktury"
+      "a": "brak interesu prawnego w ustaleniu powoduje oddalenie powództwa",
+      "b": "jego przykładem jest powództwo o rozwód",
+      "c": "jego przykładem jest powództwo o unieważnienie umowy z tytułu wyzysku",
+      "d": "jego przykładem jest powództwo o ustalenie ojcostwa"
+    },
+    "correct_answers": ["a", "d"]
+  },
+  {
+    "id": 204,
+    "text": "Brakiem formalnym pisma procesowego kolejnego w sprawie jest:",
+    "options": {
+      "a": "brak wskazania adresu strony",
+      "b": "brak wskazania wartości przedmiotu sporu",
+      "c": "brak sygnatury",
+      "d": "brak numeru PESEL powoda"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 205,
+    "text": "Prawdziwe jest stwierdzenie dotyczące jawności rozpraw:",
+    "options": {
+      "a": "na posiedzenia niejawne mają wstęp strony i pełnomocnicy",
+      "b": "postanowienie wydane na posiedzeniu niejawnym jest ogłaszane publicznie",
+      "c": "na rozprawę poza stronami, przedstawicielami ustawowymi i pełnomocnikami mają wstęp osoby pełnoletnie i nieuzbrojone",
+      "d": "na rozprawę poza stronami mają wstęp tylko osoby wezwane"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 206,
+    "text": "Przywrócenie terminu:",
+    "options": {
+      "a": "jest zaskarżalne zażaleniem poziomym",
+      "b": "wymaga uprawdopodobnienia okoliczności uzasadniających wniosek",
+      "c": "może nastąpić również bez wniosku strony (z urzędu)",
+      "d": "wymaga udowodnienia okoliczności uzasadniających wniosek"
+    },
+    "correct_answers": ["a", "b"]
+  },
+  {
+    "id": 207,
+    "text": "Termin sądowy:",
+    "options": {
+      "a": "jest wyznaczany przez sąd lub przewodniczącego",
+      "b": "jest terminem instrukcyjnym",
+      "c": "wynika z ustawy",
+      "d": "nie może być przedłużony"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 208,
+    "text": "Termin ustawowy:",
+    "options": {
+      "a": "może być przedłużony przez sąd",
+      "b": "nie może być przywrócony przez sąd",
+      "c": "może być terminem instrukcyjnym",
+      "d": "jest wyznaczany przez sąd lub przewodniczącego"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 209,
+    "text": "Zwrot pozwu:",
+    "options": {
+      "a": "może nastąpić po doręczeniu odpisu pozwu pozwanemu",
+      "b": "ma postać zarządzenia przewodniczącego lub referendarza sądowego",
+      "c": "następuje w postaci postanowienia sądu",
+      "d": "jest skutkiem podniesienia zarzutu powagi rzeczy osądzonej"
     },
     "correct_answers": ["b"]
   },
   {
-    "id": 199,
-    "text": "Rezerwa budżetowa jest ujmowana w budżecie państwa w odrębnej części.",
+    "id": 210,
+    "text": "Skutkiem materialnoprawnym wytoczenia powództwa jest:",
     "options": {
-      "a": "Prawda",
-      "b": "Fałsz"
+      "a": "utrwalenie właściwości",
+      "b": "stan sprawy w toku",
+      "c": "przerwa biegu terminu przedawnienia",
+      "d": "wymagalność świadczenia"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 211,
+    "text": "Skutkiem procesowym doręczenia odpisu pozwu jest:",
+    "options": {
+      "a": "wymagalność świadczenia",
+      "b": "ustanie zakazu anatocyzmu",
+      "c": "przerwa biegu terminu przedawnienia",
+      "d": "zawisłość sporu"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 212,
+    "text": "Fakultatywnym wymogiem pozwu jest:",
+    "options": {
+      "a": "dokładnie określone żądanie",
+      "b": "wskazanie faktów, na których powód opiera swoje żądanie",
+      "c": "wniosek o zabezpieczenie roszczenia",
+      "d": "informacja, czy strony podjęły próbę pozasądowego rozwiązania sporu"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 213,
+    "text": "W odniesieniu do powództwa o ukształtowanie prawdziwe jest stwierdzenie, że:",
+    "options": {
+      "a": "nie może zawierać żądania ewentualnego",
+      "b": "jego przykładem jest powództwo o orzeczenie rozwodu",
+      "c": "może być zgłoszone w postępowaniu nieprocesowym",
+      "d": "wyrok je uwzględniający ma co do zasady charakter deklaratoryjny"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 214,
+    "text": "Zmiana powództwa:",
+    "options": {
+      "a": "co do zasady nie wymaga formy pisma procesowego",
+      "b": "w sprawach o odszkodowanie może być dokonana ustnie w obecności pozwanego",
+      "c": "w sprawach o roszczenia alimentacyjne może zostać dokonana ustnie na rozprawie",
+      "d": "w żadnym przypadku nie jest dopuszczalna w postępowaniu apelacyjnym"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 215,
+    "text": "Zasadą jest, że według KPC:",
+    "options": {
+      "a": "rozprawy odbywają się przy drzwiach zamkniętych",
+      "b": "w procesie wydanie postanowienia może nastąpić na posiedzeniu niejawnym",
+      "c": "sąd jest związany zgodnym wnioskiem stron o odroczenie rozprawy",
+      "d": "z rozprawy sporządza się zapisek urzędowy"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 216,
+    "text": "Nieprawdą jest, że według KPC:",
+    "options": {
+      "a": "sąd pierwszej instancji w każdym przypadku jest związany wnioskiem strony o przeprowadzenie rozprawy",
+      "b": "sąd pierwszej instancji nie jest związany wnioskiem powoda o przeprowadzenie rozprawy, jeżeli pozwany uznał powództwo",
+      "c": "jednym z warunków związania sądu wnioskiem o rozprawę jest złożenie go w pierwszym piśmie procesowym",
+      "d": "powództwo oczywiście bezzasadne może zostać oddalone na posiedzeniu niejawnym bez doręczenia odpisu pozwu"
     },
     "correct_answers": ["a"]
   },
   {
-    "id": 200,
-    "text": "Pożyczkowe potrzeby budżetu państwa mogą być sfinansowane przychodami pochodzącymi z:",
+    "id": 217,
+    "text": "Wymogiem formalnym pierwszego pisma procesowego w sprawie nie jest:",
     "options": {
-      "a": "sprzedaży skarbowych papierów wartościowych",
-      "b": "kredytów zaciąganych w bankach",
-      "c": "nadwyżki budżetu środków europejskich",
-      "d": "spłat uprzednio udzielonych pożyczek"
+      "a": "wskazanie numeru PESEL pozwanego",
+      "b": "wskazanie adresów stron",
+      "c": "podpis",
+      "d": "wskazanie numeru PESEL powoda"
     },
-    "correct_answers": ["a", "b", "c", "d"]
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 218,
+    "text": "Prawdziwe jest twierdzenie dotyczące przywrócenia terminu:",
+    "options": {
+      "a": "wniosek o przywrócenie terminu składa się w ciągu tygodnia od ustania przyczyny uchybienia",
+      "b": "przywrócenie terminu wymaga przeprowadzenia rozprawy",
+      "c": "wniosek składa się w ciągu tygodnia od daty uchybienia terminowi",
+      "d": "wymaga udowodnienia, że strona uchybiła terminowi bez własnej winy"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 219,
+    "text": "W odniesieniu do powództwa o ukształtowanie prawdziwe jest stwierdzenie, że:",
+    "options": {
+      "a": "nie może zawierać żądania ewentualnego",
+      "b": "jego przykładem jest domaganie się zapłaty czynszu",
+      "c": "może być zgłoszone wyłącznie przed sądem okręgowym",
+      "d": "wyrok je uwzględniający ma co do zasady charakter konstytutywny"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 220,
+    "text": "W odniesieniu do powództwa o ustalenie istnienia stosunku prawnego prawdziwe jest stwierdzenie:",
+    "options": {
+      "a": "jego przykładem jest powództwo o ustalenie ojcostwa",
+      "b": "jego przykładem jest powództwo o unieważnienie umowy z tytułu wyzysku",
+      "c": "brak interesu prawnego w ustaleniu powoduje odrzucenie pozwu",
+      "d": "jego przykładem jest powództwo o ustalenie nieważności umowy"
+    },
+    "correct_answers": ["a", "d"]
+  },
+  {
+    "id": 221,
+    "text": "Zwrot pozwu:",
+    "options": {
+      "a": "jest zaskarżalny zażaleniem do innego składu sądu I instancji",
+      "b": "może nastąpić przed sądem II instancji",
+      "c": "jest skutkiem braku zdolności sądowej strony",
+      "d": "może być konsekwencją nieuzupełnienia braku fiskalnego"
+    },
+    "correct_answers": ["a", "d"]
+  },
+  {
+    "id": 222,
+    "text": "Fakultatywnym wymogiem pozwu jest:",
+    "options": {
+      "a": "wniosek o zabezpieczenie dowodu",
+      "b": "dokładne określenie żądania",
+      "c": "w sprawach o prawa majątkowe wskazanie wartości przedmiotu sporu",
+      "d": "informacja, czy strony podjęły próbę pozasądowego rozwiązania sporu"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 223,
+    "text": "W odniesieniu do powództwa o świadczenie prawdziwe jest stwierdzenie, że:",
+    "options": {
+      "a": "nie może zawierać żądania ewentualnego",
+      "b": "wymaga wskazania podstawy prawnej żądania",
+      "c": "wyrok je uwzględniający nie nadaje się do wykonania w drodze egzekucji",
+      "d": "wyrok je uwzględniający ma co do zasady charakter deklaratoryjny"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 224,
+    "text": "Nieprawdą jest, że rozszerzenie żądania:",
+    "options": {
+      "a": "wymaga zgody pozwanego",
+      "b": "w sprawach o roszczenia alimentacyjne może zostać dokonane ustnie na rozprawie",
+      "c": "powinno zostać dokonane w piśmie procesowym spełniającym wymogi formalne pozwu",
+      "d": "w postępowaniu apelacyjnym w sprawach o świadczenia powtarzające się może polegać na rozszerzeniu o dalsze okresy"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 225,
+    "text": "Zasadą jest, że według k.p.c.:",
+    "options": {
+      "a": "sąd jest związany zgodnym wnioskiem stron o odroczenie",
+      "b": "rozprawy odbywają się przy drzwiach zamkniętych",
+      "c": "w procesie wydanie postanowienia może nastąpić na posiedzeniu niejawnym",
+      "d": "z rozprawy sporządza się notatkę urzędową"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 226,
+    "text": "Nieprawdą jest, że według k.p.c.:",
+    "options": {
+      "a": "sąd pierwszej instancji nie jest związany wnioskiem powoda o rozprawę, jeżeli pozwany uznał powództwo",
+      "b": "sąd pierwszej instancji w każdym przypadku jest związany wnioskiem strony o przeprowadzenie rozprawy",
+      "c": "jednym z warunków związania sądu wnioskiem o rozprawę jest złożenie go w pierwszym piśmie procesowym",
+      "d": "powództwo oczywiście bezzasadne może zostać oddalone na posiedzeniu niejawnym bez doręczania odpisu pozwu"
+    },
+    "correct_answers": ["b"]
   }
 ]
